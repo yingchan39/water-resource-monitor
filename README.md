@@ -14,10 +14,10 @@
 - 前端同時支援 **瀏覽器端即時直連立法院開放資料 API (`v2.ly.govapi.tw`)** 與即時新聞代理檢索，即使在純靜態 GitHub Pages 環境下點擊「立即抓取最新」或輸入自訂關鍵字也能即時查詢。
 
 ### 啟用步驟
-1. 將本專案推送至您的 GitHub 儲存庫（Repository）。
-2. 前往該 GitHub Repository 的 **Settings → Pages**。
-3. 在 **Build and deployment → Source** 選擇 **`GitHub Actions`**。
-4. Actions 將自動完成建置並發布網站至 `https://<您的帳號>.github.io/<儲存庫名稱>/`。
+1. 本專案已內建自動產生並持續更新 `gh-pages` 分支之 GitHub Actions。
+2. 前往 GitHub Repository 的 **Settings → Pages**。
+3. 在 **Build and deployment → Source** 確認為 **`Deploy from a branch`**，分支選擇 **`gh-pages` / `/ (root)`** 並點擊 **Save**。
+4. 網站將發布至 `https://yingchan39.github.io/water-resource-monitor/`，且每 2 小時自動同步最新資料。
 
 ---
 
