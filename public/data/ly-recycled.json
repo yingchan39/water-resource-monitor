@@ -1,34 +1,321 @@
 {
-  "keyword": "水資源 再生水",
-  "fetchedAt": "2026-11-26T01:48:03.638Z",
-  "total": 129,
+  "keyword": "水資源+再生水",
+  "keywords": [
+    "水資源",
+    "再生水"
+  ],
+  "mode": "or",
+  "fetchedAt": "2026-11-26T03:52:57.924Z",
+  "total": 258,
   "counts": {
-    "all": 129,
-    "official": 50,
-    "bill": 18,
-    "interpellation": 37,
-    "press": 24
+    "all": 258,
+    "official": 134,
+    "bill": 0,
+    "interpellation": 39,
+    "press": 85
   },
   "sources": [
     {
-      "name": "立法院議案／法案",
-      "count": 20
-    },
-    {
       "name": "立法院質詢發言與公報",
-      "count": 37
+      "count": 40
     },
     {
       "name": "立法院官網與研究報告",
-      "count": 54
+      "count": 200
     },
     {
       "name": "立法院新聞稿與國會動態",
-      "count": 29
+      "count": 98
     }
   ],
   "errors": [],
   "items": [
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "Untitled",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNS2c2bGVGRjNUaGV2dGU4dkpMN2Q0SFZSZFJVNl9xdnQzMzNzaTB3dk9YZUJScUtXM3gwakh3QmhFdGtMc04tVU04MXdXTk5kVjBzRUhPRWFWeUEtOUdqa0NEUDJhNG5hYllwS01XeG9NbDdGd1E?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-25T11:41:38.000Z",
+      "timestamp": 1795606898000,
+      "matchedKeywords": [
+        "水資源",
+        "再生水"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "快新聞／陳春暖赴立院爭取卓蘭水資源改善 中央三大水利單位齊聚協商",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05LWxlMzNheGprMDRud3RobDZhVWtmYlg3R0tQTGNwRUJ1MlJ5TW50TzY5T2ExNlZkZHpTWHVlTHRYVHNmSTJMMlFTNDh1Ym91V3FXQk9aLUw2dXJTSndmcg?oc=5",
+      "source": "國會動態・民視新聞網",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-24T07:57:55.000Z",
+      "timestamp": 1795507075000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "陳春暖赴立院爭取卓蘭水資源改善 中央三大水利單位齊聚協商",
+      "link": "https://tw.news.yahoo.com/%E9%99%B3%E6%98%A5%E6%9A%96%E8%B5%B4%E7%AB%8B%E9%99%A2%E7%88%AD%E5%8F%96%E5%8D%93%E8%98%AD%E6%B0%B4%E8%B3%87%E6%BA%90%E6%94%B9%E5%96%84-%E4%B8%AD%E5%A4%AE%E4%B8%89%E5%A4%A7%E6%B0%B4%E5%88%A9%E5%96%AE%E4%BD%8D%E9%BD%8A%E8%81%9A%E5%8D%94%E5%95%86-075755528.html",
+      "source": "國會動態・Yahoo奇摩新聞",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "即時中心／顏一軒報導民進黨苗栗縣議員、卓蘭鎮長候選人陳春暖今（24）日前往立法院，在立委沈發惠、協助下與苗栗縣議員羅貴星共同召開「卓蘭整體水資源改善協調會議」，邀集經濟部水利署副署長王藝峰、農業部農田水利署署長蔡昇甫、台灣自來水公司董事長李嘉榮均親自出席，針對水庫回饋金、民生用水及農業灌溉三大議題進行協商。",
+      "publishedAt": "2026-11-23T23:58:00.000Z",
+      "timestamp": 1795478280000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院各委員會公聽會報告影像系統",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd3JqdzJnUGdXWmlpcmlGamotbmFFRGR1Mi1NRWJTcUJoNl82bmhpcWJkQWpuQ3hzS3Q0VEVoekRGZmNNdDdKVmRGTUJQbXhid29TSzZSM1htT0VJSUxOdlZERUtRbHBVTXVRX2JpWU4wRUFsdzE5WlZxeDl2U1pJQnBVWjcyc2JTSzluQ0IzVklrdDZ0NWJpVl9wLVctMmh6UkE?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-23T10:42:25.000Z",
+      "timestamp": 1795430545000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院法律系統",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN1RmdFFWUUdOY1BlcENodkJuWm9lVjBJLTVGYzRlUG4ta2lPMW9vYzFaWXlXUjFqZnZOWGcxd3pBcFI2b0JzdFptTDY3dGRUdDhFUG5ScUpNcGowSEJwcFJwRXRpNkRkZ0FPWFlULWE5Wms0SVhMUmw2dmREbXowQldhVDc1VURqZkN4b0tfSE0xR0xCNzR5Mw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-23T08:07:10.000Z",
+      "timestamp": 1795421230000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "公聽會報告詳目（請點選目次內容調閱原文）",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU09oUnlUM2Ntdm43TWZuc0xKRkY5MnBmQUtZWVhnMHlUZl9xdnRUNHhZeTFUMGRGSzB4dkRkNHJWTHh3N3Z2WXY5S1FYcXJpczJ0TVowb0Z5ZWJHcXNJVUZheVpaNzkzYzlTRlFUZE9XelR6ZmcwNUExOGFUcE13WnFvU1VPM3EyRWg2TXJHT3NzQUJBMmxHOUt0bUJDSTBhTHc?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-23T01:51:52.000Z",
+      "timestamp": 1795398712000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "力挺張啟楷！韓國瑜：阿里山是門戶人要進來",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE56aW5rRUg3SmNZa3BDTUlYbS1Ed0hldVdEcWQ2eTZGUkJFVUtlTk5uYXh4dXpKb0ZzOF9xYmtRSERodw?oc=5",
+      "source": "國會動態・墨新聞-MORE News",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-22T07:15:36.000Z",
+      "timestamp": 1795331736000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "卓榮泰不副署普發2萬元？許宇甄籲表態：不要選前騙票選後翻臉",
+      "link": "https://udn.com/news/story/6656/9894438",
+      "source": "國會動態・聯合新聞網",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "許宇甄說，三讀通過只是第一步，接下來要防止行政院再次用不副署阻擋人民權益。卓榮泰若鐵了心不副署，就應該在11月28日選舉前公開宣布，不要想著選前騙票，選後翻臉。請大家用選票讓政府聽見真正的民意，展現全民支持普發2萬、還稅於民的決心。",
+      "publishedAt": "2026-11-22T04:56:00.000Z",
+      "timestamp": 1795323360000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "目 次 - 立法院法律系統",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZEpwTkVnN0Y1VGdvSW5mNVRDZ0hqTnhGZTJtYloxXzd5dnlubGNrTXJrTXdNb2VPSGlYOGNvVnJvam5OX05VWkZLekEyQUZ3aUFQZkVNdnVfTkE3Z0VCZzNIMlh1eUJYYjAyd0V6TnJzc3hMbFVHU29KQWFYT3NkSkJodnRqYjVkOTBRSkdyVW1mWUxkY2NKaW5iX0U5eXNfem9V?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "目 次 立法院法律系統",
+      "publishedAt": "2026-11-22T00:14:23.000Z",
+      "timestamp": 1795306463000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "內政部所屬(國土管理署及所屬、國家公園署及所屬、建築研究所)、財團法人臺灣營建研究院及台灣建築中心116年度預算評估報告",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZODc4ZldYQUdoRXU1djlSdEFpUk14TmNOSEpLZHdGUTFUaG9oLWZXSzdVbER2Yl9waUYxamt4dnBmd1k2bVBnWV9UWVBiVGcwUUdNWnByV0loWFhZVGVr?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-21T21:13:45.000Z",
+      "timestamp": 1795295625000,
+      "matchedKeywords": [
+        "再生水"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "水資源作業基金116年度預算評估報告",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45Yk5VNWJEWWYwZ1FQX21QRTVRTTlaMWVwSHVLQkp4WVRUd1pFYzBPSV9FRjRsalNSSF9iZk1VampmQUVXUkNZM0RrQ1hSQ2VvUEU4VXU1bC0yRkVVeFY0?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-21T21:13:08.000Z",
+      "timestamp": 1795295588000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "韓國瑜形容雲嘉像「武當派」 挺張啓楷小蝦米戰大鯨魚",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPRkd1cXlfZkJvRm1jSFNDWUcwVDlIRjJmbXJyMjcxV1dodzdicnhhVkhGOEMwUU0tQWhyUjMwemUxM01zMzJ0Rkt4UllmcGtaQVdMREU3dldfRGZiWGw3R2hGZExfYmh6WVZoSGE0M1hQNmM?oc=5",
+      "source": "國會動態・翻爆",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-21T11:14:14.000Z",
+      "timestamp": 1795259654000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院全球資訊網-四、水資源作業基金近5年度勞務業務收支均呈短絀，允宜加強成本控管，審慎評估入園收費標準之合理性，並研謀開源節流措施",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51RE1KVlZzT0d1S0FDd2xwTTRyQWlvdEtLMGt4MkFoZVNrU3JWTHQtdnBGaG90LTIwbjBqbTVWRnAwTzJTdVFVeGoyRkx2aGxXeURkY1BuRVpNTmNmZ0JSNTlyWjFoRzlabnFnOGgzRmQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-21T10:46:49.000Z",
+      "timestamp": 1795258009000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "國家資通安全研究院114年度績效評鑑分析報告",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ucUwwOWVTZUlkaFp2b1M2RVQwa2FtSWRFX3FEQU1NOUdLMUU2SVFSdUlFelk1QXJUZmZCbzZoazNVUENtMTlWc3B4ai1SZFgwRlhFaWdubWN2aGNLb1RlWjBFYlJvaXAwRHc?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-19T10:48:13.000Z",
+      "timestamp": 1795085293000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "批賴瑞隆替光電業者護航國民發言人要求承諾光電退出高雄水庫| 政治",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJYmhwcnZPN3RxN3YwenVYaGgza0hpcVFjZFZEejV0dVNRRE8yMjkxNlREc2RTZTJXbnNQa1BWS3phQlNZZ19IT1E0X2Z5LUdQa29DajNRMkpsNm8?oc=5",
+      "source": "國會動態・Newtalk新聞",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-19T10:19:03.000Z",
+      "timestamp": 1795083543000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "批賴瑞隆替光電業者護航 國民發言人要求承諾光電退出高雄水庫",
+      "link": "https://newtalk.tw/news/view/2026-11-19/1072125",
+      "source": "國會動態・Newtalk新聞",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "近日翡翠水庫是否設置光電板議題引發全台高度關注，國民黨發言人、市議員陳麗娜今(19)日指出，立法院去年修正「光電三法」時，賴瑞隆與民進黨48位立委投下反對票，痛批賴瑞隆在國會反對「山坡地、敏感區與水庫水面」環評把關，質詢時更替光電業者護航發聲、憂心增加環評影響綠電發展，甚至在修法時強力推動「新建物強 ...",
+      "publishedAt": "2026-11-19T10:19:00.000Z",
+      "timestamp": 1795083540000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "內政部主管116 年度單位預算案暨附屬單位預算案、 財團法人及行政法人預算案報告",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQdlJKVTRacGhjNVpXeEhmYWpzbmd3bDFzWC12QnlZclN0TnFobzRsRFNNUUhRUzdaTmtPMllUWFdmcE9xRkFPUkg4cGRCeW5ya2RDUFNiLU04SmJpVXBQUkdIOS1XUzZFRFpz?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-18T15:13:54.000Z",
+      "timestamp": 1795014834000,
+      "matchedKeywords": [
+        "再生水"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "600萬人水源拉警報？羅智強揭沈伯洋反對環評修法：當選恐讓翡翠水庫鋪光電板- 生活新聞",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUW5LRjR6U1RzVmZrRUpoVGxaMzhQdWRiNWYtYnk4WUVPbEtLLUItUUJKWWNFMFBEU2V5UjBSZms4T0cyczBVRXhLd2hQc2IxOUxKZi1WQzlJaGVwcnhOUWF1djctMkMtMlVGRENBMDFwc3R3eDVNS2ZnYkRBOEpkdkg3ck4wUlJV?oc=5",
+      "source": "國會動態・PChome Online 新聞",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-18T01:35:00.000Z",
+      "timestamp": 1794965700000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "600萬人水源拉警報？羅智強揭沈伯洋反對環評修法：當選恐讓翡翠水庫鋪光電板",
+      "link": "https://n.yam.com/Article/20261118405734",
+      "source": "國會動態・蕃新聞",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "隨著台北市長選戰升溫，水資源保護與能源政策成為朝野交鋒焦點。針對翡翠水庫是否設置太陽能光電板引發外界議論，國民黨立委羅智強在臉書發文，點名批評民進黨台北市長候選人沈伯洋及多位民進黨立委。",
+      "publishedAt": "2026-11-18T01:35:00.000Z",
+      "timestamp": 1794965700000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
     {
       "category": "interpellation",
       "categoryLabel": "質詢發言／公報",
@@ -39,7 +326,25 @@
       "proposer": "楊瓊瓔",
       "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期經濟委員會第7次全體委員會議（事由：一、處理或審查115年度中央政府總預算有關農業部及所屬單位預算凍結案等23案。 二、併案審查：（一）行政院函請審議「專利法部分條文修正草案」案。（二）本院委員陳亭妃等17人擬具「專利法部分條文修正草案」案。 【以上各案如有",
       "publishedAt": "2026-11-18T01:00:00.000Z",
-      "timestamp": 1794963600000
+      "timestamp": 1794963600000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "福田再生水工程通水 台中市水利局提升產業供水穩定與城市韌性",
+      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOaW1HWGswMTk4U0RpUDEwcVhpVW1LZzJwd1ZkWW4tN3pLeE83QV91Nk1tZGNwVWNVV3lHc3hRZnVvQVpCQlNKMGd3R1ZWMmhVSXViOGI0UDJZT3N0Qi1pMXM4SDhQSGEwSkFwZWpnTnJab2drSGg1UjFPWGFxSzFjMFQ0WVE3c3pBZW1ZTS1WZmdsX0FiNVcxMkwtNlNxWGljcGo4aEpLWVU0ckxfb01Gb0NTUnRLMXVhQnRmcVRLM3Q5alczSTV1Vk1jbGNMc2U3NHRQT180aWhhZjRyQ3hPNjQ5UnNzajFMZHdQcTRJU3pscGN0ZDFlV3l4WWhQYTZ6R2xmV0szTWtBNDc3Rm1maWI1UkctX21JVXRYc19SLWVRLU5PRWVZcGQ4MUoxRjdGVE5BV2NJN0VUX3ZGQW90WkluWFgzekh5c0RYc0ZrbGQyekROV3QzRGtUcEp2dw?oc=5",
+      "source": "國會動態・獨家報導",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-13T11:26:53.000Z",
+      "timestamp": 1794569213000,
+      "matchedKeywords": [
+        "再生水"
+      ]
     },
     {
       "category": "press",
@@ -51,43 +356,57 @@
       "proposer": "",
       "summary": "",
       "publishedAt": "2026-11-13T08:00:00.000Z",
-      "timestamp": 1794556800000
+      "timestamp": 1794556800000,
+      "matchedKeywords": [
+        "再生水",
+        "水資源"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "中市福田再生水工程正式通水打造城市小水庫穩定產業供水- 政府消息新聞",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMjBSbEh3MFh0aURZR3Q5ZnIxUXlTekw1Zy1iV3JHdXJxRjhEU3cyVVh5Y2VXZ0QzY0VYSXRxMFVXQlRmU2IteGU0dFVubU9sUURWTG4xUU9ZM3lIdDlxaXFRU3lhZS1YVW1oV1hYZzZzTEdjVnFrYVh2cTIyZTg2Z0tQcGpiaW1pcVB3?oc=5",
+      "source": "國會動態・PChome Online 新聞",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-13T07:40:04.000Z",
+      "timestamp": 1794555604000,
+      "matchedKeywords": [
+        "再生水"
+      ]
     },
     {
       "category": "press",
       "categoryLabel": "國會新聞動態",
       "title": "中市福田再生水工程正式通水 打造城市小水庫穩定產業供水",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5JWlJvZjJCcHVaQnBYUzRnTUlnQS1VczR3cmhjb2hscVRKTlFGSXYzQlF2NmE3SllZRjBsTWR5STNDdw?oc=5",
-      "source": "國會動態・墨新聞-MORE News",
-      "meta": "立法院新聞稿與相關報導",
-      "proposer": "",
-      "summary": "",
-      "publishedAt": "2026-11-13T07:40:04.000Z",
-      "timestamp": 1794555604000
-    },
-    {
-      "category": "press",
-      "categoryLabel": "國會新聞動態",
-      "title": "台中福田再生水工程通水 28.4公里管線供台中港工業專區",
-      "link": "https://n.yam.com/Article/20261113277612",
-      "source": "國會動態・蕃新聞",
-      "meta": "立法院新聞稿與相關報導",
-      "proposer": "",
-      "summary": "台中市政府積極推動水資源循環再利用，斥資約41.2億元辦理「福田水資源回收中心放流水回收再利用統包工程」，歷經五年施工，完成全長28.4公里的再生水輸水管線，並於11月13日舉行通水典禮，正式將福田水資源回收中心處理後的放流水進一步淨化為再生水，輸送至台中港工業專區供產業使用。透過再生水替代部分工業用水需求，讓原供工業使用的自來水得以調度供應民生，不僅提升產業供水穩定性，更為城市打造一座永續循環的 ...",
-      "publishedAt": "2026-11-13T06:52:00.000Z",
-      "timestamp": 1794552720000
-    },
-    {
-      "category": "press",
-      "categoryLabel": "國會新聞動態",
-      "title": "中央挹注近38億元打造中臺灣「都市小水庫」 福田水資中心今通水 日供5.8萬噸再生水中央挹注近38億元打造中臺灣「都市小水庫 ...",
-      "link": "https://news.pchome.com.tw/public/moi/20261113/index-79453616025325102016.html",
+      "link": "https://news.pchome.com.tw/public/morenews/20261113/index-79455560459566350016.html",
       "source": "國會動態・PChome Online新聞",
       "meta": "立法院新聞稿與相關報導",
       "proposer": "",
-      "summary": "內政部國土署指出，截至目前，已累計投入臺中市污水下水道建設經費達291.2億元，用戶接管普及率為28.33%、33.5萬餘戶。中央持續攜手臺中市政府推進下水道建設，期盼全民全力支持家戶接管工程，讓這項深埋地下，攸關整體生活環境品質提升的隱形建設，造福更多民眾。",
-      "publishedAt": "2026-11-13T02:16:00.000Z",
-      "timestamp": 1794536160000
+      "summary": "台中市政府積極推動水資源循環再利用，斥資約41.2億元辦理「福田水資源回收中心放流水回收再利用統包工程」，歷經五年施工，完成全長28.4公里的再生水輸水管線，並於今(13)日舉行通水典禮，正式將福田水資源回收中心處理後的放流水進一步淨化為再生水，輸送至台中港工業專區供產業使用。透過再生水替代部分工業用水需求，讓原供工業使用的自來水得以調度供應民生，不僅提升產業供水穩定性，更為城市打造一座永續循環的 ...",
+      "publishedAt": "2026-11-13T07:40:00.000Z",
+      "timestamp": 1794555600000,
+      "matchedKeywords": [
+        "水資源",
+        "再生水"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "財 政部業 務報 告",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYXI1dTZ0M3FwdDJzeml2Tk1zNW9FUzIyOF9Xblg0TkpMTkdWckJrYVlCaUVoRDBQSTdtcE5CdmVTWE8xbUFmME8zWGJaZXdSV1NfYy1Mblk0OWJad3JHOEh3NTE2Tl9JM2VsZjlvd0RpUTJZN0lUTDlsT1VSUXUwWUNDVkdaUko3ZURPTURDM1ZHUQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-10T11:14:04.000Z",
+      "timestamp": 1794309244000,
+      "matchedKeywords": [
+        "再生水"
+      ]
     },
     {
       "category": "interpellation",
@@ -99,7 +418,25 @@
       "proposer": "黃健豪",
       "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期交通委員會第5次全體委員會議（事由：一、處理115年度中央政府總預算關於數位發展部主管預算凍結案計12案。 二、邀請國家通訊傳播委員會列席報告業務概況，並備質詢。 三、審查116年度中央政府總預算案關於國家通訊傳播委員會單位預算。 四、審查116年度中央政府",
       "publishedAt": "2026-11-09T01:00:00.000Z",
-      "timestamp": 1794186000000
+      "timestamp": 1794186000000,
+      "matchedKeywords": [
+        "再生水"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "「減碳植植走」立法院旁登場， 民團與前立委轟：環境部食材碳足跡別再拖！",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOYWJZUzN1UGRpRS1URkR1ckJLbFJmQjUyUjY4SnFBX2xGaFdMVF9XWTl5LUFIVnNta1BKNGh5SVR4TG4xT1l6Ug?oc=5",
+      "source": "國會動態・PeoPo 公民新聞",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-08T08:00:00.000Z",
+      "timestamp": 1794124800000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
       "category": "interpellation",
@@ -111,7 +448,10 @@
       "proposer": "林倩綺",
       "summary": "發言提及：「…Clip…」 ｜ 第11屆第6會期第6次會議（事由：一、對行政院院長施政報告繼續質詢。二、11月6日上午9時至10時為國是論壇時間。三、11月10日下午2時15分至2時30分為處理臨時提案時間。）",
       "publishedAt": "2026-11-06T01:00:00.000Z",
-      "timestamp": 1793926800000
+      "timestamp": 1793926800000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
       "category": "interpellation",
@@ -123,7 +463,85 @@
       "proposer": "林宜瑾",
       "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期教育及文化委員會第8次全體委員會議（事由：一、邀請國家科學及技術委員會主任委員吳誠文列席報告業務概況，並備質詢。 二、審查116年度中央政府總預算案有關國家科學及技術委員會及所屬單位預算案。 三、審查116年度中央政府總預算案有關行政院主管行政院國家科學技術",
       "publishedAt": "2026-11-05T01:00:00.000Z",
-      "timestamp": 1793840400000
+      "timestamp": 1793840400000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "傅崐萁：今年度追加預算盡快在選前處理完",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1OSFN1eERxRGJXOE5QX3JRSUJlXzY4bUZQWVJBcEdNTEVRcGdIRFBlakY4cmg0OUN5RXBQcElEV2g1QQ?oc=5",
+      "source": "國會動態・墨新聞-MORE News",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-10-30T07:00:00.000Z",
+      "timestamp": 1793343600000,
+      "matchedKeywords": [
+        "再生水"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "(六)陳方隅副教授書面意見",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqSTJVMTJDRFV6MUt4UHlZWGJzbkMzbXY5QnBMZkhHZk03U1RQaGowLXcxLXVWZTVPODlqNnk0YmFFeGxkUDV2R2tuclZQOWFsb0dMYmpfYmlCa3hEMklDalRwLWFMaEVJQV9FVlFiUjU?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-10-29T07:00:00.000Z",
+      "timestamp": 1793257200000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "法律案(98)",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdUtDdlpvNkthWTZSVDBvcXFYUEIzd1ZhWDcyRTY1dUZ2NDJqLXByTzhhNXdXeWNYVTlIZGNqNWc3MDNvRnBsV1kxX0s2M253cDBSc1BDTGl3Z0VGOGZBVVFCYWFvQjRmcFBjRDVDYkcySmhDYl94em9xblo4REVSaGFNa2pyeXlfUDAyMVZSUVpfWlk?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-10-24T15:36:33.000Z",
+      "timestamp": 1792856193000,
+      "matchedKeywords": [
+        "再生水"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院第8屆第8會期第13次會議",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZll6Nm9GdVV5c2h2UU9xMmZvOTJXUjRIdkpYN3ZTMF9ic1l1a2FnbVR1NHVxNG5DVVI0TlgyOWkzeW1POE9mc3o5dlA3anFXTmVVci1TVk9vV21JSWtzWVdkd3kxeUdRZnIyYXc3ekhvdW9YS0xWQlI5NElURGFvcTVJSmIwRmstbC1vZXJ2TzFyVG8?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-10-24T15:18:47.000Z",
+      "timestamp": 1792855127000,
+      "matchedKeywords": [
+        "再生水"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "中央補助逾十三億元 安平再生水廠二期擴建動土撐起半導體水網",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TaF9SZXZfYWVqWnZucWdsS3g5Sm9mcVh6VHE5eU04VTVtbXNQU0hKb0hlUEc1VzFFTGNBVHdpMEFGRFlUWUM3cEVwbnEyV2IxUnc?oc=5",
+      "source": "國會動態・蕃新聞",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-10-20T07:00:00.000Z",
+      "timestamp": 1792479600000,
+      "matchedKeywords": [
+        "再生水"
+      ]
     },
     {
       "category": "interpellation",
@@ -135,7 +553,10 @@
       "proposer": "謝衣鳯",
       "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期財政委員會第3次全體委員會議（事由：一、邀請金融監督管理委員會彭主任委員金隆率所屬機關首長暨中央存款保險股份有限公司、監管相關機構有關之財團法人、臺灣證券交易所股份有限公司、臺灣期貨交易所股份有限公司、臺灣集中保管結算所股份有限公司等董事長、總經理列席業務報",
       "publishedAt": "2026-10-19T01:00:00.000Z",
-      "timestamp": 1792371600000
+      "timestamp": 1792371600000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
       "category": "interpellation",
@@ -147,7 +568,55 @@
       "proposer": "陳冠廷",
       "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期經濟委員會第2次全體委員會議（事由：邀請國家發展委員會主任委員列席報告業務概況，並備質詢。【10月14日及15日二天一次會】）",
       "publishedAt": "2026-10-15T01:00:00.000Z",
-      "timestamp": 1792026000000
+      "timestamp": 1792026000000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "嘉義市長黃敏惠卸任動向受關注 議員：立法院副院長是最適合職位",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02MDRLSFRIeXJ1QjVKUnRKS09WSWNmVHN5a1NXbDEzM1ZoS2F2QVJMM09aVlh1eXJUQ1Z1TDZQdFhhbEk4VUtaSXM4YWxMTi1tbC1V0gFYQVVfeXFMUEFWcHk0aGI0dWlQd0hPVUhFT3hXWi02eFN1M1VJYTNUb3d1MDYtY28xUjdJd3FuaWE0VkJrNG11SS1SeEZrUGFXZVJqbHlUanhHTkZkcUFuZA?oc=5",
+      "source": "國會動態・UDN",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-10-14T07:00:00.000Z",
+      "timestamp": 1791961200000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "一０、「六大區域產業及生活圈」計畫所需總經費、辦理期程及各發展區域具體成果效益型指標",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcmg4S0paMFlwcUxHcGs2UFBNOUVUdm5XWllEeU9VWUM3TldaLXgtbV9yaDVyS3duTGJFTnFSMG83d3h6SDUxMW9Oa3puT2JNczMxU0hUM3M0ZmRtalU2VWk1VHBqbDBPSVBZN1VBWk96ZXhVdVZLMXJOT21mS285N2ZPeGpXT05Ya0J1NzNMSnU4MkF5?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-10-06T05:42:53.000Z",
+      "timestamp": 1791265373000,
+      "matchedKeywords": [
+        "再生水"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "行政院長卓榮泰提六大政策主軸籲立院支持2027年度總預算- 財經新聞",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbmhZZ1F4emNteFFTUHpORFBCbmlxc01INnQ0M0NkWFBjdnpaSWp0SmxFeFpNLWJ0RlE4RVAyN0dHY09mU0FvOFFxaDJFaW5IYUlCVmhLNXUxUEZUZEZzTzVGLVllMXo2VWJ5VXBDamJuSy1tcHZDR1RlWlBxem1DcUYza3V6c1BxR01RZg?oc=5",
+      "source": "國會動態・PChome Online 新聞",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-10-02T07:00:00.000Z",
+      "timestamp": 1790924400000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
       "category": "official",
@@ -159,19 +628,11 @@
       "proposer": "",
       "summary": "",
       "publishedAt": "2026-10-01T21:56:26.000Z",
-      "timestamp": 1790891786000
-    },
-    {
-      "category": "press",
-      "categoryLabel": "國會新聞動態",
-      "title": "虎尾園區水資源不是卡關 雲縣府喊話中央攜手拚產業",
-      "link": "https://news.pchome.com.tw/society/hoomedia/20260928/index-79058497568035344002.html",
-      "source": "國會動態・news.pchome",
-      "meta": "立法院新聞稿與相關報導",
-      "proposer": "",
-      "summary": "【互傳媒／記者廖承恩／雲林報導】雲林縣政府今（28）日針對虎尾產業園區遭質疑水資源成為發展關鍵，強調園區每日規劃用水2萬3,900噸，採自來水、再生水雙元供應，其中50%工業用水、約1萬 ...",
-      "publishedAt": "2026-09-28T09:42:00.000Z",
-      "timestamp": 1790588520000
+      "timestamp": 1790891786000,
+      "matchedKeywords": [
+        "水資源",
+        "再生水"
+      ]
     },
     {
       "category": "official",
@@ -183,19 +644,85 @@
       "proposer": "",
       "summary": "",
       "publishedAt": "2026-08-31T13:21:32.000Z",
-      "timestamp": 1788182492000
+      "timestamp": 1788182492000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
-      "category": "bill",
-      "categoryLabel": "議案／法案",
-      "title": "「水土保持法第二十三條、第三十二條及第三十三條條文修正草案」，請審議案。",
-      "link": "https://ppg.ly.gov.tw/ppg/bills/202110204020000/details",
-      "source": "立法院・法律案",
-      "meta": "第11屆 · 第5會期 · 審查完畢",
-      "proposer": "本院台灣民眾黨黨團",
-      "summary": "提案：本院台灣民眾黨黨團 ｜ 進度：審查完畢 ｜ 摘要：本院台灣民眾黨黨團，有鑑於近年國內山坡地非法開發與土石方亂象日益猖獗，特別是高雄大樹、美濃等重要水源保護區域，頻遭不法分子擅自墾殖與傾倒棄土，嚴重威脅國土保安、農地品質、水資源安全及生態韌性。",
-      "publishedAt": "2026-08-11T00:00:00.000Z",
-      "timestamp": 1786406400000
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "韓國瑜主持立法院中元普渡 祈求朝野和諧、議事順利",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wYlR1SDV5MC1Td1FTZFJfN2FrdmRFY3U5MElIOEZlcTBCYXVvZ0NLaEloZWVSVXVCNlRHOXM4RllBNHQ1djNQdFoxT042LS1v0gFWQVVfeXFMT0ZVRXNRRmRDanlSajREamxweG9TdDA5VzhqMjdwakNvcFFQX2xGWkZrOGJrcGh1eE5MSnV5X2RlbHFxUWR5M252Z1VaZXp6eVp2cTdwcWc?oc=5",
+      "source": "國會動態・UDN",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-08-26T07:00:00.000Z",
+      "timestamp": 1787727600000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "國民黨三巨頭 譴責行政院長卓榮泰 以不副署毀憲",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObjNqejhpRnlKTXBwWXh4TnYtYl9aMWNrT2pBaFdBVDVtdWdqbFdZLUxrbHhlTlFBSGlramVVZ3VTNE9NUXBSV3NmVFF0TDhQeUhFcm9sYjVzVE4zdEx5eGJPeWd1WDBtaXFCMGZONGZvc2xkTjdjb1o1UEcxYWZpcVhlcHZTUTZ0OXl0NnJabmtkemMySHFITXRR?oc=5",
+      "source": "國會動態・自立晚報-",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-08-21T07:00:00.000Z",
+      "timestamp": 1787295600000,
+      "matchedKeywords": [
+        "再生水"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "不副署成為打壓立法院多數決工具 執政黨毀憲",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSDJENTl2MVV2YlFGMno0bFpldktzYTJHN0VZNjNJSWVBTm51Y2Z3X2cxSTFiaVRkVWx3V3lseFFVMV9LMXB1dXJyZUkxM2ZnQk5SVk5hRXRJVHhjdE5jWTZnQVpHMFRENUNzNkNXaXFGMW4tRG5lbW5EUy1mMHhxUTdPNlExTkNJa0hMMnBNYnBWdUNUOUJGa2V3?oc=5",
+      "source": "國會動態・自立晚報-",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-08-19T07:00:00.000Z",
+      "timestamp": 1787122800000,
+      "matchedKeywords": [
+        "再生水"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "陳昭姿稱政府擬放寬再生粒料回填土坑 工程會：竹篙湊菜刀",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GMTd4NGFJbHpJV2QycWpzN0RFMHBYNGpXa0lDUXdRSnptTzBqQ2ZNVFhuYTNfQWdBRGNzaHd4LUw5SlI0VXp1MHZ2Z2ZicmlIN1dMcVl5UlZ5bks0RGFBUHhhOTlqRzgwaXfSAW9BVV95cUxQRmpaVjNNVTEzcFpoVHl6SFJHVlg3OXZVeWF2SjRtNjBZLU9WSnB2RG1IdXdrVndCMUtmOGxhc3pEM0x6TUs4NUNheTRXU0szSEJHSjlJTFdvT0t4TXZnS082X2U1dmxSd2hILTNaaEE?oc=5",
+      "source": "國會動態・自由時報",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-08-12T07:00:00.000Z",
+      "timestamp": 1786518000000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "立法院江啟臣副院長款宴「日台友好議員聯盟」會長古屋圭司眾議員偕岐阜縣東濃五市首長訪團一行",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96dEE0LWhEQkViTEdWbTdMMDc2OGhlN1REWHZuZ01IQXh3VlhWTWdmeGFJc0tGREs0OGZnN1M4VHpPTmJRV2ttSTZ4TEVNNEhGQVptMk90dU11ZlM1dzVKR0kzTHdPaWFURWdKOElFZw?oc=5",
+      "source": "國會動態・勁報",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-08-01T07:00:00.000Z",
+      "timestamp": 1785567600000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
       "category": "interpellation",
@@ -207,43 +734,55 @@
       "proposer": "伍麗華Saidhai Tahovecahe",
       "summary": "發言提及：「…我們看到原基法第十九條載明，原住民得在原住民族地區從事以下非營利行為：第一，獵捕野生動物；第二，採集野生植物及菌類；第三，採集礦物及土石；第四，利用水資源。 … 先前我們已經在109年修了槍砲彈藥刀械管制條例，完成了獵槍及零組件的除罪化；也在114年推動修正野保法免予刑罰，只有行政罰；之前我們也利用了水資源的修法，讓水利法能夠免水權登記；在112年我們也修了礦業法…」 ｜ 第11屆第5會期第18次會議（事由：一、討論事項：本院國民黨黨團，建請院會作成決議：「針對『中聯油脂致癌毒油襲台』連環爆事件，國人迄今看不到真相，政府企圖蓋牌，並意欲甩鍋地方政府，爰要求賴卓政府比照103年頂新油事件標準儘速處理，未全面查明流向與真相前，不得讓問題油品重新上架，以",
       "publishedAt": "2026-07-21T01:00:00.000Z",
-      "timestamp": 1784595600000
+      "timestamp": 1784595600000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
-      "category": "interpellation",
-      "categoryLabel": "質詢發言／公報",
-      "title": "經濟委員會第21次會議繼續審查：一、115年度中央政府總預算案附屬單位預算營業部分關於經濟部主管：台灣電力股份有限公司、台灣糖業股份有限公司；二、1…",
-      "link": "https://ppg.ly.gov.tw/ppg/publications/official-gazettes/115/63/01/details",
-      "source": "立法院公報 第115卷第63期",
-      "meta": "第11屆 · 第5會期 · 公報編號 1156301",
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "營養午餐法待審議立法院辦餐盤體驗活動| 政治 | 要聞",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xRzYyTUlGNEdmTFNpelJXUmZvN0RzZ1VUdEdxMmJFQlhqSFFmNXNwdHc2djk0a1M2WGhHMjIwWVdQNnNLTEJVSTdWVkQyTUhj?oc=5",
+      "source": "國會動態・UDN",
+      "meta": "立法院新聞稿與相關報導",
       "proposer": "",
-      "summary": "次會議繼續審查：一、115年度中央政府總預算案附屬單位預算營業部分關於經濟部主管：台灣電力股份有限公司、台灣糖業股份有限公司；二、115年度中央政府總預算案附屬單位預算非營業部分關於經濟部主管：經濟作業基金、水資源作業基金",
-      "publishedAt": "2026-07-15T00:00:00.000Z",
-      "timestamp": 1784073600000
+      "summary": "",
+      "publishedAt": "2026-06-23T07:00:00.000Z",
+      "timestamp": 1782198000000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
-      "category": "bill",
-      "categoryLabel": "議案／法案",
-      "title": "「土石採取法第三條及第十四條條文修正草案」，請審議案。",
-      "link": "https://ppg.ly.gov.tw/ppg/bills/202110213850000/details",
-      "source": "立法院・法律案",
-      "meta": "第11屆 · 第5會期 · 審查完畢",
-      "proposer": "本院委員鄭天財Sra Kacaw等16人",
-      "summary": "提案：本院委員鄭天財Sra Kacaw等16人 ｜ 進度：審查完畢 ｜ 摘要：四、利用水資源。",
-      "publishedAt": "2026-07-03T00:00:00.000Z",
-      "timestamp": 1783036800000
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "遭疑晶片管制力道不足？經長：將與政院、國安單位討論- 上市櫃",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKM1BGRjZINHZaUEdDSEhXZHlCREk2b0wwM29OeG4yenhTbTMzLXk0Nmc3TW45MG1vaWtTVndDYTBHVkZMS2VpdTdTNkVzeWVDSWpTSVU1M2RQQUN6ZkpVZUx0U0dWVS11dVE?oc=5",
+      "source": "國會動態・旺得富理財網",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-06-17T07:00:00.000Z",
+      "timestamp": 1781679600000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
-      "category": "bill",
-      "categoryLabel": "議案／法案",
-      "title": "函，為114年度中央政府總預算附屬單位預算決議，檢送農業科技園區管理中心水資源處理場第3、4期擴建工程作業基金補辦預算檢討改善書面報告，請查照案。",
-      "link": "https://ppg.ly.gov.tw/ppg/bills/311110202750000/details",
-      "source": "立法院・預(決) 算決議案、定期報告",
-      "meta": "第11屆 · 第5會期 · 交付查照",
-      "proposer": "農業部",
-      "summary": "提案：農業部 ｜ 進度：交付查照 ｜ 摘要：農業部函，為114年度中央政府總預算附屬單位預算決議，檢送農業科技園區管理中心水資源處理場第3、4期擴建工程作業基金補辦預算檢討改善書面報告，請查照案。",
-      "publishedAt": "2026-06-23T00:00:00.000Z",
-      "timestamp": 1782172800000
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "循環雙法三讀通過 啟動產業新循環",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fTkFqWHV5OHI0UzFXWHg1b2EtSi1Va0RnZ09BUDVhdkRVNVVJR24tS0xISVNxMVZDSTQ3X3dqQmh5SkVKcGtRVlI0Sy15V0c1Nm40RUVmVEo4clFETU9TQTdtR3Y?oc=5",
+      "source": "國會動態・環境部新聞專區",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-06-17T07:00:00.000Z",
+      "timestamp": 1781679600000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
       "category": "interpellation",
@@ -255,7 +794,10 @@
       "proposer": "賴瑞隆",
       "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第5會期經濟委員會第18次全體委員會議（事由：審查115年度中央政府總預算案附屬單位預算非營業部分關於經濟部主管 ：經濟作業基金、水資源作業基金、經濟特別收入基金及核能發電後端營運基金。(詢答) 【所列預算提案於115年6月25日(星期四)下午5時截止收件】 【6月",
       "publishedAt": "2026-06-17T01:00:00.000Z",
-      "timestamp": 1781658000000
+      "timestamp": 1781658000000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
       "category": "interpellation",
@@ -267,7 +809,10 @@
       "proposer": "葉元之",
       "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第5會期經濟委員會第18次全體委員會議（事由：審查115年度中央政府總預算案附屬單位預算非營業部分關於經濟部主管 ：經濟作業基金、水資源作業基金、經濟特別收入基金及核能發電後端營運基金。(詢答) 【所列預算提案於115年6月25日(星期四)下午5時截止收件】 【6月",
       "publishedAt": "2026-06-17T01:00:00.000Z",
-      "timestamp": 1781658000000
+      "timestamp": 1781658000000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
       "category": "interpellation",
@@ -279,7 +824,10 @@
       "proposer": "楊瓊瓔",
       "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第5會期經濟委員會第18次全體委員會議（事由：審查115年度中央政府總預算案附屬單位預算非營業部分關於經濟部主管 ：經濟作業基金、水資源作業基金、經濟特別收入基金及核能發電後端營運基金。(詢答) 【所列預算提案於115年6月25日(星期四)下午5時截止收件】 【6月",
       "publishedAt": "2026-06-17T01:00:00.000Z",
-      "timestamp": 1781658000000
+      "timestamp": 1781658000000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
       "category": "interpellation",
@@ -291,7 +839,10 @@
       "proposer": "蔡易餘",
       "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第5會期經濟委員會第18次全體委員會議（事由：審查115年度中央政府總預算案附屬單位預算非營業部分關於經濟部主管 ：經濟作業基金、水資源作業基金、經濟特別收入基金及核能發電後端營運基金。(詢答) 【所列預算提案於115年6月25日(星期四)下午5時截止收件】 【6月",
       "publishedAt": "2026-06-17T01:00:00.000Z",
-      "timestamp": 1781658000000
+      "timestamp": 1781658000000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
       "category": "interpellation",
@@ -303,7 +854,10 @@
       "proposer": "洪孟楷",
       "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第5會期經濟委員會第18次全體委員會議（事由：審查115年度中央政府總預算案附屬單位預算非營業部分關於經濟部主管 ：經濟作業基金、水資源作業基金、經濟特別收入基金及核能發電後端營運基金。(詢答) 【所列預算提案於115年6月25日(星期四)下午5時截止收件】 【6月",
       "publishedAt": "2026-06-17T01:00:00.000Z",
-      "timestamp": 1781658000000
+      "timestamp": 1781658000000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
       "category": "interpellation",
@@ -315,7 +869,10 @@
       "proposer": "邱志偉",
       "summary": "發言提及：「…水資源還沒有時間問。 … 我後面還有水資源，還有產業園區，沒關係，再找個良辰吉時再來問，好，謝謝主席。…」 ｜ 立法院第11屆第5會期經濟委員會第18次全體委員會議（事由：審查115年度中央政府總預算案附屬單位預算非營業部分關於經濟部主管 ：經濟作業基金、水資源作業基金、經濟特別收入基金及核能發電後端營運基金。(詢答) 【所列預算提案於115年6月25日(星期四)下午5時截止收件】 【6月",
       "publishedAt": "2026-06-17T01:00:00.000Z",
-      "timestamp": 1781658000000
+      "timestamp": 1781658000000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
       "category": "interpellation",
@@ -327,7 +884,10 @@
       "proposer": "陳冠廷",
       "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第5會期經濟委員會第18次全體委員會議（事由：審查115年度中央政府總預算案附屬單位預算非營業部分關於經濟部主管 ：經濟作業基金、水資源作業基金、經濟特別收入基金及核能發電後端營運基金。(詢答) 【所列預算提案於115年6月25日(星期四)下午5時截止收件】 【6月",
       "publishedAt": "2026-06-17T01:00:00.000Z",
-      "timestamp": 1781658000000
+      "timestamp": 1781658000000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
       "category": "interpellation",
@@ -339,115 +899,146 @@
       "proposer": "謝衣鳯",
       "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第5會期經濟委員會第18次全體委員會議（事由：審查115年度中央政府總預算案附屬單位預算非營業部分關於經濟部主管 ：經濟作業基金、水資源作業基金、經濟特別收入基金及核能發電後端營運基金。(詢答) 【所列預算提案於115年6月25日(星期四)下午5時截止收件】 【6月",
       "publishedAt": "2026-06-17T01:00:00.000Z",
-      "timestamp": 1781658000000
+      "timestamp": 1781658000000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
       "category": "interpellation",
       "categoryLabel": "質詢發言／公報",
-      "title": "經濟委員會第18次會議審查115年度中央政府總預算案附屬單位預算非營業部分關於經濟部主管：經濟作業基金、水資源作業基金、經濟特別收入基金及核能發電後…",
-      "link": "https://ppg.ly.gov.tw/ppg/publications/official-gazettes/115/52/04/details",
-      "source": "立法院公報 第115卷第52期",
-      "meta": "第11屆 · 第5會期 · 公報編號 1155204",
+      "title": "【鍾佳濱委員發言質詢】第11屆第5會期經濟委員會第18次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/170021",
+      "source": "立法院議事轉播 IVOD・經濟委員會",
+      "meta": "發言委員：鍾佳濱 · 時段：10:52:25 - 11:05:14",
+      "proposer": "鍾佳濱",
+      "summary": "發言提及：「…今天我的題目是「防晶片輸中法規補漏盡速遏止、擴大水費級距以符水資源順位」。 … 水資源開發及維護建設經費都是要供應自來水的嘛！…」 ｜ 立法院第11屆第5會期經濟委員會第18次全體委員會議（事由：審查115年度中央政府總預算案附屬單位預算非營業部分關於經濟部主管 ：經濟作業基金、水資源作業基金、經濟特別收入基金及核能發電後端營運基金。(詢答) 【所列預算提案於115年6月25日(星期四)下午5時截止收件】 【6月",
+      "publishedAt": "2026-06-17T01:00:00.000Z",
+      "timestamp": 1781658000000,
+      "matchedKeywords": [
+        "水資源",
+        "再生水"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "資源循環推動法三讀通過 臺灣正式邁入資源循環新時代",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QN0tmZzRtVUxyV29BR3NPZmtLZkJuNnBySDhYWHUyblBPbkJGaklyUDBOTjNCY1E3N0tDOHJadmlTTWc2aFRxQzIzamstY1I1R21tUlpzZDlsU3pZZXROcm0wRQ?oc=5",
+      "source": "國會動態・環境部新聞專區",
+      "meta": "立法院新聞稿與相關報導",
       "proposer": "",
-      "summary": "經濟委員會第18次會議審查115年度中央政府總預算案附屬單位預算非營業部分關於經濟部主管：經濟作業基金、水資源作業基金、經濟特別收入基金及核能發電後端營運基金（詢答）（115年6月17日、115年6月18",
-      "publishedAt": "2026-06-17T00:00:00.000Z",
-      "timestamp": 1781654400000
+      "summary": "",
+      "publishedAt": "2026-06-02T07:00:00.000Z",
+      "timestamp": 1780383600000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
-      "category": "bill",
-      "categoryLabel": "議案／法案",
-      "title": "函，為114年度中央政府總預算附屬單位預算決議，檢送台水公司「強化水資源自主性與水庫蓄水效能策略」書面報告，請查照案。",
-      "link": "https://ppg.ly.gov.tw/ppg/bills/311110210610000/details",
-      "source": "立法院・預(決) 算決議案、定期報告",
-      "meta": "第11屆 · 第5會期 · 交付查照",
-      "proposer": "經濟部",
-      "summary": "提案：經濟部 ｜ 進度：交付查照 ｜ 摘要：經濟部函，為114年度中央政府總預算附屬單位預算決議，檢送台水公司「強化水資源自主性與水庫蓄水效能策略」書面報告，請查照案。",
-      "publishedAt": "2026-06-09T00:00:00.000Z",
-      "timestamp": 1780963200000
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "立法院經濟委員會考察雲林農經建設 聚焦虎尾與褒忠產業園區推動進度",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB0WkQwODBFaXpjanlYeVl6c2N5SGM3U3dON3hDMEJ1MkhqUkVjTE5ZanFoTjUwWWl4ck41aUNqdFdKZw?oc=5",
+      "source": "國會動態・墨新聞-MORE News",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-06-01T07:00:00.000Z",
+      "timestamp": 1780297200000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
-      "category": "bill",
-      "categoryLabel": "議案／法案",
-      "title": "函，為114年度中央政府總預算附屬單位預算決議，檢送水資源作業基金決議第9項、第16項及新增決議第3項書面報告，請查照案。",
-      "link": "https://ppg.ly.gov.tw/ppg/bills/311110210780000/details",
-      "source": "立法院・預(決) 算決議案、定期報告",
-      "meta": "第11屆 · 第5會期 · 交付查照",
-      "proposer": "經濟部",
-      "summary": "提案：經濟部 ｜ 進度：交付查照 ｜ 摘要：經濟部函，為114年度中央政府總預算附屬單位預算決議，檢送水資源作業基金決議第9項、第16項及新增決議第3項書面報告，請查照案。",
-      "publishedAt": "2026-06-09T00:00:00.000Z",
-      "timestamp": 1780963200000
-    },
-    {
-      "category": "bill",
-      "categoryLabel": "議案／法案",
-      "title": "函，為114年度中央政府總預算附屬單位預算決議，檢送加強再生水及其他節水措施之推動書面報告，請查照案。",
-      "link": "https://ppg.ly.gov.tw/ppg/bills/311110210800000/details",
-      "source": "立法院・預(決) 算決議案、定期報告",
-      "meta": "第11屆 · 第5會期 · 交付查照",
-      "proposer": "經濟部",
-      "summary": "提案：經濟部 ｜ 進度：交付查照 ｜ 摘要：經濟部函，為114年度中央政府總預算附屬單位預算決議，檢送加強再生水及其他節水措施之推動書面報告，請查照案。",
-      "publishedAt": "2026-06-09T00:00:00.000Z",
-      "timestamp": 1780963200000
-    },
-    {
-      "category": "bill",
-      "categoryLabel": "議案／法案",
-      "title": "函，為114年度中央政府總預算附屬單位預算決議，檢送「重大水資源規劃作業計畫與未來水資源經營之展望」書面報告，請查照案。",
-      "link": "https://ppg.ly.gov.tw/ppg/bills/311110210820000/details",
-      "source": "立法院・預(決) 算決議案、定期報告",
-      "meta": "第11屆 · 第5會期 · 交付查照",
-      "proposer": "經濟部",
-      "summary": "提案：經濟部 ｜ 進度：交付查照 ｜ 摘要：經濟部函，為114年度中央政府總預算附屬單位預算決議，檢送「重大水資源規劃作業計畫與未來水資源經營之展望」書面報告，請查照案。",
-      "publishedAt": "2026-06-09T00:00:00.000Z",
-      "timestamp": 1780963200000
-    },
-    {
-      "category": "bill",
-      "categoryLabel": "議案／法案",
-      "title": "函，為114年度中央政府總預算附屬單位預算決議，檢送「強化水資源作業基金成本控管機制」書面報告，請查照案。",
-      "link": "https://ppg.ly.gov.tw/ppg/bills/311110210830000/details",
-      "source": "立法院・預(決) 算決議案、定期報告",
-      "meta": "第11屆 · 第5會期 · 交付查照",
-      "proposer": "經濟部",
-      "summary": "提案：經濟部 ｜ 進度：交付查照 ｜ 摘要：經濟部函，為114年度中央政府總預算附屬單位預算決議，檢送「強化水資源作業基金成本控管機制」書面報告，請查照案。",
-      "publishedAt": "2026-06-09T00:00:00.000Z",
-      "timestamp": 1780963200000
-    },
-    {
-      "category": "bill",
-      "categoryLabel": "議案／法案",
-      "title": "函，為114年度中央政府總預算附屬單位預算決議，檢送「加強再生水及其他節水措施推動」之書面報告，請查照案。",
-      "link": "https://ppg.ly.gov.tw/ppg/bills/311110210840000/details",
-      "source": "立法院・預(決) 算決議案、定期報告",
-      "meta": "第11屆 · 第5會期 · 交付查照",
-      "proposer": "經濟部",
-      "summary": "提案：經濟部 ｜ 進度：交付查照 ｜ 摘要：經濟部函，為114年度中央政府總預算附屬單位預算決議，檢送「加強再生水及其他節水措施推動」之書面報告，請查照案。",
-      "publishedAt": "2026-06-09T00:00:00.000Z",
-      "timestamp": 1780963200000
-    },
-    {
-      "category": "bill",
-      "categoryLabel": "議案／法案",
-      "title": "函，為114年度中央政府總預算附屬單位預算決議，檢送「加強再生水及其他節水措施推動」書面報告，請查照案。",
-      "link": "https://ppg.ly.gov.tw/ppg/bills/311110210850000/details",
-      "source": "立法院・預(決) 算決議案、定期報告",
-      "meta": "第11屆 · 第5會期 · 交付查照",
-      "proposer": "經濟部",
-      "summary": "提案：經濟部 ｜ 進度：交付查照 ｜ 摘要：經濟部函，為114年度中央政府總預算附屬單位預算決議，檢送「加強再生水及其他節水措施推動」書面報告，請查照案。",
-      "publishedAt": "2026-06-09T00:00:00.000Z",
-      "timestamp": 1780963200000
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "立法院經委會考察雲林虎尾、褒忠產業園區 立委張嘉郡等人促中央地方齊心拚發展！",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtQnhwMXhnVzdvMXZlWDN5WTZqaHhLRkhKMm0wV1dHQXFvWXVUdDFyUElWeGJnNmpFMmcwdmV5cThwdk5FWVRmRExCcksyRndxMTBHalFYUDZjeEdmS3NDbVpsaTlnelZnQUsw?oc=5",
+      "source": "國會動態・台灣華報",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-06-01T07:00:00.000Z",
+      "timestamp": 1780297200000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
       "category": "official",
       "categoryLabel": "官網／研究報告",
-      "title": "水資源作業基金114 年度預算評估報告",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLWpBSzFBT1B5TEpKazVyXy1Xc2tqRlZqWnFnLW5BWEpEUXRmaWcwd3VaM3pMU1VtZng3SkE0U0M2VE1fQkJPS2N2UzVJeWV4NS1XMzBtUV94bVFwY3p3NXphMnBacUtPMkVUV3hKVkwzWS1heUpVOEQ5ZkZ5QTZMNmtyMWloMnc0U2thcExyV204eWR3?oc=5",
+      "title": "有鑑於供應民生用水之水庫攸關全民飲用水安全與整體水資源穩定調度",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRzhrYWptaEdRS2wtdU9Wb2dyNW5JblZlZUJNQlN4MlE3N05CRGdRd3dRSDBZNVRPYThEcGpvSllXUU9NbkFMWnhGZ0NKdDZ4Zjd4eFZydC1pT0t1S0FxQ094RnRsV211cmhFalF2dXM4cHpyR1AyR1pYeTlkandMTHNIT0JkZw?oc=5",
       "source": "立法院全球資訊網 (ly.gov.tw)",
       "meta": "立法院官方網站發布",
       "proposer": "",
       "summary": "",
-      "publishedAt": "2026-05-17T11:04:29.000Z",
-      "timestamp": 1779015869000
+      "publishedAt": "2026-05-25T20:24:46.000Z",
+      "timestamp": 1779740686000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【邱志偉委員發言質詢】第11屆第5會期經濟委員會第14次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/169556",
+      "source": "立法院議事轉播 IVOD・經濟委員會",
+      "meta": "發言委員：邱志偉 · 時段：12:18:30 - 12:30:29",
+      "proposer": "邱志偉",
+      "summary": "發言提及：「…再請教你，缺水也是絕對萬萬不可，我過去推動北高雄設立十萬噸的再生水廠，但以前是臨時的，從臺中裝過來一天十萬噸的再生水。 … 再生水是可以喝的，但主要還是提供為產業用水。…」 ｜ 立法院第11屆第5會期經濟委員會第14次全體委員會議（事由：邀請經濟部部長率台灣糖業股份有限公司董事長、農業部部長、行政院災害防救辦公室首長、行政院公共工程委員會首長、內政部首長率國土管理署首長、交通部首長、原住民族委員會首長、財政部國有財產署首長、國軍退除役官兵輔導委員會首長及",
+      "publishedAt": "2026-05-21T01:00:00.000Z",
+      "timestamp": 1779325200000,
+      "matchedKeywords": [
+        "再生水"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【蔡易餘委員發言質詢】第11屆第5會期經濟委員會第14次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/169547",
+      "source": "立法院議事轉播 IVOD・經濟委員會",
+      "meta": "發言委員：蔡易餘 · 時段：11:53:30 - 12:05:06",
+      "proposer": "蔡易餘",
+      "summary": "發言提及：「…署長，因為時間不太夠，我想要跟你聊一下，現在我們嘉義再生水廠的興建，目前評估大概每日的供水量是6,500噸，再生水的來源當然是民生的污水以及溪的截流水，目前嘉義縣普遍接管率還是不足嘛？對。 … 另外，再生水的部分，今年應該會完成招商；119年應該可以供水，但是截流的部分，剛剛委員提到的是納入八掌溪，我們再跟縣政府溝通一下，因為這個部分涉及到水體的水質，有可能在那個位置是感潮段等等的，我們再去評估一下水質…」 ｜ 立法院第11屆第5會期經濟委員會第14次全體委員會議（事由：邀請經濟部部長率台灣糖業股份有限公司董事長、農業部部長、行政院災害防救辦公室首長、行政院公共工程委員會首長、內政部首長率國土管理署首長、交通部首長、原住民族委員會首長、財政部國有財產署首長、國軍退除役官兵輔導委員會首長及",
+      "publishedAt": "2026-05-21T01:00:00.000Z",
+      "timestamp": 1779325200000,
+      "matchedKeywords": [
+        "再生水"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院第11 屆第5 會期程序委員會第10 次會議紀錄",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVTV0d2VMdGNZVll5Zno1VU5FQ2JUOXRIRm1oN29BVDRtT2x5aThLWVAyMERMVmFYOHBSNGZHSzZBZkloTEM4Y3c0VmFsX1F1YkVmclVfWHFvSXFBOUt1MGhRNnI3eWZVbFVIS21UM3NRMERCN3p3aDctQ2dOQS0wSEk0bHNkT010MkJPSGNvM2tGQ2JJYTBqN2RFZEdhUkVQVnFtcVlHTWoyMi1CRHc4ay1BSG8?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-05-19T07:00:00.000Z",
+      "timestamp": 1779174000000,
+      "matchedKeywords": [
+        "再生水"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【蘇巧慧委員發言質詢】第11屆第5會期內政委員會第12次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/169409",
+      "source": "立法院議事轉播 IVOD・內政委員會",
+      "meta": "發言委員：蘇巧慧 · 時段：09:14:01 - 09:24:42",
+      "proposer": "蘇巧慧",
+      "summary": "發言提及：「…謝謝蘇委員的關心，我想蘇委員提供的概念非常好，這些條件我們會來跟行政院表達我們在新北建設上面的立場，但是我也要建議，現在所有的污水下水道系統，我們都會鼓勵要籌設再生水，再生水的好處就是它不一定是拿來飲用 … 你現在在第四項裡面其實有配合推動再生水。對。…」 ｜ 立法院第11屆第5會期內政委員會第12次全體委員會議（事由：一、審查115年度中央政府總預算案關於內政部部分。二、審查115年度中央政府總預算案關於國土管理署及所屬、國家公園署及所屬、建築研究所部分。三、審查115年度中央政府總預算案關於直轄市及縣市政府一般性補助款內政部、國家公",
+      "publishedAt": "2026-05-18T01:00:00.000Z",
+      "timestamp": 1779066000000,
+      "matchedKeywords": [
+        "再生水"
+      ]
     },
     {
       "category": "official",
@@ -459,43 +1050,251 @@
       "proposer": "",
       "summary": "",
       "publishedAt": "2026-05-17T10:20:09.000Z",
-      "timestamp": 1779013209000
+      "timestamp": 1779013209000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
-      "category": "bill",
-      "categoryLabel": "議案／法案",
-      "title": "「社會救助法第五條之一條文修正草案」，請審議案。",
-      "link": "https://ppg.ly.gov.tw/ppg/bills/202110203740000/details",
-      "source": "立法院・法律案",
-      "meta": "第11屆 · 第5會期 · 交付審查",
-      "proposer": "本院委員鄭天財Sra Kacaw等20人",
-      "summary": "提案：本院委員鄭天財Sra Kacaw等20人 ｜ 進度：交付審查 ｜ 摘要：；《原住民保留地禁伐補償條例》第一條規定：「為處理原住民保留地禁伐補償事宜，進而達成維護國土保安、涵養水資源、綠化環境、自然生態保育及因應氣候變遷、減輕天然災害之目標，特制定本條例。」",
-      "publishedAt": "2026-04-14T00:00:00.000Z",
-      "timestamp": 1776124800000
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "水庫見底逼近紅線！台南蓄水跌破18% 陳亭妃怒轟經濟部：珍珠串別淪空談 | 徐炳文 | 地方新聞",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRQnptZHQteW5sb0xXbmNvRHBIZkRWcUpGZEJvbTJMQWcwemwyRmJxd3haLUczcTdpb3E3YXZSbXhZTkVVcktWM2p6M2JKZw?oc=5",
+      "source": "國會動態・風傳媒",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-04-23T07:00:00.000Z",
+      "timestamp": 1776927600000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【邱志偉委員發言質詢】第11屆第5會期經濟委員會第10次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/168801",
+      "source": "立法院議事轉播 IVOD・經濟委員會",
+      "meta": "發言委員：邱志偉 · 時段：10:52:35 - 11:01:41",
+      "proposer": "邱志偉",
+      "summary": "發言提及：「…在10年、5年之後，整個從沙崙到楠梓產業園區都是半導體製造中心，水電絕對不能缺，所以以現有水的容量、水的供應量，即便我們蓋了2個再生水廠，那時候我們一起努力，橋頭還有楠梓再生水廠，對不對？ … 是我爭取的，才有這2座再生水廠，但還是不夠，如果你再往北，未來還有一個路竹產業園區要規劃，未來的海淡廠現在有沒有新的進度？…」 ｜ 立法院第11屆第5會期經濟委員會第10次全體委員會議（事由：一、審查115年度中央政府總預算案關於公平交易委員會單位預算及附屬單位預算非營業部分關於公平交易委員會主管：反托拉斯基金。(詢答) 二、審查： (一) 本院委員伍麗華Saidhai Tahovecahe等17人擬具「土石",
+      "publishedAt": "2026-04-23T01:00:00.000Z",
+      "timestamp": 1776906000000,
+      "matchedKeywords": [
+        "再生水"
+      ]
     },
     {
       "category": "official",
       "categoryLabel": "官網／研究報告",
-      "title": "水資源作業基金113 年度預算評估報告",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV2dnTjB1RUdhSFhJdmkwMk42VFhFSmxrcmJuMVB6SHNXZGx5QWVIVWlzbk9sNTBjQmJCN2hyY3hBdVpNSloydGtDUkl5WW5mNTJTVDFPc3pud05tY2pWRnhCaDMwZkoyc0lORTFqZ2kwOFUxbEJ3RWdWbXJDU0JXaGhWeV82c054UEFzRFZyZDBvdk15?oc=5",
+      "title": "我國氣候變遷調適現況檢討與全球調適目標接軌之推動情形專題報告",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTjFod3FpQXotNkRLNW1hOVFZa0dVRE5jNktEX2dzb2g1YmQzMlRtV0taTjBPZ01LblBzaGZib2tMQzdtNE0ySEk0RDQySE5tcHZfanVVa1Q2RHJqT3ozYkxWcTFwWkRoTklNd19qQ0JoVkZvUWFKTFJoMGVJTndlaXdlN3ZjcGRyckdzWmVON1BaZw?oc=5",
       "source": "立法院全球資訊網 (ly.gov.tw)",
       "meta": "立法院官方網站發布",
       "proposer": "",
       "summary": "",
-      "publishedAt": "2026-03-22T07:03:01.000Z",
-      "timestamp": 1774162981000
+      "publishedAt": "2026-04-22T07:00:00.000Z",
+      "timestamp": 1776841200000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
-      "category": "bill",
-      "categoryLabel": "議案／法案",
-      "title": "函，為114年度中央政府總預算附屬單位預算決議，檢送水資源作業基金「銷貨成本」預算凍結1,000萬元書面報告，請查照案。",
-      "link": "https://ppg.ly.gov.tw/ppg/bills/311110190390000/details",
-      "source": "立法院・預(決) 算決議案、定期報告",
-      "meta": "第11屆 · 第5會期 · 交付處理",
-      "proposer": "經濟部",
-      "summary": "提案：經濟部 ｜ 進度：交付處理 ｜ 摘要：經濟部函，為114年度中央政府總預算附屬單位預算決議，檢送水資源作業基金「銷貨成本」預算凍結1,000萬元書面報告，請查照案。",
-      "publishedAt": "2026-03-10T00:00:00.000Z",
-      "timestamp": 1773100800000
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "張永杰批市府宣傳活動造假 為特定市長參選人變相背書",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FaWJqcHdLV09nM3JqZzFKcWFZU1ZRVE5PRXpMUzJhMGI0QjBDT2ZHcGVDOXVJWEhONEMwTmsxTFAyNDlKM3BMd1hkdW5nRklNdVE?oc=5",
+      "source": "國會動態・中華新聞雲／中華日報",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-04-12T07:00:00.000Z",
+      "timestamp": 1775977200000,
+      "matchedKeywords": [
+        "再生水"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "台積電高雄P6廠還沒蓋 柯志恩、賴瑞隆兩陣營隔空互批不用心",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlTXFqTUJ6d1RQUnZXZFB2VmVXRWVkYjF5YXhiR2Fjc1lvbzYxU2xMUGJjY19aS2lPc2tyZEZZSERCeFJobWdOYk1pVkliN19C0gFWQVVfeXFMTV9WMWZncDFOMUlfVTh2TmVjc1A5QjFkTG5BcFdUbEF1NU5WSHBxeHROZko5REJKWDI2NkQ3RUR3enpwSWxEeHdQZ3B2UFdFa0JEcXdoaWc?oc=5",
+      "source": "國會動態・udn",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-04-09T07:00:00.000Z",
+      "timestamp": 1775718000000,
+      "matchedKeywords": [
+        "再生水"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【吳沛憶委員發言質詢】第11屆第5會期教育及文化委員會第5次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/168252",
+      "source": "立法院議事轉播 IVOD・教育及文化委員會",
+      "meta": "發言委員：吳沛憶 · 時段：11:12:11 - 11:20:52",
+      "proposer": "吳沛憶",
+      "summary": "發言提及：「…我剛才忘了講，還有再生水。是。 … 我們跟各地方政府結合，再生水的使用量現在已經達到四成了。…」 ｜ 立法院第11屆第5會期教育及文化委員會第5次全體委員會議（事由：邀請國家科學及技術委員會主任委員吳誠文列席報告業務概況，並備質詢。）",
+      "publishedAt": "2026-04-08T01:00:00.000Z",
+      "timestamp": 1775610000000,
+      "matchedKeywords": [
+        "再生水"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【柯志恩委員發言質詢】第11屆第5會期教育及文化委員會第5次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/168211",
+      "source": "立法院議事轉播 IVOD・教育及文化委員會",
+      "meta": "發言委員：柯志恩 · 時段：09:28:34 - 09:39:48",
+      "proposer": "柯志恩",
+      "summary": "發言提及：「…當然是，而且最重要的是水跟電的問題，因為那時候為了要友善環境，也符合你剛剛說的永續，所以我們希望能夠運用再生水。 … 但是我們檢視一下，目前整個再生水的層面來說，平均大概日產量是10萬CMD，高雄市政府也推動興建橋頭再生水廠，但是你這樣整個加加減減來說，我說實在的，水這個部分，如果P6再進來的話，真的是用水上會有很大的一個問題喔…」 ｜ 立法院第11屆第5會期教育及文化委員會第5次全體委員會議（事由：邀請國家科學及技術委員會主任委員吳誠文列席報告業務概況，並備質詢。）",
+      "publishedAt": "2026-04-08T01:00:00.000Z",
+      "timestamp": 1775610000000,
+      "matchedKeywords": [
+        "再生水"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【賴瑞隆委員發言質詢】第11屆第5會期經濟委員會第2次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/167471",
+      "source": "立法院議事轉播 IVOD・經濟委員會",
+      "meta": "發言委員：賴瑞隆 · 時段：09:30:16 - 09:39:16",
+      "proposer": "賴瑞隆",
+      "summary": "發言提及：「…再來我請教一下，大南方新矽谷產業相當重要，從水到再生水廠、到電、到各方面都持續在發展中。…」 ｜ 立法院第11屆第5會期經濟委員會第2次全體委員會議（事由：邀請國家發展委員會主任委員列席報告業務概況，並備質詢。）",
+      "publishedAt": "2026-03-16T01:00:00.000Z",
+      "timestamp": 1773622800000,
+      "matchedKeywords": [
+        "再生水"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【謝衣鳯委員發言質詢】第11屆第5會期經濟委員會第2次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/167500",
+      "source": "立法院議事轉播 IVOD・經濟委員會",
+      "meta": "發言委員：謝衣鳯 · 時段：11:04:13 - 11:12:48",
+      "proposer": "謝衣鳯",
+      "summary": "發言提及：「…那下水道或者是污水處理這一塊、再生水廠會嗎？…」 ｜ 立法院第11屆第5會期經濟委員會第2次全體委員會議（事由：邀請國家發展委員會主任委員列席報告業務概況，並備質詢。）",
+      "publishedAt": "2026-03-16T01:00:00.000Z",
+      "timestamp": 1773622800000,
+      "matchedKeywords": [
+        "再生水"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "- IVOD",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QTXJfdjc1X2E2Ui1KdXpEOGM5VEN5aTgtN2x6ek14R2V5R1MxdHA1VUpYUlN3SVVlM3VXNEUxVUdFT08zSnpjVTZmTDYyMmw0T18yTmdR?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-02-26T00:56:43.000Z",
+      "timestamp": 1772067403000,
+      "matchedKeywords": [
+        "再生水"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "吳宗憲協調 中央允增額宜運動處人力",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hbTNDekY5UjZJUTFkMURESVJMenFYdEpOTno0bTRoY29pbzRnZi1vbWlfTUJNTmtNR0pjRlliRmNkYTRVdWxodHBaTkY0MFJUOHc?oc=5",
+      "source": "國會動態・中華新聞雲／中華日報",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-01-30T08:00:00.000Z",
+      "timestamp": 1769760000000,
+      "matchedKeywords": [
+        "再生水"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "Legislative Yuan -改善自來水漏水率之研析",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UbmJ6SFh4ckszUzNFU0xKbkdCdFhwbTdVdE9UNGdhdzhWTEpvaHFFWnNKMUlsajZQeExEb0RRandTYU9ROU1DX01Xb2ZwWEhUc0tIa05GUEFfeDNNd01aVXQ2aUJRemlNOGdmTzZXclJFaTQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-01-26T09:16:17.000Z",
+      "timestamp": 1769418977000,
+      "matchedKeywords": [
+        "再生水"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "張嘉郡關注2億元汰換老舊水管工程 麥寮斗六斗南古坑1557戶受益",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBGY3FBbC1PUkctclhVSnFpQ0JBU2tBNXdxMHBsajM3VkUtWDFLWldjUm1pZmtJSXIwaFB0UkdQUUptY1ZzWU1ibQ?oc=5",
+      "source": "國會動態・台灣民眾電子報",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-01-12T08:00:00.000Z",
+      "timestamp": 1768204800000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【王世堅委員發言質詢】第11屆第4會期財政委員會第17次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/166915",
+      "source": "立法院議事轉播 IVOD・財政委員會",
+      "meta": "發言委員：王世堅 · 時段：11:55:02 - 12:06:51",
+      "proposer": "王世堅",
+      "summary": "發言提及：「…只有國發會，我一直不懂，你們在去年就講了，目前你們掌握的壽險業有興趣在公共建設的，包括離岸風電、再生水廠、海水淡化廠、地下水、下水道等等，你唸了一大堆，你說第一波就有這麼多，這還是你講的欸！…」 ｜ 立法院第11屆第4會期財政委員會第17次全體委員會議（事由：邀請金融監督管理委員會主任委員彭金隆、財政部部長莊翠雲、國家發展委員會副主任委員就「如何引導國內資金擴大參與公共建設及策略性產業」進行專題報告，並備質詢。）",
+      "publishedAt": "2026-01-07T01:00:00.000Z",
+      "timestamp": 1767747600000,
+      "matchedKeywords": [
+        "再生水"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【林思銘委員發言質詢】第11屆第4會期財政委員會第17次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/166897",
+      "source": "立法院議事轉播 IVOD・財政委員會",
+      "meta": "發言委員：林思銘 · 時段：10:56:11 - 11:08:01",
+      "proposer": "林思銘",
+      "summary": "發言提及：「…所以現在最重要的事情是，我們有一個指標型的專案，譬如說，我們規定以後所有的再生水跟海淡廠都一定要走促參，這個大概有八百多億；然後我們在推很多的社會住宅，這個都還在規劃當中，我們以後會採一個大型社會住宅的方式…」 ｜ 立法院第11屆第4會期財政委員會第17次全體委員會議（事由：邀請金融監督管理委員會主任委員彭金隆、財政部部長莊翠雲、國家發展委員會副主任委員就「如何引導國內資金擴大參與公共建設及策略性產業」進行專題報告，並備質詢。）",
+      "publishedAt": "2026-01-07T01:00:00.000Z",
+      "timestamp": 1767747600000,
+      "matchedKeywords": [
+        "再生水"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【賴惠員委員發言質詢】第11屆第4會期財政委員會第17次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/166875",
+      "source": "立法院議事轉播 IVOD・財政委員會",
+      "meta": "發言委員：賴惠員 · 時段：10:07:40 - 10:19:28",
+      "proposer": "賴惠員",
+      "summary": "發言提及：「…跟委員報告，有許多比如像水資源的部分包含海水淡化廠、再生水廠，社會服務包含長照、社宅，以及農業設施的部分，我們都會去強化，然後把案源提出來，增加民間投資的案源。…」 ｜ 立法院第11屆第4會期財政委員會第17次全體委員會議（事由：邀請金融監督管理委員會主任委員彭金隆、財政部部長莊翠雲、國家發展委員會副主任委員就「如何引導國內資金擴大參與公共建設及策略性產業」進行專題報告，並備質詢。）",
+      "publishedAt": "2026-01-07T01:00:00.000Z",
+      "timestamp": 1767747600000,
+      "matchedKeywords": [
+        "水資源",
+        "再生水"
+      ]
     },
     {
       "category": "official",
@@ -507,7 +1306,56 @@
       "proposer": "",
       "summary": "議題研析 立法院全球資訊網",
       "publishedAt": "2026-01-04T12:26:06.000Z",
-      "timestamp": 1767529566000
+      "timestamp": 1767529566000,
+      "matchedKeywords": [
+        "水資源",
+        "再生水"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "資產收歸公有違憲？農民水權向誰討？ 農田水利會改制公聽意見分歧",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83ajFPRTQxTlpzZ2gxZ1ZYQ3pwbDE4T1dMOXZoWkxxcnJuMXpJclJRME44eDgzbkVwWjdmNjgwOXFSUEhaQWQ3VjhobmpmeDF3VVBobw?oc=5",
+      "source": "國會動態・農傳媒",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-01-01T00:23:51.000Z",
+      "timestamp": 1767227031000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "Legislative Yuan -經濟部水利署中區水資源分署一行參觀博物館",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96QXU4OHJJX1NTYjNFYXlGOHdGcFdLUldfN3NPQWhpUE8tbzZCRWo4eFNRWU1xaENEbldpck5yaXFleV9VNEswWmg2WTItR0NON1c2RU9CenBCZXdsbWwwYmZYOUNSQ3F0OTlKeDVRM0JxUQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-12-31T20:56:50.000Z",
+      "timestamp": 1767214610000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "33年來農民福利重大調整 「農保條例」修正三讀通過 保額加倍變2萬4百元",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kVXZHY05taDhfbjM1dVpDQ3Z5Rlo1b2xITXh2UmVBX19YQXR3ZTdMcDJGUk84ZTNFTEhfVTl4M2V6dWsxZXlpbWxYUzdSYmNEMFlWbA?oc=5",
+      "source": "國會動態・農傳媒",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-12-31T08:41:31.000Z",
+      "timestamp": 1767170491000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
       "category": "official",
@@ -519,31 +1367,55 @@
       "proposer": "",
       "summary": "",
       "publishedAt": "2025-12-23T21:10:06.000Z",
-      "timestamp": 1766524206000
+      "timestamp": 1766524206000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
-      "category": "bill",
-      "categoryLabel": "議案／法案",
-      "title": "「國家公園法部分條文修正草案」，請審議案。",
-      "link": "https://ppg.ly.gov.tw/ppg/bills/202110177870000/details",
-      "source": "立法院・法律案",
-      "meta": "第11屆 · 第4會期 · 交付審查",
-      "proposer": "本院委員伍麗華Saidhai Tahovecahe等17人",
-      "summary": "提案：本院委員伍麗華Saidhai Tahovecahe等17人 ｜ 進度：交付審查 ｜ 摘要：一、《原住民族基本法》於民國94年2月5日公布施行，其中第十九條保障原住民族於原住民族地區依法從事非營利之狩獵、採集、礦石採取及水資源利用；第二十一條及第二十二條並明定政府於涉及原住民族土地、資源利用及設置國家公園時",
-      "publishedAt": "2025-12-16T00:00:00.000Z",
-      "timestamp": 1765843200000
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "氣候變遷下我國水資源治理之挑戰",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpcXh2WGNBVkUxV3dQb3lOeEJsTjZjU1Fnbkh6Yk5iYmZ1UTg2b3FHNmtCSTgwbUE4a3gyTHZIMkR5ZXBEdkw3Sk4zMkpJblJuZUNCdmZHZlRuNjg4LVRtYzRPUnFVWGNLeVM4MW5hZw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-12-16T09:22:31.000Z",
+      "timestamp": 1765876951000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
-      "category": "bill",
-      "categoryLabel": "議案／法案",
-      "title": "「自來水法第九十七條之一條文修正草案」，請審議案。",
-      "link": "https://ppg.ly.gov.tw/ppg/bills/202110164270000/details",
-      "source": "立法院・法律案",
-      "meta": "第11屆 · 第4會期 · 審查完畢",
-      "proposer": "本院委員賴惠員等21人",
-      "summary": "提案：本院委員賴惠員等21人 ｜ 進度：審查完畢 ｜ 摘要：水資源乃民生至關重要之天然資源，如有過失或其他非法行為致海底水管線功能運作異常，將對民生、社會安定以及國家安全造成損害，因此修正相關規範，加以強化保護水資源正常運作。（修正條文第九十七條之一）",
-      "publishedAt": "2025-11-18T00:00:00.000Z",
-      "timestamp": 1763424000000
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【張智倫委員發言質詢】第11屆第4會期內政委員會第13次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/165879",
+      "source": "立法院議事轉播 IVOD・內政委員會",
+      "meta": "發言委員：張智倫 · 時段：09:50:08 - 09:59:01",
+      "proposer": "張智倫",
+      "summary": "發言提及：「…我們會希望不但是污水處理，還增加再生水廠，這些部分我們都會共同努力，所以委員不用擔心，我們會積極爭取工程會來支持這項工程。…」 ｜ (變更議程)立法院第11屆第4會期內政委員會第13次全體委員會議（事由：一、審查土地法：(一)委員鄭天財Sra Kacaw等22人擬具「土地法第十四條條文修正草案」案。(二)委員傅崐萁等 17 人擬具「土地法第一百九十五條條文修正草案」案。(三)委員賴士葆等 27 人擬具「土地法",
+      "publishedAt": "2025-11-26T01:00:00.000Z",
+      "timestamp": 1764118800000,
+      "matchedKeywords": [
+        "再生水"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "水資源作業基金115年度預算評估報告",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9janFtcG9MSVJRYmRjcEpQWVpXZFA0M3NHYTV5SDMwclVXcWFZeUVQRXZMX1FOaE95ckxpTGhmNXh2bFhqWGNSLU1lS2ZVbXlwamUtMG00V0dlSE9WSUZ3?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-11-12T13:57:41.000Z",
+      "timestamp": 1762955861000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
       "category": "official",
@@ -555,67 +1427,85 @@
       "proposer": "",
       "summary": "",
       "publishedAt": "2025-11-04T05:01:27.000Z",
-      "timestamp": 1762232487000
+      "timestamp": 1762232487000,
+      "matchedKeywords": [
+        "再生水"
+      ]
     },
     {
-      "category": "bill",
-      "categoryLabel": "議案／法案",
-      "title": "有鑑於供應民生用水之水庫攸關全民飲用水安全與整體水資源穩定調度，為國家最重要之公共設施設備，水質與蓄水功能應受最嚴謹之法制保障與專業監督。然而，近期台南烏山頭水庫被揭露「第一期光電板已經蓋滿」，被列為一級保育類動物棲息地的高雄鳳山水庫，也遭一片片光電板侵蝕遮蔽原有風貌與自然景觀。依「水污染防治法」、「飲用水管理條例」及「水質水量保護區劃定、變更及廢止作業要點」等規範，民生供水型水庫屬高度管制區域，任何可能影響水質、水量或運作安全之開發行為均屬明令禁止，而於114年丹娜絲颱風重創南台灣後，大量遭強風刮落擊碎的光電板碎片與浮台，更對台灣河川、土壤與海岸造成嚴重污染與破壞，凸顯光電開發對環境安全管理之脆弱與失能。如今光電模組大面積遮蔽台灣重要水庫水面，亦可能因改變光照、溫度與氣體交換條件，導致溶氧量降低與藻類異常繁生，削弱水庫自淨機制並破壞生態平衡，影響人民正常飲用水權益。近年來民進黨政府大力護航光電開發繞過環境影響評估，主管機關政策研議與修法遲滯怠惰，更讓眾多光電業者利用制度空窗期搶進開發，枉顧當地民眾知情權與相關權益，使台灣美好生態與環境在缺乏完整評估與監督下遭受不可逆之破壞。為維護並保障民眾用水之安全與珍貴水資源、環境生態保護，爰提案要求行政院在有關水質安全及環評法規檢討完成前，暫停核准任何水庫型光電執照，以避免使國家最關鍵之水資源安全暴露於高風險之實驗性操作中，致使不當開發侵入民生水源區，悖離社會公義與公共利益，是否有當？請公決案。",
-      "link": "https://ppg.ly.gov.tw/ppg/bills/212110166990000/details",
-      "source": "立法院・一般提案",
-      "meta": "第11屆 · 第4會期 · 逕付二讀(交付協商)",
-      "proposer": "本院台灣民眾黨黨團",
-      "summary": "提案：本院台灣民眾黨黨團 ｜ 進度：逕付二讀(交付協商) ｜ 摘要：本院台灣民眾黨黨團，有鑑於供應民生用水之水庫攸關全民飲用水安全與整體水資源穩定調度，為國家最重要之公共設施設備，水質與蓄水功能應受最嚴謹之法制保障與專業監督。 … 為維護並保障民眾用水之安全與珍貴水資源、環境生態保護，爰提案要求行政院在有關水質安全及環評法規檢討完成前，暫停核准任何水庫型光電執照，以避免使國家最關鍵之水資源安全暴露於高風險之實驗性操作中，致使不當開發侵入民生水源區",
-      "publishedAt": "2025-10-21T00:00:00.000Z",
-      "timestamp": 1761004800000
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "關注原鄉用水 立委提供水改善、管線汰換建議",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0xVXdrckRGYU5rR2xtSFVYeks5VHlCNTcyenl4WnJyME5YVF9wRlYxSzlKVzZJMlZuWkNlMDN6QmlVVmw5bnc?oc=5",
+      "source": "國會動態・原住民族文化事業基金會",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-10-29T07:00:00.000Z",
+      "timestamp": 1761721200000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
       "category": "interpellation",
       "categoryLabel": "質詢發言／公報",
-      "title": "本院台灣民眾黨黨團，提案要求行政院在有關水質安全及環評法規檢討完成前，暫停核准任何水庫型光電執照，以避免使國家最關鍵之水資源安全暴露於高風險之實驗性…",
-      "link": "https://ppg.ly.gov.tw/ppg/publications/official-gazettes/114/80/01/details",
-      "source": "立法院公報 第114卷第80期",
-      "meta": "第11屆 · 第4會期 · 公報編號 1148001",
+      "title": "【邱志偉委員發言質詢】第11屆第4會期教育及文化委員會第4次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/164607",
+      "source": "立法院議事轉播 IVOD・教育及文化委員會",
+      "meta": "發言委員：邱志偉 · 時段：12:22:56 - 12:26:31",
+      "proposer": "邱志偉",
+      "summary": "發言提及：「…蘇副主任委員振綱：其實所有基地的開發都涉及到廠商的需求，所以我們尊重廠商的需求，所有的交通動線或是再生水這些相關的基地條件都要能夠配置得起來。 … 邱委員志偉：再生水我們努力了很久，原來沒有岡山橋頭再生水廠，是我們努力之下才有再生水廠，所以第一個，水沒有問題嘛！…」 ｜ 立法院第11屆第4會期教育及文化委員會第4次全體委員會議（事由：邀請國家科學及技術委員會主任委員吳誠文列席報告業務概況，並備質詢。 【10月22日及23日兩天一次會】）",
+      "publishedAt": "2025-10-22T01:00:00.000Z",
+      "timestamp": 1761094800000,
+      "matchedKeywords": [
+        "再生水"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "Legislative Yuan -經濟部水利署中區水資源分署蒞臨民主時刻館參訪",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RQTZVY0tpeEhzV3hqeml6a2FnTmNCOFUwUDhneWtuWDB5ckg0eTZJMndpazBwUDZBMEpCbHNFVFM0RHdIaUd3MXhKeUR5aFNqVEhTVkd5SEFxVllqdG9OZ0F3b0cwNlZjaXhTdzRObW5jdw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
       "proposer": "",
-      "summary": "本院台灣民眾黨黨團，提案要求行政院在有關水質安全及環評法規檢討完成前，暫停核准任何水庫型光電執照，以避免使國家最關鍵之水資源安全暴露於高風險之實驗性操作中，致使不當開發侵入民生水源區，悖離社會公義與公共利益",
-      "publishedAt": "2025-10-17T00:00:00.000Z",
-      "timestamp": 1760659200000
+      "summary": "",
+      "publishedAt": "2025-10-19T08:27:05.000Z",
+      "timestamp": 1760862425000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
-      "category": "bill",
-      "categoryLabel": "議案／法案",
-      "title": "「水利法第七十八條之一條文修正草案」，請審議案。",
-      "link": "https://ppg.ly.gov.tw/ppg/bills/202110163340000/details",
-      "source": "立法院・法律案",
-      "meta": "第11屆 · 第4會期 · 交付審查",
-      "proposer": "本院委員蔡其昌等17人",
-      "summary": "提案：本院委員蔡其昌等17人 ｜ 進度：交付審查 ｜ 摘要：近年民間與公部門積極盤點河川、農業、自來水及再生水系統潛力場址，相關管路與建造物勢將增多。然未列名於水利法，恐影響案件審查一致性與河川治理安全。",
-      "publishedAt": "2025-10-14T00:00:00.000Z",
-      "timestamp": 1760400000000
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "韌性特別預算遭砍 藍委堅持嚴審國防預算 綠委喊啟動協商",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TOUQyN204NWpfMXZQTng4Ujg3cXFwbmhFNk85ZzlGTW9md1RiUUZBbElVUHZndVBRRHZIc3VCTjdTTTNyMURWck1vYzZZaDMwTnB3X25pSQ?oc=5",
+      "source": "國會動態・Rti 中央廣播電臺",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-10-13T07:00:00.000Z",
+      "timestamp": 1760338800000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
-      "category": "bill",
-      "categoryLabel": "議案／法案",
-      "title": "函，為114年度中央政府總預算決議，檢送「強化水資源作業基金收支平衡以維持水資源健全發展」書面報告，請查照案。",
-      "link": "https://ppg.ly.gov.tw/ppg/bills/311110157980000/details",
-      "source": "立法院・預(決) 算決議案、定期報告",
-      "meta": "第11屆 · 第4會期 · 交付查照",
-      "proposer": "經濟部",
-      "summary": "提案：經濟部 ｜ 進度：交付查照 ｜ 摘要：經濟部函，為114年度中央政府總預算決議，檢送「強化水資源作業基金收支平衡以維持水資源健全發展」書面報告，請查照案。",
-      "publishedAt": "2025-10-14T00:00:00.000Z",
-      "timestamp": 1760400000000
-    },
-    {
-      "category": "bill",
-      "categoryLabel": "議案／法案",
-      "title": "廢止「經濟部水利署各區水資源局組織通則」，請審議案。",
-      "link": "https://ppg.ly.gov.tw/ppg/bills/202110155700000/details",
-      "source": "立法院・法律案",
-      "meta": "第11屆 · 第3會期 · 交付審查",
-      "proposer": "本院委員羅智強等19人",
-      "summary": "提案：本院委員羅智強等19人 ｜ 進度：交付審查 ｜ 摘要：同時，這一措施也有助於規範化政府部門的運作程序，減少過時法規對行政管理可能帶來的阻礙，保障政府機構運作的順利與現代化，擬廢止「經濟部水利署各區水資源局組織通則」。是否有當？敬請公決。",
-      "publishedAt": "2025-08-26T00:00:00.000Z",
-      "timestamp": 1756166400000
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "水資源作業基金113 年度預算評估報告",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMnBJX25ESXU1dFBFNkRVdnhwWlpxaHUyNTNWU0tLd2REOGxWMkM5T2c3MzRYbk1nY0hjejFjNzZPYXpvc1hMNlZTQVdldmMyb3Z1UVdacF94cU1ZVGdHb05JaWNYcXp5clB2cUxfQ09WTEdjY3JjVFd3SG5mdkdjRDFRRnVPTXpuaW9DUUxiWmg0cHNa?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-09-25T16:14:58.000Z",
+      "timestamp": 1758816898000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
       "category": "official",
@@ -627,367 +1517,26 @@
       "proposer": "",
       "summary": "",
       "publishedAt": "2025-07-14T21:04:04.000Z",
-      "timestamp": 1752527044000
+      "timestamp": 1752527044000,
+      "matchedKeywords": [
+        "水資源",
+        "再生水"
+      ]
     },
     {
       "category": "official",
       "categoryLabel": "官網／研究報告",
-      "title": "四、我國實際耗水費徵收及支用情形",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKT2lhMlg4N0ViNHhFMlA3N2Nlc013a2wySWVld3U4OTZPM0hRR2lEY1BxeXBxdmZPOFFwc2pqN3Nra1FweFV6a192aTIxSkp0WWluc0Y0M0xMZlAxNk9TeGVCX2pBQmN0dVNNX29NMng?oc=5",
+      "title": "二、近年我國降雨及水資源運用實況",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LQ2VMTkN4NUlUcUpMN2RLejZaMWRreXRiM0l5RkhheHlTTWNaZlk0SG1relVMS3pMaHV0eEI5bVVKdUR4eFpVdWtkbnVZWGNMZzZXWG1jOW44YXpjanpwMThhUndKS2xsTHFub3M1QkM?oc=5",
       "source": "立法院全球資訊網 (ly.gov.tw)",
       "meta": "立法院官方網站發布",
       "proposer": "",
       "summary": "",
-      "publishedAt": "2025-07-13T18:18:33.000Z",
-      "timestamp": 1752430713000
-    },
-    {
-      "category": "official",
-      "categoryLabel": "官網／研究報告",
-      "title": "Untitled",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTEVvR1l6ckp2TzBLNGJGVnhJTzFGeWZnOTJLVFdSYjJxVWtraE1HX014V1BBeDFMVmptOTNKeXRhQmtpT1Nla1dMa2NhV0tyeGJDbVhUd3JVSFdQYzgyMWFQX2VaNUdVV2UzMGMwUHR0NXlIWG1vV0s2RTRPQTY3bkxEdHgwSzls?oc=5",
-      "source": "立法院全球資訊網 (ly.gov.tw)",
-      "meta": "立法院官方網站發布",
-      "proposer": "",
-      "summary": "",
-      "publishedAt": "2025-06-25T20:04:32.000Z",
-      "timestamp": 1750881872000
-    },
-    {
-      "category": "press",
-      "categoryLabel": "國會新聞動態",
-      "title": "《藍白惡砍》南市水利建設52.8億預算 恐被凍48億",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05cGYzWGhtd2hsR203MnhteTlHSndkdWowZHVwX0tjdTVBMnFPOGYwaEE0dTFfMWRPS1FJVGx5eUtQRF90UlVFZmlQaktGS180ODZHNF9SdEtnRDjSAWBBVV95cUxNbVJINGZoOTExQXozUnhsRmZPNVk5NXMtSjJ5c3VnbGJONXlMcV9nVjltMDVCR2NRdEItUkx4a0hKcDFEZzA2UG5iZExUT0NaY1hpWGdxMW8tYjhYNlpJTDE?oc=5",
-      "source": "國會動態・自由時報",
-      "meta": "立法院新聞稿與相關報導",
-      "proposer": "",
-      "summary": "",
-      "publishedAt": "2025-04-04T07:00:00.000Z",
-      "timestamp": 1743750000000
-    },
-    {
-      "category": "official",
-      "categoryLabel": "官網／研究報告",
-      "title": "2025年防洪抗旱計畫報告",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLXBVd3V6dmF0SzZwQ1RVa3hDODk4eUxsZ2RJZ3BEVERrRXNXallDZFVCa0d4WTVIRGlSZDg5N3NUcXpGTW5zVWc5UEh3aHp2OFowUWt0NDNCc0NjUnE4Z0UyS2lwWHFIQzhUZ05yY1RPUzM3Y2E3YTdNVHFIeEZXSmhfaXlpRjIyNklWNFJKb21QQQ?oc=5",
-      "source": "立法院全球資訊網 (ly.gov.tw)",
-      "meta": "立法院官方網站發布",
-      "proposer": "",
-      "summary": "",
-      "publishedAt": "2025-03-31T07:00:00.000Z",
-      "timestamp": 1743404400000
-    },
-    {
-      "category": "interpellation",
-      "categoryLabel": "質詢發言／公報",
-      "title": "經濟委員會第22次會議一、繼續審查114年度中央政府總預算案附屬單位預算非營業部分關於經濟部主管：經濟作業基金、水資源作業基金、經濟特別收入基金、核…",
-      "link": "https://ppg.ly.gov.tw/ppg/publications/official-gazettes/114/20/03/details",
-      "source": "立法院公報 第114卷第20期",
-      "meta": "第11屆 · 第2會期 · 公報編號 1142003",
-      "proposer": "",
-      "summary": "經濟委員會第22次會議一、繼續審查114年度中央政府總預算案附屬單位預算非營業部分關於經濟部主管：經濟作業基金、水資源作業基金、經濟特別收入基金、核能發電後端營運基金（處理）；二、繼續審查114年度中央政府總預算案附屬單位預算營業部分關於經濟部主管",
-      "publishedAt": "2025-01-09T00:00:00.000Z",
-      "timestamp": 1736380800000
-    },
-    {
-      "category": "interpellation",
-      "categoryLabel": "質詢發言／公報",
-      "title": "經濟委員會第22次會議一、審查114年度中央政府總預算案附屬單位預算非營業部分關於經濟部主管：經濟作業基金、水資源作業基金、經濟特別收入基金、核能發…",
-      "link": "https://ppg.ly.gov.tw/ppg/publications/official-gazettes/114/20/02/details",
-      "source": "立法院公報 第114卷第20期",
-      "meta": "第11屆 · 第2會期 · 公報編號 1142002",
-      "proposer": "",
-      "summary": "經濟委員會第22次會議一、審查114年度中央政府總預算案附屬單位預算非營業部分關於經濟部主管：經濟作業基金、水資源作業基金、經濟特別收入基金、核能發電後端營運基金（詢答）；二、審查114年度中央政府總預算案附屬單位預算營業部分關於經濟部主管",
-      "publishedAt": "2025-01-08T00:00:00.000Z",
-      "timestamp": 1736294400000
-    },
-    {
-      "category": "official",
-      "categoryLabel": "官網／研究報告",
-      "title": "我國公共污水回收再利用政策及預算執行成效之探討我國公共污水回收再利用政策及預算執行成",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTGQtZmJaWVFRTnhyMi1JNXJINUoxbmFjLXdhcWZvaWVJNkcxRUtKQ2N5cFFIbXRnbUxzbEFnN3VtdTlYczIxVDFMNEFmWVBHQ2VJLW5EMUdZSUw2Q0hrQlMyRW9FN1pmemRBWUg1TGh2MVRSdG9MWlRhY2Y2Q3hXM2ZLOVVneEhTcE5ZdUU1QXh6UQ?oc=5",
-      "source": "立法院全球資訊網 (ly.gov.tw)",
-      "meta": "立法院官方網站發布",
-      "proposer": "",
-      "summary": "",
-      "publishedAt": "2024-09-27T15:25:15.000Z",
-      "timestamp": 1727450715000
-    },
-    {
-      "category": "official",
-      "categoryLabel": "官網／研究報告",
-      "title": "我國公共污水回收再利用政策及預算執行成效之探討",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNllYMDd5aE5KTFNWRVpjVjJTdTBoS0c4TzFVUGFwTXNuNTVNdEw1QU1QVFljTlMzMlc0TVMzN3lYTWJKQlRsNmlFekZweDMwb29uakxmcmhLX0hmTV8tbG9TUVJDZXlfaDRSZ0VGcVdudVJKMk1hYWZfZmxoaEtqNjU1VlFBUXFxMTBtd2lnTnhUQQ?oc=5",
-      "source": "立法院全球資訊網 (ly.gov.tw)",
-      "meta": "立法院官方網站發布",
-      "proposer": "",
-      "summary": "",
-      "publishedAt": "2024-09-27T03:26:50.000Z",
-      "timestamp": 1727407610000
-    },
-    {
-      "category": "official",
-      "categoryLabel": "官網／研究報告",
-      "title": "我國公共污水回收再利用政策及預算執行成效之探討目錄",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZkF3SHN0dVJfTEJPT3k2SzU2YVFBaDNXUXdSRmZScktfMjZqNTBKWmduYlhlS2p1RXp5a29uWmx4cUtaSU1GMXBYS2puZ3Z2R1VDMFZRdVpkZGM1R0hkZldSMXlRMk4ybWhVckFZUHl6RVFNUV8xc1dlaV90bGpoVXcwYlhxUW0wSkVCZDZSNjNtQQ?oc=5",
-      "source": "立法院全球資訊網 (ly.gov.tw)",
-      "meta": "立法院官方網站發布",
-      "proposer": "",
-      "summary": "",
-      "publishedAt": "2024-09-27T03:03:45.000Z",
-      "timestamp": 1727406225000
-    },
-    {
-      "category": "official",
-      "categoryLabel": "官網／研究報告",
-      "title": "立法院全球資訊網-四、推動公共污水回收再利用各項計畫，屢受限於用水端契約之協商議定或政策調整等因素，致預定供水日期隨之調整延後，或變更計畫，影響計畫成效，允宜強化再生水之供需媒合機制",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nQjVUbkpsTFAzR21RY0JvaUs0UWo5MXBWbUhoY2V1ZUtySGJmaEFTNTFBN3N0Wl9yT3hMcFpRcHEwYWpOTm9iLV8xRjBkbHJwT1hlSXpUeWFaYlhpUzNHSUNfV05taDA4Z3JvV25oRW4?oc=5",
-      "source": "立法院全球資訊網 (ly.gov.tw)",
-      "meta": "立法院官方網站發布",
-      "proposer": "",
-      "summary": "",
-      "publishedAt": "2024-09-27T02:58:00.000Z",
-      "timestamp": 1727405880000
-    },
-    {
-      "category": "official",
-      "categoryLabel": "官網／研究報告",
-      "title": "一、我國公共污水回收再利用相關配套法令未順利推動，不利推展使用再生水，允宜適時檢討調整",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zZFFoS3ZYNkt5SFZVaU1Yam54RmlOSkFveXlWNU5RRmlCcmxRck5KRGN2VHpreFdvOGoxVm9kUmdXWGFrUWh4NGd5VDE2TThyMDBKdGhES281YWpkUk9HazFCd0p1VnRDMUtZN19nVXY?oc=5",
-      "source": "立法院全球資訊網 (ly.gov.tw)",
-      "meta": "立法院官方網站發布",
-      "proposer": "",
-      "summary": "",
-      "publishedAt": "2024-09-27T02:56:59.000Z",
-      "timestamp": 1727405819000
-    },
-    {
-      "category": "official",
-      "categoryLabel": "官網／研究報告",
-      "title": "三、污水處理廠運作效率欠佳、放流水之運用率甚低，允宜提升低度利用污水廠之接管普及率，並宣導鼓勵各界使用放流水",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10aV8yejN4T1RxM2FmQll6ZnNwdWpaNFZseHl0UmtPZmw1LW9uMy1vbEJtN2dTRExFOGFVazhCSDBwUjgzMGtzSkpZMWFQenY0YVZJT1J2QnFmT3oyd2gyTW5qM2Q4Sm85dEkyUUZTV08?oc=5",
-      "source": "立法院全球資訊網 (ly.gov.tw)",
-      "meta": "立法院官方網站發布",
-      "proposer": "",
-      "summary": "",
-      "publishedAt": "2024-09-27T02:52:36.000Z",
-      "timestamp": 1727405556000
-    },
-    {
-      "category": "official",
-      "categoryLabel": "官網／研究報告",
-      "title": "我國水資源開發、利用與調度之探討",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMllWNU9KQllUTEdlVTd3aWhSRzJUaFhTcFBNYUtzRjBMYmx3dkQ0YWRlRG5EM0FwX1NXMWpPeVB5ZmZwQnBWdWpMWDFLb0Zzc0gtTWV1Z0pBLWx1VUUza2hpc3ZBX2xFbEhNeHZFUXo4NEU4Rk52Z2tOaGd4bExCeEpGdG55RXQyUld4ekhaOXg4UQ?oc=5",
-      "source": "立法院全球資訊網 (ly.gov.tw)",
-      "meta": "立法院官方網站發布",
-      "proposer": "",
-      "summary": "",
-      "publishedAt": "2024-08-25T09:07:16.000Z",
-      "timestamp": 1724576836000
-    },
-    {
-      "category": "official",
-      "categoryLabel": "官網／研究報告",
-      "title": "二、供水穩定度不足，節水成效有待檢討",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFVUJOeDJDQTNTYW9WVHEzVVpMcWxaZ09aRnFHYzhPM3ZZUURfY2xUMTBYcXlZYjNidEpTQWZxaXplLXliWUxPenN6emo0VjNfVkZRSTJXVmhRbnhwUFhBOC1BZnpVb1dZUlpjcXZULXI?oc=5",
-      "source": "立法院全球資訊網 (ly.gov.tw)",
-      "meta": "立法院官方網站發布",
-      "proposer": "",
-      "summary": "",
-      "publishedAt": "2024-08-25T08:20:33.000Z",
-      "timestamp": 1724574033000
-    },
-    {
-      "category": "official",
-      "categoryLabel": "官網／研究報告",
-      "title": "柒、附錄 - 立法院全球資訊網",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5veDZjdUNCTmt6OXNWTFZoeXIzZUJRN0w1VEdkUVhPNEV2YkRXU1k2R3hoaDVGS0huZGdFZzVDSkxxRVdtZ25UTWxGS2xYUEIwUkJyVS1nTGphRFJ0RzU1R3lGbUEtbmZqS2VHUG5QYnk?oc=5",
-      "source": "立法院全球資訊網 (ly.gov.tw)",
-      "meta": "立法院官方網站發布",
-      "proposer": "",
-      "summary": "柒、附錄 立法院全球資訊網",
-      "publishedAt": "2024-08-13T17:07:11.000Z",
-      "timestamp": 1723568831000
-    },
-    {
-      "category": "interpellation",
-      "categoryLabel": "質詢發言／公報",
-      "title": "經濟委員會第10次會議繼續審查113年度中央政府總預算案附屬單位預算非營業部分關於經濟部主管：經濟作業基金、水資源作業基金、經濟特別收入基金、核能發…",
-      "link": "https://ppg.ly.gov.tw/ppg/publications/official-gazettes/113/38/01/details",
-      "source": "立法院公報 第113卷第38期",
-      "meta": "第11屆 · 第1會期 · 公報編號 1133801",
-      "proposer": "",
-      "summary": "經濟委員會第10次會議繼續審查113年度中央政府總預算案附屬單位預算非營業部分關於經濟部主管：經濟作業基金、水資源作業基金、經濟特別收入基金、核能發電後端營運基金（處理）（113年4月29日、113年5",
-      "publishedAt": "2024-05-01T00:00:00.000Z",
-      "timestamp": 1714521600000
-    },
-    {
-      "category": "official",
-      "categoryLabel": "官網／研究報告",
-      "title": "以雨水回收系統補充再生水使用義務法制之研析",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00VFltVkJZNVp6WlFSUklYQUVzb1RzckhtdVYzV3FyLWlrSjdTVDRDX2RneWVIX20zN2FiSWd2ZWU3WnlDZHFSMVpMaW5NZHRrQk5jUmpZeVM5dFFpV3ZxakNCOU1MWnltZ2FocTBOdw?oc=5",
-      "source": "立法院全球資訊網 (ly.gov.tw)",
-      "meta": "立法院官方網站發布",
-      "proposer": "",
-      "summary": "",
-      "publishedAt": "2024-04-22T02:52:37.000Z",
-      "timestamp": 1713754357000
-    },
-    {
-      "category": "interpellation",
-      "categoryLabel": "質詢發言／公報",
-      "title": "經濟委員會第8次會議審查113年度中央政府總預算案附屬單位預算非營業部分關於經濟部主管：經濟作業基金、水資源作業基金、經濟特別收入基金、核能發電後端…",
-      "link": "https://ppg.ly.gov.tw/ppg/publications/official-gazettes/113/31/01/details",
-      "source": "立法院公報 第113卷第31期",
-      "meta": "第11屆 · 第1會期 · 公報編號 1133101",
-      "proposer": "",
-      "summary": "經濟委員會第8次會議審查113年度中央政府總預算案附屬單位預算非營業部分關於經濟部主管：經濟作業基金、水資源作業基金、經濟特別收入基金、核能發電後端營運基金（詢答）",
-      "publishedAt": "2024-04-18T00:00:00.000Z",
-      "timestamp": 1713398400000
-    },
-    {
-      "category": "press",
-      "categoryLabel": "國會新聞動態",
-      "title": "再生水廠上線不及 台積電嘉義廠搶水戰 經濟部：「暫時」調度湖山水庫",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJWDZwYjBlV2dibEFGcjk0ZTl1d19SN2FBcEJGUl9tUmpuTXg4U1ZycEZ6S3ZiQ3h2anJJYklmR2ZMeHFUOG5ZYlZLY0dBQQ?oc=5",
-      "source": "國會動態・環境資訊中心",
-      "meta": "立法院新聞稿與相關報導",
-      "proposer": "",
-      "summary": "",
-      "publishedAt": "2024-03-22T07:00:00.000Z",
-      "timestamp": 1711090800000
-    },
-    {
-      "category": "official",
-      "categoryLabel": "官網／研究報告",
-      "title": "內政部所屬(國土管理署及所屬、國家公園署及所屬1、 建築研究所)及財團法人臺灣營建研究院113",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbXQwY3lLY0FWamdMdVdKTnBTM2dsLVY1RDVZdXhKMXJpVmYwOFE3ZmhXYzl2b1JDSktyN0k5YV84YmpxY0RHNzc5U2UtUk5qRzJlVE5CMHNsN0lJYVlDc1ItMkZzSjkzRWY5d1J1Yk9mN3R6RGwtd3FIS3NhaGUtU3hodXllLVI2UlN3WGV0b1Y1WGs1?oc=5",
-      "source": "立法院全球資訊網 (ly.gov.tw)",
-      "meta": "立法院官方網站發布",
-      "proposer": "",
-      "summary": "",
-      "publishedAt": "2024-02-23T14:16:18.000Z",
-      "timestamp": 1708697778000
-    },
-    {
-      "category": "official",
-      "categoryLabel": "官網／研究報告",
-      "title": "內政部所屬(國土管理署及所屬、國家公園署及所屬、 建築研究所)及財團法人臺灣營建研究院113",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaDkzbkxfdDl1RHFid2ZCTGhFVGFnNndWLWJYVFNKY1lIdnZhMkw1VXQtZG1ITlBLMVI1eXRwNVhORWdpWlR5T1gzdmlWMVZuQUx5ZDQwY3BKaWU0d083XzB1Z0lhYXNOUk4wSnIyNHlzS1o3dUZBbW1Ib2Q4MmMzVmoyQ0VDWnhLVDJZeEREb2QwRXB4?oc=5",
-      "source": "立法院全球資訊網 (ly.gov.tw)",
-      "meta": "立法院官方網站發布",
-      "proposer": "",
-      "summary": "",
-      "publishedAt": "2024-02-23T14:15:47.000Z",
-      "timestamp": 1708697747000
-    },
-    {
-      "category": "official",
-      "categoryLabel": "官網／研究報告",
-      "title": "五、配合耗水費已開徵及開發單位使用再生水辦法將於113年2月1日施行，允宜藉促使開發單位提高使用再生水之契機，積極進行供需媒合，俾再生水廠如期供水",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VdmZXdFA0TnVvM083bHFFYk9FQ0MxRndqQkhJdU55eWFSajlvb3Z6UDNYamxuUy1FOHNSclB4ZFNwS0daeXNldXFTSk9KdGkwM2VfTkRWSkRJQlV2M3lVUkJ4bWtVeFRFZ0U2di1YUl8?oc=5",
-      "source": "立法院全球資訊網 (ly.gov.tw)",
-      "meta": "立法院官方網站發布",
-      "proposer": "",
-      "summary": "",
-      "publishedAt": "2024-02-23T13:24:07.000Z",
-      "timestamp": 1708694647000
-    },
-    {
-      "category": "official",
-      "categoryLabel": "官網／研究報告",
-      "title": "六八、為有效因應氣候與社經環境變遷，允宜強化水資源建設計畫執 行進度之控管，並賡續精進",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVVlGNmlZYjJDUkh0SEZldHY3aDdzdWZFXzBEVWh6QUx3bFJfcHlTUjY4VmRVOFBqc3NPeEtqQkZ4aFFWdHVjS2w0VGZUb0RHTXl0X29xU0hmVUdmN1dUbjlCeHloa3RoSnlYekNJZFZLa0NnVFpzMU5jUnZZY0tPVko5em9rQnRDYjgycUU0SEZubWow?oc=5",
-      "source": "立法院全球資訊網 (ly.gov.tw)",
-      "meta": "立法院官方網站發布",
-      "proposer": "",
-      "summary": "",
-      "publishedAt": "2024-01-18T13:09:19.000Z",
-      "timestamp": 1705583359000
-    },
-    {
-      "category": "interpellation",
-      "categoryLabel": "質詢發言／公報",
-      "title": "經濟委員會第9次會議審查113年度中央政府總預算案附屬單位預算非營業部分關於經濟部主管：經濟作業基金、水資源作業基金、經濟特別收入基金、核能發電後端…",
-      "link": "https://ppg.ly.gov.tw/ppg/publications/official-gazettes/112/85/02/details",
-      "source": "立法院公報 第112卷第85期",
-      "meta": "第10屆 · 第8會期 · 公報編號 1128502",
-      "proposer": "",
-      "summary": "經濟委員會第9次會議審查113年度中央政府總預算案附屬單位預算非營業部分關於經濟部主管：經濟作業基金、水資源作業基金、經濟特別收入基金、核能發電後端營運基金（詢答）（112年11月6日、112年11月8",
-      "publishedAt": "2023-11-08T00:00:00.000Z",
-      "timestamp": 1699401600000
-    },
-    {
-      "category": "official",
-      "categoryLabel": "官網／研究報告",
-      "title": "近年中央政府投入水資源建設及抗旱節水措施執行概 況之探討",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLVJXMm1Ua2VjWV9jWXF6RVNUbHduRE95Qk5FVU1mcFR2UTJER19yVGYyb3NFRlR4SUlubVNJV0cxX1hVamRZWnE0Nm5LRkNBYThPd3FSb0JvUlRoNk1VZ3NpYTNHVlRMellYVTlJdnJFZXJPd2RWMW1jRGxnNDhEdDB0YW1DTXR4WUFFd0tLWWJxX0ZJ?oc=5",
-      "source": "立法院全球資訊網 (ly.gov.tw)",
-      "meta": "立法院官方網站發布",
-      "proposer": "",
-      "summary": "",
-      "publishedAt": "2023-08-02T15:34:03.000Z",
-      "timestamp": 1690990443000
-    },
-    {
-      "category": "official",
-      "categoryLabel": "官網／研究報告",
-      "title": "立法院全球資訊網-一、依據臺灣各區水資源經理基本計畫推估，部分地區仍存供水缺口",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SRl8xVzJjYmQ0Mnc4TDZUZlFjV3QzREg0WDZnUlJNYVZzdk9iazFZbUd3M2RZMVlZbFpYeWJqLWpqNXZfREctT3VaQUJLMGpfcXdYTzJGX0s0QnpKMGJaX3VLSjhDb0xoUkZqSmxBay0?oc=5",
-      "source": "立法院全球資訊網 (ly.gov.tw)",
-      "meta": "立法院官方網站發布",
-      "proposer": "",
-      "summary": "",
-      "publishedAt": "2023-08-01T07:00:00.000Z",
-      "timestamp": 1690873200000
-    },
-    {
-      "category": "official",
-      "categoryLabel": "官網／研究報告",
-      "title": "三、水庫清淤及開發新興水源等未見明顯成效，允宜持續精進水庫清、防淤方式，並研謀開發多元水源之推進措施",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuWnpJcUlEYWl2RlpWVkVOcENSa1duZXdGTmZDdmtnM0VISXVEQkd1cV9ha3d4ZUFMbGJOQzR1MVE1Mjg4QlNneTU3bXJUM25vR1IzUzhibmc1OFZNdXNwWlBxajdaem42c19tdE5OYks?oc=5",
-      "source": "立法院全球資訊網 (ly.gov.tw)",
-      "meta": "立法院官方網站發布",
-      "proposer": "",
-      "summary": "",
-      "publishedAt": "2023-08-01T07:00:00.000Z",
-      "timestamp": 1690873200000
-    },
-    {
-      "category": "official",
-      "categoryLabel": "官網／研究報告",
-      "title": "水資源作業基金112 年度預算評估報告",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRWtwS3FIbGZjaGJVQVo2RWFPd2JpRVlhYXJ5eG8tOVV0aUhrdkx0cGd0SlV2T2hvVXJsekZnTXJjWVFld0FFZzY4d25BV2llUExQM0RNV3VYd2NnWWNlS1IzSndoX29CczNobnJXX2plMGpwYlZ6N2tsdWx2ZGE2RDdPdlhMY3hIYjd5Z2NJWVVuTnRT?oc=5",
-      "source": "立法院全球資訊網 (ly.gov.tw)",
-      "meta": "立法院官方網站發布",
-      "proposer": "",
-      "summary": "",
-      "publishedAt": "2023-07-29T13:34:50.000Z",
-      "timestamp": 1690637690000
-    },
-    {
-      "category": "official",
-      "categoryLabel": "官網／研究報告",
-      "title": "立法院教育及文化委員會「考察新竹科學園區及周邊公共設施之完善情形」涉經濟部及所屬業務",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR0h4TW1jZ1lQZm94d09wVXBsb0t5MDNzQ2RzR19wc0M2TXNuZFZKRFhCZHh2N1drR2ZpZXhySHhQdlJrNlJSSWFXbWhTVGd4TEJDTjRGRFJkd2ZOUTM3cXBxeFNhd3FZdHl3OFpLMWhPTXRjZE5TdXlmNDA1cVRTdVVDc3VISHJnclRKbW96bzFLTW5pUWU2djlodFVGUVpUWHA0?oc=5",
-      "source": "立法院全球資訊網 (ly.gov.tw)",
-      "meta": "立法院官方網站發布",
-      "proposer": "",
-      "summary": "",
-      "publishedAt": "2023-07-22T10:56:26.000Z",
-      "timestamp": 1690023386000
-    },
-    {
-      "category": "official",
-      "categoryLabel": "官網／研究報告",
-      "title": "院總第887 號",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT2l4b0tuOHFZVE1pUWZjSmhiYm91YlluOEpkVmVJajJMaVc4YjFCclp6VEhfU05pOTFEc0I3RDdTRUctOGl2cHNSYkc0MUxvQXVZVzlpc0pLRkRXTmxuMHdhRGVZLV96M2Q4RFZ1WlZOeHBCNUhKdS1mZDV3UTZJaElrYlNwSk5Oa2VDelN2ZzNkWkhqbDk5WW5CMzVZRFVxOUo3bU40OU5pV3BjRnBDeU40d1VrREVfQWc?oc=5",
-      "source": "立法院全球資訊網 (ly.gov.tw)",
-      "meta": "立法院官方網站發布",
-      "proposer": "",
-      "summary": "",
-      "publishedAt": "2023-04-21T19:13:16.000Z",
-      "timestamp": 1682104396000
+      "publishedAt": "2025-07-13T19:30:39.000Z",
+      "timestamp": 1752435039000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     }
   ]
 }

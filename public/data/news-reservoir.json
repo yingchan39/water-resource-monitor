@@ -1,558 +1,984 @@
 {
-  "keyword": "水資源 水庫",
-  "fetchedAt": "2026-11-26T01:47:58.039Z",
-  "total": 110,
+  "keyword": "水資源+水庫",
+  "keywords": [
+    "水資源",
+    "水庫"
+  ],
+  "mode": "or",
+  "fetchedAt": "2026-11-26T03:52:54.939Z",
+  "total": 156,
   "sources": [
     {
       "name": "Google 新聞 (台灣)",
-      "count": 100
+      "count": 138
     },
     {
       "name": "Bing 新聞 (台灣)",
-      "count": 12
+      "count": 24
     }
   ],
   "errors": [],
   "items": [
     {
-      "title": "〈社論〉水庫裝光電？飲水安全應優於能源政策",
-      "link": "https://www.cdns.com.tw/articles/1495988",
-      "source": "中華新聞雲",
-      "sourceUrl": "",
-      "summary": "太陽能光電板意外成為台北市與台南市長選戰焦點：經濟部水利署發函要求盤點翡翠水庫設置光電設施的可能性，均未獲台北市政府支持；十一月十七日台南市長政見發表會上，謝龍介承諾當選後拆除烏山頭水庫光電板，陳亭妃先是說現在所有水庫根本就沒有光電板，接著表示現有租約到期後不再續約。一場地方選舉，意外掀開台灣能源政策與水資源管理之間的矛盾。 水庫的興建有其特定目的，包括民生供水、工業用水、農業灌溉、防洪功能以及水 ...",
-      "publishedAt": "2026-11-24T05:14:00.000Z",
-      "timestamp": 1795497240000
-    },
-    {
-      "title": "水庫相互支援！「珍珠串計畫」串聯全台水資源 日調度達338萬噸",
-      "link": "https://esg.tvbs.com.tw/view/trend/1746",
-      "source": "esg.tvbs",
-      "sourceUrl": "",
-      "summary": "水利署推動的「珍珠串計畫」，便是透過跨縣市、跨局處的整合，串聯全台灣各地的水庫等設施，建立跨區輸水網絡，以北水南送、南水北引等方式，讓水資源依各地需求進行調度，提升國家整體水資源韌性。 其中，桃園石門水庫至新竹寶山的聯通管工程，便是計畫中的重大建設段之一。隨著新竹人口成長、科技產業發展興盛，用水需求也日益攀升。",
-      "publishedAt": "2026-11-23T20:46:00.000Z",
-      "timestamp": 1795466760000
-    },
-    {
-      "title": "臺灣永續設計發光 石門水庫淤泥「泥續球」獲國際設計大獎",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53QVA4d05oNE55MUMxRGhRcG1KR3BMaU1rOTBjOU1pdDNKMkNTWU4zY092eHdZVHhNWTZkazBNWDY0LWxRYzBwVUtnbThjbVFyYWtPZ2c1UQ?oc=5",
-      "source": "觀傳媒",
-      "sourceUrl": "https://www.watchmedia01.com",
+      "title": "光電板不是能源轉型的原罪：從故宮到翡翠水庫，真正該檢驗的是治理責任",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrOHc2ZzJ5TmprVkszTW1QNHk2NTY2blluRkhiRUpyRkJIdm4zVWpaVGZmVjZzNEo1RzhWN3NpTGh4b1psNnNtRXF3XzdCQW1tTXExdw?oc=5",
+      "source": "TNL The News Lens 關鍵評論網",
+      "sourceUrl": "https://www.thenewslens.com",
       "summary": "",
-      "publishedAt": "2026-11-23T12:10:50.000Z",
-      "timestamp": 1795435850000
+      "publishedAt": "2026-11-26T03:00:00.000Z",
+      "timestamp": 1795662000000,
+      "matchedKeywords": [
+        "水庫"
+      ]
     },
     {
-      "title": "拒絕水庫種電…縣長候選人游淑貞簽好水公約承諾守護花蓮水源| 2026九合一選舉",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MOHdvZjYwMDQ5MEl1aUV1Vy13Y3NsNWRKa3hfTHhVN1ZkSGZyMEstMXJwNXZtSE93RG1HaTY5V09LVl9FazdQdWZRNDdCZ09ZQlQybG83Z0w?oc=5",
+      "title": "膜用混凝劑市場展望2035：水再利用法規與海水淡化預處理支撐成長 - 新聞與統計",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZDB6T1c0MEx2czd2b2tQOW80VWtxUERQWHdOODlaUGE1RWJJN05HX28tNmduSVd5OUh4SnVpSEViRjlqc05XY2hRdUY3Y3U4R3pOWW5reGg2bDdWRTdaV0hGY1ZMOFFLVG9TMUl4Y0NXbWdPWDR5WG40SlpWOGVWTHhhV1hyamkzV0RhUndmOS0tSXR4WF9ZTVpTc2VabDN6Nnlvd0dxMHNidzFxUVRxZUNENTQtU3NaazBZU1RkWGVMRlJ2aVc1Q05jb0xSbXN4b3BNeC01ajIxbjVKNHRUNWZiaXdldw?oc=5",
+      "source": "IndexBox",
+      "sourceUrl": "https://www.indexbox.io",
+      "summary": "",
+      "publishedAt": "2026-11-25T23:06:04.000Z",
+      "timestamp": 1795647964000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "府城之戰》陳亭妃鐵馬催票 喊溪北不會邊緣化 謝龍介猛攻光電 要求拆水庫光電板",
+      "link": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxQbW45VVBaS284bmhURGpvNkJhYXd0bEVFcFltUUxMNjUyWHFMVEdaZklTVjd3LS1rYkZMZGwzcXE3VkFBSWZ4NHJlandEclNmQ0YtQ3NuQ0txZ0I3Z3ZnbWlUcldmLUxrS2ZnYW8xWmY3ckJuSVhWcW9WS1phZ1AzNU1mU2dPNThkV3RLSUNNMnNxVGx3eXZKc2J3Qk9UckNSMTBpdlRjWE4xZDR2RnI1SDJoM0JyaVNtbHNoNTlseDNRYWRZRV9QNmxDYW5qUzBtWTlrWnhvRnRndEZUMGRqNmVvWXhiR2FLMmFDbE5zWTVVNDVZMWZiVExmeHl3cTJtd1VZaDZRMFR6WWw1RHBhaWdoOW9rZDJYRTdISlh4eldUTGVYVDY3c012NnFCTTduWVBld0VRWjY5ZUVuWkg4SV9JYmNCcTRZVDl6bmJjZGdpclhoemNUV2JfRmF0Z281WFhPZDUtVnBIOXlNU1UwYVBnZjFFdnRUNjYyM0RwZXlyYmJrTldRZ2QzUDdUTFlkV095bU1CR3QxV2hBZlljcVhPaG4tdDFFTVhIcV9vYlgtcnFMNG9UNVlLMlJrMVBFby11czROMXoya0hDYkdYLW00bHkwWk82ZXlCTFpiTDJsUnZVOHR5SFJoOEROcHJH?oc=5",
+      "source": "Yahoo新聞",
+      "sourceUrl": "https://tw.news.yahoo.com",
+      "summary": "",
+      "publishedAt": "2026-11-25T21:30:00.000Z",
+      "timestamp": 1795642200000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "台南 拒光電水 謝龍介促中央比照翡翠水庫",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxLW90ZFM1anI5dDhlR2tjOEx3NzRJcGNEZmNaaU9zS2F0aVRCRHFUc0pia1hXN1dYWXk0QVlqX1RSdjRGQmtrUDk1QzdlTFpHUEFENS1INzZCTjN5cDNsbzhsZHNWMXV1UmJv?oc=5",
+      "source": "中時新聞網",
+      "sourceUrl": "https://www.chinatimes.com",
+      "summary": "",
+      "publishedAt": "2026-11-25T20:10:00.000Z",
+      "timestamp": 1795637400000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "2026全球暨台灣企業永續獎／宏遠勇奪三大獎",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MDRvTnFhTlI5YkJHWFo0OVA4TVF6SXNyVUpHcTd0MDR0dHU2WWZWb2xPSGVUU2NKR25aVWI2YTV6TUw2TTVVZlJkVVViOEVvazZRRGtZRHBkUdIBX0FVX3lxTE5OSG92YmFXZlYzMjM5VmlLUUNqT0RqOGtLUFZuc2l6Q1JTR1JwcTZJdnNhUUQ5U2EtY0F2OUk5clhNc0NUVjJzREhmbnNPcE81MlFRYWJ3WkNIZ1N2WE9V?oc=5",
+      "source": "經濟日報",
+      "sourceUrl": "https://money.udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-25T18:20:28.000Z",
+      "timestamp": 1795630828000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "反對水庫光電遭律師林智群酸「就妳最聰明」 陳沂連3問狠打臉：別再敗票了- 生活",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iby0yMU5IREhoZUlxS2g5MTY2TXlwcHQxSkdXSUg4UlkzdW1DV3ltUXhrN2dBNmRNOVRPdkFmVjBMUlYyUXEyeUlnTFduRF9sX2RVNDR0Qjc1dDhwRDBZYjlZcnhuVlI3a25LVEFR?oc=5",
+      "source": "中時新聞網",
+      "sourceUrl": "https://www.chinatimes.com",
+      "summary": "",
+      "publishedAt": "2026-11-25T16:40:22.000Z",
+      "timestamp": 1795624822000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "光電水庫假議題？煤氣燈效應！",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xN212WDFlRFpzUTROZ3IwbEwxcUFwajBHWjJKb2ZpX1pSUXdVMDBDb3VXVmlfaUhLT3liNmpGS0pmcThvUFYxcjlGWWhwd3pv?oc=5",
       "source": "UDN",
       "sourceUrl": "https://udn.com",
       "summary": "",
-      "publishedAt": "2026-11-23T11:04:46.000Z",
-      "timestamp": 1795431886000
+      "publishedAt": "2026-11-25T16:25:07.000Z",
+      "timestamp": 1795623907000,
+      "matchedKeywords": [
+        "水庫"
+      ]
     },
     {
-      "title": "石門水庫淤泥化身「泥續球」 勇奪2026 ISARCH國際設計大獎",
-      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOUEV1YlgxOXc2QVpkeWl5eGIyWl9RU09MNl9pdWs0SE9keUFWekF4N294OEYxVFVjcGZ0VS14RUYyNUdZY0hxMmU2WnpqeVpKUzdEQUk3ajlFV1ZSdDQ4b0VWbjU3NndXN0tVQ0VVcGtCN2lGaGVLY2M3S1FvNjZCRUF1N3hOa19SQU42SjRCNjdGMWpPVVM1MWlhbzRxelpONWJKSVZORmlFYUJZckJxRmVteHREQ2VDcS1EckJQVUFzcHVoQkw5QVFZWWpudHg3cUxIdHV2dWpuZnVHVDI5ZTlTWFk0THVvbWh1ZUxYc3pVNDR6SktvMFBnRU50U2xLZ21mWVo0N3hOaFdnTy1zUnpfZnlycTVBT2VsYU5SRk8yX0VxbXNvalp1U2d1MUVTbXRrWEJsc3VqT29VVmQyM1JkeUdZMTVsdjdNQU5iWXpuSDJHTmtsQTVyM0g?oc=5",
-      "source": "台灣好新聞",
-      "sourceUrl": "https://www.taiwanhot.net",
+      "title": "水庫光電板再交鋒陳亭妃：不會用話術選舉語言騙選票| 2026九合一選舉",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5INUVvOXpQTGJINEpFcHdDSkpUazV1TDc1SHE0TmlUdHFHZmY4VnlaY3ZieDRlTkxmdHhFc1B6NmNWOVNYRVgwNjJDRkxZQ214a2l2SQ?oc=5",
+      "source": "UDN",
+      "sourceUrl": "https://udn.com",
       "summary": "",
-      "publishedAt": "2026-11-23T07:11:06.000Z",
-      "timestamp": 1795417866000
+      "publishedAt": "2026-11-25T15:41:00.000Z",
+      "timestamp": 1795621260000,
+      "matchedKeywords": [
+        "水庫"
+      ]
     },
     {
-      "title": "石門水庫淤泥變身泥續球台灣設計國際獲獎- 地方",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uRUJaTDBSR2lWZnpsczNmRlRKNkFhankzVDVIYlRBajVYcnc1M0ppTGNNVElPOTgzb1VrM0swTDhZd2xvX3E1eDZjRTlLb3ZESGtUQi1MR0dDeWVmSXhqUUU4TGJCNW9wQWVSeGxn?oc=5",
+      "title": "謝龍介發誓當選台南市拆除烏山頭水庫光電板我幫台南相親罷",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfSlRJWURrbjB2RGJJSm5GQ3UwNVJOWW9aN3JJNDd3MjRkUEdhc2pXMDliWWxEOXBJM2pSSU5ETkNoci1XaldmWTVpRjZ0ZjZFOEZqNDFHVUtLaDNlRV9PWVNuemVBelhH?oc=5",
+      "source": "元丰傳媒",
+      "sourceUrl": "https://yuanfengmedia.tw",
+      "summary": "",
+      "publishedAt": "2026-11-25T15:04:57.000Z",
+      "timestamp": 1795619097000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "蘇清泉恆春造勢！簽「光電5承諾」牡丹水庫入列",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNbWRqR0FxWVpzUE4zVGFHWHhJSVNWQzZoTUI2RmFxSUdLejBkVXhOTFpfekpTeEdONmpmdm8xb2ZIQ1gyblRIMGdPaVdVWjF1TzltcUVrRWxJRHFSazVTVnZXbDd5eTNiQjlraTRJZzlEQ05NZWtFWEZuUE1zUGxLT2xGZ2d5Vm9YZnl2STNnbTh4NlZpa05pelpFOVJOay1fNk9XdzdmUTMxUllGcE4wcHZCRmdNdjRmYnVSQXh0dVgwODJXLXlJQWd2TlVMYWVmVzVyWGpsRmhpcTl0MGVMbUtGb2d5MURINU1hQWtLUUZPM3pkbm1aYmxGQWppUjJWSUJRenAwSXNybGVLLWRsN2JQa0FJV0MxRHhr?oc=5",
+      "source": "TEEPR 亮新聞",
+      "sourceUrl": "https://www.teepr.com",
+      "summary": "",
+      "publishedAt": "2026-11-25T14:12:50.000Z",
+      "timestamp": 1795615970000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "無私守護水源生態近17年 台水深溝志工隊榮獲「全國績優志工團隊獎」",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZTFEyRTBEU1NzcEpJVldrQW1hRXhBQnpvTGRqMHlUOFZ4LVA0QzBRYmhoTHFvTURtVkhkZUczYWpLQ0FFaDRQTFBDWVdaQmR0Tnc?oc=5",
+      "source": "蕃新聞",
+      "sourceUrl": "https://n.yam.com",
+      "summary": "",
+      "publishedAt": "2026-11-25T12:58:04.000Z",
+      "timestamp": 1795611484000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "沈伯洋車掃認出王美花 蔣萬安巧遇「水庫阿姨」",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsaXpBb1BDS1l1Ylc4WlZndktsZGRtX1Fya2ZRb2x5eGRxajlpV1JSVmlSYXlTZDhTODZibzhjTVFielpTZmh5Vm9FaUhZT3V3eEZ3QXQ1NUI4dDd5aGktay1mazROMjl1SkFseFdJVG9xQQ?oc=5",
       "source": "華視新聞網",
       "sourceUrl": "https://news.cts.com.tw",
       "summary": "",
-      "publishedAt": "2026-11-23T06:21:58.000Z",
-      "timestamp": 1795414918000
+      "publishedAt": "2026-11-25T12:55:00.000Z",
+      "timestamp": 1795611300000,
+      "matchedKeywords": [
+        "水庫"
+      ]
     },
     {
-      "title": "吳品叡點名嘉義民雄內埔子水庫光電板 籲檢視水質以免影響灌溉用水",
-      "link": "https://udn.com/news/story/124652/9895602",
+      "title": "屏縣長候選人蘇清泉恆春簽光電5承諾 牡丹水庫、老埤農地列守護重點",
+      "link": "https://www.msn.com/zh-tw/news/other/%E5%B1%8F%E7%B8%A3%E9%95%B7%E5%80%99%E9%81%B8%E4%BA%BA%E8%98%87%E6%B8%85%E6%B3%89%E6%81%86%E6%98%A5%E7%B0%BD%E5%85%89%E9%9B%BB5%E6%89%BF%E8%AB%BE-%E7%89%A1%E4%B8%B9%E6%B0%B4%E5%BA%AB-%E8%80%81%E5%9F%A4%E8%BE%B2%E5%9C%B0%E5%88%97%E5%AE%88%E8%AD%B7%E9%87%8D%E9%BB%9E/ar-AA2id3FH",
+      "source": "ETtoday新聞雲 on MSN",
+      "sourceUrl": "",
+      "summary": "▲國民黨屏東縣長候選人蘇清泉25日晚於恆春鎮舉辦團結造勢晚會。（圖／蘇清泉競選總部提供） 記者陳崑福／屏東報導 選戰進入最後倒數關鍵時刻，國民黨屏東縣長候選人蘇清泉今（25）日晚間六點，於恆春鎮舉辦團結造勢晚會，與恆春鎮長候選人盧玟欣、縣議員候選人張榮志同台，對近期全台高度關注的水庫光電板爭議，蘇清泉與盧、張一起簽署「守護屏東光電五大承諾」，並呼籲對手周春米縣長出面回應、一起簽署，展現捍衛民生用水 ...",
+      "publishedAt": "2026-11-25T12:38:00.000Z",
+      "timestamp": 1795610280000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "山西半結冰水庫現赤麻鴨群 候鳥遷徙中途停留過冬",
+      "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNR05Qb2d0ZUFtZGduRnozWFVNN1NQWHQ4ZVNoQURlcVpGUWM4elEteC1YTkU0RVRybEN3N2RKOGlkX0Z4d051eGttUWpmYWVVVUdZVk5EX041VU9HMjMxX2twVjE2N3lzQnJaelZBZ0R3ejhlZ3ZQSHowNWQ2T0VSUGFWNmxzVGszdWVSbmNQOUFGbEE5MlRNb09iRm83RFdLaUQ3MnR2YUF5T3lYczNWTmo0UWdaMWplbUNoeGxHOTRYSUhzcVlEejA4UGRMbHhaeGxpcFQxR1RRbFNBR0pUdUFKRWdUcTdQVm5RMzRleFJkcnZIbUlFU0FWYlBnN2d2QUdrUXNrV05kaGFvdkNnZ056T05oR1BzRlprZVM2V3Q5Umt1TjJxd2VvQWhmckprRWIyR1hKenJXX01BbUM2b3dyMjRMcW93eTNxalJ6eWRmQTR2bF9BOGttMldSZkdmcDlIV1NUUThwT0ZGLXNB?oc=5",
+      "source": "巴士的報",
+      "sourceUrl": "https://www.bastillepost.com",
+      "summary": "",
+      "publishedAt": "2026-11-25T12:34:00.000Z",
+      "timestamp": 1795610040000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "憂汙染烏山頭水庫 台南東山遭偷埋廢棄物 檢環聯手開挖蒐證",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TUFRXeTRLWlI1cGNJNFhtMkJPcUtrV3lmRGtNSG15VTVfRWFmN18temZYeWN4d09mWXVocXZuNGRkRGY2cUFXRHptdnNNLWt6S0pMYWVrX09DVkZidzByLVhJNm9PRzE3OFdtLUV3?oc=5",
+      "source": "中時新聞網",
+      "sourceUrl": "https://www.chinatimes.com",
+      "summary": "",
+      "publishedAt": "2026-11-25T12:04:36.000Z",
+      "timestamp": 1795608276000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "【林智群挺水庫光電板轟「就妳最聰明」！陳沂反擊：愛黨就別來敗票】 （#大表哥）",
+      "link": "https://news.google.com/rss/articles/CBMixgNBVV95cUxQbUtZZzdfX1NuYTBfXzVzUjJlOUpmWjFCakhwYzUyQ2F6T0NySU9JZjBGd2dnV3JQX1NWQTdJR3k0MnNSX3pQNkFmOUN5ajRJMDkzLXAtbUx1MVBEQ2pHOHhsNnRiaGExSEVQZmhRYmYzVVlTUU50SjFVYWJ4RWtpbEkxSE9RcGdjOWdzTUEtM1VlbjBkdEtpZkczbUhLSW1jQVVxMWJ3dVItc3hpZnZWMlFBQk9yekZBN0VVbVg3dXFtaUNXY0hSUk9FT1dmakhUbTdYOHpBVXdLRkJvazJvZXJCSE8zcVZyT2JPVFhvaU53cUFZNWdGSi15X3hxdGJaMFFySGxJYVF2emF0Rk1iU0h0N1lLajliUUd0eTFabVV6UUlsNXRwaFhNRzBPQ1JCM0hqTDYxTVdNVFVPWlRvQ2ltcHFjb3dFQ2k0LTR0a0hldlZ1VFkySmtnYWtlT3hoZTJyMEtJMFU5cTJrX2NJaGRYS1liUEgtcVp5amN1TkVkVlZoc21tMG52b1QyWjlPMVFpa0RyUnBURjU0bFBGaHViV3U3SEF2cGhMem01d0g3dDhsQkdNdUlsOS02eEtURFhlWm9R?oc=5",
+      "source": "Facebook",
+      "sourceUrl": "https://www.facebook.com",
+      "summary": "",
+      "publishedAt": "2026-11-25T11:57:00.000Z",
+      "timestamp": 1795607820000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "烏山頭水庫竟用陸製通訊設備？ 民眾黨控非紅防線破口！",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XNHlOVENxYmwta0Y4VkVWRzBnTWVsMXpWN0F5ZzRPZDhodFJId0xOcm04Wk1IaFdkWi01bEF6N3REa3EtZUhXQ0Q3Rm5ES1NfdTVlU25Na1dqcmlESVJ6VFZjSnZsWC1UUEM0UU9xZw?oc=5",
+      "source": "知新聞",
+      "sourceUrl": "https://www.knews.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-25T11:17:00.000Z",
+      "timestamp": 1795605420000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "個股：惠民實業子公司接獲高科技廠RO薄膜清洗訂單，明年可望顯著挹注獲利",
+      "link": "https://fnc.ebc.net.tw/fncnews/stock/223657",
+      "source": "東森財經新聞",
+      "sourceUrl": "",
+      "summary": "惠民實業 (6971)積極強化水資源循環經濟布局，旗下轉投資子公司惠連薄膜提供專業逆滲透（RO）薄膜清洗服務，已於第四季接獲高科技廠外包業務，正式承接外部客戶訂單，並於11月已順利突破單月損益平衡點，公司預期啟動外部接單業務後，明年起將可明顯挹注獲利貢獻。",
+      "publishedAt": "2026-11-25T11:04:00.000Z",
+      "timestamp": 1795604640000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "藍營操作水庫光電議題 黃偉哲批如國王的新衣",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxONG9DZHEzZDgwSTVOU0c2TjN0c0x0WGM5c003WUwxWmY2R3YzSG1xa2UzVDV4TDJ2eHBNbERibGtXdS1ydnJxSDl6VnYyWjNpVEE1TlVEclVWaTJsZUpkRDJrMXB1NmlrdFVjeXI2SDJ3RlVLODVsVUI3R3ppbGNJRlQyNTVHdEpKclVxOWN5RXVlNmJKaUZFT1I0LTk5Z0x2Qm9Rb0VnMmt5cEFnRUtCWHE4dGR6RlIyME11S1ZueGJ4VmZQSnh2b0t5Y2kyQWRZZUw1OElPTjdJSWhWb2w1VUNGOU05elJGczE5ak43TkdGUXpFWHZPWkRFVlBwanlhODRJMW1Wek9SMnphWFZnaTN2MkhNcnJDTlBwNVI0ZzAzN21pd1BCUnhmQzN0WkJqZFFZLW9BVzFESFplZC1ZcUFRZ3g?oc=5",
+      "source": "Yahoo新聞",
+      "sourceUrl": "https://tw.news.yahoo.com",
+      "summary": "",
+      "publishedAt": "2026-11-25T10:59:47.000Z",
+      "timestamp": 1795604387000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "水庫阿姨現身挺蔣萬安 車掃合照喊勇敢一次",
+      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPUjlOY3RTMUxPQnFqOW5hSWNOdUlVWkZLZmZDS1V1cEFsMVdiYjRycTJkWHUxLU1xeDVhMS1icVZ3NWpTamVwYldPRGtIeUFwaE5uaUZVdTN6c2lhXzNJa2FCeTBLdnk3UXpNdWh3d1dadDY5cTBOaVNnaGVPYV9tUEhqam1pRlVlYWl6RXRMNERVUDBMLVdqUlVlQWJEalBxMDRDcF96Y2t5TFN4NGZYY2pJdE50UjV5U1ZETTFfRTBqTHM0SURBa2Zfc1ZRTGJiTHZOd2FQZHN5VUxRRTBFTF8tSlJPSlg1NWJIOVhXZlBSQTZKbmQ0NnZwV2JDUDl3bFc3bFNaOVZOQUFoLW9KYllaRjdYaHBhNTJVaWY4OFZUNUhheEQtTnh3cmdybURZSi1xMTZ3Xy0zWHdCcTJDQllQaGFXQ3RvM2h1LWJR?oc=5",
+      "source": "Facebook",
+      "sourceUrl": "https://www.facebook.com",
+      "summary": "",
+      "publishedAt": "2026-11-25T10:57:15.000Z",
+      "timestamp": 1795604235000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "惠民子公司惠連薄膜突破損平 獲高科技廠外包訂單、明年獲利挹注可期",
+      "link": "https://money.udn.com/money/story/5612/9901833",
+      "source": "經濟日報",
+      "sourceUrl": "",
+      "summary": "惠民實業（6971）水資源循環經濟布局報捷，公司25日表示，旗下持股51%的轉投資子公司惠連薄膜，本季已正式接獲高科技廠逆滲透（RO）薄膜外包清洗訂單，跨出外部接單第一步；隨著本月順利跨越單月損益平衡點，預期明年起將明顯挹注集團獲利。",
+      "publishedAt": "2026-11-25T10:41:00.000Z",
+      "timestamp": 1795603260000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "電子產業社群平台- 元件、次系統、自動控制",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLMF9wWS10bVRrTDlxRlpON1lFejFqTnBJX1NIdTVDY2ZVa201QklhWEtaMUh5ZU1vb3pxZzZiaF9qbXpkUWVmdFZJUWFjLV9lMlJ1SGxR?oc=5",
+      "source": "CTIMES",
+      "sourceUrl": "http://www.ctimes.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-25T10:18:19.000Z",
+      "timestamp": 1795601899000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "李長榮深化綠色製程 勇奪TCSA四項永續大獎",
+      "link": "https://www.ctee.com.tw/news/20261125701919-430503",
+      "source": "工商時報",
+      "sourceUrl": "",
+      "summary": "李長榮集團25日宣布，榮獲2026年台灣企業永續獎（TCSA）四項大獎，包括「台灣永續企業績優獎」、「水資源管理領袖獎」、「循環經濟領袖獎」及「永續報告銀級」。因應全球淨零碳排及供應鏈綠色轉型趨勢，李長榮積極透過材料創新、AI技術及製程優化，將循環經濟與水資源管理轉化為營運競爭優勢。",
+      "publishedAt": "2026-11-25T10:08:00.000Z",
+      "timestamp": 1795601280000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "飲水安全不分南北　水庫光電設置豈能雙重標準？",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40MktUNlBTTFhSVlR4Qm4xMWxTRTZPTW9VenpkRjZNR254ME1iN056TG9lazAxdV9vQlZ0MGRuWmtqc3ZBN3RBVE1nNGktZWvSAU5BVV95cUxPd1lNbFpCbVJ3amdwQnBCdWxFeDBLVko1cjJ5eGUxTUZ6RGFQUEFZSVN4R1NTOWI1cDhlUXBETlRTWTlsY2pfRWhhVXpuMEE?oc=5",
+      "source": "ETtoday新聞雲",
+      "sourceUrl": "https://forum.ettoday.net",
+      "summary": "飲水安全不分南北 水庫光電設置豈能雙重標準？ ETtoday新聞雲",
+      "publishedAt": "2026-11-25T10:00:00.000Z",
+      "timestamp": 1795600800000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "李長榮獲「2026 TCSA 台灣企業永續獎」四獎項",
+      "link": "https://udn.com/news/story/7241/9901671",
       "source": "聯合新聞網",
       "sourceUrl": "",
-      "summary": "嘉義水庫設置水面型太陽光電引發關注。台北市長蔣萬安發起跨縣市「台灣好水聯盟」，主張禁止在供應民生、灌溉及備援用水的水庫設置水面型光電，已設置者應立即拆除。無黨籍嘉縣長候選人吳品叡宣布加入聯盟，並以民雄鄉內埔子水庫為例，指出水面設置6688片太陽光電板，涉及農業灌溉水源及水鳥棲息環境，要求主管機關實地調查，公開水質與生態監測結果。",
-      "publishedAt": "2026-11-23T01:15:00.000Z",
-      "timestamp": 1795396500000
+      "summary": "李長榮集團25日於「TCSA台灣企業永續獎」中，獲頒「台灣永續企業績優獎」、「水資源管理領袖獎」、「循環經濟領袖獎」以及「永續報告銀級」等四獎項。 針對此次獲頒獎項，李長榮指出，過去一年，李長榮持續投入資源優化製程效能，並透過前瞻性的AI技術創新，在資源循環與水資源管理上取得突破性進展。 在循環經濟方面，李長榮持續開發循環材料及回收技術，包括Lacyon™鞋大底循環材料，以及電子級異丙醇（IPA） ...",
+      "publishedAt": "2026-11-25T09:30:00.000Z",
+      "timestamp": 1795599000000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
-      "title": "自由開講》水庫有水仍要防缺水：台灣水政策需要進入韌性管理",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Mb0pGUGwwRmJPb0FfaTlUQ2hmZjRHUkJpQ1lxTW5DQWdLTmo3WUNOcUhneVFtRmR0ZEh5ek44RVN4ZS1vcWlpRjVFSzl2TDRBaktzUFN5QkJTNmhQaWRMM0IxbXFYUWvSAWdBVV95cUxNTG9KRlBsMEZiT29BX2k5VENoZmY0R1JCaUNZcU1uQ0FnS05qN1lDTnFIZ3lRbUZkdGRIeXpOOEVTeGUtb3FpaUY1RUs5dkw0QWpLc1BTeUJCUzZoUGlkTDNCMW1xWFFr?oc=5",
-      "source": "自由評論網",
-      "sourceUrl": "https://talk.ltn.com.tw",
-      "summary": "",
-      "publishedAt": "2026-11-22T07:00:00.000Z",
-      "timestamp": 1795330800000
-    },
-    {
-      "title": "水庫光電爭議 陳以信批綠營政策矛盾 核能公投最後一周全面衝刺",
-      "link": "https://udn.com/news/story/6656/9894252",
-      "source": "聯合新聞網",
-      "sourceUrl": "",
-      "summary": "國民黨文傳會主委陳以信今表示，從烏山頭、阿公店水庫光電爭議，到翡翠水庫是否設置光電板，能源政策已成為全民關注焦點。國民黨團更在立法院提案要求民生及灌溉用水水庫光電全面退場，日前已逕付二讀、交付協商，顯示水資源保護與能源政策正受到高度關注。",
-      "publishedAt": "2026-11-22T03:00:00.000Z",
-      "timestamp": 1795316400000
-    },
-    {
-      "title": "台北市政見會》蔣萬安開場稱「阻擋」翡翠水庫光電板 宣布推動好水聯盟",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KaVBEbzNGQktxTlBGUDdIZlhQb2Y2Nlg4blJNaGtXakpjLVprbmJST2RYUllsLTlnNWM1UGZSRjUyVXA3RDQ1Q3FuMTk4ZUZENEdpN2RwYzNyZ0hCMkd2anAyZWhPWHRZMXfSAW9BVV95cUxNMk1zYnZ6c3FTcVFEOEpxYWY5SW1tekpXWm1DYmc3U3RvNG0yemtrMXE3VGZTSFZqY2xiNDRQc21vNWJRbXpyNDloQWlVVXFTcU4wYkRINW13QWF3UEdndExUTl9aeEJQNGpWNXlicTA?oc=5",
-      "source": "自由時報",
-      "sourceUrl": "https://news.ltn.com.tw",
-      "summary": "",
-      "publishedAt": "2026-11-21T09:14:12.000Z",
-      "timestamp": 1795252452000
-    },
-    {
-      "title": "揪縣市長組「好水聯盟」護水質　蔣萬安拋「2訴求」：水庫光電板一片不留 | 政治 | CTWANT",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sNU1KbmV3TnZmM0dRR3VJMUJyRFRWWHoyc2JVQzY5bnUwdUQwSDhYQURSVWNzWmhuOFVYYW43SEhfcXl4NHA2c1lLRXI4U1nSAVRBVV95cUxNRkJESV9VSWFPbmtMLVNjU2lPY3RxZnRhR3VMQnFhMlBzTi1HcXpZNzBfcGpuSjdUSnhleTBBOU1SQXQ3b1hUdUhKU1I1eEhpOWluTXU?oc=5",
-      "source": "CTWANT",
-      "sourceUrl": "https://www.ctwant.com",
-      "summary": "揪縣市長組「好水聯盟」護水質 蔣萬安拋「2訴求」：水庫光電板一片不留 | 政治 | CTWANT CTWANT",
-      "publishedAt": "2026-11-21T07:44:57.000Z",
-      "timestamp": 1795247097000
-    },
-    {
-      "title": "台灣水庫光電安全引發疑慮？能源轉型不該凌駕飲用水安全 台灣需要制度信任",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55OU45MVBpNV9LRG5mX1RuOUtsQzhDN2ZKTWkwV2ZTUEJITWFQV3VkYTNBWXV1VGhHS0JNWDJmelA5R3BXRzIzUkVCbHNZR0lIYjZmLTlpcWZ2TVhDdnVKbXZqZVRwQ3dvVXc?oc=5",
-      "source": "報新聞 Mega News",
-      "sourceUrl": "https://www.contentplatform.info",
-      "summary": "",
-      "publishedAt": "2026-11-21T01:15:38.000Z",
-      "timestamp": 1795223738000
-    },
-    {
-      "title": "水庫光電安全引發疑慮？能源轉型不該凌駕飲用水安全 台灣需要的不只是綠電，更是制度信任",
-      "link": "https://n.yam.com/Article/20261121877635",
-      "source": "蕃新聞",
-      "sourceUrl": "",
-      "summary": "(焦點時報/鄒志中專題報導) ...",
-      "publishedAt": "2026-11-21T00:29:00.000Z",
-      "timestamp": 1795220940000
-    },
-    {
-      "title": "翡翠水庫為何從不缺水？專家道出3大關鍵原因， 難怪遇到百年大旱也不怕",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDLXZmVktPS3Z4Q3FHYkRSTU4zZ1lKbDFyM3F6b3Z6R0JUbnNhcnJoTmVCX0RqYzU0QkszbjYySm54TVQ4SW9WcGRfTDMxemJq?oc=5",
+      "title": "烏山頭水庫驚見「中國製通訊設備」！民眾黨轟資安破口：綠友友就不用查？ | 蔣季容 | 新聞",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zZUczeXB2OVRIMVdLdTZvRkFvdm1kNnAtWk1PRmpsOVliRUNCTUdJSm1fclNFdW5GTEFTM2ZBVXV1M3EyU0JybGlGZTQxdw?oc=5",
       "source": "風傳媒",
       "sourceUrl": "https://www.storm.mg",
       "summary": "",
-      "publishedAt": "2026-11-20T06:56:00.000Z",
-      "timestamp": 1795157760000
+      "publishedAt": "2026-11-25T08:18:00.000Z",
+      "timestamp": 1795594680000,
+      "matchedKeywords": [
+        "水庫"
+      ]
     },
     {
-      "title": "曾文水庫蓄水量4億噸即將不保 南水署籲節約用水",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BcW40ajlGNHBnYng0QkFpNHRZWjdBVzIweFIzTURabFEwUWJ1T2dPbTVBQVAtbllaMEZFalhrX0JFcDZGeUM5dWVzQXFlUzVISmc3aWJ6ODI2enc4NjNXdkRDLWTSAWpBVV95cUxPek9zbWlUTzNiSW1rVHNhWGoxdmEtVHJEcWdUQ3RicjNKbEIwam5Va1dESFdlQ1FXS0taMkoyTFJWTXdubDVGR2lsNVJqcUZCdzZFa2czbnFRWG9pOE1DWDUyMjVtOFMzTC13?oc=5",
-      "source": "自由時報",
-      "sourceUrl": "https://news.ltn.com.tw",
+      "title": "「官員不敢喝！」烏山頭水庫光電12天火速核准！醫師轟：鉛嚴重超標 喝了腦變笨",
+      "link": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxQdjZQVTlfUmZaYzFleFJhbHZFWWZOVE1JSGdhTl9NazRUYWQ1NlpvWlR1LWMzaWJwbWQ2cWtGMzdIM1EzWjVBbjd1U2R0Q2pIQ05nWmFFUW5seDJKY3QwZTNSdUhzUEpFOURKZTdMU0U2amEzNWFKa3k2aEhHcl96NHRySW14OExTbktLUXhKcEdsTFJNS2FQdDlCaHFvNjJ5ZHE3NnZvWkpscXlqb2ZGbDg4cGVrRTlEZVpDSUwwNEtMQi1QR1VuWURuU3VxVWFtYnZOQVlDcmdvUC1LaHA2TTdKOEZHemFqV1E5eDhqa2dXTWNWQmRDVnFNcVdvZVZEeEI3b1c2TmNLV25GM05kWE4zcW1JVXRia1VZZEFDR3pOWnNCTGxodTN2VG1Ta052em1jbGhSY0x3Tm1NbnYzWHZjeUJhVDNsOHBoNnlLXzUtbDhiUTJIMm1pa0FQMWl3YUMycVBDRjhUQTNNUkVkN2hlV1BHSmJ0RUxoN21zeWVRZkdlaW1QNXNmendZUGkyWmRneTJaLWtEMEptbU9HNlpjMl9WSXlYNkxwa0Z6cFBOTG9lQ0lkSjZHOWx5TEtGcFBj?oc=5",
+      "source": "Yahoo新聞",
+      "sourceUrl": "https://tw.news.yahoo.com",
       "summary": "",
-      "publishedAt": "2026-11-20T05:35:41.000Z",
-      "timestamp": 1795152941000
+      "publishedAt": "2026-11-25T08:11:00.000Z",
+      "timestamp": 1795594260000,
+      "matchedKeywords": [
+        "水庫"
+      ]
     },
     {
-      "title": "水庫型光電應以水質安全、公開監測為前提 七大光電產業公協會籲各界理性看待綠能發展",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fUHJsMmF3MF9EeHdyOVRvNFFiTTRDbzJqSGk5LXZoWEV5WHNuUnZwelRBQl9jZXNUc2d5M2FJcFVlUEtkZUNmRzcxclU0Q183ZTg4a3dQM3BUdw?oc=5",
-      "source": "信傳媒",
-      "sourceUrl": "https://www.cmmedia.com.tw",
-      "summary": "",
-      "publishedAt": "2026-11-19T08:30:10.000Z",
-      "timestamp": 1795077010000
-    },
-    {
-      "title": "東山非法掩埋案距烏山頭水庫約4km 台水：非水源保護區",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zQVdrSk9qQjYyZVpPTm5LVmZEczBGVi12cWRIUEhRX0NqaW14S0FkNTBsU19vcndjLUpQNGRfR05FU2xwellnb2V1UG9hVHhUV1NkbHE3b2lCcEYwUWtV0gFkQVVfeXFMTkdQbDJ6OWFLMGlLN1VCeTBpNkNGQTVWOHhCUXlRVEVZeUhwWXB4c0E3N0NaT0c2S2ZyWlVuZDVhZkN0QTZoRXJScHhzalNQUXFWNVFsal8yV0o5dFllRnQ4c0VRUw?oc=5",
+      "title": "搶佔水資源循環商機 惠民子公司接獲高科技廠RO薄膜清洗訂單",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0RVR3LUFaYVNKS0M0N2NWT2NVbkVhOW5yZG1YUnduaV9FNDNOVXIxMVg5dUluM05PamNKaVNSUlJVYnBOaGE0ZTlFODhRMjRZdG9FcXFtX1ktLXNwWl9r0gFkQVVfeXFMT2hwNFR6akFvS2J1NDlidENKWGF6Q3ZmRzRlUXE3eHJrR0pWTG9jUXh6V1gwcDBSb1A2eHZFclAwdUlIOUNGanJFd2VfaUF2QkoycDgwRVoyNWRMbl8xLUM4S0QwZw?oc=5",
       "source": "自由財經",
       "sourceUrl": "https://ec.ltn.com.tw",
       "summary": "",
-      "publishedAt": "2026-11-18T06:22:06.000Z",
-      "timestamp": 1794982926000
+      "publishedAt": "2026-11-25T08:03:57.000Z",
+      "timestamp": 1795593837000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
-      "title": "新聞眼／光電凌駕水資源？投一個想要的生活",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yTzZLczZtTTRfTjRnSzZJREFZajdNRi1CRFQ2Rm9wMm1Eei10NmpGb2dvOTdkUmt2cFg4TllLNHQzR0ZGRmUwaVo3UVBQUGlXblQ40gFYQVVfeXFMUDZ4c0Nfb21SM2wyVVBYOVBzUFl4dFRxQW91Q2h0aUttUm9iUGE5NHQ5clpEdmNMbEF2c1RDMTloVExRcDBlZ2d2T2NJQUNEQ0t0OFY5RTdodA?oc=5",
-      "source": "UDN",
+      "title": "快新聞／蔣萬安猛攻「翡翠水庫光電案」 莊瑞雄批炮製恐慌：本來就是假議題",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xVHg1aWo3V3RMUDhIc2tBSmFvdkFSREM3c3dPdk1ZLWxYdGZNU0Q5NmZkVDZiaWNVR2VPU2V0MHFnWnZNMDhuN0kxSzMtaV9laGtZdmREQzl3b29qdDdwbw?oc=5",
+      "source": "民視新聞網",
+      "sourceUrl": "https://www.ftvnews.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-25T07:55:10.000Z",
+      "timestamp": 1795593310000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "洪毓祥雙線追擊！烏山頭光電爆陸製設備再要求林國漳交代250萬股權- 生活新聞",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNWV0a1B0TXNJbmIyVXBNNlNYQjlnSndqY2tpWnZOM1RsREJOa1BXT0ZkeF9NLS10MXYyalRaSUp1eDFQNVlGTXcyRncxUFZLdkFsc1dNU205c0RncDgwZC02R3d4enZfYnNIWmZHNlBjVnNPVEZWX3BGNTJvS1AtVGQ3SGRxV2JP?oc=5",
+      "source": "PChome Online新聞",
+      "sourceUrl": "https://news.pchome.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-25T07:00:00.000Z",
+      "timestamp": 1795590000000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "影／水庫光電板再交鋒陳亭妃：不會用話術選舉語言騙選票| 時事",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB2eGVrS3BJcFNpLXBuc2hrSzVmVjNMaENRUnNKeUwycTIwU3ZjV2d6UkpocEN4Tl94YWVTbDRuYnFlZ3pKVEo5NWVB?oc=5",
+      "source": "聯合影音",
+      "sourceUrl": "https://video.udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-25T06:53:00.000Z",
+      "timestamp": 1795589580000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "桃園埤塘光電議題延燒黃世杰：絕不推動水庫和埤塘光電| 2026九合一選舉",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fcG8zN2FFYm00YWpIQlBLTENMcUNoNFUyMTBFLWE3YzQ4Tm00Ym1DUDBZOE9NQ09uWEtZZmw2d19vUjVuWU10ZTA4LUpSSzhhNlRQX2JNNUI?oc=5",
+      "source": "udn",
       "sourceUrl": "https://udn.com",
       "summary": "",
-      "publishedAt": "2026-11-17T08:00:00.000Z",
-      "timestamp": 1794902400000
+      "publishedAt": "2026-11-25T06:29:25.000Z",
+      "timestamp": 1795588165000,
+      "matchedKeywords": [
+        "水庫"
+      ]
     },
     {
-      "title": "水庫蓋光電板真的安全？荷蘭研究揭「水下生態異變」 藍綠菌大量滋生",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfRUxTV1BfTVRYcFY0SkpEdmJNZl9nNXIwNVRwVXc1bVA2cUtwZmJVVGZ1bFZBOFIxb1AzVUk5X3M0NEJ0VlY2eTN3Tldhc3Y4OG1tMk10TWVUZWM?oc=5",
-      "source": "鏡週刊Mirror Media",
-      "sourceUrl": "https://www.mirrormedia.mg",
+      "title": "謝龍介打烏山頭水庫光電板陳亭妃強調政見一定做到| 政治",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Jak5Wb2MwaXU1UEZ4ZGdYNlBtcEc3S3Fub1JZeEtnTUsxX2ZoOEN4RDQ2dm5LYWVXWldyXzZManJ0Wjdwd3lJTVdyUmt0MGNmaGU3S3J5ZTQ3N0RtT1JR?oc=5",
+      "source": "中央社 CNA",
+      "sourceUrl": "https://www.cna.com.tw",
       "summary": "",
-      "publishedAt": "2026-11-17T08:00:00.000Z",
-      "timestamp": 1794902400000
+      "publishedAt": "2026-11-25T06:18:00.000Z",
+      "timestamp": 1795587480000,
+      "matchedKeywords": [
+        "水庫"
+      ]
     },
     {
-      "title": "中市福田再生水工程正式通水 打造城市小水庫穩定產業供水",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12b3JCRlk4cURzMHNBdmxVb3JUV2dTdVpoa0JENktzbVRtSDhiUTBnSlBkWnRfYkpMVUNLNEJwVkJfUUh2bXZkYVdFREduSXctSDJkVThaMmVPVWNvaGF6U3pVcTlMNHlBanptZk9n?oc=5",
-      "source": "元丰傳媒",
-      "sourceUrl": "https://www.yuanfengmedia.tw",
-      "summary": "",
-      "publishedAt": "2026-11-13T08:00:00.000Z",
-      "timestamp": 1794556800000
-    },
-    {
-      "title": "打造城市小水庫穩定產業供水 中市福田再生水工程正式通水 | 王秀禾 | 地方新聞",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kam1md3M0bVF4OXkzNWt6ZVNBNnd0cFlyUUlEcnVmSzNUdFVlakJtdDZqVWM2Ykh1V1ZlU1l2cWE1RE5RbEFtaHlFUzgzdw?oc=5",
-      "source": "風傳媒",
-      "sourceUrl": "https://www.storm.mg",
-      "summary": "",
-      "publishedAt": "2026-11-13T08:00:00.000Z",
-      "timestamp": 1794556800000
-    },
-    {
-      "title": "全台主要水庫蓄水率逾8成5 水利署展望未來水情審慎樂觀",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54S1ROLUNSRTFoN3V5YUgxM2V0TUVXNS1aRExIeFFVMmFGcWVyQU5tUTRGc21od1dhX3RmNUY2N2pER0U0UG9ONDd0QUtpN2dJcEUtZUtvaVU?oc=5",
-      "source": "Rti 中央廣播電臺",
-      "sourceUrl": "https://www.rti.org.tw",
-      "summary": "",
-      "publishedAt": "2026-11-11T08:00:00.000Z",
-      "timestamp": 1794384000000
-    },
-    {
-      "title": "全台水庫蓄水率維持85％至滿庫 水利署：水情「審慎樂觀」",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZMVNYQ3dXOFdVYS1MT0FVa0dBcF9DVW9rMUxZZEY3bjFRc2JiTEI1aWhxaDN4ZExFcW94Wk1lbTJwUHg5UlVzLU41bEdsbjg0dlVzSHZta2k?oc=5",
+      "title": "烏山頭水庫周邊布滿中製無線網路設備？ 白委洪毓祥要主管機關說清楚",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uZWVWUlhfQTF6QWlSS0NvaU5WWFRxNkhlRVUzUjdiTjZYLTc0UVhFYzNMRi16c2pXYTJ0bE00QW55eTNDTHRmMlZwZ2MydHpNVkFkYmpnQ21MektIUGJfWU5MOFZ4SzNmd1HSAW9BVV95cUxQYm9JR2U3UklXemdKMGV6N0dCMXAxS1pweTU1cHZlOVlCOXZvNTNieVdMZUNpMDA2cmNZTmdCeHlVMVdld0VteE5fZ1BGWWJuN05XUWlnejVNOFViZHA4b0RaVnpMc05EbVp6ZDFhYVU?oc=5",
       "source": "自由時報",
-      "sourceUrl": "https://stock.ltn.com.tw",
+      "sourceUrl": "https://news.ltn.com.tw",
       "summary": "",
-      "publishedAt": "2026-11-11T08:00:00.000Z",
-      "timestamp": 1794384000000
+      "publishedAt": "2026-11-25T05:52:48.000Z",
+      "timestamp": 1795585968000,
+      "matchedKeywords": [
+        "水庫"
+      ]
     },
     {
-      "title": "水庫蓄水逾85% 水利署：春節前水情樂觀- 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYmJvSWtFdVVhOGhBRFZpcDUxNTVNR3gtRmxaUmJLYnVRdDEwekVGQlQ1eTY1VFBOZUVIMGNITnFRN0ZJaWh6Y0kzVkRFM3hPMkpiSkNSNlMwajUxQVUwNWZaZ0h1ZjJPUlJkM0g3bW91NEVkakJVaXdraGFPQWFEUF8tX2VyMVpOWmxR?oc=5",
+      "title": "揭水庫網路設備中國製白呼籲拆除並徹查- 政治新聞",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVEl0d0pSSDNZM1IyT19VTWlHalNld0t2MEJYQkJlT3o2NEFMV0NCVzRmMnd0TGRoUDhsdlRMaTlwbWxqR2lZS0tDLW9wQ3JwbWFhZlRURkNzSElNeEd6VlFMMDZmMXd4YkxzajhhRk9HY2IwUzh3Ulpnc0JNVnQ3b0hmcHNVOWh5dW52LVVEWQ?oc=5",
       "source": "PChome Online 新聞",
       "sourceUrl": "https://news.pchome.com.tw",
       "summary": "",
-      "publishedAt": "2026-11-11T07:31:33.000Z",
-      "timestamp": 1794382293000
+      "publishedAt": "2026-11-25T05:51:17.000Z",
+      "timestamp": 1795585877000,
+      "matchedKeywords": [
+        "水庫"
+      ]
     },
     {
-      "title": "颱風挹注水庫蓄滿 桃竹水情估維持正常至明年1月|新創臺灣",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1peWpoUWlnaFhFZldOd0tEd1pqOFZDbXNvTG9UVU1sOWVOUmxfT0Z2dlIzUUsxc1NhVXliaTZmS0lQd0dFcUh0T0U3dw?oc=5",
-      "source": "僑新聞",
-      "sourceUrl": "https://ocacnews.net",
+      "title": "卓揆保證翡翠水庫無光電板謝龍介盼：相同標準捍衛烏山頭水源- 股市爆料同學會",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8za3ZhdzBTNUNHbEV6bnM3QnBLTlNRQlFXWGNJZG9hSDVFWERIaFBrMGhlMHpvRkxDWEVFaE90UzFpay1Sb1c2SURoam5OMmVHSU14d2ZLUjY?oc=5",
+      "source": "CMoney",
+      "sourceUrl": "https://www.cmoney.tw",
       "summary": "",
-      "publishedAt": "2026-11-10T08:00:00.000Z",
-      "timestamp": 1794297600000
+      "publishedAt": "2026-11-25T05:47:10.000Z",
+      "timestamp": 1795585630000,
+      "matchedKeywords": [
+        "水庫"
+      ]
     },
     {
-      "title": "【島在現場】台南烏山頭水庫周邊｜原永揚掩埋場舊址遭偷埋廢棄物",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15MnRyZmlZLVlIdURlZWxlVkd1dnhJQVBlQ19XOE1WYjljQWhXM19ObDV5ZU9OWVdsTWEwSmNXUjFnWEhyNlcwU0F3d0JPb0dkNEJzaA?oc=5",
-      "source": "我們的島",
-      "sourceUrl": "https://ourisland.pts.org.tw",
-      "summary": "",
-      "publishedAt": "2026-11-10T08:00:00.000Z",
-      "timestamp": 1794297600000
-    },
-    {
-      "title": "喝飽飽！桃竹3大水庫蓄水率「衝破100%」估明年1月前正常供水",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04UXNMbHRFTVI4UF8teFp5SGNadVR0UmxjVTJjTGdIX0xXVmVSYmJ4MnplRXJXSzlIajlzUzlpVDk4LWdlSkxKN1l5a3Bfb2ViVVpuR0hlVElJRGgyV2JPTQ?oc=5",
-      "source": "民視新聞網",
-      "sourceUrl": "https://www.ftvnews.com.tw",
-      "summary": "",
-      "publishedAt": "2026-11-10T08:00:00.000Z",
-      "timestamp": 1794297600000
-    },
-    {
-      "title": "颱風挹注水庫滿水位桃竹地區枯水期水情樂觀- 生活",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83NUhqMHcxY1l2cng1VXIzLXF4cGJzQ0Y4SXBLQTBCNl94eGVFaERLTlR5aGJvcGR6TWxrR250Q05pQm9mSGhWX05vQUkwQU1lZk51QlB0VWplMG1xVnNV?oc=5",
-      "source": "工商時報",
-      "sourceUrl": "https://www.ctee.com.tw",
-      "summary": "",
-      "publishedAt": "2026-11-09T08:00:00.000Z",
-      "timestamp": 1794211200000
-    },
-    {
-      "title": "桃竹三大水庫滿庫蓄水 安心迎接枯水期",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQbXNpYWw3ci1RWWRTTkp0a2dIZ0RJa0RZT1hMWFo4eWtFVzVOM3hZS2YwbE5kWVpCLUlhY29yTDdBLVJyREw0WkZkNWNFZkF4VjF1VDNLNXJnSkRkLUpSZXdOTWthTWlkck0tVUVIbWdBQlROdU5TWU93Qzl4eW5ZaW4zQkN6RnI3UVFweXdRODNsX2w3UjlCREd1UGJ6eUtTa1RJck1OeEdSTlpKaTd5U1NmNTFZWFV2N0ppcW9uMkZIaU1zdGVUM0QtUk1kcU40TDJWNzBrNXJZMnlOemo5Qlhsc2s5QzBjbDVjNTA3MW52eWNWVzBfRXlCa1hpNloza19PZ1d5LVBBVUNnMEg1X2gwQ09jYk1mRjMzVm5n?oc=5",
-      "source": "台灣好新聞",
-      "sourceUrl": "https://www.taiwanhot.net",
-      "summary": "",
-      "publishedAt": "2026-11-09T08:00:00.000Z",
-      "timestamp": 1794211200000
-    },
-    {
-      "title": "颱風挹注水庫蓄滿 桃竹水情估維持正常至明年1月",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aSjVsb00tcnVRaERZalZabUZvUHRBZkF6eTd1eUI1dUZlVFg5N3g5dWtjSzhid0kzWnZoYkJtN1RscWM1ekhtUWFzb3l4RUht?oc=5",
-      "source": "客新聞 HakkaNews",
-      "sourceUrl": "https://hakkanews.tw",
-      "summary": "",
-      "publishedAt": "2026-11-09T08:00:00.000Z",
-      "timestamp": 1794211200000
-    },
-    {
-      "title": "寶山、寶山二水庫滿水位！新竹水情穩定估明年1月前供水正常- 生活",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3ZTdzcWQ5aXI4c0cycUVremkyUFVuM2tUYTM5bkNrSVdmVVdsQmZuUXJycUhTb2tIbm9PNVlYaFhUTFg1VVN3d1N0aExIZFRtUThiWVRZUURxNXNXbE84?oc=5",
-      "source": "工商時報",
-      "sourceUrl": "https://www.ctee.com.tw",
-      "summary": "",
-      "publishedAt": "2026-11-09T08:00:00.000Z",
-      "timestamp": 1794211200000
-    },
-    {
-      "title": "3颱豐沛雨量助攻！北部3大水庫蓄水率衝破100％ 可穩定供水到明年1月",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxV3N1bGl6NnNLV1JpZk01UjB2Nnhhcll6a0RuRGQya1U3ZWt5NHdrcngwTU9FbWNKenc3ZjYySG5Ick1lRGpjMlltcEQ3aDBZVHhib0hvczhDdEk?oc=5",
-      "source": "Newtalk新聞",
-      "sourceUrl": "https://newtalk.tw",
-      "summary": "",
-      "publishedAt": "2026-11-09T08:00:00.000Z",
-      "timestamp": 1794211200000
-    },
-    {
-      "title": "寶山、寶二水庫滿庫迎枯水期 竹科產業、民生用水安心",
-      "link": "https://news.ltn.com.tw/news/HsinchuCounty/breakingnews/5634293",
-      "source": "自由時報電子報",
-      "sourceUrl": "",
-      "summary": "好消息！經濟部水利署北區水資源分署今（9）日表示，受惠於巴威、白海豚及薔琵等颱風接連帶來降雨，供應大新竹地區主要水源的寶山水庫及寶山第二水庫，目前蓄水率均達100％，為即將到來的枯水期做好準備，目前新竹地區整體水情良好，預估至明年1月都可維持正常供水。北區水資源分署指出，每年11月至隔年4月是北部地區枯水期，降雨量相對減少，加上新竹地區二期稻作自10月中下旬陸續進入抽穗期，農業灌溉用水需求增加，水 ...",
-      "publishedAt": "2026-11-09T03:55:00.000Z",
-      "timestamp": 1794196500000
-    },
-    {
-      "title": "颱風挹注水庫滿水位 桃竹地區枯水期水情樂觀",
-      "link": "https://www.ctee.com.tw/news/20261109700978-431401",
-      "source": "工商時報",
-      "sourceUrl": "",
-      "summary": "受惠今年汛期多個颱風接連帶來豐沛降雨，北部主要水庫蓄水充足，石門水庫、寶山水庫及寶山第二水庫蓄水率均達100％，為即將到來的枯水期奠定良好供水基礎。水利署北區水資源分署今（9）日表示，目前桃園、新竹地區整體水情良好，預估至明年1月均可維持正常供水，但面對極端氣候及降雨不確定性，仍將持續監控水情，審慎 ...",
-      "publishedAt": "2026-11-09T02:53:00.000Z",
-      "timestamp": 1794192780000
-    },
-    {
-      "title": "曾文水庫蓄水率止跌回升 關鍵原因曝光",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyT3p0R1AxTm5UZWNBaWRCOS1XcGFiMnJOeldxelM0ZjRGUVhuRkJoa1AyaUZldHpUNTJPclJMU0o2QzY0QXpqbThIakJBQ2UwMUJIWXJYQURXYjhQZWF2dTBPQmnSAWpBVV95cUxON3J4OTBHNFhwS0RWcU5raUhWU2o0dUxzNDN4OUFFV2t3d0JFdVRjNW9FN1JyVXVWY2hiVEZhNnh0NEwtcnBaQzhpVmpGNUVzVEhGeFZ1Y21SWlA4N2U5QjdoS2lSaVM5S0FB?oc=5",
-      "source": "自由時報",
-      "sourceUrl": "https://news.ltn.com.tw",
-      "summary": "",
-      "publishedAt": "2026-11-07T08:00:00.000Z",
-      "timestamp": 1794038400000
-    },
-    {
-      "title": "臺師大推動水資源環境教育 以水、生命、環境倡議永續發展",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nazVCZmIxTF9Ja0tIbm1lWGJMQ1M1TFBISThVTktCMGlZOWtzemVlS1h3UkRTUm1KSFoyTlZrX0xYOFgxek9rSlJLb0cybXdZWl9fU0ln?oc=5",
-      "source": "中央社 CNA",
-      "sourceUrl": "https://www.cna.com.tw",
-      "summary": "",
-      "publishedAt": "2026-11-06T08:00:00.000Z",
-      "timestamp": 1793952000000
-    },
-    {
-      "title": "全台最大水庫「水情大反轉」！背後功臣竟是它 | 民視新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnbXA4UGplMFNNeG9wUEVBMFFQb3J4MWR5bFhOU1dWQldnV2gtWnVqc1pTUWxLY0VpOG5vcm9zOVU0eTdCR0RtaTBDZW1oMDE1RXZHVVRB?oc=5",
-      "source": "LINE TODAY",
-      "sourceUrl": "https://today.line.me",
-      "summary": "",
-      "publishedAt": "2026-11-05T08:00:00.000Z",
-      "timestamp": 1793865600000
-    },
-    {
-      "title": "全台最大水庫「水情大反轉」！枯水期迎驚人變化 背後功臣竟是它",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JX0VtU09TeUI3LWxjb3ItV1BWbGhWa0VfN3gxMFhoSGVza2I3bUhZOGFEWGEzc3BnaUgzU0E0RUdSRW1xMVdsaEVSQ1kzU3E3TXM1V09oWkw1UVVvdTIyUA?oc=5",
-      "source": "民視新聞網",
-      "sourceUrl": "https://www.ftvnews.com.tw",
-      "summary": "",
-      "publishedAt": "2026-11-05T08:00:00.000Z",
-      "timestamp": 1793865600000
-    },
-    {
-      "title": "薔琵的補水用完了 曾文水庫蓄水率再低於9成",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZVWRFaUtRMW94SUxMM0psZjlUQ1dCVUdwdm1BTVFKZ252WHV6RHNiWmVKa1ZXU3kwdk42Z3BBQ1RhZHFxdmtfeFlPSkpESngzNFA3V0dncVEtbmN0OWJiajZnTUTSAWpBVV95cUxQTG5vRzRFQnZQaUdGWWNzZlNocXI1RTNCS1RlTE14LW1KdG1fdzNQdFNfZlROS2lsZFBLTXVxVW9FSUtGWHVRci1WVUE1dko1RFh0aFZ6Z2Y5MTl0VjdFWnpEa0RkS1lYWjBn?oc=5",
-      "source": "自由時報",
-      "sourceUrl": "https://news.ltn.com.tw",
-      "summary": "",
-      "publishedAt": "2026-11-04T08:00:00.000Z",
-      "timestamp": 1793779200000
-    },
-    {
-      "title": "白河水庫上游山林遭剃頭，台南市府稱「只是除草」不開罰，環團轟執法失靈",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uNmJJTWpUTEdCelNwQm9xSTRTVWJUb2JaNW1VWEZOaHZOeUZiVm1FeDBQdUo1OW5mWkkzUXNMXzBIQW5BTTk4UXlqSW05Z3NEU1lWRQ?oc=5",
-      "source": "上下游",
-      "sourceUrl": "https://www.newsmarket.com.tw",
-      "summary": "",
-      "publishedAt": "2026-11-02T08:00:00.000Z",
-      "timestamp": 1793606400000
-    },
-    {
-      "title": "爆白河水庫水源區逾公頃濫伐整地 環團批中央與台南市府長期裝瞎縱容",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uN0dJYWEteUFmcTFOd1dNYm5WQjJYMjFOcHJFSjdVRlRNekQ0MEhGX0lDUk11Qk1yUHlBenQ2Ylh6VlF6eFc0TEJTc0U1UUxQ0gFWQVVfeXFMT25SSGtxOE03aTBPWE1TQS1YWDUzRU5mWFNpbDVmSkpBeG9FOGR2a1FVZVpOUVB6SEZva3ZDendxVVNxZm5YTjQxSDBfaWNHOWw2ZzlzVHc?oc=5",
+      "title": "謝龍介直擊烏山頭水庫光電板 稱讚吹哨漁民是「台南大英雄」",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xTjVXeGctT3pXN0xfZzBJZ3A0TURHOUdnTEQ3RnB3TFYyaTZWRlU5MWpCMHNjdGhfWDVoamRvQkdIUTBSVC1XeExCd2MzWmlFWkE00gFYQVVfeXFMTVhGYXFYeHdiODNCVFlOT2J3a2V6NUpGWXdNQ0l3Y3l6VWNKa0pPQWZRbzZXOC1ob09kN2hOMk9YOHBnTEZYdU1Za1V0TU1TdUNNQWJ5TGtxZQ?oc=5",
       "source": "UDN",
       "sourceUrl": "https://udn.com",
       "summary": "",
-      "publishedAt": "2026-10-30T07:00:00.000Z",
-      "timestamp": 1793343600000
+      "publishedAt": "2026-11-25T05:32:45.000Z",
+      "timestamp": 1795584765000,
+      "matchedKeywords": [
+        "水庫"
+      ]
     },
     {
-      "title": "【新聞稿】環團踢爆白河水庫水源區逾公頃濫伐整地 國土變異監測破功、質疑南市府涉包庇圖利",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXb2VrYjlWNTI4UUdSaVo5UVpKSDMzcWl6Rm1RODlIQ3ZicmQtMDRyTlBFZ2RlOG0tS0FjWnlrX2lfWHNZdml4cndyazl2Y0Z0d0g0?oc=5",
-      "source": "公民行動影音紀錄資料庫",
-      "sourceUrl": "https://www.civilmedia.tw",
+      "title": "我是台南人，拒喝光電水！謝龍介公布「烏山頭水庫光電板震撼實錄」",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01UDlkZmY0dVQ5S3FLQVU4LTJ5NjZ2RHBUNzNqQVhjR1lpVU9mU2tXWnktb1Jod1NBbXF6aHBtbW94Rm93Rkg4QQ?oc=5",
+      "source": "台灣民眾電子報",
+      "sourceUrl": "https://www.allnews.tw",
       "summary": "",
-      "publishedAt": "2026-10-30T07:00:00.000Z",
-      "timestamp": 1793343600000
+      "publishedAt": "2026-11-25T05:31:22.000Z",
+      "timestamp": 1795584682000,
+      "matchedKeywords": [
+        "水庫"
+      ]
     },
     {
-      "title": "台灣今年不缺水？林得恩曝「3大原因」：4水庫蓄水率100%",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5IejJ5T3BpUGNfOThxTWc1WVJ1eHVRSnBheG5CMmxqb2RfSFVfV0hUS1JQMlFOTC1ZTlJJTUJHNDJCOVZlSnFXd9IBTEFVX3lxTE9OZjJ0d3dEbi1UNlY0eVBNamJBWV9xU3JhVjhGWEZXTkJCMDBobGpURXRlMXhubHlCOUYwb2ZOYkx1b2VEOEk5cjFzVGs?oc=5",
+      "title": "卓揆保證翡翠水庫無光電板 謝龍介盼：相同標準捍衛烏山頭水源",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UUVJaM1pGMk1FSTBTMUExWUNTcUJsc1NTVl9mR0RHYUtLZ1MtUzhLY2hzODQ1RW9nYURGanh5REYxTXItOE9ScmhKeExkaUhLa3BlU0w1YmpodnA2THMxRG9lWjZLQ1BIX1HSAW9BVV95cUxQVThHZnJXbVU0dXQ4S1lwMTV3aEdiLUllYnVweEswWVp5VVJ0LXJOX2tPYUlQanktMXF3ZTJHMlVkX2Q2cDEwNG9nNDZ0ejhpZ01Fb1ltcHVvVnpQWXFXbTd2eEQ0TG5VLVN6bXhMcTA?oc=5",
+      "source": "自由時報",
+      "sourceUrl": "https://news.ltn.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-25T05:24:34.000Z",
+      "timestamp": 1795584274000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "白黨團揭：烏山頭水庫光電板還用中國TP-Link網路設備",
+      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOTHpNM1VoOWZ3R3lCY284a2lPNWFwM0tLR2hrVnFSc2xzaS1pUU9QZ3loTlhUS2VTRzlRTlN3VF9XeGZMNGk2YTdtaGRZeHNhcVZrbFRkeDJnRXM5c2RuU1gwc2IzcV84MS0yalByVU1BYk5jTjdxZzhUS0s5RmgxX1U1ejR0Ukp2U2FDQ1puU3JqLWFmLWlVb2FWX09tbVZETVVwNzg1VDZGS2c5RGJlWmRibnlrS3h2aVVzWjRXMC1IMnhMZFNIdUozS0VPam9tanlHRGYtUENkUkoxV0VpMmxEaHFoelMtWmwtX2hxMkdmcWU1cW03X2hjU29USXVKanpUVWFsbzB4RnJWbGJaREVBVTJLYW0wX09lbkxCdHJjTmFHX2poaWhjQWQ5dk1neGZwM0FVS0JzcjI3aUsybWpBTHN1enVfZG1ESDJR?oc=5",
+      "source": "Yahoo新聞",
+      "sourceUrl": "https://tw.news.yahoo.com",
+      "summary": "",
+      "publishedAt": "2026-11-25T05:20:03.000Z",
+      "timestamp": 1795584003000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "選情受挫就下猛藥？從翡翠水庫看國民黨的選前攻勢",
+      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPOEJoaUh3QlJPSGtDWlJDRVJhd1RhZ181M0hsZzZOamJ0VEx6NnpvdjFFVUVsZTFwMGxjUFVBZjBkNFpWRk96S1hvNTk1czJfejR0MFNqWHdFVXZ2QURLUWlEUG1XQUVrdjRTRzhhaFBSeWg4eEoxQVlQNFR4WGJNZWN6aVN4bEtnUnB6dk55WEx0UC1PS1Q4OWFNODh5M3pGTC0tLWljMFVPRXBLbGZZNTdHWFdmVXNfRVBFUFpzb0h2UUFISGthc0lucWZjWVVZZFFxcm8zZ1c5aHVlYTV1Q0ZyUEJmZnMxMEpIdDlFYXJKX3MzVE40eFJoMGsxdkRjUE5QWjNLNkg0dDdlcVFLYjR0bmo2OFJzQjkzbGFJR3M2cUFPUTBocEFlMERtbDdGZkhJWERQY0Jaam96RkpVV001bEJoaVlrRUhYUTY4ZVFkMkh1TjdmbDhMRGU?oc=5",
+      "source": "Yahoo新聞",
+      "sourceUrl": "https://tw.news.yahoo.com",
+      "summary": "",
+      "publishedAt": "2026-11-25T05:05:25.000Z",
+      "timestamp": 1795583125000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "謝龍介下水直擊烏山頭水庫⋯蔣萬安突現身求一事！陳亭妃：選舉口號騙票",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1XZU1SRW5TLXJPTjhpXzJWVHd0dU9OalRFWXpRdGtUaEswRWsydWxmM05ZR3JhTm1FLU81OGdtVFFpZU1vWHdTd9IBTEFVX3lxTE1NcFdDUkxobkVDZEZLYlozYWRpcDdfY2lBNGFDSTBRMFFVMG9yeS1uVWpGTUhia3RHNTJMUjNacFRvdEhGNGdCTFMwWkE?oc=5",
       "source": "三立新聞",
       "sourceUrl": "https://www.setn.com",
       "summary": "",
-      "publishedAt": "2026-10-30T07:00:00.000Z",
-      "timestamp": 1793343600000
+      "publishedAt": "2026-11-25T04:55:00.000Z",
+      "timestamp": 1795582500000,
+      "matchedKeywords": [
+        "水庫"
+      ]
     },
     {
-      "title": "全台灣水庫吃薔琵大補丸！石門回補滿庫、曾文及烏山頭蓄水率9成",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vMHVDZUliRDZEdmp6QVdJQkY4TFd5ZFpxRXhQbm1sWWRBNXdKcWNnLUFhdUlHV2U4Yk1RU2luelJ1N0h3Sjg4TzZxRVNTWk10SGRNTHRTTlkyZEVEVnJR0gFkQVVfeXFMTlFVN1FaSmpJeGE2YWhhVVJBbFlmS3I4X19DOTBaOXAxellocWk0bzN1RkwzZmZvNklhNllTUFZyZGlWU0EzbUNpWGVQTm4tQU1RMFBoQzhubExtVGhmU09QcXlrSA?oc=5",
-      "source": "自由財經",
-      "sourceUrl": "https://ec.ltn.com.tw",
+      "title": "水庫埤塘種光電！陳以信轟沈伯洋、黃世杰忽視民意",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzdmFyYXVvcE9ZWWx5N1YxRjl5V3FTb3dTcVF0eDNfVEJ0NWc3RWtsd0pCVmJHdEt1X0xtMEpBN3UzdEhyelFDTzdNczBnbGJtTlpB?oc=5",
+      "source": "中天新聞網",
+      "sourceUrl": "https://ctinews.com",
       "summary": "",
-      "publishedAt": "2026-10-28T07:00:00.000Z",
-      "timestamp": 1793170800000
+      "publishedAt": "2026-11-25T04:50:56.000Z",
+      "timestamp": 1795582256000,
+      "matchedKeywords": [
+        "水庫"
+      ]
     },
     {
-      "title": "快新聞／全台水庫大解渴！薔琵颱風挾雨彈狂炸 這些大水庫「蓄水率飆破9成」",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pZHVpcG1wTEg1ejBJYTBsakNDcWVLZ1lPdHZfZjVWekdYSk5uOGljYlNEZkhKQXdjZHBkaDVTX29aWHkyR3FJT0cza3pXU0EtRGFWRnVmYWs5SzNkbVp5Vw?oc=5",
-      "source": "民視新聞網",
-      "sourceUrl": "https://www.ftvnews.com.tw",
+      "title": "台南市長選戰／水庫光電板再交鋒 謝龍介批違程序正義 陳亭妃強調4防線 | 中央廣播電臺",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53WDJvaXRyVWJuZzRmWVdaXzhmYmMwTzdkUlZTa25NTUstNExWWWJPSmRrVFBmTFdhaEdpU1F3ZWxvcTdBVndWYlBKY3hFeHF2SWtTZ1VB?oc=5",
+      "source": "LINE TODAY",
+      "sourceUrl": "https://today.line.me",
       "summary": "",
-      "publishedAt": "2026-10-28T07:00:00.000Z",
-      "timestamp": 1793170800000
+      "publishedAt": "2026-11-25T04:35:09.000Z",
+      "timestamp": 1795581309000,
+      "matchedKeywords": [
+        "水庫"
+      ]
     },
     {
-      "title": "薔琵颱風降雨挹注水庫 水利署：主要水庫蓄水率84%至100%",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQdUIydDg2aWV5NEtLZHVXckctOGhQcmtnZkgyXzNaeldXcU1Eb3hqa3JwUGJuTHF5QUR6ZXdxOVhjamEyX2hWclNscTNoRWk5a2hudkZvUlBHNG9pMHROZW00d1lYSTBvNTlJOVVWSUhBWFRCMXRrMnNTRDJKZG5Lc2puY0ZGS1VCNkNZQm85Q0VaNHUwc19CWGQ5WVB5ZWFjdXhYR3BVYW55bzFpNS1XdngtMmZKZ3VfVWJnRDQ1ZG9tdEdtbFVTRWY5NFRqclB2RlVkQTV4Y0pQT0w2cTBiRldHVFhRYWdfamRRZjBGM3VFVTZvRkhxSE53M244QWJxeUtaWXh1clBSVC1JUW95YzZTOVItbmp2dDBFcF9MV3lnRWYtblQyZnFBSFJOV1Q5M3hKUDU4R3pHb1hOT21JTmszSFdGZnJ3Tk55aVRwM1lOV0hIRHk1QVZrSzdpNGVDNUZrN2xEMlVQZw?oc=5",
-      "source": "報新聞 Mega News",
-      "sourceUrl": "https://www.contentplatform.info",
-      "summary": "",
-      "publishedAt": "2026-10-28T07:00:00.000Z",
-      "timestamp": 1793170800000
-    },
-    {
-      "title": "颱風薔琵帶來降雨 石門水庫調節放水蓄水率回升至100%",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2aEgtdmxBRVZyRFFyV0dwMzFnNjY2ck9KMHFRWEQ3V2oyRHo5YlJyZG1VWl9XYV9penVwcXdXbDBTc3M3U3JxN1kzVjR1QjhRem0zeTR3akw1NzhtN1M4?oc=5",
-      "source": "中央社 CNA",
-      "sourceUrl": "https://www.cna.com.tw",
-      "summary": "",
-      "publishedAt": "2026-10-25T07:00:00.000Z",
-      "timestamp": 1792911600000
-    },
-    {
-      "title": "及時雨 曾文水庫蓄水達9成",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mSzgwaXlEbUh2ZzkzYXl1WXZGTWI3SHN2Vzk0MjhqVUg4TW1jMVI5Zm9oM3FseDV2aDVZLUsxdzhVZ3hnYW1RN3dFbWtiYnktWXc?oc=5",
-      "source": "中華新聞雲／中華日報",
-      "sourceUrl": "https://www.cdns.com.tw",
-      "summary": "",
-      "publishedAt": "2026-10-24T07:00:00.000Z",
-      "timestamp": 1792825200000
-    },
-    {
-      "title": "薔琵暴雨狂灌石門水庫！蓄水率飆9成5 暫不開溢洪道",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xZW5Fd3lhWXZycGtsSU1pd2I5dGpBTTY4MkhrN085cDc1ZEhJdmg4RVNhY3VEOVZkNEo0LXhBS2hYNHdJdHRfSnN4UFU?oc=5",
-      "source": "桃園電子報",
-      "sourceUrl": "https://tyenews.com",
-      "summary": "",
-      "publishedAt": "2026-10-24T07:00:00.000Z",
-      "timestamp": 1792825200000
-    },
-    {
-      "title": "薔琵挾風雨襲台 石門水庫蓄水率破95%",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13VDNKa0RISVVDcUV2Ui1qNUhtcUltR1hrQmdxRVRRdFl1MG1vMEJiT3oyNHVZYzR4QW1FYzdBajdDdEhrbElNdUpLMGpwVmVuSUNlRHYyMnlEcUtF?oc=5",
-      "source": "鏡週刊Mirror Media",
-      "sourceUrl": "https://www.mirrormedia.mg",
-      "summary": "",
-      "publishedAt": "2026-10-24T07:00:00.000Z",
-      "timestamp": 1792825200000
-    },
-    {
-      "title": "強颱薔琵路徑西修 曾文水庫降雨預估值曝",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLZURadVp1endUNWQ5c25kSmxCOVZDUFRrUEMzcU0yYzBIa1pXTUl1X2lhYVd5RTVkWVhMYmxOR2Q1NkExWlY3Zjk5V0RIS2h1RmZrRmdrV0lNLWZwOXFiaVUxNVfSAWpBVV95cUxOM1NCMWdNU0RGU013WUZlNXB4ZTkyNmswTk5kZ2tLcHRuNVFmT2IzVmZhTFhaYWFHV1h5NExySHZjVHJraGNMVFcxbjB2OEZzMlo0Qmg5aEdzTHJlMkFQTjFsbGRWZGtpNlZn?oc=5",
-      "source": "自由時報",
-      "sourceUrl": "https://news.ltn.com.tw",
-      "summary": "",
-      "publishedAt": "2026-10-22T07:00:00.000Z",
-      "timestamp": 1792652400000
-    },
-    {
-      "title": "強颱薔琵逼近！北水分署拚石門水庫滿水無災 操作20萬立方公尺淤泥入海",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XVEMyT0daVEp6MFZDWXQ3ckR3R1VNQ2ZsTElNd242aGhPRkFyYVB6SnhLbkctMlRrNllQNzVHLVhXNDFHTzN6TEwxREg4RlFI0gFWQVVfeXFMTV9MVXN0ODlGWXUxSUlyUXVadnhaTnFFQW4xRWttZUNsY2tkY2p3dVozLXVqaDlHWDFfV042SlByQ1I5OXFJMGV5QXBlSG9SSGxMMjlYWlE?oc=5",
+      "title": "謝龍介竹筏直擊烏山頭水庫光電板 喊話卓揆捍衛水質、蔣萬安錄影力挺",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIbFFPQmdrU2pEWnpUcy1UMkx5UnF4MFI3LVZ6cF81UXlCZGsxRVhidGs0STZkMFo0VTY1ZDQzZjk1ZjU0X214QWhmWmhVQU9HMEJ30gFYQVVfeXFMTUVna1AweTBFN3hFNHppV2Rta2pyZ1kyN3dyeE1qYUVXYkxQUXZWcXRRYTJRa2o0ektCbmV6eXFYdF9TclFfdnVNMjZFS2ltZDVrbVFrSmF4dg?oc=5",
       "source": "UDN",
       "sourceUrl": "https://udn.com",
       "summary": "",
-      "publishedAt": "2026-10-21T07:00:00.000Z",
-      "timestamp": 1792566000000
+      "publishedAt": "2026-11-25T04:17:42.000Z",
+      "timestamp": 1795580262000,
+      "matchedKeywords": [
+        "水庫"
+      ]
     },
     {
-      "title": "石門水庫蓄水率91.7% 北水分署備戰颱風薔琵- 地方",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nZ3FpemYxVUhCaHY1eVdfNnR4bzZsWU1la0RZSjdqOVJraDR5a3hFTS1mZk4tZkRjdXpIa24wbGlGZ09xalhSbzBfc29fSEpjcmlSRlVBT3BoZkIzSW5WcmNhQTMxRkxNSS04Ymx3?oc=5",
-      "source": "華視新聞網",
-      "sourceUrl": "https://news.cts.com.tw",
+      "title": "謝龍介實際到烏山頭水庫勘查光電板 痛批這水庫種電根本就是個中央、地方的弊案",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yaGpmMGNyanRtSC15aUZ4bDNIdHlObkhLbG1lSU1OSkNrN2x0bEdPYjdhT3UwTDBTTFVlQzhoa19sbmNSWjQ3bUotZ1VyZUlubzNqV0IzR3FtcC1URk40ckhnUlA1RzYy?oc=5",
+      "source": "視傳媒",
+      "sourceUrl": "https://nvns.net",
       "summary": "",
-      "publishedAt": "2026-10-21T07:00:00.000Z",
-      "timestamp": 1792566000000
+      "publishedAt": "2026-11-25T03:59:36.000Z",
+      "timestamp": 1795579176000,
+      "matchedKeywords": [
+        "水庫"
+      ]
     },
     {
-      "title": "累積雨量不到3成 曾文水庫蓄水率2週急降10％",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14bFRPR0NLTjVud2RNVGtpdXdET0RfS3JCQ0dLYVhRYjFOdUpkQ2c3c2RoZFFxdHl2QUd1dExkNS1BNkdiT181bHBEMDVIMlU2RDNINTZlNUE3ZG1EQ1o2bV9hMljSAWpBVV95cUxQeUtPM2ZRQzc2d25ISkpzZHpXM1RWb0JBTXdYV2xsQVdHS2taWVgxWmdJeW83a1FNN3M4VGVmbWtLblpWbTNIU2NnN3JFV3RvdXlpQ2xENnc3bEJGNGhCXzlMX092c2txQkhR?oc=5",
+      "title": "台南市長選戰／水庫光電板再交鋒 謝龍介批違程序正義 陳亭妃強調4防線",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YWFJEczFOMThibmk3VEUtTjAweXpHTlhyVkloT2FWRHlySmg5V0cwcTlncUFaemJVazduaHFpN1NBaXU2SVZTbkFKd0hBYWs3Tl9fb1RMVTI?oc=5",
+      "source": "Rti 中央廣播電臺",
+      "sourceUrl": "https://www.rti.org.tw",
+      "summary": "",
+      "publishedAt": "2026-11-25T03:47:24.000Z",
+      "timestamp": 1795578444000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "律師挺水庫光電！陳沂「連3問」反嗆：別敗票",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQVjFNZFRJZHQwUUVYaDR4MFMtcmp0Y2JWSHZsZWI4UnIxN2FZU1hmMUxjdm1fbjBsQTZzdHI4MHZHWW9EV3JSTTJsNWpYd3l2TzBTN2ViUEZqc1VoMmZiRE9tX2k0c1c4NnZ0dG9MWDBzX2M5eTdpYzFQOXJKTmJGUlZfU09wQWRiZnFBYk0xSkxmODBmTjZXSG9EVzJkNktfZjVlUGpBYmRENG1lT3duSi0yWVU5Tmg5NTRCNVM4a3VSYmFTMFE2elB0NkZTaE56RU9BZE1LMnQ1UHBKZDVnZWJubkM1bUd5U1htNmI4NVdvZm83cVN5V2hjQ3FLZS1hMlpDTnVibzRJLTZfRjBNR01JcmdvT3F2MHc?oc=5",
+      "source": "Yahoo新聞",
+      "sourceUrl": "https://tw.news.yahoo.com",
+      "summary": "",
+      "publishedAt": "2026-11-25T03:11:10.000Z",
+      "timestamp": 1795576270000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "掃街巧遇水庫阿姨 蔣萬安：市民挺身而出",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96VlBVMG04UzllcmhOaGF4Z0pkY2E1VC1GWGRJWW92cE9Cd2VSYUJ3ZzFsQWxTVnZ5VlBvZ2paLTJMNkw5UGY5dTdRaXFaQ0xveWpzamFTNkE0LXBBM3lvbHg3ZTl4Unc?oc=5",
+      "source": "中國評論新聞",
+      "sourceUrl": "https://hk.crntt.com",
+      "summary": "",
+      "publishedAt": "2026-11-25T03:02:42.000Z",
+      "timestamp": 1795575762000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "羅智強曝蔣萬安低調護翡翠水庫 分享三件事",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55RWNZS09DQU5VM1VMcGJLSHNCQ0ZRbmFfZEkzYTczZUFhUjcwREhwaHJkbHFMQkIwZGhQWUxfQ3FxcjlBZm9wNTF1Q2RIUnVnU2owOFQxUHByX3NVS3N1S3VfLWgzN1k?oc=5",
+      "source": "中國評論新聞",
+      "sourceUrl": "https://hk.crntt.com",
+      "summary": "",
+      "publishedAt": "2026-11-25T02:55:40.000Z",
+      "timestamp": 1795575340000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "挺蔣萬安才遭誇「擊退洋流」！水庫阿姨衝車掃…藍軍一看反酸黨中央",
+      "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxObDZaOTkzaWtLNTBZY1lISDZfM2ZEQkJVdWlnTXpWQURuRmgxV3hsQ0JjTFFkUW9ZSmRRSzFIbXNNQTNWeG9TY1hFUVhxTS1sSWc2bDJ1aTU3U1VBTng5OEloZWRRbGJxVXdGZDN4MENKNEdLbUFVNDB0TzR1cjhjcWpzQU5iLXA5b1pPa0hKQkw0dTdsa1ZrNHh0REZNR2VnZUlWekFGdXZaUi1xNHZQSjlmeGtQU2NRcXhBTzNBTUIwVUVkbzlPQ243R2lRM1loRlY4RTIyLUt1endHb25fMUMtVjcwTHU1U085Z3B2cUdlRjhLb3BUM0I3aTVKVS1iX0hTRTVqTGZwbkF2ajFLN3FfbjZCcVR0dGlDT1FKSWgtdXpMaGRrQXF6LVl1d203d2ViMVZfQzEtZHZDWlBzM2l2Wm0wM1hORUd1X3BlNm5hbmpLTktDRUNiMk5GaDNwaUNwSEV2SmYyRFFpa2xqd3kxaXEyRFBkWkEwQ1RFZGxoWG1CSmNYUUJRYjZKelV6?oc=5",
+      "source": "Yahoo新聞",
+      "sourceUrl": "https://tw.news.yahoo.com",
+      "summary": "",
+      "publishedAt": "2026-11-25T02:33:25.000Z",
+      "timestamp": 1795574005000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "喝杏仁奶比用 AI 更耗水？研究揭九成耗水來自發電廠",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSGI4ZzRxT0EtamtlQ0UyUDAyYVdvWnZnTmswUEdRZzNpRHR5cU1Pb0pUVFA1Q0VOMXMtZlBOMVRDdVozMlNORGUzMUZYTlBDQzlMR3V0ZUhYamkzX0VzdjctWjR5N0h0M3IwQ2VubGFwRTdjaV9wN3JUNmNhdkdaOTBmMV9OX05tVVN6ZVF6VUl1SkFWMG80YkVZRQ?oc=5",
+      "source": "TechNews 科技新報",
+      "sourceUrl": "https://technews.tw",
+      "summary": "",
+      "publishedAt": "2026-11-25T01:54:50.000Z",
+      "timestamp": 1795571690000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "選戰倒數才知！羅智強曝蔣萬安低調護翡翠水庫 只回一句話",
+      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPVXExbE1xd2NqT0UxRTFtU2hkZ3U5SE1MdFBmZ000QVpCQnJrRUp4ZDcwV0lQRTBSbVhqWHhUNzFWOXZHTjJyYWNVYnE4WHhBUGRsdGpfZ3BVRy03NWcycHU1bkxPV0loZnNSTzBXTlVfRElrTXVqaW9lczNtb25xcjBjcEVwMkRGcjkxakNxU3V4SU9NMUV1Q1J4V2ItUjJfYXA1cWExZVNieUVaRjBUcnBMV1NhUUxabUxLV3RtMm1lRTY1NzdwTWFUc2pPR1dBaXdNM2RPOWF6dlBSMVUzWWI4VmktMko4cVZaR1BRWXVJN3l4clBHZTNsTUo0bGxQTjBNOFBGbnloYS1MOEdQam5tMEIxblVwUUJXTnBsTUNnLUh5Z3c4c195bk1nNkUyTUM2NGpUWlZNeElWRDFQSWc2YkwtVDlvZmdDeTdxSk8xNmt5eWtqS0FuTkZVVk1TUmlKUEtPdkhzX3c5WkJpeGZaT3RsOWs?oc=5",
+      "source": "Yahoo新聞",
+      "sourceUrl": "https://tw.news.yahoo.com",
+      "summary": "",
+      "publishedAt": "2026-11-25T00:51:56.000Z",
+      "timestamp": 1795567916000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "李長榮勇奪TCSA台灣企業永續獎四項大獎 展現綠色轉型關鍵影響力",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SSXU4TE42OFllYlMyR1BydkRIUHZtT09IWVRBbU9ZTXQwMzVMR0NBT21DOU5fS1FPdlFtUmFRdWRmenpoaDMtdHgwb04zakpiZkE?oc=5",
+      "source": "蕃新聞",
+      "sourceUrl": "https://n.yam.com",
+      "summary": "",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "timestamp": 1795564800000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "雙北保翡翠、台南喝光電水？謝龍介搭竹筏直擊烏山頭水庫 蔣萬安跨區錄影聲援",
+      "link": "https://www.chinatimes.com/realtimenews/20261125002368-260407",
+      "source": "中時新聞網",
+      "sourceUrl": "",
+      "summary": "謝龍介表示，去年丹娜絲颱風來襲時便已下定決心拆除，為此曾4度前往勘查地形。他不僅承諾當選後將頒發榮譽市民給揭發此事的漁民，更立下重誓，若上任1年內沒有依法拆除烏山頭水庫光電板，「我正式辭職，向全台南的市民謝罪」，誓言把開闊湖面與乾淨水源還給市民。",
+      "publishedAt": "2026-11-24T19:49:00.000Z",
+      "timestamp": 1795549740000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "蔣萬安巧遇「水庫阿姨」驚喜同框 陳沂隔空讚「妳是英雄」",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EOHhNdzNVYVVqU3J4cTB6cDFHaVJOUGE5elRQSUdhY01yb0pLMmN2NTc0OHRVYm01Z0FISi14SHUtZUVycW5iSUVBWVJfUlJpOWwtQlZKNFI?oc=5",
+      "source": "梅花新聞網",
+      "sourceUrl": "https://www.i-meihua.com",
+      "summary": "",
+      "publishedAt": "2026-11-24T16:57:00.000Z",
+      "timestamp": 1795539420000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "今與水庫阿姨合照...蔣萬安曝驚訝:只要我當市長一天絕對守住翡翠水庫",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FcmVpZllTWVU0V3I0SWFabnlnLXhhakZaQ2lTX0VkX0J4dDJQSnRrS1RVR3RlTjV5T2o2Q2VWV1RuQlJ2WTRSc293ODBZWl9UNV84MzJrVldxeE01ekgzQdIBYEFVX3lxTE1FcmVpZllTWVU0V3I0SWFabnlnLXhhakZaQ2lTX0VkX0J4dDJQSnRrS1RVR3RlTjV5T2o2Q2VWV1RuQlJ2WTRSc293ODBZWl9UNV84MzJrVldxeE01ekgzQQ?oc=5",
+      "source": "經濟日報",
+      "sourceUrl": "https://money.udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-24T16:10:31.000Z",
+      "timestamp": 1795536631000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "與水庫阿姨合照…蔣萬安曝驚訝：只要我當市長一天絕對守住翡翠水庫",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oMlZvMWFDb045VGtWLVhLbUhNNmJBUzNGUWpSVG94aVdGUjFCMWo2Y2JDNUZZVDFEOXVHNFFpdGVxSE5keW1LOUZ3Q1pKWUZmRGVr0gFYQVVfeXFMT3o3NlNyVlY2WTNEMmNXLVZZSnF2REZhS2x1aHVxZVJ6NDlCdVQtQ09rSDNwN3pfLWR1a2l2WmVxNllhdS1qMVlaaTU1dDFHVVM5SlN5TU5fZg?oc=5",
+      "source": "UDN",
+      "sourceUrl": "https://udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-24T16:09:26.000Z",
+      "timestamp": 1795536566000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "車掃拚場 水庫阿姨：為蔣萬安勇敢站出來",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Kc0FfdWdXVFh4aW1NbHhRZ2YxeWJVek1oUU9RVnZVWUVGZUI4b1UtUWxaTmtTZE41S1FKTWNTaTJSTkhrSV9lSm9QQ2stdVg1b3lV0gFYQVVfeXFMT19zRVRxV0ZtN044dFd1MjM4czI1VW1DV3JGQlFQTGF1TTQzc29idlVlem9peW5PNldjdHA0WlF3eXpmV1NMQVA3ano1Zk1pcmtwTjlIRWFYdQ?oc=5",
+      "source": "UDN",
+      "sourceUrl": "https://udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-24T16:00:00.000Z",
+      "timestamp": 1795536000000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "台南選戰攻防升溫 謝龍介主打水庫光電、普發2萬現金",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wNjJCMFZFakpYLXFfSzFZSHJNVVVPd0xnbnF4R2d0QnZMTEdiejgtM1psamlHOWlBVzlvVldmcV9Bc0xLOTlFLU9yb3hnUTIweVN4MVozVTRNVUpMS1pjX005OUk0YUxlcEHSAW9BVV95cUxPTDlOMHBpZXdmZUszUU04N2hrTXVmSDlDTWtSYTg5ZHUtcHR3N3N5UW44a3dwTWlXS3VOSTE1Z3RQZnVaZC1xNFlZR21GejZVRUJtQ1BvOE9lUmh4emdWZFE5c1VSdlJOOXVHaUgxZEU?oc=5",
       "source": "自由時報",
       "sourceUrl": "https://news.ltn.com.tw",
       "summary": "",
-      "publishedAt": "2026-10-17T07:00:00.000Z",
-      "timestamp": 1792220400000
+      "publishedAt": "2026-11-24T13:59:36.000Z",
+      "timestamp": 1795528776000,
+      "matchedKeywords": [
+        "水庫"
+      ]
     },
     {
-      "title": "曾文水庫蓄水率失守9成 採關鍵策略節水",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45Y09mRHk2QllvcVlPVDBSc1NxSmMwMjd4U3lMUWdZaGR0dU9fVThNbjlldGswUjNTRlVOeFZxMFhmbTBUUWhqbWh6amdlYnpSeWF6R1JHbkN0dzdVeGttN29PanfSAWpBVV95cUxOaG9GaWtmUDVFSDA1d2thWkR5OTNOT3JkX21GeWFrUFY1OEJsU3NJUmF3NjhQMmo1cjgySDNwNWE1TXNNWDY2NmxwQlJsWFBRdWx5ckhoODEyWDlzV0FQaExyRV83dldZdkVB?oc=5",
-      "source": "自由時報",
-      "sourceUrl": "https://news.ltn.com.tw",
+      "title": "〈社論〉水庫裝光電？飲水安全應優於能源政策",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKUVEzbXE5MTF5YUllRUJvSlJmOU1IblhzSjc3QzNWc0Z3cUQtMV9IQmdEZ2NMaDltQjY4VVFWNzNCcGpmUDZDWVNvbUVtWXJBVXc?oc=5",
+      "source": "中華新聞雲／中華日報",
+      "sourceUrl": "https://www.cdns.com.tw",
       "summary": "",
-      "publishedAt": "2026-10-16T07:00:00.000Z",
-      "timestamp": 1792134000000
+      "publishedAt": "2026-11-24T13:56:17.000Z",
+      "timestamp": 1795528577000,
+      "matchedKeywords": [
+        "水庫"
+      ]
     },
     {
-      "title": "蓄水率跌至92％！曾文水庫入不敷出 六角亭浮現",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jOV93TjF3OE9ET0l5ZWx0bUctazlic1haRGZpanRkTU9aZ0xRTzR2cjVjdnZlTERqUEdDMnkzZTZoQmFGSVlkRnQ0T1pFSHhycXVCOC1IVWVTYmw0a2ViNWd1TVjSAWpBVV95cUxNX0IxUnNLY2ZmbEM0Z0lDZDY1WGNneWpqdWdaY3ZjSlFwbGkySDJkODhqMXhZRnhHMkw5VkFubG9tQUFWWkZNQzcxd3AxalJpRkRKb19iWU5vMHJKVm9QQ21nUGcyMVl0LUlR?oc=5",
-      "source": "自由時報",
-      "sourceUrl": "https://news.ltn.com.tw",
+      "title": "林智群挺水庫光電板轟就妳最聰明？ 陳沂「連三問」4字狠反擊",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CVzF5el9pdGFhcTNOTmdhVmRXYmlIaVBVal9SVHV4V1JicXc2bm5RMEo4bXZ1WnVyazFNWkRXaTBVdC1ZSFNWTEFuNHNLbFBY0gFWQVVfeXFMTUk0UWNieGxXM1dlOXp1RGFNQnNmdldzUTFYWkdHRzRHcGpFcUNiUkZUSkpYNUQ1TnJzaVdYeFF2QnhISDRBVkRYMHhKMjZ4Y1pSeHVHNnc?oc=5",
+      "source": "UDN",
+      "sourceUrl": "https://udn.com",
       "summary": "",
-      "publishedAt": "2026-10-13T07:00:00.000Z",
-      "timestamp": 1791874800000
+      "publishedAt": "2026-11-24T13:32:54.000Z",
+      "timestamp": 1795527174000,
+      "matchedKeywords": [
+        "水庫"
+      ]
     },
     {
-      "title": "逾1個月無豐沛降雨 曾文水庫蓄水率10天減逾5％",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45WHJoaTJaX2F0WVN3dU5VM2VmMGJfRXc0WnBJanZBRDNpbkFYTVZGeWR0SVF3UXBRc2k0QWpDaDZWUGdFTFJ0SWpMbkxmTnpuUjFHQ1BrRGoyMjJmTm5ocXB2cGvSAWpBVV95cUxNbVJUZDBLWFF5UFRnM0xxcnV4a3pHV18yV2hoUVpaWUhSbzZObzZRZGkxaGRkbEUxdExCbjVsSHlqUm9tNklCOU4zTC1hRXRzUkNKdFJxWDdLQzlGeE5QdTc0MW1ncEN4dzBn?oc=5",
-      "source": "自由時報",
-      "sourceUrl": "https://news.ltn.com.tw",
+      "title": "同框林于凱另類藍白合直播 柯志恩再拋演唱會、水庫光電板政見",
+      "link": "https://newtalk.tw/news/view/2026-11-24/1073520",
+      "source": "Newtalk新聞",
+      "sourceUrl": "",
+      "summary": "高雄市長候選人柯志恩23日晚間與民眾黨議員候選人林于凱推出另類藍白合直播，開箱傳說中的「高雄最神秘肉粽」鳳山步校阿鳳姐肉粽。柯志恩笑稱，這是許多在高雄當兵弟兄的共同回憶，甚至連指揮官都是吃著阿鳳姐肉粽長大。兩人也藉直播針對演唱會經濟、環境、青年居住及教育等議題提出政策。針對演唱會經濟，柯志恩表示，市 ...",
+      "publishedAt": "2026-11-24T11:09:00.000Z",
+      "timestamp": 1795518540000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "陳亭妃鐵馬催票逾770公里謝龍介重申拆水庫光電板| 政治",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hMUxKZS1mUHRVMy1XUFpKQm9hajFFUHJDQlRERmhNanVISDFuQjU1Q2UzLXg1aDRuMVN3ME1pQ1l4X25vTC1US0k4Y3haRGphVFdXY1NMTFhJSHVxUmww?oc=5",
+      "source": "中央社 CNA",
+      "sourceUrl": "https://www.cna.com.tw",
       "summary": "",
-      "publishedAt": "2026-10-10T07:00:00.000Z",
-      "timestamp": 1791615600000
+      "publishedAt": "2026-11-24T10:47:00.000Z",
+      "timestamp": 1795517220000,
+      "matchedKeywords": [
+        "水庫"
+      ]
     },
     {
-      "title": "【新聞稿】白河水庫水源區違法開發 環團痛批南市府農業局公帑開路排水、涉嫌圖利",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XN0ZDcTlKRnpxdFhzWkFVTjJ4N2FIRzcyNDNNRlJ4V1ZyYTlZak9TaXJBREpMaGFGVVZjS3NWM19lWWt1dkVGWTk2bElxTzcxTWhV?oc=5",
-      "source": "公民行動影音紀錄資料庫",
-      "sourceUrl": "https://www.civilmedia.tw",
+      "title": "學者：中國將湄公河水資源治理安全化 擴大中南半島影響力",
+      "link": "https://money.udn.com/money/story/5603/9899186",
+      "source": "經濟日報",
+      "sourceUrl": "",
+      "summary": "中興大學國際政治研究所教授譚偉恩在回應王占璽的研究時表示，湄公河無論是水力發電或民生用水，對於中南半島國家都至關重要，中國將水問題安全化，將影響這些國家對中國的認知與互動關係。",
+      "publishedAt": "2026-11-24T09:30:00.000Z",
+      "timestamp": 1795512600000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "學者：中國將湄公河水資源治理安全化擴大中南半島影響力| 兩岸",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54cE94WXE1cXZlQ056cm5PWmtxYlNCOE9BWFNzUWxqbUk2VGJIdUtXVURLcE13aUlkcm5fMXRQMHJmVDc1TkE5NndWR2RzUTlfMGtwbHRqVTYwYWY0R2c?oc=5",
+      "source": "中央社 CNA",
+      "sourceUrl": "https://www.cna.com.tw",
       "summary": "",
-      "publishedAt": "2026-10-07T07:00:00.000Z",
-      "timestamp": 1791356400000
+      "publishedAt": "2026-11-24T09:17:00.000Z",
+      "timestamp": 1795511820000,
+      "matchedKeywords": [
+        "水資源"
+      ]
     },
     {
-      "title": "白河水庫保護區道路工程惹議　環團質疑公帑替違法開發開路",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tQjNEZ3NCTmFKUFlqaURwUTRBemxHdTkxOVdxRjVabUNuaVZ0Z0ZNYVFGZWtSR25GVHN1anBCWEEyUVIxT2RTOHVkb3MyX2FPekR2c2ZDYTVTNG5kenfSAUtBVV95cUxOa05wOWlKbG9zczNkZF8tcGtkbGhtOGNXc3FPU0tYOGdqRE85Z0tTdGdQTVFpRXRVRmo0V0l6YWNpc1dsalo4V3pDbEk?oc=5",
-      "source": "ETtoday新聞雲",
-      "sourceUrl": "https://www.ettoday.net",
-      "summary": "白河水庫保護區道路工程惹議 環團質疑公帑替違法開發開路 ETtoday新聞雲",
-      "publishedAt": "2026-10-07T07:00:00.000Z",
-      "timestamp": 1791356400000
-    },
-    {
-      "title": "曾文水庫以滿水位進入10月 創近8年同期新高",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkOV9oZl9ybk5qSnd0Tk5WWGlXbTgwd19ZbmhBRTFrSG9yZ0otdFNhNEs1cXpwOTZlQmpSNHpicHNZMlJzZHNFOFFiZkRuZHJSWmF0TTlZeVlkcmtVWGNzRFR3MWXSAWpBVV95cUxQNUtJUFNOZERJM1IxLWpYdXdOaC1BNUltd2laUURhclVGMnlLUGtIUm1xb05VU1JkYnRFU2hHX0dFc0w5NHFtSmc5Yzk3XzBYN0sweVItRTEyWi1yMDJ5UE45ekFaOHBWMWNB?oc=5",
-      "source": "自由時報",
-      "sourceUrl": "https://news.ltn.com.tw",
+      "title": "獨／「一人擊退洋流」水庫阿姨曝心情：要為蔣萬安、為自己勇敢一次",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41N2JnT3ltNU5fR19ieDBack1JUHhoSmpJQ0E4Z3g1SlZ6NFJPbXhKRVVYOGJkNDVTQVNmeXlOZHUxZ1ZyanhWWmZEZmRxdGZCUkJv0gFYQVVfeXFMTnZXZU9YOHhzUHpPSm81SF8yRm1wbmIydExrbWprR3FJY0JsSlNjLU9fLWw3ZjJQQkF1Q29FLWM0TGhXZ1c4MHFmUlI5eUpwdDNVUndVNFExRQ?oc=5",
+      "source": "UDN",
+      "sourceUrl": "https://udn.com",
       "summary": "",
-      "publishedAt": "2026-10-01T07:00:00.000Z",
-      "timestamp": 1790838000000
+      "publishedAt": "2026-11-24T08:42:08.000Z",
+      "timestamp": 1795509728000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "陳春暖赴立院爭取卓蘭水資源改善 中央三大水利單位齊聚協商",
+      "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxQS0VDSDdBTFBoTmtvaVlNZndhZjZ3NVVhUGlybVdVVGs1Xzk1SDlKRDV1bjQ5WGVSQVBJUmZRbDBjeGtwcmFuQWF2dkJiRk9FdENCc0pjUm41NVM2X1JfWFN1WTRuTWtIbmVCeTNiR1ltbnU4TjlRNjlUR212cUZvYS1PanhWM0txZ1Z4NC1wWFdtTkxEcVlzUTNXb3dUcUpielZVYkRDUU16RzZrZnV1RnNjdFpMaF8yX21mdFhxSS0yNWNsZmFOVl9WRUFDRzN4LUgwbHc3bnJhRTFCUzJsMWxseWxpaFdYc2ZJb1dCemE4d05hRmZEaVBlbkJkczU3MlNmTmdjVlJRWk9jOU1GaXpJTE9ndDZKaTZROU1aRnBYc0VHdnhHaVUtbWhJdHZHVDA3YmJQaW1CTC1vQ1Zxb0FpT0RfRC1qTzN0aGZHdnRUMmlvQzctZ3gtZkt4cFZVeTJiLVRyN25maWJ2TVpJQlpLUEg0RmlBckNWOHktRWFLOHUxRkdLTFF3T3hyZThrQmxYVFJxa0o?oc=5",
+      "source": "Yahoo新聞",
+      "sourceUrl": "https://tw.news.yahoo.com",
+      "summary": "",
+      "publishedAt": "2026-11-24T08:23:20.000Z",
+      "timestamp": 1795508600000,
+      "matchedKeywords": [
+        "水資源",
+        "水庫"
+      ]
+    },
+    {
+      "title": "中市污水接管破33萬戶、奪逾百座國家獎",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kZXB5V25Tc0loV2p0VE1fN3ZkV1lBTlJVbV8tWVhWZ2YxbFVCTF9COWRKQkU1RWU2VkViVU9peGZJV3htbUEyVy12U1JheUVrdXRrUzFIR2thdW5xRUUwbmV1dkRzQUE0M2FILWxkSGdBVVE?oc=5",
+      "source": "環球日報社",
+      "sourceUrl": "https://www.worldnews-tw.com",
+      "summary": "",
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "timestamp": 1795507200000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "【雁默專欄】水庫不能設光電板， 水污染只是問題之一",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQbUdUblFqbFdUSjcwbndtMGM1a1UteUtQbHhHNTZtNDB2MVBEYzNoUUM0cmx0VlU1VTBNaUxveXAxQ2JhTjAxQ1dXb1FPMHJ6X01makJ1VWhkZ2lFX2FLd2tzRHFxdVJNdWwzSWpCS0Zkc2V3VHU4WnpRU0FBR1NIZno4MV9WLW1XSHVQQm16YktpSW0zM01kaHhkc1JMbHdOaUNlU0FUVXEwbDU1Y190d2lsZEM0dllSM2FyLXlTZ0hvX09PbDNUUjFaZUlpMkRleTZ1MEUxRDgzTDBJcnkzQzJ4Nk9pMDhpMmRnQmpnYkNaNUtNdHd3NHl6YW5qZGt6NGxpWFB3Y2dIb01SRG9hVGt0QkFIYUZ6ZEZQVGY3eXRycFZaR29rMEEtS0NISlZtS3c1ZGluckdIeDc0aldOOXZn?oc=5",
+      "source": "匯流新聞網",
+      "sourceUrl": "https://cnews.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-24T07:10:01.000Z",
+      "timestamp": 1795504201000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "水庫阿姨合體蔣萬安 陳沂讚：妳是英雄、一人救全村",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nUkJCUFlDdXNwbkl5QnktUjVvNGk3eG83Z21YRVlIbERTVnIxWktUdEx5WURpN2ZqbkVzV183NHAwMGwyUVIwWGlEemhuclhoUTVj0gFYQVVfeXFMUG1tRWdqX2c4UXZwSVVRbzlvY1dnNUtEam1mSEJ5Sm1UejhtbWw5d0NwLUlVSDZ5d2hkak41UTJjZjJJbGdJbEt6aWRDWlhSaXlRM29xb294TQ?oc=5",
+      "source": "UDN",
+      "sourceUrl": "https://udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-24T06:20:13.000Z",
+      "timestamp": 1795501213000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "「水庫阿姨」現身力挺蔣萬安！2人合照曝光 網讚：一人擊退洋流",
+      "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPeTJMSDdXU0RkbzBhc0V1LV9VVk1pT2lXa2R3WkhWcEpuNXFSQmxPM3ZFWEhMMkdKTFdMdVZ0TDlUOThMYXktMmZkcGN5WjVXdVlJakVqWTBXWXBFX2l1S3hCUnM1WVZtZDV4eW5ySHVXeFdORXRqaDktbUUtNl9tejA5eXA2aS1aTmhUak8wMjhSZ1BXVk9WaV9fcExFWTVnQWdqUGt4TTBZY2RHTktIRXlWUXNMeEZKMXhDYlVKS2loVlJlV2dmdEFsaWxnWFVQaXVQYXU5OHZ4WXJ6TE5QNU96b0xTVnJkaENFVVl3VHZKdElzajR5MHIwdjZ0VTI0Sk81M1U3OVF0VGhsbXdnaGtyUUFpOGp0WkJ2SFVpSmFzVUJPWGNIbGdROExMNUhUSmYzaDVUNkVxdTl6Y09XRU5LWV9FZGJURUZmWUdldjduREhyVE9NVDRsQmZjXzZ5LWkwN3pGN2l2Q2FfeFE?oc=5",
+      "source": "Yahoo新聞",
+      "sourceUrl": "https://tw.news.yahoo.com",
+      "summary": "",
+      "publishedAt": "2026-11-24T06:16:23.000Z",
+      "timestamp": 1795500983000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "網讚「一人擊退洋流」 水庫街訪阿姨與蔣萬安合體 里長曝真實身分",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kbWpJMERxOW95eFRPZjhlS1U3bVdtZ2YyeUhkRWwzZXY5bWtkbzhhdTh0TXhVX1dQMFV6VTluYU5ranRpcFR0ZDlEU1dwNm9SVlBj0gFYQVVfeXFMTUctaW05dFNSSENtSlJSbThzN2NCcE5XN3ptUmM3MXZrUTFqNlpLQkkwT0FvamU0dGdyamxRaFY2VHBXUWJsWVBCdFIzSkk2bU1HcWRsU0YxYQ?oc=5",
+      "source": "UDN",
+      "sourceUrl": "https://udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-24T06:03:46.000Z",
+      "timestamp": 1795500226000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "網讚「一人擊退洋流」 水庫街訪阿姨與蔣萬安合體 里長曝真實身份",
+      "link": "https://money.udn.com/money/story/12622/9898667",
+      "source": "經濟日報",
+      "sourceUrl": "",
+      "summary": "選前倒數四天，台北市長蔣萬安今合體藍營小雞到松山信義車掃，意外與「水庫阿姨」同框合照。富台里長羅至佑今天也將蔣與「水庫阿姨」的合照照片，放上社群Theards，引發網友狂按讚，底下更湧入許多網友留言說「阿姨我愛妳」、狂讚「一人擊退洋流」。",
+      "publishedAt": "2026-11-24T06:03:00.000Z",
+      "timestamp": 1795500180000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "水庫要保護，公文也該有記憶",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5CZEg5cEJySnVXeG5tQURRdXlJb3BLQnFGZTJWc3JPQnVBcmlYWk45OGNDSmdsWV81cHJfWHNCRlR0WGZsblc2emp3?oc=5",
+      "source": "草根影響力新視野",
+      "sourceUrl": "https://grinews.com",
+      "summary": "",
+      "publishedAt": "2026-11-24T05:13:39.000Z",
+      "timestamp": 1795497219000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "秋冬吃活魚正當時！石門水庫４家在地老店必收，糖醋魚、剁椒魚、砂鍋魚頭一次吃遍",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvakgyY1E3em05LVZ0dTloVzEwaWxXeXNRclh5VnFQblczb2ZKYlNZaVlIaXl1cXNWUU1WZ2gtdWVyVlVlOTRlSGRDeW12SXpfMWN5Nw?oc=5",
+      "source": "食尚玩家",
+      "sourceUrl": "https://supertaste.tvbs.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-24T01:21:00.000Z",
+      "timestamp": 1795483260000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "觀點投書：烏山頭水庫光電爭議—綠電照亮水面，誰來照亮帳本？ | 林思洋 | 評論",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RYi1SQWhNUlNOYWotYi1sZkFFNnVXSFNVajhlOVFNb0prLU92bnBiRTljX1JkMlotOXktbjIyQnZPOHlFZVhyaFZEdGdkQQ?oc=5",
+      "source": "風傳媒",
+      "sourceUrl": "https://www.storm.mg",
+      "summary": "",
+      "publishedAt": "2026-11-23T22:00:00.000Z",
+      "timestamp": 1795471200000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "朱淑娟專欄：水庫何必裝光電板？ | 朱淑娟 | 評論",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5rS25mWnZyUzJyNDI5NG1nOUlreE9SRUpIOHJ5amVjZGFoUVpaSDdENFhFVEhiMlNvcmFZOWtoTFBkVXFQaXFJRm1YQUNBQQ?oc=5",
+      "source": "風傳媒",
+      "sourceUrl": "https://www.storm.mg",
+      "summary": "",
+      "publishedAt": "2026-11-23T21:45:00.000Z",
+      "timestamp": 1795470300000,
+      "matchedKeywords": [
+        "水庫"
+      ]
+    },
+    {
+      "title": "絮凝污泥層澄清器市場展望2035：改造需求與水資源回收支撐擴張 - 新聞與統計",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWXF6VE5uOXdVeU5tWUd0OWUwUVpOZEltTnAzRm5sVG4tTVItNjEwa2c2ZDNwcl9Gb29qUHVwVWpWWlA0TFJNdE9SU3ludmJLRVZpdHFXblhSMGZuYzVrNHNrYmluX0JHTTQwUWhyNXdoWEJxcm12VFplREJMTnJDUlR3SE5kamcyU1h5aERSYjkxSlM1WExoUEc5cnZFOG9IdFBMQ1N0aG9NanZaeF9xcTB0SU93MGdKNWFoaGp5X3lkZlV1QWhZQmJDYzRsT1d0YnhUX3lkdzNRTkt1RHc?oc=5",
+      "source": "IndexBox",
+      "sourceUrl": "https://www.indexbox.io",
+      "summary": "",
+      "publishedAt": "2026-11-23T12:16:04.000Z",
+      "timestamp": 1795436164000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "水庫設光電，誰說要環評？藍綠攻防爭議釐清",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVjYxblRTYWM2Mkdha0lTbk4zUVU0MjhHQ1hRemdvcFpYZlRPS2FvbmZTbElIb1AyNWp6Q2VuTGZhbm1fenJvQlgwOHpNTVVMMExuNjFjQlJQWHhRdDhVTjQtQi1MZ0VEbFhXdXliX01sc1h0aGlnWTVlNXhwYm91ZmFydDc1X0NfQmctS1ZpYk4?oc=5",
+      "source": "台灣事實查核中心",
+      "sourceUrl": "https://tfc-taiwan.org.tw",
+      "summary": "",
+      "publishedAt": "2026-11-23T11:17:04.000Z",
+      "timestamp": 1795432624000,
+      "matchedKeywords": [
+        "水庫"
+      ]
     }
   ]
 }

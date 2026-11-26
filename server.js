@@ -4,6 +4,7 @@ const path = require('node:path');
 const { URL } = require('node:url');
 const {
   DEFAULT_KEYWORD,
+  normalizeKeywordString,
   fetchRealtimeNews,
   fetchLegislativeYuanUpdates,
 } = require('./lib/fetcher');
@@ -60,16 +61,24 @@ const server = http.createServer(async (req, res) => {
     }
 
     if (pathname === '/api/news') {
-      const keyword = (reqUrl.searchParams.get('q') || DEFAULT_KEYWORD).trim() || DEFAULT_KEYWORD;
+      const rawKw = reqUrl.searchParams.get('q') || DEFAULT_KEYWORD;
+      const keyword = normalizeKeywordString(rawKw);
+      const mode = reqUrl.searchParams.get('mode') === 'and' ? 'and' : 'or';
       const refresh = reqUrl.searchParams.get('refresh') === '1';
-      const data = await getCachedOrFetch(`news:${keyword}`, refresh, () => fetchRealtimeNews(keyword));
+      const data = await getCachedOrFetch(`news:${mode}:${keyword}`, refresh, () =>
+        fetchRealtimeNews(keyword, mode)
+      );
       return sendJson(res, 200, data);
     }
 
     if (pathname === '/api/ly') {
-      const keyword = (reqUrl.searchParams.get('q') || DEFAULT_KEYWORD).trim() || DEFAULT_KEYWORD;
+      const rawKw = reqUrl.searchParams.get('q') || DEFAULT_KEYWORD;
+      const keyword = normalizeKeywordString(rawKw);
+      const mode = reqUrl.searchParams.get('mode') === 'and' ? 'and' : 'or';
       const refresh = reqUrl.searchParams.get('refresh') === '1';
-      const data = await getCachedOrFetch(`ly:${keyword}`, refresh, () => fetchLegislativeYuanUpdates(keyword));
+      const data = await getCachedOrFetch(`ly:${mode}:${keyword}`, refresh, () =>
+        fetchLegislativeYuanUpdates(keyword, mode)
+      );
       return sendJson(res, 200, data);
     }
 
@@ -105,6 +114,6 @@ server.listen(PORT, '127.0.0.1', () => {
   console.log(`====================================================`);
   console.log(`💧 水資源即時新聞與立法院消息監測網站已啟動！`);
   console.log(`🌐 網址: http://localhost:${PORT}`);
-  console.log(`🔍 預設關鍵字: 【${DEFAULT_KEYWORD}】`);
+  console.log(`🔍 預設關鍵字: 【${DEFAULT_KEYWORD}】（支援 + 多關鍵字同時搜尋）`);
   console.log(`====================================================`);
 });

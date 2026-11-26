@@ -5,15 +5,17 @@ const { fetchRealtimeNews, fetchLegislativeYuanUpdates } = require('../lib/fetch
 const DATA_DIR = path.join(__dirname, '..', 'public', 'data');
 
 const PRESETS = [
-  { slug: 'default', keyword: '水資源' },
-  { slug: 'reservoir', keyword: '水資源 水庫' },
-  { slug: 'recycled', keyword: '水資源 再生水' },
-  { slug: 'desalination', keyword: '水資源 海水淡化' },
+  { slug: 'default', keyword: '水資源', mode: 'or' },
+  { slug: 'reservoir-single', keyword: '水庫', mode: 'or' },
+  { slug: 'recycled-single', keyword: '再生水', mode: 'or' },
+  { slug: 'desalination-single', keyword: '海水淡化', mode: 'or' },
+  { slug: 'reservoir', keyword: '水資源+水庫', mode: 'or' },
+  { slug: 'recycled', keyword: '水資源+再生水', mode: 'or' },
+  { slug: 'desalination', keyword: '水資源+海水淡化', mode: 'or' },
 ];
 
 (async () => {
   fs.mkdirSync(DATA_DIR, { recursive: true });
-  // Create .nojekyll in public/ so GitHub Pages serves all assets cleanly
   fs.writeFileSync(path.join(__dirname, '..', 'public', '.nojekyll'), '');
 
   const manifest = {
@@ -22,10 +24,10 @@ const PRESETS = [
   };
 
   for (const preset of PRESETS) {
-    console.log(`[build-static-data] 正在抓取關鍵字：【${preset.keyword}】...`);
+    console.log(`[build-static-data] 正在抓取關鍵字：【${preset.keyword}】(${preset.mode})...`);
     const [news, ly] = await Promise.all([
-      fetchRealtimeNews(preset.keyword),
-      fetchLegislativeYuanUpdates(preset.keyword),
+      fetchRealtimeNews(preset.keyword, preset.mode),
+      fetchLegislativeYuanUpdates(preset.keyword, preset.mode),
     ]);
 
     const newsFile = `news-${preset.slug}.json`;
@@ -36,6 +38,7 @@ const PRESETS = [
 
     manifest.presets[preset.keyword] = {
       slug: preset.slug,
+      mode: preset.mode,
       newsFile: `./data/${newsFile}`,
       lyFile: `./data/${lyFile}`,
       newsCount: news.total,
