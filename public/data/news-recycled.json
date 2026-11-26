@@ -1,0 +1,315 @@
+{
+  "keyword": "水資源 再生水",
+  "fetchedAt": "2026-11-26T01:48:00.782Z",
+  "total": 33,
+  "sources": [
+    {
+      "name": "Google 新聞 (台灣)",
+      "count": 22
+    },
+    {
+      "name": "Bing 新聞 (台灣)",
+      "count": 12
+    }
+  ],
+  "errors": [],
+  "items": [
+    {
+      "title": "個股：惠民實業子公司接獲高科技廠RO薄膜清洗訂單，明年可望顯著挹注獲利",
+      "link": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=2449893002",
+      "source": "富聯網",
+      "sourceUrl": "",
+      "summary": "【財訊快報／記者陳浩寧報導】惠民實業(6971)積極強化水資源循環經濟布局，旗下轉投資子公司惠連薄膜提供專業逆滲透（RO）薄膜清洗服務，已於第四季接獲高科技廠外包業務，正式承接外部客戶訂單，並於11月已順利突破單月損益平衡點，公司預期啟動外部接單業務後，明年起將可明顯挹注獲利貢獻。 隨著極端氣候加劇及台灣高科技產業持續擴大產能，水資源循環利用已成為產業發展剛性需求。其中，RO薄膜具備高精度過濾處理 ...",
+      "publishedAt": "2026-11-25T16:00:00.000Z",
+      "timestamp": 1795622400000
+    },
+    {
+      "title": "惠民子公司接獲高科技廠RO薄膜清洗訂單",
+      "link": "https://money.udn.com/money/story/5612/9901631",
+      "source": "經濟日報",
+      "sourceUrl": "",
+      "summary": "惠民實業（6971）積極強化水資源循環經濟布局，旗下轉投資子公司惠連薄膜提供專業逆滲透（RO）薄膜清洗服務，已於第四季接獲高科技廠外包業務，正式承接外部客戶訂單。惠連薄膜以專業RO薄膜清洗技術為核心，今年優先滿足自身需要，再鎖定台灣再生水廠及高科技業者等市場需求，於11月已順利突破單月損益平衡點，公司預期啟動外部接單業務後，明年起將可明顯挹注獲利貢獻。",
+      "publishedAt": "2026-11-25T09:20:00.000Z",
+      "timestamp": 1795598400000
+    },
+    {
+      "title": "搶佔水資源循環商機 惠民子公司接獲高科技廠RO薄膜清洗訂單",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5653036",
+      "source": "自由財經",
+      "sourceUrl": "",
+      "summary": "營運規模方面，惠連薄膜為惠民持股51%之子公司，而惠民旗下擁有全國每日供水量居冠的高雄拷潭淨水場，及國內首座以換水方式供應再生水的台南仁德再生水廠，兩座案場每年合計可穩定提供約2.5萬支RO薄膜清洗需求，已足以支撐惠連薄膜達到損益兩平門檻。",
+      "publishedAt": "2026-11-25T08:03:00.000Z",
+      "timestamp": 1795593780000
+    },
+    {
+      "title": "惠民旗下惠連接獲高科技廠RO薄膜清洗訂單 估2027年效益顯",
+      "link": "https://news.cnyes.com/news/id/6671654",
+      "source": "Anue鉅亨",
+      "sourceUrl": "",
+      "summary": "惠民子公司惠連薄膜第四季接獲高科技廠外包RO薄膜清洗訂單，正式承接外部客戶業務。 惠連薄膜11月已單月損益平衡，明年RO清洗量估近4萬支，較2.5萬支損平門檻成長逾5成。 惠民持股51%，將鎖定再生水廠與高科技廠房，擴大水資源循環布局並優化獲利結構。",
+      "publishedAt": "2026-11-25T06:12:00.000Z",
+      "timestamp": 1795587120000
+    },
+    {
+      "title": "南科三期擴建帶動產業用水需求！台南治水8年整治446公里 再生水布局支撐科技產業與居住發展",
+      "link": "https://news.housefun.com.tw/news/article/111885491335.html",
+      "source": "好房網News",
+      "sourceUrl": "",
+      "summary": "台南市政府持續推動治水及水資源建設，強化城市防洪韌性，同時為高科技產業發展預作準備。水利局11月23日公布近8年水利建設成果，區域排水累計整治446公里、雨水下水道建設長度達741公里，全市已設置69座抽水站，總抽水量每秒833噸，另有26座滯洪池，總滯洪量約633萬噸。除了防洪工程，市府也投入近84億元建置永康、安平及仁德3座再生水廠，每日最大供水量達6.1萬噸，未來將擴增至8.8萬噸，透過治水 ...",
+      "publishedAt": "2026-11-23T10:18:00.000Z",
+      "timestamp": 1795429080000
+    },
+    {
+      "title": "中市福田再生水工程正式通水 打造城市小水庫穩定產業供水",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SUU5jazlSQUYwWWJxMUQ4UEtfVS13UkgtaHNEZ1RQUjdnUnVLNklTYnlIck05Z3B5S0J6c1UzaXhxUU94WnN2VEZORFFYckg5TE01NVFFbnRNa0x1SktBYXEtMV9sU0xpYzRWZm1MTks?oc=5",
+      "source": "大成報",
+      "sourceUrl": "https://greatnews.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-17T06:17:55.000Z",
+      "timestamp": 1794896275000
+    },
+    {
+      "title": "打造城市小水庫 中市福田再生水工程正式通水",
+      "link": "https://tw.news.yahoo.com/%E6%89%93%E9%80%A0%E5%9F%8E%E5%B8%82%E5%B0%8F%E6%B0%B4%E5%BA%AB-%E4%B8%AD%E5%B8%82%E7%A6%8F%E7%94%B0%E5%86%8D%E7%94%9F%E6%B0%B4%E5%B7%A5%E7%A8%8B%E6%AD%A3%E5%BC%8F%E9%80%9A%E6%B0%B4-092828955.html",
+      "source": "Yahoo奇摩新聞",
+      "sourceUrl": "",
+      "summary": "將 Yahoo 設為首選來源，在 Google 上查看更多我們的精彩報導 加入首選來源（另開新視窗） 《圖說》福田再生水工程舉行通水典禮。 【民眾網諸葛志一臺中報導】台中市政府積極推動水資源循環再利用，斥資約41.2億元辦理「福田水資源回收中心放流水回收再利用統包工程」，歷經五年施工，完成全長28.4公里的再生水輸水管線，並於13日舉行通水典禮，正式將福田水資源回收中心處理後的放流水進一步淨化為再 ...",
+      "publishedAt": "2026-11-13T08:05:00.000Z",
+      "timestamp": 1794557100000
+    },
+    {
+      "title": "污水變黃金！41.2億再生水工程通水先給中龍鋼鐵 下一步供台積電",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VWGo3MFpJMWE5bkVUWmYzU1BzM0lEZUtoODFfV2JuT1hKYUJmaUlWSF8tMVNGMkV5emVtZUhsa3NqbXR6MEFUdFRGWGVKeXlNYlZ6anJKMjh6VzFESlNZ0gFkQVVfeXFMTnJOS1c4Z2FlMGhJMHBKdEhhSTI4bHh5SklkMFBxSVRINTVXNkFTV2VKRmg2ZjViX1FHaWttMzVHaXJxRFJadjdMZEdiTUZwT2VJWGw5azBoaHhyN0Q5eTNUSFdKdw?oc=5",
+      "source": "自由財經",
+      "sourceUrl": "https://ec.ltn.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-13T08:00:00.000Z",
+      "timestamp": 1794556800000
+    },
+    {
+      "title": "中市福田再生水工程正式通水 日送5.8萬公噸到台中港工業區穩定產業供水",
+      "link": "https://tw.news.yahoo.com/%E4%B8%AD%E5%B8%82%E7%A6%8F%E7%94%B0%E5%86%8D%E7%94%9F%E6%B0%B4%E5%B7%A5%E7%A8%8B%E6%AD%A3%E5%BC%8F%E9%80%9A%E6%B0%B4-%E6%97%A5%E9%80%815-8%E8%90%AC%E5%85%AC%E5%99%B8%E5%88%B0%E5%8F%B0%E4%B8%AD%E6%B8%AF%E5%B7%A5%E6%A5%AD%E5%8D%80%E7%A9%A9%E5%AE%9A%E7%94%A2%E6%A5%AD%E4%BE%9B%E6%B0%B4-072844175.html",
+      "source": "Yahoo奇摩新聞",
+      "sourceUrl": "",
+      "summary": "台中市政府積極推動水資源循環再利用，斥資約41.2億元辦理「福田水資源回收中心放流水回收再利用統包工程」，歷經五年施工，完成全長28.4公里的再生水輸水管線，並於13日舉行通水典禮，正式將福田水資源回收中心處理後的放流水進一步淨化為再生水，輸送至台中港工業專區供產業使用。透過再生水替代部分工業用水需求，讓原供工業使用的自來水得以調度供應民生，不僅提升產業供水穩定性，更為城市打造一座永續循環的「小水 ...",
+      "publishedAt": "2026-11-12T23:28:00.000Z",
+      "timestamp": 1794526080000
+    },
+    {
+      "title": "台中福田再生水廠通水 日供鋼鐵業5.8萬噸 未來可供中科",
+      "link": "https://www.ctee.com.tw/news/20261113700951-430104",
+      "source": "工商時報",
+      "sourceUrl": "",
+      "summary": "內政部國土管理署副總工程司周世銘13日出席臺中市「福田水資源回收中心放流水回收再利用統包工程」通水典禮。周世銘表示，透過打造中臺灣「都市小水庫」，將民生污水妥善回收並再製成可重複利用的再生水資源，每日提供5.8萬噸再生水供產業發展使用。在枯水期更能發揮供水資源調度韌性，將自來水優先留給民生使用，達到 ...",
+      "publishedAt": "2026-11-12T16:00:00.000Z",
+      "timestamp": 1794499200000
+    },
+    {
+      "title": "永康再生水廠二期工程動土 黃偉哲：提升供水韌性支撐產業發展",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tVmxYLWdVQnNVWGZBZXVEY2w2bmRGX19VVThrYWNoSE1EWG1yOXJpRDFWOE9hNnE3RXZOMExuaVlFSDJRRTBPYXBHUnZYaGQzeGZsXzFCLUJFOTdzLTRTSHNTRGlZRjRlTUFGbk13?oc=5",
+      "source": "臺南市政府全球資訊網",
+      "sourceUrl": "https://www.tainan.gov.tw",
+      "summary": "",
+      "publishedAt": "2026-10-01T05:18:40.000Z",
+      "timestamp": 1790831920000
+    },
+    {
+      "title": "穩定竹科供水！欣達環工拿下新竹客雅再生水BTO案 預計投資84.5億元",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WVlFrSlljLXIzaFVnSGVxa055NFRLcnM0TTQ3bk1rS1RBUDFUbzJBbkV3QkZWRUVtSVFZMTZzYVgyRXZhcmFJWXFwd1l4VV9XX2VHS2NxYno1VkxDMm5B0gFkQVVfeXFMUGFQallOZl9kYmFmR2N6YVRULXNUZ1pDSEh1VDB2R19raURhWmU2bHpKM1NtZFhZSnk0QzM3U1Y0cGxnMERhYzhxeWNjUEdidjBqYk95QTBkR0pfY1hqYWNTbUdHaQ?oc=5",
+      "source": "自由財經",
+      "sourceUrl": "https://ec.ltn.com.tw",
+      "summary": "",
+      "publishedAt": "2026-09-22T07:00:00.000Z",
+      "timestamp": 1790060400000
+    },
+    {
+      "title": "美台水資源處理交流！美國環保署參訪桃北區再生水廠",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qcG1TbHh4SjhmcDlpWl9NRTdaYWUzSDBwcDlJekdfbWFnakNWX0h0VWsyVHU4RWtSUmlJZVl1VmU5TEdVeXhtOG5RbFJVZXBtcElMcDFLaGZZdFljajMw0gFkQVVfeXFMTVd5NmllMVdXcmh6RmxSUWpCTDVZa2NGVWUxeUpLalJtQmlxckQ1UDczbkt1d3U0NWdGNW4xeTQ1U0FpV0dhZHBVTHhYcXVQQlFsOXEtVk4zOGl5T3ZvYlE1aXB0cA?oc=5",
+      "source": "自由財經",
+      "sourceUrl": "https://ec.ltn.com.tw",
+      "summary": "",
+      "publishedAt": "2026-09-17T07:00:00.000Z",
+      "timestamp": 1789628400000
+    },
+    {
+      "title": "台中水資源永續再獲肯定！福田再生水前瞻規劃榮獲國土署特別獎",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45cVNNaVFYeTJMaUZ6MjZVREZ3WHNPWXJvY3c2dHN3bkI5QUp1dlQ0b3RIVW1oQTdCZkctbmV3VkNkOVdCWXNfZ2FweTYtam0td0Q4a3VIOC03WUNOVElJ?oc=5",
+      "source": "臺中市政府全球資訊網",
+      "sourceUrl": "https://www.taichung.gov.tw",
+      "summary": "",
+      "publishedAt": "2026-08-29T07:00:00.000Z",
+      "timestamp": 1787986800000
+    },
+    {
+      "title": "直擊全台首座晶圓用再生水廠，搭配一條地下9.5公里的輸水命脈，如何解台積電、聯電的渴？",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44RG5yVUF3VHFCandqZkl0Q2xkaDA0U1l2RV9LcDBsVDRkaUdiZ3FkdVFzenkzTXFHc0RWRkhKeEUxUkVXQWpNTmxtUGJVS2FNQVplQUk4Zkp3QdIBX0FVX3lxTE9VSTZ5Q0JrOEVUWGt5UE54VTlSdFNGYnZ2d2hyZ2o4MWN3bXJYMEhVUThnWG5CenNqTlh0dkVRZXdwbjNlSmYzVVVVNTVOYlpaaGFYUFk5ZWotcmhFSmVZ?oc=5",
+      "source": "經濟日報",
+      "sourceUrl": "https://money.udn.com",
+      "summary": "",
+      "publishedAt": "2026-05-29T07:00:00.000Z",
+      "timestamp": 1780038000000
+    },
+    {
+      "title": "民生水資源再生廠啟用！北市日產1萬噸再生水- 生活",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ITThCR3NVd0ZfelI3Qm9qdllJSXc3bDV0MUZsbGZvbmI5cjVMYU5NYk1fallSaTJ3YjBrNHoxS0F3TUNNSk53VC10ZFZkNU1xWTlGUldEN01wRkYzLUVv?oc=5",
+      "source": "工商時報",
+      "sourceUrl": "https://www.ctee.com.tw",
+      "summary": "",
+      "publishedAt": "2026-05-08T07:00:00.000Z",
+      "timestamp": 1778223600000
+    },
+    {
+      "title": "民生水資源再生廠啟用！北市日產1萬噸再生水",
+      "link": "https://www.ctee.com.tw/news/20260508701295-431401",
+      "source": "ctee.com.tw",
+      "sourceUrl": "",
+      "summary": "為提升台北市污水處理自主性及強化城市用水韌性，北市衛工處推動增設水資源再生設施，「民生水資源再生廠暨環境教育館」8日啟用，市長蔣萬安出席揭牌表示，民生水資源再生廠是北市首座 ...",
+      "publishedAt": "2026-05-08T06:45:00.000Z",
+      "timestamp": 1778222700000
+    },
+    {
+      "title": "《DJ在線》再生水為科技造水關鍵，工程廠紛搶進- 新聞",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTW1Zd3NxYkxiNkt5ZHFNeU9IYUFlN0JOOTBpM1R6OENXcFFpZEQ1SDU5ZDJVQUxJcE9SWVh3cG9QMkpSaDR6cjdxYnVuQUdGX1M5ZzM2ckYyczZUdjhCbXQ1Z1Bqd0tCem45eUppMGdudWxDY1VGdnlnQm9ZVmhEaTRJaTlaSktsb3RjRWI3Wkkwdw?oc=5",
+      "source": "MoneyDJ",
+      "sourceUrl": "https://www.moneydj.com",
+      "summary": "",
+      "publishedAt": "2026-05-05T07:00:00.000Z",
+      "timestamp": 1777964400000
+    },
+    {
+      "title": "台積公司雙管齊下，打造水資源學習新基地- 發揮永續影響力，驅動美好的改變",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0xSTVzMkRFQ0xqazR2SDFITkpEaDFIZDUyMjhpeTI1WjlpVjVsT1JKMlpBcG1OM1RHWWYydzBUeE9NNWhwdmtvUw?oc=5",
+      "source": "TSMC",
+      "sourceUrl": "https://esg.tsmc.com",
+      "summary": "",
+      "publishedAt": "2026-04-21T07:00:00.000Z",
+      "timestamp": 1776754800000
+    },
+    {
+      "title": "打造永續水之都！桃園北區再生水中心今盛大啟用",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fV09JeXdsNWtFOENPdW5jSHA1azFLSWRWcnU0cjMzZHFDdG5yS0d3UjRFVkNGUUlFcUt3dFYxX3pGUU9jYzZzaFZCN2VHNVljcEtkWkYtc2JqSHBJeUdMdWFlZ0tveTEtUHZj?oc=5",
+      "source": "桃園市政府",
+      "sourceUrl": "https://www.tycg.gov.tw",
+      "summary": "",
+      "publishedAt": "2026-04-09T11:34:51.000Z",
+      "timestamp": 1775734491000
+    },
+    {
+      "title": "台灣水韌性1》再生水不靠天賜雨、不與民爭水 保科技業免斷鏈",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03NV9PRDFPZExGLVRtUmY4eVEwNVRhaWN0ajRkLWw0c3QxQVJobThOLTBtNkU0clZpVWVpNGU4YUxfQWIyZG9NRGwwMTRIU1lSdEhRaVA0ODRLT09CQWRZ0gFkQVVfeXFMUGZqTzRDTEpBRDc5ZUFfaTFoRmRrcmUydk1Odk5iWnU3UTVyUmx2aHU3SjR6ejZ0ZTdJa3F2QS1YMkdtR1FyT2dCYWtoYllZRHh6Q0UzUHhsRzVHTk1GdFF1aHRhYg?oc=5",
+      "source": "自由財經",
+      "sourceUrl": "https://ec.ltn.com.tw",
+      "summary": "",
+      "publishedAt": "2026-03-22T07:00:00.000Z",
+      "timestamp": 1774162800000
+    },
+    {
+      "title": "跨市交流水資源循環經驗 新北率團參訪台中福田水資源回收中心",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZTmtPWURSbWplOXVyMTJhMlRyVGc2WGZ0bWFsQjN3VnVVR0pzbWU5eUhzbno5VURfWDB0R0t5WXgzUzVKYkV3MDZzTGhBZUg4clVHdEhCMTlpcllDb1NJ?oc=5",
+      "source": "臺中市政府全球資訊網",
+      "sourceUrl": "https://www.taichung.gov.tw",
+      "summary": "",
+      "publishedAt": "2026-01-30T08:00:00.000Z",
+      "timestamp": 1769760000000
+    },
+    {
+      "title": "因應極端氣候衝擊，全力穩定供水",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcnQzSXZIV2QyXzVqdUpZdmJtdWx3bVdvZWhENkpRejJvUmhxYjZFdWNkMnpuOFJpZmZ0MEluRUdsNnVxcmU1WlZUUFUxUkJJbDdyY1FyZTBqTW91bi1yRU8xeVRuOHdkcDg2VGlyS3JWX2xkT3ltUHFkTzlIOExFUzVpdk92c0E?oc=5",
+      "source": "行政院",
+      "sourceUrl": "https://www.ey.gov.tw",
+      "summary": "",
+      "publishedAt": "2025-01-22T03:17:07.000Z",
+      "timestamp": 1737515827000
+    },
+    {
+      "title": "桃園再生水打造都市小水庫 永續水資源提升民生宜居與工業產值的競爭力",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LWTgwZFk1eThJRTY0VHJXRGxUblQ5a2NMSG5wU0ZEQ1ktS1hUc3BacnA3cVItaXRjTkwySlk1b3NlendSRkh6TmdFT3dJUQ?oc=5",
+      "source": "天下雜誌",
+      "sourceUrl": "https://www.cw.com.tw",
+      "summary": "",
+      "publishedAt": "2024-10-29T07:00:00.000Z",
+      "timestamp": 1730185200000
+    },
+    {
+      "title": "水資源循環新里程碑 中市水湳再生水今年底正式供給中科園區",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5YWV3VDN0dUs4aFVpS3ByNDhHdkRPRHNJUFVISHM0VlFEUk4yS0QxR3NHRF9WY0ZUR2U3M0xOSnlQbV96U2JBQTVsd0lnc29ELUE?oc=5",
+      "source": "臺中市政府全球資訊網",
+      "sourceUrl": "https://www.taichung.gov.tw",
+      "summary": "",
+      "publishedAt": "2024-06-22T07:00:00.000Z",
+      "timestamp": 1719039600000
+    },
+    {
+      "title": "中市水資源回收中心免費再生水取用增加至9處 與民並肩抗旱",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QV3g2Vjg5Z0NzeDlqQ1pHZ2xZY2lNREh3WktmWVB1bjAwdTVoZjhvTUVqazFqMUk4YkhpUUdaS3djZDJUdnd1N1lpNUw0a3oyMl9LOXhXRU1KQVhPalpv?oc=5",
+      "source": "臺中市政府全球資訊網",
+      "sourceUrl": "https://www.taichung.gov.tw",
+      "summary": "",
+      "publishedAt": "2023-03-29T07:00:00.000Z",
+      "timestamp": 1680073200000
+    },
+    {
+      "title": "黑水變藍金！中部首例供高科技製程再生水廠開工",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fc0pKSlpYTXBBWS1KRFdpeUxHRHltbFJrUEcwT1VnM0JaUmVEZjladml0N0VpSDl4V2VBS1ZYZ1lNUHBNcWVTU21SUzQtSnFhZnc?oc=5",
+      "source": "臺中市政府全球資訊網",
+      "sourceUrl": "https://www.taichung.gov.tw",
+      "summary": "",
+      "publishedAt": "2022-10-17T07:00:00.000Z",
+      "timestamp": 1665990000000
+    },
+    {
+      "title": "台積電南科再生水廠通水，全球首創工業再生水回用半導體製程- 發揮永續影響力，驅動美好的改變",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5uN1E5aGlVYTRmN1FxSGRPR3dlTDNvZ3ZqaWgybFVYcFhlZDd6cU1rMDRJTDNucThEQm15bTdiZlhaUEtraXVZ?oc=5",
+      "source": "TSMC",
+      "sourceUrl": "https://esg.tsmc.com",
+      "summary": "",
+      "publishedAt": "2022-10-03T07:00:00.000Z",
+      "timestamp": 1664780400000
+    },
+    {
+      "title": "水資源再利用新紀元！全國最大「福田再生水示範案」115年供水",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OdVhxTkR1TVduLUV4NnRZLTktOVdNWTdTWnVQVzh6NGlqQUhrRXhFVU1mSERPX1h4cXJZem4tMUlYdFRLbjgxQWpMUmttOW5xMlZRWUx1aEVrS1JFaDA0?oc=5",
+      "source": "臺中市政府全球資訊網",
+      "sourceUrl": "https://www.taichung.gov.tw",
+      "summary": "",
+      "publishedAt": "2022-07-05T07:00:00.000Z",
+      "timestamp": 1657004400000
+    },
+    {
+      "title": "再生水資源發展條例修正三讀 新設開發案都要用再生水",
+      "link": "https://e-info.org.tw/node/233962",
+      "source": "環境資訊中心",
+      "sourceUrl": "",
+      "summary": "立法院今（29）日三讀通過「再生水資源發展條例部分條文修正案」，擴大再生水使用範圍，未來一定規模以上的開發行為，都要使用一定比率的再生水。經濟部水利署表示，再生水可降低水源 ...",
+      "publishedAt": "2022-04-29T05:03:00.000Z",
+      "timestamp": 1651208580000
+    },
+    {
+      "title": "水湳再生水案完成招商議約 中科園區落實一滴水使用兩次以上",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Id19YTVY4NTBaRHgtbHNwWDY4UE04X3BabVBQNnA1aE9wckdCTElQM2JISHM4RURzZ0FlSmR3U1VVMll1T0lIX0dESDdpOExhbE1MamZxTEU0WnBEWEFr?oc=5",
+      "source": "臺中市政府全球資訊網",
+      "sourceUrl": "https://www.taichung.gov.tw",
+      "summary": "",
+      "publishedAt": "2022-03-11T08:00:00.000Z",
+      "timestamp": 1646985600000
+    },
+    {
+      "title": "水湳水資中心再生水廠三方用水簽約簽訂 日供中科1萬噸產業用水",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GTTJadzlqQ0J4czRzbmtGeGwzYl8wRVdFZEJuR2V1VzR6V0hmMDI2MlVDMUJiNFdPTWhrTVptUnJjdEVVWExnNUlzTEd6QTRja2c?oc=5",
+      "source": "臺中市政府全球資訊網",
+      "sourceUrl": "https://www.taichung.gov.tw",
+      "summary": "",
+      "publishedAt": "2021-03-31T07:00:00.000Z",
+      "timestamp": 1617174000000
+    },
+    {
+      "title": "再生水資源條例三讀 再生水禁用於食品、藥品業",
+      "link": "https://www.storm.mg/article/75965",
+      "source": "風傳媒",
+      "sourceUrl": "",
+      "summary": "台灣受限於氣候及地形因素，水源供應並不穩定，且即將進入秋冬乾旱期，立法院14日三讀通過《再生水資源發展條例》，使「1滴水至少使用2次以上」；條文中也明訂，再生水不得供作直接食用 ...",
+      "publishedAt": "2015-12-14T11:54:00.000Z",
+      "timestamp": 1450094040000
+    }
+  ]
+}

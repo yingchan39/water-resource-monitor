@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>【水資源】即時新聞 ＆ 立法院發布消息監測平台</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <!-- 頂部導覽與控制列 -->
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <div class="brand-icon" aria-hidden="true">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z" />
+          </svg>
+        </div>
+        <div>
+          <div class="brand-badge-row">
+            <span class="live-dot"></span>
+            <span class="brand-subtitle">REAL-TIME INTELLIGENCE MONITOR</span>
+          </div>
+          <h1 class="brand-title">水資源輿情與國會訊息即時監測網</h1>
+        </div>
+      </div>
+
+      <div class="controls">
+        <form id="keywordForm" class="search-box" role="search">
+          <label for="keywordInput" class="sr-only">監測關鍵字</label>
+          <span class="keyword-prefix">關鍵字</span>
+          <input
+            id="keywordInput"
+            type="text"
+            value="水資源"
+            placeholder="輸入關鍵字（預設：水資源）"
+            autocomplete="off"
+          />
+          <button type="submit" class="btn-primary">套用搜尋</button>
+        </form>
+
+        <div class="action-group">
+          <label class="auto-refresh-toggle" title="每 5 分鐘自動抓取最新資料">
+            <input type="checkbox" id="autoRefreshToggle" checked />
+            <span>自動更新 <small id="countdownText">(05:00)</small></span>
+          </label>
+          <button type="button" id="refreshBtn" class="btn-outline">
+            <svg class="icon-spin" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2">
+              <path d="M21 12a9 9 0 0 0-9-9 9.75 9.75 0 0 0-6.74 2.74L3 8" />
+              <path d="M3 3v5h5" />
+              <path d="M3 12a9 9 0 0 0 9 9 9.75 9.75 0 0 0 6.74-2.74L21 16" />
+              <path d="M16 21h5v-5" />
+            </svg>
+            立即抓取最新
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- 快速標籤與狀態列 -->
+    <div class="statusbar">
+      <div class="statusbar-inner">
+        <div class="quick-tags">
+          <span class="quick-label">目前鎖定關鍵字：</span>
+          <strong id="activeKeywordBadge" class="active-keyword">【水資源】</strong>
+          <span class="divider">|</span>
+          <span class="quick-label">快速切換：</span>
+          <button type="button" class="tag-chip active" data-kw="水資源">水資源</button>
+          <button type="button" class="tag-chip" data-kw="水資源 水庫">水資源＋水庫</button>
+          <button type="button" class="tag-chip" data-kw="水資源 再生水">水資源＋再生水</button>
+          <button type="button" class="tag-chip" data-kw="水資源 海水淡化">水資源＋海淡廠</button>
+        </div>
+        <div class="last-sync" id="lastSyncText">準備連線抓取即時資料…</div>
+      </div>
+    </div>
+  </header>
+
+  <!-- 主內容：雙區塊佈局 -->
+  <main class="dashboard-grid">
+    <!-- 第一區域：即時新聞 -->
+    <section class="zone-panel zone-news" aria-labelledby="zone1Title">
+      <div class="zone-header">
+        <div class="zone-title-wrap">
+          <span class="zone-step-badge zone-badge-blue">第一區域</span>
+          <div>
+            <h2 id="zone1Title" class="zone-title">即時新聞動態</h2>
+            <p class="zone-desc">即時匯流全台各大新聞媒體針對 <strong class="kw-inline">【水資源】</strong> 之最新報導</p>
+          </div>
+        </div>
+        <div class="zone-stats">
+          <span class="count-pill" id="newsCountPill">-- 則</span>
+        </div>
+      </div>
+
+      <div class="zone-toolbar">
+        <div class="filter-input-wrap">
+          <input
+            type="search"
+            id="newsFilterInput"
+            class="local-filter"
+            placeholder="在此區域內篩選標題或媒體名稱…"
+          />
+        </div>
+        <div class="source-summary" id="newsSourcesSummary">資料來源載入中…</div>
+      </div>
+
+      <div id="newsList" class="card-list" aria-live="polite">
+        <!-- 載入骨架 -->
+        <div class="skeleton-card"></div>
+        <div class="skeleton-card"></div>
+        <div class="skeleton-card"></div>
+        <div class="skeleton-card"></div>
+      </div>
+    </section>
+
+    <!-- 第二區域：立法院發布消息 -->
+    <section class="zone-panel zone-ly" aria-labelledby="zone2Title">
+      <div class="zone-header">
+        <div class="zone-title-wrap">
+          <span class="zone-step-badge zone-badge-amber">第二區域</span>
+          <div>
+            <h2 id="zone2Title" class="zone-title">立法院發布消息專區</h2>
+            <p class="zone-desc">整合立法院官網、議案提案、委員質詢、研究報告與國會針對 <strong class="kw-inline">【水資源】</strong> 之發布訊息</p>
+          </div>
+        </div>
+        <div class="zone-stats">
+          <span class="count-pill count-pill-amber" id="lyCountPill">-- 則</span>
+        </div>
+      </div>
+
+      <div class="zone-toolbar zone-toolbar-ly">
+        <div class="category-tabs" id="lyCategoryTabs" role="tablist" aria-label="立法院訊息分類">
+          <button type="button" class="cat-tab active" data-cat="all">全部 <span id="catCountAll">0</span></button>
+          <button type="button" class="cat-tab" data-cat="bill">議案／法案 <span id="catCountBill">0</span></button>
+          <button type="button" class="cat-tab" data-cat="interpellation">質詢發言／公報 <span id="catCountInterp">0</span></button>
+          <button type="button" class="cat-tab" data-cat="official">官網／研究報告 <span id="catCountOfficial">0</span></button>
+          <button type="button" class="cat-tab" data-cat="press">國會新聞動態 <span id="catCountPress">0</span></button>
+        </div>
+        <div class="filter-row-ly">
+          <input
+            type="search"
+            id="lyFilterInput"
+            class="local-filter"
+            placeholder="篩選立法院議案、質詢委員、報告或內文…"
+          />
+          <div class="source-summary" id="lySourcesSummary">串接立法院開放資料與官網中…</div>
+        </div>
+      </div>
+
+      <div id="lyList" class="card-list" aria-live="polite">
+        <!-- 載入骨架 -->
+        <div class="skeleton-card"></div>
+        <div class="skeleton-card"></div>
+        <div class="skeleton-card"></div>
+        <div class="skeleton-card"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>
+      資料來源：第一區域串接台灣即時新聞 RSS 索引（Google 新聞／Bing 新聞）；第二區域串接立法院開放資料 API（議案、委員質詢、預算中心與法制局研究報告）及立法院全球資訊網（<code>ly.gov.tw</code>）。
+    </p>
+  </footer>
+
+  <script src="./app.js"></script>
+</body>
+</html>

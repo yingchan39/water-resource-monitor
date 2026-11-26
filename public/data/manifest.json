@@ -1,0 +1,33 @@
+{
+  "generatedAt": "2026-11-26T01:47:54.342Z",
+  "presets": {
+    "水資源": {
+      "slug": "default",
+      "newsFile": "./data/news-default.json",
+      "lyFile": "./data/ly-default.json",
+      "newsCount": 110,
+      "lyCount": 156
+    },
+    "水資源 水庫": {
+      "slug": "reservoir",
+      "newsFile": "./data/news-reservoir.json",
+      "lyFile": "./data/ly-reservoir.json",
+      "newsCount": 110,
+      "lyCount": 197
+    },
+    "水資源 再生水": {
+      "slug": "recycled",
+      "newsFile": "./data/news-recycled.json",
+      "lyFile": "./data/ly-recycled.json",
+      "newsCount": 33,
+      "lyCount": 129
+    },
+    "水資源 海水淡化": {
+      "slug": "desalination",
+      "newsFile": "./data/news-desalination.json",
+      "lyFile": "./data/ly-desalination.json",
+      "newsCount": 97,
+      "lyCount": 121
+    }
+  }
+}

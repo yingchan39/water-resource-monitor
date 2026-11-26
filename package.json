@@ -1,0 +1,13 @@
+{
+  "name": "water-resource-monitor",
+  "version": "1.0.0",
+  "description": "水資源即時新聞與立法院發布消息雙區塊監測網站（支援本機伺服器與 GitHub Pages 靜態部署）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build:data": "node scripts/build-static-data.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
