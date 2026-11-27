@@ -1,4 +1,4 @@
-name: Sync Live Data & Deploy to GitHub Pages
+name: Magic Conch Monitor - Sync & Deploy to GitHub Pages
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
       - master
   workflow_dispatch:
   schedule:
-    # 每 2 小時自動抓取最新「水資源」新聞與立法院發布消息並更新至 GitHub Pages (gh-pages 分支)
+    # 每 2 小時自動抓取最新新聞、立法院與 20 個政府機關發布消息並更新至 GitHub Pages
     - cron: '15 */2 * * *'
 
 permissions:
@@ -29,7 +29,7 @@ jobs:
         with:
           node-version: '22'
 
-      - name: Fetch latest news & Legislative Yuan data into public/data
+      - name: Fetch latest Zone 1, Zone 2 & Zone 3 (20 Government Agencies) data
         run: npm run build:data
 
       - name: Deploy public/ to gh-pages branch
@@ -38,4 +38,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           force_orphan: true
-          commit_message: 'chore(data): sync latest water resource news & Legislative Yuan updates'
+          commit_message: 'chore(data): sync Magic Conch news, Parliament & Government updates'

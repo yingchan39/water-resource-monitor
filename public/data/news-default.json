@@ -4,12 +4,12 @@
     "水資源"
   ],
   "mode": "or",
-  "fetchedAt": "2026-11-26T03:52:43.963Z",
-  "total": 48,
+  "fetchedAt": "2026-11-27T02:37:31.829Z",
+  "total": 41,
   "sources": [
     {
       "name": "Google 新聞 (台灣)",
-      "count": 38
+      "count": 30
     },
     {
       "name": "Bing 新聞 (台灣)",
@@ -18,6 +18,30 @@
   ],
   "errors": [],
   "items": [
+    {
+      "title": "挑戰AI資料中心水資源消耗印象 研究稱9成幾乎用於發電",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXaUJfdHMxOGxDc1NnZDNoM2YwOHp5VTJjMTdCM2NhOE9ub1BnbmozOFhUVnFoYXFBc1BCVjR6NDRPRHp6a2Nuekd3SFRqMTd1UkNSRFhFT29VdGNRcmVyakljX0J0RzRLQmFZ?oc=5",
+      "source": "DIGITIMES",
+      "sourceUrl": "https://www.digitimes.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T13:00:00.000Z",
+      "timestamp": 1795698000000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "個股：惠民實業子公司接獲高科技廠RO薄膜清洗訂單，明年可望顯著挹注獲利",
+      "link": "https://fnc.ebc.net.tw/fncnews/stock/223657",
+      "source": "東森財經新聞",
+      "sourceUrl": "",
+      "summary": "惠民實業 (6971)積極強化水資源循環經濟布局，旗下轉投資子公司惠連薄膜提供專業逆滲透（RO）薄膜清洗服務，已於第四季接獲高科技廠外包業務，正式承接外部客戶訂單，並於11月已順利突破單月損益平衡點，公司預期啟動外部接單業務後，明年起將可明顯挹注獲利貢獻。",
+      "publishedAt": "2026-11-26T01:04:00.000Z",
+      "timestamp": 1795655040000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
     {
       "title": "膜用混凝劑市場展望2035：水再利用法規與海水淡化預處理支撐成長 - 新聞與統計",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZDB6T1c0MEx2czd2b2tQOW80VWtxUERQWHdOODlaUGE1RWJJN05HX28tNmduSVd5OUh4SnVpSEViRjlqc05XY2hRdUY3Y3U4R3pOWW5reGg2bDdWRTdaV0hGY1ZMOFFLVG9TMUl4Y0NXbWdPWDR5WG40SlpWOGVWTHhhV1hyamkzV0RhUndmOS0tSXR4WF9ZTVpTc2VabDN6Nnlvd0dxMHNidzFxUVRxZUNENTQtU3NaazBZU1RkWGVMRlJ2aVc1Q05jb0xSbXN4b3BNeC01ajIxbjVKNHRUNWZiaXdldw?oc=5",
@@ -43,10 +67,22 @@
       ]
     },
     {
+      "title": "《綠能環》打進高科技廠供應鏈！ 惠民子公司接獲RO薄膜清洗訂單",
+      "link": "https://www.ctee.com.tw/news/20261126701121-430201",
+      "source": "工商時報",
+      "sourceUrl": "",
+      "summary": "【時報記者郭鴻慧台北報導】惠民實業(6971)積極強化水資源循環經濟布局，旗下轉投資子公司惠連薄膜提供專業逆滲透(RO)薄膜清洗服務，已於第四季接獲高科技廠外包業務，正式承接外部客戶訂單。惠連薄膜以專業RO薄膜清洗技術為核心，今年優先滿足自身需要，再鎖定台灣再生水廠及高科技業者等市場需求，於11月已 ...",
+      "publishedAt": "2026-11-25T16:00:00.000Z",
+      "timestamp": 1795622400000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
       "title": "無私守護水源生態近17年 台水深溝志工隊榮獲「全國績優志工團隊獎」",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZTFEyRTBEU1NzcEpJVldrQW1hRXhBQnpvTGRqMHlUOFZ4LVA0QzBRYmhoTHFvTURtVkhkZUczYWpLQ0FFaDRQTFBDWVdaQmR0Tnc?oc=5",
-      "source": "蕃新聞",
-      "sourceUrl": "https://n.yam.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS3JzTWxQbEJ3VXQwRkdETHBiOFc5Tkg4VUlhNEZxRHdlTkdDNVdua2d4VXhkNXNHX0o0anY5eWlLZEg5R2RqZEdHendfMXRCc0xyR3lLRUxhY2RPVko2WUxsLWF4SlRsYy1SWWZNMVBRLUVFeWM2dW9DeVMyMUtHczJudTNyUWJGOTVsV1JzWQ?oc=5",
+      "source": "PChome Online 新聞",
+      "sourceUrl": "https://news.pchome.com.tw",
       "summary": "",
       "publishedAt": "2026-11-25T12:58:04.000Z",
       "timestamp": 1795611484000,
@@ -55,73 +91,13 @@
       ]
     },
     {
-      "title": "個股：惠民實業子公司接獲高科技廠RO薄膜清洗訂單，明年可望顯著挹注獲利",
-      "link": "https://fnc.ebc.net.tw/fncnews/stock/223657",
-      "source": "東森財經新聞",
-      "sourceUrl": "",
-      "summary": "惠民實業 (6971)積極強化水資源循環經濟布局，旗下轉投資子公司惠連薄膜提供專業逆滲透（RO）薄膜清洗服務，已於第四季接獲高科技廠外包業務，正式承接外部客戶訂單，並於11月已順利突破單月損益平衡點，公司預期啟動外部接單業務後，明年起將可明顯挹注獲利貢獻。",
-      "publishedAt": "2026-11-25T11:04:00.000Z",
-      "timestamp": 1795604640000,
-      "matchedKeywords": [
-        "水資源"
-      ]
-    },
-    {
       "title": "惠民子公司惠連薄膜突破損平 獲高科技廠外包訂單、明年獲利挹注可期",
-      "link": "https://money.udn.com/money/story/5612/9901833",
-      "source": "經濟日報",
+      "link": "https://udn.com/news/story/7241/9901833",
+      "source": "聯合新聞網",
       "sourceUrl": "",
       "summary": "惠民實業（6971）水資源循環經濟布局報捷，公司25日表示，旗下持股51%的轉投資子公司惠連薄膜，本季已正式接獲高科技廠逆滲透（RO）薄膜外包清洗訂單，跨出外部接單第一步；隨著本月順利跨越單月損益平衡點，預期明年起將明顯挹注集團獲利。",
       "publishedAt": "2026-11-25T10:41:00.000Z",
       "timestamp": 1795603260000,
-      "matchedKeywords": [
-        "水資源"
-      ]
-    },
-    {
-      "title": "電子產業社群平台- 元件、次系統、自動控制",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLMF9wWS10bVRrTDlxRlpON1lFejFqTnBJX1NIdTVDY2ZVa201QklhWEtaMUh5ZU1vb3pxZzZiaF9qbXpkUWVmdFZJUWFjLV9lMlJ1SGxR?oc=5",
-      "source": "CTIMES",
-      "sourceUrl": "http://www.ctimes.com.tw",
-      "summary": "",
-      "publishedAt": "2026-11-25T10:18:19.000Z",
-      "timestamp": 1795601899000,
-      "matchedKeywords": [
-        "水資源"
-      ]
-    },
-    {
-      "title": "李長榮深化綠色製程 勇奪TCSA四項永續大獎",
-      "link": "https://www.ctee.com.tw/news/20261125701919-430503",
-      "source": "工商時報",
-      "sourceUrl": "",
-      "summary": "李長榮集團25日宣布，榮獲2026年台灣企業永續獎（TCSA）四項大獎，包括「台灣永續企業績優獎」、「水資源管理領袖獎」、「循環經濟領袖獎」及「永續報告銀級」。因應全球淨零碳排及供應鏈綠色轉型趨勢，李長榮積極透過材料創新、AI技術及製程優化，將循環經濟與水資源管理轉化為營運競爭優勢。",
-      "publishedAt": "2026-11-25T10:08:00.000Z",
-      "timestamp": 1795601280000,
-      "matchedKeywords": [
-        "水資源"
-      ]
-    },
-    {
-      "title": "李長榮獲「2026 TCSA 台灣企業永續獎」四獎項",
-      "link": "https://udn.com/news/story/7241/9901671",
-      "source": "聯合新聞網",
-      "sourceUrl": "",
-      "summary": "李長榮集團25日於「TCSA台灣企業永續獎」中，獲頒「台灣永續企業績優獎」、「水資源管理領袖獎」、「循環經濟領袖獎」以及「永續報告銀級」等四獎項。 針對此次獲頒獎項，李長榮指出，過去一年，李長榮持續投入資源優化製程效能，並透過前瞻性的AI技術創新，在資源循環與水資源管理上取得突破性進展。 在循環經濟方面，李長榮持續開發循環材料及回收技術，包括Lacyon™鞋大底循環材料，以及電子級異丙醇（IPA） ...",
-      "publishedAt": "2026-11-25T09:30:00.000Z",
-      "timestamp": 1795599000000,
-      "matchedKeywords": [
-        "水資源"
-      ]
-    },
-    {
-      "title": "搶佔水資源循環商機 惠民子公司接獲高科技廠RO薄膜清洗訂單",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0RVR3LUFaYVNKS0M0N2NWT2NVbkVhOW5yZG1YUnduaV9FNDNOVXIxMVg5dUluM05PamNKaVNSUlJVYnBOaGE0ZTlFODhRMjRZdG9FcXFtX1ktLXNwWl9r0gFkQVVfeXFMT2hwNFR6akFvS2J1NDlidENKWGF6Q3ZmRzRlUXE3eHJrR0pWTG9jUXh6V1gwcDBSb1A2eHZFclAwdUlIOUNGanJFd2VfaUF2QkoycDgwRVoyNWRMbl8xLUM4S0QwZw?oc=5",
-      "source": "自由財經",
-      "sourceUrl": "https://ec.ltn.com.tw",
-      "summary": "",
-      "publishedAt": "2026-11-25T08:03:57.000Z",
-      "timestamp": 1795593837000,
       "matchedKeywords": [
         "水資源"
       ]
@@ -152,7 +128,7 @@
     },
     {
       "title": "學者：中國將湄公河水資源治理安全化 擴大中南半島影響力",
-      "link": "https://money.udn.com/money/story/5603/9899186",
+      "link": "https://money.udn.com/money/story/7307/9899186",
       "source": "經濟日報",
       "sourceUrl": "",
       "summary": "中興大學國際政治研究所教授譚偉恩在回應王占璽的研究時表示，湄公河無論是水力發電或民生用水，對於中南半島國家都至關重要，中國將水問題安全化，將影響這些國家對中國的認知與互動關係。",
@@ -163,85 +139,25 @@
       ]
     },
     {
-      "title": "學者：中國將湄公河水資源治理安全化擴大中南半島影響力| 兩岸",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54cE94WXE1cXZlQ056cm5PWmtxYlNCOE9BWFNzUWxqbUk2VGJIdUtXVURLcE13aUlkcm5fMXRQMHJmVDc1TkE5NndWR2RzUTlfMGtwbHRqVTYwYWY0R2c?oc=5",
-      "source": "中央社 CNA",
-      "sourceUrl": "https://www.cna.com.tw",
-      "summary": "",
-      "publishedAt": "2026-11-24T09:17:00.000Z",
-      "timestamp": 1795511820000,
-      "matchedKeywords": [
-        "水資源"
-      ]
-    },
-    {
       "title": "陳春暖赴立院爭取卓蘭水資源改善 中央三大水利單位齊聚協商",
-      "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxQS0VDSDdBTFBoTmtvaVlNZndhZjZ3NVVhUGlybVdVVGs1Xzk1SDlKRDV1bjQ5WGVSQVBJUmZRbDBjeGtwcmFuQWF2dkJiRk9FdENCc0pjUm41NVM2X1JfWFN1WTRuTWtIbmVCeTNiR1ltbnU4TjlRNjlUR212cUZvYS1PanhWM0txZ1Z4NC1wWFdtTkxEcVlzUTNXb3dUcUpielZVYkRDUU16RzZrZnV1RnNjdFpMaF8yX21mdFhxSS0yNWNsZmFOVl9WRUFDRzN4LUgwbHc3bnJhRTFCUzJsMWxseWxpaFdYc2ZJb1dCemE4d05hRmZEaVBlbkJkczU3MlNmTmdjVlJRWk9jOU1GaXpJTE9ndDZKaTZROU1aRnBYc0VHdnhHaVUtbWhJdHZHVDA3YmJQaW1CTC1vQ1Zxb0FpT0RfRC1qTzN0aGZHdnRUMmlvQzctZ3gtZkt4cFZVeTJiLVRyN25maWJ2TVpJQlpLUEg0RmlBckNWOHktRWFLOHUxRkdLTFF3T3hyZThrQmxYVFJxa0o?oc=5",
-      "source": "Yahoo新聞",
-      "sourceUrl": "https://tw.news.yahoo.com",
-      "summary": "",
-      "publishedAt": "2026-11-24T08:23:20.000Z",
-      "timestamp": 1795508600000,
-      "matchedKeywords": [
-        "水資源"
-      ]
-    },
-    {
-      "title": "中市污水接管破33萬戶、奪逾百座國家獎",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kZXB5V25Tc0loV2p0VE1fN3ZkV1lBTlJVbV8tWVhWZ2YxbFVCTF9COWRKQkU1RWU2VkViVU9peGZJV3htbUEyVy12U1JheUVrdXRrUzFIR2thdW5xRUUwbmV1dkRzQUE0M2FILWxkSGdBVVE?oc=5",
-      "source": "環球日報社",
-      "sourceUrl": "https://www.worldnews-tw.com",
-      "summary": "",
-      "publishedAt": "2026-11-24T08:00:00.000Z",
-      "timestamp": 1795507200000,
-      "matchedKeywords": [
-        "水資源"
-      ]
-    },
-    {
-      "title": "絮凝污泥層澄清器市場展望2035：改造需求與水資源回收支撐擴張 - 新聞與統計",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWXF6VE5uOXdVeU5tWUd0OWUwUVpOZEltTnAzRm5sVG4tTVItNjEwa2c2ZDNwcl9Gb29qUHVwVWpWWlA0TFJNdE9SU3ludmJLRVZpdHFXblhSMGZuYzVrNHNrYmluX0JHTTQwUWhyNXdoWEJxcm12VFplREJMTnJDUlR3SE5kamcyU1h5aERSYjkxSlM1WExoUEc5cnZFOG9IdFBMQ1N0aG9NanZaeF9xcTB0SU93MGdKNWFoaGp5X3lkZlV1QWhZQmJDYzRsT1d0YnhUX3lkdzNRTkt1RHc?oc=5",
-      "source": "IndexBox",
-      "sourceUrl": "https://www.indexbox.io",
-      "summary": "",
-      "publishedAt": "2026-11-23T12:16:04.000Z",
-      "timestamp": 1795436164000,
-      "matchedKeywords": [
-        "水資源"
-      ]
-    },
-    {
-      "title": "泵浦製造市場展望 2035：水資源建設與節能需求推動成長 - 新聞與統計",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWFhtQjlhVmRIeVNfUnpWYkFzaFpaUHVscDhqV2R2eEVwc292MnVETUxpbW1RVWFpRHNZelY4YnJnOFNwV3RpWmpBdjlqQWZidlJjWHY3ajVPM2R0Ykd0Y20zN2U5b3JXdWh3Y1BQZGpKUmszbHFZaGljYlNPaE5MbDVMalRXeGkxTFdzZ1JvWEJ2WHI2WkFZNHk2aUpFVG5YUjhCNzZOenVCMk9JSXlnX1BFbXgwME5jZ2RBRmo2TXVxWjN2dXBHR19YWGxVTUVZblJGSXl6bnJjUHJQXzBJTjlSZw?oc=5",
-      "source": "IndexBox",
-      "sourceUrl": "https://www.indexbox.io",
-      "summary": "",
-      "publishedAt": "2026-11-22T11:41:04.000Z",
-      "timestamp": 1795347664000,
-      "matchedKeywords": [
-        "水資源"
-      ]
-    },
-    {
-      "title": "歐洲面臨乾旱危機 1.3兆歐元企業貸款曝險水資源短缺",
-      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOelg5TDFzUWNvQXl5Zzd4RVBDQVNuUGFVM3p5S2RLamtkM3Bob0NzTGd0NjRKWUlBUWRLd2cwZ0tiTGRrcmMyMVl4LTlyWDU0MEZhMUFsYXNUMUprcVlHazNUbDNxLWpMaTJHTnR6REpEUlNXYTVqMGVxUHVhajFHTDFsczJzaUJsVURBbDF4UFp5LUJ1MFZ1azNjejV6bXVqVDJpY1NtbkxJZ1cxdUhsUmxkZkNGX0FmV2k4SVFJSUF5R3p3V3o0RjZoWnhrTlB3X0JwakhyOTN4bFpqOXJ4enFOdDRRTk9HZmdpbjZhVFJpek56UE1fVHJodnM2eEN2MGp0Uk9KeHE2S2JZdWE1ZnZOZU9JaXNoRE1waE1CRnB2LWJpSmdJQm1iNmNOVjhyekZDcHdoV2JSdl9DMTVBYmFycEJaY1ctM3BKM2lhSm40U0NlaUY1VXQ2UmZKSTZJdm15bEtuaE0?oc=5",
-      "source": "Yahoo股市",
-      "sourceUrl": "https://tw.stock.yahoo.com",
-      "summary": "",
-      "publishedAt": "2026-11-21T12:12:59.000Z",
-      "timestamp": 1795263179000,
-      "matchedKeywords": [
-        "水資源"
-      ]
-    },
-    {
-      "title": "參與公益路跑 正視水資源公平與兒少生存權",
-      "link": "https://news.pchome.com.tw/living/tcnews/20261121/index-79523948079350280009.html",
-      "source": "PChome Online新聞",
+      "link": "https://www.msn.com/zh-tw/news/other/%E9%99%B3%E6%98%A5%E6%9A%96%E8%B5%B4%E7%AB%8B%E9%99%A2%E7%88%AD%E5%8F%96%E5%8D%93%E8%98%AD%E6%B0%B4%E8%B3%87%E6%BA%90%E6%94%B9%E5%96%84-%E4%B8%AD%E5%A4%AE%E4%B8%89%E5%A4%A7%E6%B0%B4%E5%88%A9%E5%96%AE%E4%BD%8D%E9%BD%8A%E8%81%9A%E5%8D%94%E5%95%86/ar-AA2i6bTl",
+      "source": "民視新聞網 on MSN",
       "sourceUrl": "",
-      "summary": "過去每天得花一兩小時走到溪邊、提水回家的尚比亞女孩米莉安（Mirriam），因為世界展望會的水資源暨衛生計畫協助，現在從家裡走約5分鐘就能取到乾淨的水。省下來的時間讓她可以就學讀書，朝當醫生的夢想前進。11月20日世界兒童日，米莉安以台灣世界展望會「水資源兒童倡議大使」身分，用親身走過的取水路，邀請台灣民眾參與2027 Global 6K For Water公益路跑，一起關注缺水地區兒童的健康、教 ...",
-      "publishedAt": "2026-11-21T05:38:00.000Z",
-      "timestamp": 1795239480000,
+      "summary": "即時中心／顏一軒報導 民進黨苗栗縣議員、卓蘭鎮長候選人陳春暖今（24）日前往立法院，在立委沈發惠、協助下與苗栗縣議員羅貴星共同召開「卓蘭整體水資源改善協調會議」，邀集經濟部水利署副署長王藝峰、農業部農田水利署署長蔡昇甫、台灣自來水公司董事長李嘉榮均親自出席，針對水庫回饋金、民生用水及農業灌溉三大議題進行協商。",
+      "publishedAt": "2026-11-23T23:57:55.000Z",
+      "timestamp": 1795478275000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "水庫相互支援！「珍珠串計畫」串聯全台水資源 日調度達338萬噸",
+      "link": "https://esg.tvbs.com.tw/view/trend/1746",
+      "source": "esg.tvbs",
+      "sourceUrl": "",
+      "summary": "水利署推動的「珍珠串計畫」，便是透過跨縣市、跨局處的整合，串聯全台灣各地的水庫等設施，建立跨區輸水網絡，以北水南送、南水北引等方式，讓水資源依各地需求進行調度，提升國家整體水資源韌性。 其中，桃園石門水庫至新竹寶山的聯通管工程，便是計畫中的重大建設段之一。隨著新竹人口成長、科技產業發展興盛，用水需求也日益攀升。",
+      "publishedAt": "2026-11-23T20:46:00.000Z",
+      "timestamp": 1795466760000,
       "matchedKeywords": [
         "水資源"
       ]
@@ -278,18 +194,6 @@
       "summary": "核心亮點一：Google 承諾 2030 年達成「水資源正效益」，目標每年回補超過 190 億加侖水量，並已累計投入逾 5 億美元協助資料中心所在地翻新公共供水與廢水處理基礎設施。 核心亮點二：為緩解 AI 算力帶來的散熱用水壓力，Google 祭出五大水資源承諾，包括在高風險缺水流域強制改採「氣冷」或「再生水」，並持續公開各場址年度用水數據以維持透明度。 核心亮點三：Google 積極推動在地化 ...",
       "publishedAt": "2026-11-19T16:00:00.000Z",
       "timestamp": 1795104000000,
-      "matchedKeywords": [
-        "水資源"
-      ]
-    },
-    {
-      "title": "11/19世界廁所日！ 莊競程推加速啟動水資源中心擴建",
-      "link": "https://news.ltn.com.tw/news/HsinchuCity/breakingnews/5645962",
-      "source": "自由時報電子報",
-      "sourceUrl": "",
-      "summary": "你知道今天11月19日是聯合國認證的「世界廁所日」嗎？新竹市長候選人莊競程今天提到，這個節日最核心的議題就是「公共衛生」，講得直白些，就是有沒有安全的衛生設施可以系統性地處理排泄物。如果沒有，就容易衍生疾病傳播的問題。竹市人口及建案持續成長，但竹市的污水接管不夠快，後端處理設施也無法負荷，已面臨超載狀況，他強調，未來當選市長，一定優先處理水資源中心擴建工程，不會讓市民家中的馬桶爆管，還要人工抽水肥 ...",
-      "publishedAt": "2026-11-19T03:20:00.000Z",
-      "timestamp": 1795058400000,
       "matchedKeywords": [
         "水資源"
       ]
@@ -350,6 +254,18 @@
       "summary": "",
       "publishedAt": "2026-08-10T07:00:00.000Z",
       "timestamp": 1786345200000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "印尼提4項水資源倡議 強化全球水資源落實機制",
+      "link": "https://www.cna.com.tw/news/aopl/202606300337.aspx",
+      "source": "中央社CNA",
+      "sourceUrl": "",
+      "summary": "本網站使用相關技術提供更好的閱讀體驗，同時尊重使用者隱私，點這裡瞭解中央社隱私聲明。當您關閉此視窗，代表您同意 ...",
+      "publishedAt": "2026-06-30T12:10:00.000Z",
+      "timestamp": 1782821400000,
       "matchedKeywords": [
         "水資源"
       ]
@@ -439,18 +355,6 @@
       ]
     },
     {
-      "title": "AWS 宣布水資源正效益承諾 目標在 2030 年前將超過自身用水量的水資源回饋社區",
-      "link": "https://www.thenewslens.com/feature/aws/243323",
-      "source": "The News Lens 關鍵評論網",
-      "sourceUrl": "",
-      "summary": "由關鍵評論網媒體集團《業務團隊》製作，由各品牌單位贊助。業務與行銷相關合作，歡迎與我們聯繫。 全球領先雲端服務供應商 AWS 宣布在印度、英國和美國展開全新水資源補給專案，為全球 ...",
-      "publishedAt": "2024-10-22T23:00:00.000Z",
-      "timestamp": 1729638000000,
-      "matchedKeywords": [
-        "水資源"
-      ]
-    },
-    {
       "title": "水資源循環新里程碑 中市水湳再生水今年底正式供給中科園區",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5YWV3VDN0dUs4aFVpS3ByNDhHdkRPRHNJUFVISHM0VlFEUk4yS0QxR3NHRF9WY0ZUR2U3M0xOSnlQbV96U2JBQTVsd0lnc29ELUE?oc=5",
       "source": "臺中市政府全球資訊網",
@@ -458,18 +362,6 @@
       "summary": "",
       "publishedAt": "2024-06-22T07:00:00.000Z",
       "timestamp": 1719039600000,
-      "matchedKeywords": [
-        "水資源"
-      ]
-    },
-    {
-      "title": "響應世界水資源日》有效管理運用水資源，因應未來缺水危機",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9HZ1VHWE9XNjJVOWo2LThRN0NWX2ZRRE1VN1ZQc0hxMXB0ekV0ZndZQlpYaUM2Y0dFT0x4MWdiamxIRjVmX09nallsZjc?oc=5",
-      "source": "ESG遠見",
-      "sourceUrl": "https://esg.gvm.com.tw",
-      "summary": "",
-      "publishedAt": "2024-04-11T07:00:00.000Z",
-      "timestamp": 1712818800000,
       "matchedKeywords": [
         "水資源"
       ]
@@ -494,6 +386,30 @@
       "summary": "實現水資源永續循環-工業技術與資訊月刊-出版品-新聞中心-工業技術研究院 Industrial Technology Research Institute",
       "publishedAt": "2023-03-15T07:00:00.000Z",
       "timestamp": 1678863600000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "水資源再利用新紀元！全國最大「福田再生水示範案」115年供水",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zNGs0U0RpTFFCQ19xVmZFSnZUXzZlUUY4Uzc0R3FPUkI0UjFTYW5NVm01ZWR6Y3JYd1dIdWg2d1dsTUpQUGFCMVRkT0VYRmpJbXc?oc=5",
+      "source": "臺中市政府全球資訊網",
+      "sourceUrl": "https://www.taichung.gov.tw",
+      "summary": "",
+      "publishedAt": "2022-07-05T07:00:00.000Z",
+      "timestamp": 1657004400000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "氣候變遷對台灣水資源的衝擊：各縣市政府如何呼應2030年聯合國永續發展目標？",
+      "link": "https://www.thenewslens.com/article/158544",
+      "source": "The News Lens 關鍵評論網",
+      "sourceUrl": "",
+      "summary": "臺灣公衛學生聯合會，是由全國大專院校的公衛學生共同發起的全國性團體，旨在促進全國公共衛生學生交流，促進交流學習以及推廣公共衛生議題，讓更多人能接觸與認識到公共衛生。",
+      "publishedAt": "2022-06-05T21:00:00.000Z",
+      "timestamp": 1654462800000,
       "matchedKeywords": [
         "水資源"
       ]

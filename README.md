@@ -1,23 +1,24 @@
-# 💧 水資源輿情與立法院發布消息即時監測網
+# 🐚 神奇海螺輿情與國會訊息即時監測網
+**Magic Conch Public Opinion & Parliament Monitor**
 
-分成左右雙區塊即時觀測 **【水資源】** 相關動態：
-1. **第一區域（即時新聞動態）**：匯流 Google 新聞（台灣）與 Bing 新聞（台灣）針對「水資源」之最新媒體報導。
+分成三大區域即時觀測政策、產業、水資源與能源動態：
+
+1. **第一區域（即時新聞動態）**：匯流 Google 新聞（台灣）與 Bing 新聞（台灣）最新媒體報導，支援右上角以 `+` 隔開多關鍵字同時搜尋（OR / AND 雙模式）。
 2. **第二區域（立法院發布消息專區）**：整合立法院全球資訊網（`ly.gov.tw`）官方公告與研究報告、立法院開放資料 API（`v2.ly.govapi.tw`）之議案／法案、委員質詢發言（IVOD 逐字稿與公報紀錄）以及國會新聞動態。
+3. **第三區域（政府機關訊息監測專區）**：涵蓋 **6 大部會體系、20 個機關單位（共 36 個官方頻道）**，內建各機關專屬預設關鍵字、法規異動／新聞澄清／園區投資標籤，以及 **台灣水庫即時水情**（https://water.taiwanstat.com/）快速連結：
+   - **3-1 總統府**：新聞與活動
+   - **3-2 行政院**：本院新聞、即時新聞澄清、部會新聞、行政院會議／院會決議
+   - **3-3 經濟部及所屬（10 單位）**：經濟部本部、水利署、投資促進司、產業發展署、能源署、產業園區管理局、台灣自來水公司（台水）、台灣中油、標準檢驗局、地熱發電單一服務窗口
+   - **3-4 國科會與三大科管局（4 單位）**：國科會本部、新竹科學園區管理局、中部科學園區管理局、南部科學園區管理局
+   - **3-5 國家發展委員會（國發會）**：本會動態、新聞稿、最新消息
+   - **3-6 環境部及所屬（3 單位）**：環境部本部／氣候變遷署、資源循環署、化學物質管理署
 
 ---
 
-## 🌐 GitHub Pages 自動部署與定時更新架構
+## 🌐 GitHub Pages 線上網址與自動排程更新
 
-本專案支援 **GitHub Pages 純靜態部署**：
-- 內建 GitHub Actions 工作流程（[`.github/workflows/deploy.yml`](.github/workflows/deploy.yml)）：
-  - 每次推送至 `main` 分支、手動觸發（`workflow_dispatch`），以及 **每 2 小時定時排程（Cron）**，會自動執行 `npm run build:data` 抓取最新新聞與立法院資料輸出至 `public/data/` 並自動部署至 GitHub Pages。
-- 前端同時支援 **瀏覽器端即時直連立法院開放資料 API (`v2.ly.govapi.tw`)** 與即時新聞代理檢索，即使在純靜態 GitHub Pages 環境下點擊「立即抓取最新」或輸入自訂關鍵字也能即時查詢。
-
-### 啟用步驟
-1. 本專案已內建自動產生並持續更新 `gh-pages` 分支之 GitHub Actions。
-2. 前往 GitHub Repository 的 **Settings → Pages**。
-3. 在 **Build and deployment → Source** 確認為 **`Deploy from a branch`**，分支選擇 **`gh-pages` / `/ (root)`** 並點擊 **Save**。
-4. 網站將發布至 `https://yingchan39.github.io/water-resource-monitor/`，且每 2 小時自動同步最新資料。
+- **線上網址**：https://yingchan39.github.io/water-resource-monitor/
+- 透過 [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml) 每 2 小時自動執行 `npm run build:data`，同步三大區域最新資料並發布至 `gh-pages` 分支。
 
 ---
 

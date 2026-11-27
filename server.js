@@ -8,10 +8,12 @@ const {
   fetchRealtimeNews,
   fetchLegislativeYuanUpdates,
 } = require('./lib/fetcher');
+const { fetchGovernmentUpdates } = require('./lib/gov-fetcher');
 
 const PORT = Number(process.env.PORT) || 3000;
 const PUBLIC_DIR = path.join(__dirname, 'public');
 const CACHE_TTL_MS = 60 * 1000;
+const GOV_CACHE_TTL_MS = 3 * 60 * 1000; // 3 minutes cache for 20 gov agencies
 
 const cache = new Map();
 
@@ -24,11 +26,11 @@ const MIME_TYPES = {
   '.ico': 'image/x-icon',
 };
 
-async function getCachedOrFetch(cacheKey, forceRefresh, fetcher) {
+async function getCachedOrFetch(cacheKey, forceRefresh, ttlMs, fetcher) {
   const now = Date.now();
   if (!forceRefresh && cache.has(cacheKey)) {
     const entry = cache.get(cacheKey);
-    if (now - entry.createdAt < CACHE_TTL_MS) {
+    if (now - entry.createdAt < ttlMs) {
       return { ...entry.data, cached: true };
     }
   }
@@ -55,6 +57,7 @@ const server = http.createServer(async (req, res) => {
     if (pathname === '/api/health') {
       return sendJson(res, 200, {
         status: 'ok',
+        siteName: '神奇海螺輿情與國會訊息即時監測網',
         defaultKeyword: DEFAULT_KEYWORD,
         serverTime: new Date().toISOString(),
       });
@@ -65,7 +68,7 @@ const server = http.createServer(async (req, res) => {
       const keyword = normalizeKeywordString(rawKw);
       const mode = reqUrl.searchParams.get('mode') === 'and' ? 'and' : 'or';
       const refresh = reqUrl.searchParams.get('refresh') === '1';
-      const data = await getCachedOrFetch(`news:${mode}:${keyword}`, refresh, () =>
+      const data = await getCachedOrFetch(`news:${mode}:${keyword}`, refresh, CACHE_TTL_MS, () =>
         fetchRealtimeNews(keyword, mode)
       );
       return sendJson(res, 200, data);
@@ -76,8 +79,16 @@ const server = http.createServer(async (req, res) => {
       const keyword = normalizeKeywordString(rawKw);
       const mode = reqUrl.searchParams.get('mode') === 'and' ? 'and' : 'or';
       const refresh = reqUrl.searchParams.get('refresh') === '1';
-      const data = await getCachedOrFetch(`ly:${mode}:${keyword}`, refresh, () =>
+      const data = await getCachedOrFetch(`ly:${mode}:${keyword}`, refresh, CACHE_TTL_MS, () =>
         fetchLegislativeYuanUpdates(keyword, mode)
+      );
+      return sendJson(res, 200, data);
+    }
+
+    if (pathname === '/api/gov') {
+      const refresh = reqUrl.searchParams.get('refresh') === '1';
+      const data = await getCachedOrFetch('gov:all', refresh, GOV_CACHE_TTL_MS, () =>
+        fetchGovernmentUpdates()
       );
       return sendJson(res, 200, data);
     }
@@ -112,8 +123,8 @@ const server = http.createServer(async (req, res) => {
 
 server.listen(PORT, '127.0.0.1', () => {
   console.log(`====================================================`);
-  console.log(`💧 水資源即時新聞與立法院消息監測網站已啟動！`);
+  console.log(`🐚 神奇海螺輿情與國會訊息即時監測網已啟動！`);
   console.log(`🌐 網址: http://localhost:${PORT}`);
-  console.log(`🔍 預設關鍵字: 【${DEFAULT_KEYWORD}】（支援 + 多關鍵字同時搜尋）`);
+  console.log(`🔍 涵蓋三大區域：即時新聞 ｜ 立法院消息 ｜ 20 個政府機關專區`);
   console.log(`====================================================`);
 });

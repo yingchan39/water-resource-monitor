@@ -4,20 +4,37 @@
   const state = {
     keyword: '水資源',
     keywords: ['水資源'],
-    mode: 'or', // 'or' = 任一符合 (同時搜尋多個關鍵字並合併), 'and' = 皆須包含
+    mode: 'or',
+    viewZone: 'all', // 'all' | 'zone1' | 'zone2' | 'zone3'
+
     newsItems: [],
     lyItems: [],
     lyCounts: { all: 0, bill: 0, interpellation: 0, official: 0, press: 0 },
     selectedLyCat: 'all',
     newsFilter: '',
     lyFilter: '',
+
+    // Zone 3: Government Agencies
+    govItems: [],
+    govAgencies: [],
+    selectedGovGroup: 'all',
+    selectedGovAgency: 'all',
+    govKwMode: 'preset', // 'preset' | 'global' | 'all'
+    govFilter: '',
+
     countdown: AUTO_REFRESH_SECONDS,
     loading: false,
     hasBackendApi: null,
     manifest: null,
   };
 
-  // Elements
+  // Global & Header Elements
+  const dashboardGrid = document.getElementById('dashboardGrid');
+  const zone1Panel = document.getElementById('zone1Panel');
+  const zone2Panel = document.getElementById('zone2Panel');
+  const zone3Panel = document.getElementById('zone3Panel');
+  const zoneViewSwitcher = document.getElementById('zoneViewSwitcher');
+
   const keywordForm = document.getElementById('keywordForm');
   const keywordInput = document.getElementById('keywordInput');
   const matchModeSelect = document.getElementById('matchModeSelect');
@@ -50,6 +67,18 @@
     press: document.getElementById('catCountPress'),
   };
 
+  // Zone 3 Elements
+  const govCountPill = document.getElementById('govCountPill');
+  const govGroupTabs = document.getElementById('govGroupTabs');
+  const govAgencyStrip = document.getElementById('govAgencyStrip');
+  const govFocusText = document.getElementById('govFocusText');
+  const govChannelLinks = document.getElementById('govChannelLinks');
+  const govDirectoryGrid = document.getElementById('govDirectoryGrid');
+  const govFilterInput = document.getElementById('govFilterInput');
+  const govSourcesSummary = document.getElementById('govSourcesSummary');
+  const govList = document.getElementById('govList');
+  const govKwRadios = document.querySelectorAll('input[name="govKwMode"]');
+
   function escapeHtml(str = '') {
     return String(str)
       .replace(/&/g, '&amp;')
@@ -65,9 +94,6 @@
     return (tmp.textContent || tmp.innerText || '').replace(/\s+/g, ' ').trim();
   }
 
-  /**
-   * Parse '+' or '＋' separated keywords
-   */
   function parseKeywordList(raw = '水資源') {
     const parts = String(raw || '')
       .split(/[+＋]+/)
@@ -121,7 +147,7 @@
     const tokens = list
       .map((t) => t.trim())
       .filter(Boolean)
-      .sort((a, b) => b.length - a.length) // highlight longer phrases first
+      .sort((a, b) => b.length - a.length)
       .map((t) => escapeHtml(t).replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
     if (tokens.length === 0) return escaped;
     const regex = new RegExp(`(${tokens.join('|')})`, 'gi');
@@ -130,8 +156,7 @@
 
   function updateKeywordBadgesUI() {
     const kws = state.keywords;
-    const modeLabel =
-      kws.length > 1 ? (state.mode === 'and' ? '（且）' : '（或）') : '';
+    const modeLabel = kws.length > 1 ? (state.mode === 'and' ? '（且）' : '（或）') : '';
 
     activeKeywordBadge.innerHTML = kws
       .map((k) => `<strong class="active-keyword-pill">【${escapeHtml(k)}】</strong>`)
@@ -155,9 +180,9 @@
   }
 
   function formatDateDisplay(isoStr) {
-    if (!isoStr) return '近期發布';
+    if (!isoStr) return '近期官網公告';
     const d = new Date(isoStr);
-    if (Number.isNaN(d.getTime())) return '近期發布';
+    if (Number.isNaN(d.getTime())) return '近期官網公告';
 
     const now = Date.now();
     const diffSec = Math.floor((now - d.getTime()) / 1000);
@@ -177,8 +202,8 @@
     return exactDate;
   }
 
-  function showSkeletons(container) {
-    container.innerHTML = Array.from({ length: 4 })
+  function showSkeletons(container, count = 4) {
+    container.innerHTML = Array.from({ length: count })
       .map(() => '<div class="skeleton-card"></div>')
       .join('');
   }
@@ -270,12 +295,10 @@
     return [];
   }
 
-  // Static Mode Zone 1 supporting '+' separated multi-keywords & OR/AND mode
   async function fetchStaticNews(keywords, mode, forceRefresh) {
     const normalized = keywords.join('+');
     const manifest = await loadManifest();
 
-    // Direct exact preset match in manifest (when mode === 'or' or single keyword)
     if (!forceRefresh && (mode === 'or' || keywords.length === 1)) {
       const exactPreset = manifest?.presets?.[normalized];
       if (exactPreset?.newsFile) {
@@ -286,7 +309,6 @@
       }
     }
 
-    // Load any matching individual keyword snapshots from manifest
     const snapshotPool = [];
     if (manifest?.presets) {
       const candidateKeys = new Set([...keywords, '水資源', '水資源+水庫', '水資源+再生水', '水資源+海水淡化']);
@@ -309,7 +331,6 @@
       chunks.forEach((c) => snapshotPool.push(...c));
     }
 
-    // Fetch live RSS per keyword (OR) or combined exact query (AND)
     let liveItems = [];
     if (keywords.length === 1 || mode === 'and') {
       const exactQuery = buildExactPhraseQuery(keywords);
@@ -333,7 +354,6 @@
       perKw.forEach((arr) => liveItems.push(...arr));
     }
 
-    // Filter snapshotPool to match current keywords & mode
     const filteredPool = snapshotPool.filter((it) => {
       const hay = `${it.title || ''} ${it.summary || ''} ${it.source || ''}`.toLowerCase();
       return mode === 'and'
@@ -371,7 +391,6 @@
     return '';
   }
 
-  // Browser-direct live query to LYAPI v2 for a single exact query string
   async function fetchLiveLySingleExact(exactQueryStr, allKeywords, fallbackKw = '') {
     const exact = encodeURIComponent(exactQueryStr);
     const settled = await Promise.allSettled([
@@ -475,7 +494,6 @@
     return items;
   }
 
-  // Static Mode Zone 2 supporting '+' separated multi-keywords & OR/AND mode
   async function fetchStaticLy(keywords, mode, forceRefresh) {
     const normalized = keywords.join('+');
     const manifest = await loadManifest();
@@ -490,7 +508,6 @@
       }
     }
 
-    // Gather matching official/press items from pre-built snapshots
     const snapshotPool = [];
     if (manifest?.presets) {
       const candidateKeys = new Set([...keywords, '水資源', '水資源+水庫', '水資源+再生水', '水資源+海水淡化']);
@@ -522,7 +539,6 @@
         matchedKeywords: computeMatchedKeywords(it, keywords),
       }));
 
-    // Live browser CORS query to v2.ly.govapi.tw for ALL keywords!
     let liveLyItems = [];
     if (keywords.length === 1 || mode === 'and') {
       liveLyItems = await fetchLiveLySingleExact(
@@ -561,6 +577,15 @@
     };
   }
 
+  async function fetchStaticGov() {
+    const manifest = await loadManifest();
+    const govUrl = manifest?.govFile || './data/gov.json';
+    const res = await fetch(`${govUrl}?t=${Date.now()}`, { cache: 'no-store' });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    return await res.json();
+  }
+
+  // Render Zone 1
   function renderNewsList() {
     const filter = state.newsFilter.toLowerCase().trim();
     const filtered = state.newsItems.filter((item) => {
@@ -613,6 +638,7 @@
       .join('');
   }
 
+  // Render Zone 2
   function renderLyList() {
     const filter = state.lyFilter.toLowerCase().trim();
     const cat = state.selectedLyCat;
@@ -684,7 +710,236 @@
     catCountEls.press.textContent = c.press ?? 0;
   }
 
-  async function fetchAllData(forceRefresh = false) {
+  // Zone 3 Filtering Helper
+  function doesGovItemMatchMode(item) {
+    if (state.govKwMode === 'all') return true;
+    if (state.govKwMode === 'preset') return Boolean(item.isDefaultMatch);
+    // 'global' mode: use state.keywords & state.mode
+    const hay = `${item.title || ''} ${item.summary || ''} ${item.agencyName || ''} ${item.channelLabel || ''}`.toLowerCase();
+    return state.mode === 'and'
+      ? state.keywords.every((k) => hay.includes(k.toLowerCase()))
+      : state.keywords.some((k) => hay.includes(k.toLowerCase()));
+  }
+
+  function renderGovDirectoryOnce() {
+    if (!state.govAgencies.length || govDirectoryGrid.dataset.rendered === '1') return;
+    govDirectoryGrid.innerHTML = state.govAgencies
+      .map((ag) => {
+        const chLinks = (ag.channels || [])
+          .map(
+            (ch) =>
+              `<a class="gov-portal-btn" href="${escapeHtml(ch.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(
+                ch.label
+              )} ↗</a>`
+          )
+          .join('');
+        const extraLinks = (ag.extraLinks || [])
+          .map(
+            (ex) =>
+              `<a class="gov-portal-btn extra" href="${escapeHtml(ex.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(
+                ex.label
+              )} ↗</a>`
+          )
+          .join('');
+        return `
+          <div class="dir-card">
+            <div class="dir-card-head">${escapeHtml(ag.code)} ${escapeHtml(ag.name)}</div>
+            <div class="dir-card-kw">預設重點：${escapeHtml(ag.focusDesc)}</div>
+            <div class="dir-card-links">${chLinks}${extraLinks}</div>
+          </div>
+        `;
+      })
+      .join('');
+    govDirectoryGrid.dataset.rendered = '1';
+  }
+
+  function renderGovSubControls() {
+    const group = state.selectedGovGroup;
+    const agenciesInGroup =
+      group === 'all'
+        ? state.govAgencies
+        : state.govAgencies.filter((a) => a.groupId === group);
+
+    // Count items per agency under current govKwMode
+    const countsByAg = {};
+    let groupTotal = 0;
+    for (const item of state.govItems) {
+      if (!doesGovItemMatchMode(item)) continue;
+      countsByAg[item.agencyId] = (countsByAg[item.agencyId] || 0) + 1;
+      if (group === 'all' || item.groupId === group) groupTotal++;
+    }
+
+    if (agenciesInGroup.length <= 1 && group !== 'all') {
+      govAgencyStrip.innerHTML = '';
+    } else {
+      const allBtn = `<button type="button" class="gov-agency-chip ${
+        state.selectedGovAgency === 'all' ? 'active' : ''
+      }" data-agency="all">全部單位 <span class="chip-num">${groupTotal}</span></button>`;
+
+      const chips = agenciesInGroup
+        .map((ag) => {
+          const cnt = countsByAg[ag.id] || 0;
+          const isAct = state.selectedGovAgency === ag.id ? 'active' : '';
+          return `<button type="button" class="gov-agency-chip ${isAct}" data-agency="${escapeHtml(
+            ag.id
+          )}">${escapeHtml(ag.code)} ${escapeHtml(ag.name)} <span class="chip-num">${cnt}</span></button>`;
+        })
+        .join('');
+
+      govAgencyStrip.innerHTML = allBtn + chips;
+    }
+
+    // Update Focus Banner & Official Direct Portal Buttons
+    let activeAgencyObj = null;
+    if (state.selectedGovAgency !== 'all') {
+      activeAgencyObj = state.govAgencies.find((a) => a.id === state.selectedGovAgency);
+    } else if (agenciesInGroup.length === 1) {
+      activeAgencyObj = agenciesInGroup[0];
+    }
+
+    if (activeAgencyObj) {
+      govFocusText.innerHTML = `<strong>${escapeHtml(activeAgencyObj.code)} ${escapeHtml(
+        activeAgencyObj.name
+      )}</strong>｜預設監測重點：${escapeHtml(activeAgencyObj.focusDesc)}`;
+
+      const chHtml = (activeAgencyObj.channels || [])
+        .map(
+          (ch) =>
+            `<a class="gov-portal-btn" href="${escapeHtml(ch.url)}" target="_blank" rel="noopener noreferrer">官方頁面：${escapeHtml(
+              ch.label
+            )} ↗</a>`
+        )
+        .join('');
+      const exHtml = (activeAgencyObj.extraLinks || [])
+        .map(
+          (ex) =>
+            `<a class="gov-portal-btn extra" href="${escapeHtml(ex.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(
+              ex.label
+            )} ↗</a>`
+        )
+        .join('');
+      govChannelLinks.innerHTML = chHtml + exHtml;
+    } else {
+      const groupTitle =
+        group === 'all'
+          ? '全部 20 個政府機關總覽'
+          : `${group} 部會體系總覽（共 ${agenciesInGroup.length} 個單位）`;
+      govFocusText.innerHTML = `<strong>${escapeHtml(
+        groupTitle
+      )}</strong>｜點選上方任一子機關可檢視其專屬預設關鍵字與官方原始網頁直達按鈕。`;
+      govChannelLinks.innerHTML = `
+        <a class="gov-portal-btn extra" href="https://water.taiwanstat.com/" target="_blank" rel="noopener noreferrer">💧 台灣水庫即時水情 ↗</a>
+      `;
+    }
+  }
+
+  function renderGovList() {
+    renderGovDirectoryOnce();
+    renderGovSubControls();
+
+    const textFilter = state.govFilter.toLowerCase().trim();
+    const filtered = state.govItems.filter((item) => {
+      if (state.selectedGovGroup !== 'all' && item.groupId !== state.selectedGovGroup) return false;
+      if (state.selectedGovAgency !== 'all' && item.agencyId !== state.selectedGovAgency) return false;
+      if (!doesGovItemMatchMode(item)) return false;
+      if (textFilter) {
+        const hay = `${item.agencyName} ${item.code} ${item.channelLabel} ${item.title} ${item.summary || ''} ${(
+          item.matchedKeywords || []
+        ).join(' ')}`.toLowerCase();
+        if (!hay.includes(textFilter)) return false;
+      }
+      return true;
+    });
+
+    govCountPill.textContent = `${filtered.length} 則政府訊息`;
+
+    if (filtered.length === 0) {
+      govList.innerHTML = `
+        <div class="state-box">
+          <h3>目前篩選條件下暫無符合的政府機關訊息</h3>
+          <p>您可以點選「📋 顯示擷取之全部最新公告」檢視該機關所有近期公告，或直接點擊上方「官方頁面 ↗」按鈕前往原始網站。</p>
+        </div>
+      `;
+      return;
+    }
+
+    govList.innerHTML = filtered
+      .slice(0, 120)
+      .map((item) => {
+        const safeLink = escapeHtml(item.link || item.channelUrl || '#');
+        const agencyLabel = `${escapeHtml(item.code)} ${escapeHtml(item.agencyName)}`;
+        const channelLabel = escapeHtml(item.channelLabel || '官方公告');
+        const timeStr = escapeHtml(formatDateDisplay(item.publishedAt));
+
+        const highlightTerms =
+          state.govKwMode === 'global'
+            ? state.keywords
+            : item.matchedKeywords?.length
+            ? item.matchedKeywords
+            : state.keywords;
+
+        const highlightedTitle = highlightKeyword(item.title, highlightTerms);
+        const highlightedSummary = item.summary ? highlightKeyword(item.summary, highlightTerms) : '';
+
+        let specialHtml = '';
+        if (item.specialBadge?.label) {
+          const cls = `special-${escapeHtml(item.specialBadge.type || 'regulation')}`;
+          specialHtml = `<span class="special-badge ${cls}">${escapeHtml(item.specialBadge.label)}</span>`;
+        }
+
+        const kwChips = (item.matchedKeywords || [])
+          .slice(0, 5)
+          .map((k) => `<span class="kw-hit-chip">#${escapeHtml(k)}</span>`)
+          .join('');
+
+        return `
+          <article class="item-card">
+            <div class="card-meta-top">
+              <div class="badge-group">
+                <span class="gov-agency-badge">${agencyLabel}</span>
+                <span class="meta-sub">${channelLabel}</span>
+                ${specialHtml}
+              </div>
+              <time class="time-text">${timeStr}</time>
+            </div>
+            <h3 class="card-title">
+              <a href="${safeLink}" target="_blank" rel="noopener noreferrer">${highlightedTitle}</a>
+            </h3>
+            ${highlightedSummary ? `<p class="card-summary">${highlightedSummary}</p>` : ''}
+            <div class="card-footer">
+              <div class="kw-hit-badges">
+                ${kwChips || `<span class="meta-sub">近期公告</span>`}
+              </div>
+              <a class="read-more" href="${safeLink}" target="_blank" rel="noopener noreferrer">
+                檢視公告 ↗
+              </a>
+            </div>
+          </article>
+        `;
+      })
+      .join('');
+  }
+
+  function applyZoneView(view) {
+    state.viewZone = view;
+    zoneViewSwitcher.querySelectorAll('.view-chip').forEach((btn) => {
+      btn.classList.toggle('active', btn.dataset.view === view);
+    });
+
+    if (view === 'all') {
+      dashboardGrid.classList.remove('single-zone-mode');
+      zone1Panel.classList.remove('hidden');
+      zone2Panel.classList.remove('hidden');
+      zone3Panel.classList.remove('hidden');
+    } else {
+      dashboardGrid.classList.add('single-zone-mode');
+      zone1Panel.classList.toggle('hidden', view !== 'zone1');
+      zone2Panel.classList.toggle('hidden', view !== 'zone2');
+      zone3Panel.classList.toggle('hidden', view !== 'zone3');
+    }
+  }
+
+  async function fetchAllData(forceRefresh = false, skipGovIfLoaded = false) {
     if (state.loading) return;
     state.loading = true;
     refreshBtn.classList.add('loading');
@@ -694,69 +949,76 @@
     keywordInput.value = state.keyword;
     updateKeywordBadgesUI();
 
-    if (state.newsItems.length === 0) showSkeletons(newsList);
-    if (state.lyItems.length === 0) showSkeletons(lyList);
+    if (state.newsItems.length === 0) showSkeletons(newsList, 4);
+    if (state.lyItems.length === 0) showSkeletons(lyList, 4);
+    const shouldFetchGov = !skipGovIfLoaded || state.govItems.length === 0;
+    if (shouldFetchGov && state.govItems.length === 0) showSkeletons(govList, 6);
 
     const kwLabel = state.keywords.map((k) => `【${k}】`).join('＋');
-    lastSyncText.textContent = `正在同時搜尋 ${kwLabel} 最新新聞與立法院資料…`;
+    lastSyncText.textContent = `正在同步 ${kwLabel} 新聞、立法院與政府機關最新訊息…`;
 
     const hasApi = await detectBackendMode();
     const qs = `q=${encodeURIComponent(state.keyword)}&mode=${encodeURIComponent(state.mode)}${
       forceRefresh ? '&refresh=1' : ''
     }`;
 
-    const [newsRes, lyRes] = await Promise.allSettled(
-      hasApi
-        ? [
-            fetch(`./api/news?${qs}`).then((r) => r.json()),
-            fetch(`./api/ly?${qs}`).then((r) => r.json()),
-          ]
-        : [
-            fetchStaticNews(state.keywords, state.mode, forceRefresh),
-            fetchStaticLy(state.keywords, state.mode, forceRefresh),
-          ]
-    );
+    const tasks = [
+      hasApi ? fetch(`./api/news?${qs}`).then((r) => r.json()) : fetchStaticNews(state.keywords, state.mode, forceRefresh),
+      hasApi ? fetch(`./api/ly?${qs}`).then((r) => r.json()) : fetchStaticLy(state.keywords, state.mode, forceRefresh),
+    ];
 
+    if (shouldFetchGov) {
+      tasks.push(
+        hasApi
+          ? fetch(`./api/gov${forceRefresh ? '?refresh=1' : ''}`).then((r) => r.json())
+          : fetchStaticGov()
+      );
+    }
+
+    const settled = await Promise.allSettled(tasks);
+    const [newsRes, lyRes, govRes] = settled;
+
+    // Zone 1
     if (newsRes.status === 'fulfilled' && !newsRes.value.error) {
       const data = newsRes.value;
       state.newsItems = data.items || [];
-      const srcDesc = (data.sources || [])
-        .map((s) => `${s.name} (${s.count})`)
-        .join(' ＋ ');
+      const srcDesc = (data.sources || []).map((s) => `${s.name} (${s.count})`).join(' ＋ ');
       newsSourcesSummary.textContent = srcDesc ? `來源：${srcDesc}` : '即時新聞索引';
       renderNewsList();
     } else {
-      newsList.innerHTML = `
-        <div class="state-box">
-          <h3>即時新聞抓取失敗</h3>
-          <p>${escapeHtml(newsRes.reason?.message || newsRes.value?.detail || '請檢查網路連線後重試')}</p>
-        </div>
-      `;
+      newsList.innerHTML = `<div class="state-box"><h3>即時新聞抓取失敗</h3><p>請稍後點擊右上角重新整理。</p></div>`;
     }
 
+    // Zone 2
     if (lyRes.status === 'fulfilled' && !lyRes.value.error) {
       const data = lyRes.value;
       state.lyItems = data.items || [];
-      state.lyCounts = data.counts || {
-        all: state.lyItems.length,
-        bill: 0,
-        interpellation: 0,
-        official: 0,
-        press: 0,
-      };
+      state.lyCounts = data.counts || { all: state.lyItems.length, bill: 0, interpellation: 0, official: 0, press: 0 };
       updateLyCountsUI();
       const activeSrcCount = (data.sources || []).filter((s) => s.count > 0).length;
       lySourcesSummary.textContent = hasApi
         ? `已同步 ${activeSrcCount || (data.sources || []).length} 項立法院資料管道`
-        : '已連線立法院開放資料多關鍵字 API 與自動排程快照';
+        : '已連線立法院開放資料 API 與自動排程快照';
       renderLyList();
     } else {
-      lyList.innerHTML = `
-        <div class="state-box">
-          <h3>立法院資料抓取失敗</h3>
-          <p>${escapeHtml(lyRes.reason?.message || lyRes.value?.detail || '請檢查網路連線後重試')}</p>
-        </div>
-      `;
+      lyList.innerHTML = `<div class="state-box"><h3>立法院資料抓取失敗</h3><p>請稍後點擊右上角重新整理。</p></div>`;
+    }
+
+    // Zone 3
+    if (shouldFetchGov && govRes) {
+      if (govRes.status === 'fulfilled' && !govRes.value.error) {
+        const gData = govRes.value;
+        state.govAgencies = gData.agencies || [];
+        state.govItems = gData.items || [];
+        govSourcesSummary.textContent = `已同步 ${state.govAgencies.length} 個政府機關（精選 ${gData.totalMatched || 0} 則／總計 ${
+          gData.totalAll || state.govItems.length
+        } 則）`;
+        renderGovList();
+      } else {
+        govList.innerHTML = `<div class="state-box"><h3>政府機關專區載入失敗</h3><p>請稍後再試。</p></div>`;
+      }
+    } else if (state.govKwMode === 'global') {
+      renderGovList();
     }
 
     const syncDate =
@@ -764,13 +1026,8 @@
         ? new Date(newsRes.value.fetchedAt)
         : new Date();
     const timeFormatted = syncDate.toLocaleTimeString('zh-TW', { hour12: false });
-    const modeDesc =
-      state.keywords.length > 1
-        ? state.mode === 'and'
-          ? '｜皆須包含'
-          : '｜任一符合'
-        : '';
-    lastSyncText.textContent = `資料更新時間：${timeFormatted}（${kwLabel}${modeDesc}）`;
+    const modeDesc = state.keywords.length > 1 ? (state.mode === 'and' ? '｜皆須包含' : '｜任一符合') : '';
+    lastSyncText.textContent = `最後更新：${timeFormatted}（${kwLabel}${modeDesc}）`;
 
     state.countdown = AUTO_REFRESH_SECONDS;
     state.loading = false;
@@ -790,10 +1047,16 @@
 
     state.newsItems = [];
     state.lyItems = [];
-    fetchAllData(forceRefresh);
+    fetchAllData(forceRefresh, true);
   }
 
   // Event Listeners
+  zoneViewSwitcher.addEventListener('click', (e) => {
+    const btn = e.target.closest('.view-chip');
+    if (!btn) return;
+    applyZoneView(btn.dataset.view || 'all');
+  });
+
   keywordForm.addEventListener('submit', (e) => {
     e.preventDefault();
     applyNewKeywordSearch(keywordInput.value, true);
@@ -804,19 +1067,20 @@
     if (state.keywords.length > 1) {
       state.newsItems = [];
       state.lyItems = [];
-      fetchAllData(false);
+      fetchAllData(false, true);
+    } else if (state.govKwMode === 'global') {
+      renderGovList();
     }
   });
 
   quickChips.forEach((chip) => {
     chip.addEventListener('click', () => {
-      const kw = chip.dataset.kw || '水資源';
-      applyNewKeywordSearch(kw, false);
+      applyNewKeywordSearch(chip.dataset.kw || '水資源', false);
     });
   });
 
   refreshBtn.addEventListener('click', () => {
-    fetchAllData(true);
+    fetchAllData(true, false);
   });
 
   newsFilterInput.addEventListener('input', (e) => {
@@ -837,6 +1101,37 @@
     renderLyList();
   });
 
+  // Zone 3 Listeners
+  govGroupTabs.addEventListener('click', (e) => {
+    const btn = e.target.closest('.gov-group-tab');
+    if (!btn) return;
+    state.selectedGovGroup = btn.dataset.group || 'all';
+    state.selectedGovAgency = 'all';
+    govGroupTabs.querySelectorAll('.gov-group-tab').forEach((t) => t.classList.toggle('active', t === btn));
+    renderGovList();
+  });
+
+  govAgencyStrip.addEventListener('click', (e) => {
+    const btn = e.target.closest('.gov-agency-chip');
+    if (!btn) return;
+    state.selectedGovAgency = btn.dataset.agency || 'all';
+    renderGovList();
+  });
+
+  govKwRadios.forEach((radio) => {
+    radio.addEventListener('change', (e) => {
+      if (e.target.checked) {
+        state.govKwMode = e.target.value;
+        renderGovList();
+      }
+    });
+  });
+
+  govFilterInput.addEventListener('input', (e) => {
+    state.govFilter = e.target.value;
+    renderGovList();
+  });
+
   setInterval(() => {
     if (!autoRefreshToggle.checked) {
       countdownText.textContent = '(已暫停)';
@@ -850,9 +1145,9 @@
     countdownText.textContent = `(${mins}:${secs})`;
 
     if (state.countdown === 0) {
-      fetchAllData(true);
+      fetchAllData(true, false);
     }
   }, 1000);
 
-  fetchAllData(false);
+  fetchAllData(false, false);
 })();

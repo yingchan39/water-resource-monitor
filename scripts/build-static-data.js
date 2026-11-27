@@ -1,6 +1,7 @@
 const fs = require('node:fs');
 const path = require('node:path');
 const { fetchRealtimeNews, fetchLegislativeYuanUpdates } = require('../lib/fetcher');
+const { fetchGovernmentUpdates } = require('../lib/gov-fetcher');
 
 const DATA_DIR = path.join(__dirname, '..', 'public', 'data');
 
@@ -20,11 +21,12 @@ const PRESETS = [
 
   const manifest = {
     generatedAt: new Date().toISOString(),
+    govFile: './data/gov.json',
     presets: {},
   };
 
   for (const preset of PRESETS) {
-    console.log(`[build-static-data] 正在抓取關鍵字：【${preset.keyword}】(${preset.mode})...`);
+    console.log(`[build-static-data] 正在抓取 Zone 1 & 2 關鍵字：【${preset.keyword}】(${preset.mode})...`);
     const [news, ly] = await Promise.all([
       fetchRealtimeNews(preset.keyword, preset.mode),
       fetchLegislativeYuanUpdates(preset.keyword, preset.mode),
@@ -46,6 +48,13 @@ const PRESETS = [
     };
     console.log(`  ✓ 新聞 ${news.total} 則 ｜ 立法院訊息 ${ly.total} 則`);
   }
+
+  console.log(`[build-static-data] 正在抓取 Zone 3 政府機關專區（共 20 個機關單位）...`);
+  const govData = await fetchGovernmentUpdates();
+  fs.writeFileSync(path.join(DATA_DIR, 'gov.json'), JSON.stringify(govData, null, 2), 'utf8');
+  manifest.govMatchedCount = govData.totalMatched;
+  manifest.govTotalCount = govData.totalAll;
+  console.log(`  ✓ 政府機關精選訊息 ${govData.totalMatched} 則（總計擷取 ${govData.totalAll} 則）`);
 
   fs.writeFileSync(path.join(DATA_DIR, 'manifest.json'), JSON.stringify(manifest, null, 2), 'utf8');
   console.log(`[build-static-data] 完成！靜態資料已輸出至 ${DATA_DIR}`);

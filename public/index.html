@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>【水資源】即時新聞 ＆ 立法院發布消息監測平台</title>
+  <title>神奇海螺輿情與國會訊息即時監測網｜Magic Conch Public Opinion &amp; Parliament Monitor</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600;700&display=swap" rel="stylesheet" />
@@ -14,17 +14,18 @@
   <header class="topbar">
     <div class="topbar-inner">
       <div class="brand">
-        <div class="brand-icon" aria-hidden="true">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-            <path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z" />
+        <div class="brand-icon" aria-hidden="true" title="Magic Conch Monitor">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M12 3C7.5 3 4 6.5 4 11c0 3.4 2.1 6.3 5.2 7.5L12 21l2.8-2.5C17.9 17.3 20 14.4 20 11c0-4.5-3.5-8-8-8z" />
+            <path d="M12 7a4 4 0 0 1 4 4c0 2.2-1.8 4-4 4a2.5 2.5 0 0 1-2.5-2.5c0-1.4 1.1-2.5 2.5-2.5a1.2 1.2 0 0 1 1.2 1.2" />
           </svg>
         </div>
         <div>
           <div class="brand-badge-row">
             <span class="live-dot"></span>
-            <span class="brand-subtitle">REAL-TIME INTELLIGENCE MONITOR</span>
+            <span class="brand-subtitle">MAGIC CONCH PUBLIC OPINION &amp; PARLIAMENT MONITOR</span>
           </div>
-          <h1 class="brand-title">水資源輿情與國會訊息即時監測網</h1>
+          <h1 class="brand-title">神奇海螺輿情與國會訊息即時監測網</h1>
         </div>
       </div>
 
@@ -64,31 +65,37 @@
       </div>
     </div>
 
-    <!-- 快速標籤與狀態列 -->
+    <!-- 快速標籤、區域切換與狀態列 -->
     <div class="statusbar">
       <div class="statusbar-inner">
         <div class="quick-tags">
-          <span class="quick-label">目前鎖定關鍵字：</span>
+          <span class="quick-label">區塊檢視：</span>
+          <div class="view-switcher" id="zoneViewSwitcher">
+            <button type="button" class="view-chip active" data-view="all">全部三區</button>
+            <button type="button" class="view-chip" data-view="zone1">第一區：新聞</button>
+            <button type="button" class="view-chip" data-view="zone2">第二區：立法院</button>
+            <button type="button" class="view-chip" data-view="zone3">第三區：政府機關</button>
+          </div>
+          <span class="divider">|</span>
+          <span class="quick-label">關鍵字：</span>
           <span id="activeKeywordBadge" class="active-keyword-group">
             <strong class="active-keyword-pill">【水資源】</strong>
           </span>
-          <span class="divider">|</span>
-          <span class="quick-label">快速組合範例：</span>
           <button type="button" class="tag-chip active" data-kw="水資源">水資源</button>
           <button type="button" class="tag-chip" data-kw="水資源+水庫">水資源+水庫</button>
           <button type="button" class="tag-chip" data-kw="水資源+再生水">水資源+再生水</button>
           <button type="button" class="tag-chip" data-kw="水資源+海水淡化">水資源+海水淡化</button>
-          <button type="button" class="tag-chip" data-kw="水資源+水庫+再生水">水資源+水庫+再生水</button>
+          <button type="button" class="tag-chip" data-kw="水資源+地熱+半導體">水資源+地熱+半導體</button>
         </div>
         <div class="last-sync" id="lastSyncText">準備連線抓取即時資料…</div>
       </div>
     </div>
   </header>
 
-  <!-- 主內容：雙區塊佈局 -->
-  <main class="dashboard-grid">
+  <!-- 主內容：三大區域儀表板 -->
+  <main class="dashboard-grid" id="dashboardGrid">
     <!-- 第一區域：即時新聞 -->
-    <section class="zone-panel zone-news" aria-labelledby="zone1Title">
+    <section id="zone1Panel" class="zone-panel zone-news" aria-labelledby="zone1Title">
       <div class="zone-header">
         <div class="zone-title-wrap">
           <span class="zone-step-badge zone-badge-blue">第一區域</span>
@@ -123,7 +130,7 @@
     </section>
 
     <!-- 第二區域：立法院發布消息 -->
-    <section class="zone-panel zone-ly" aria-labelledby="zone2Title">
+    <section id="zone2Panel" class="zone-panel zone-ly" aria-labelledby="zone2Title">
       <div class="zone-header">
         <div class="zone-title-wrap">
           <span class="zone-step-badge zone-badge-amber">第二區域</span>
@@ -163,11 +170,103 @@
         <div class="skeleton-card"></div>
       </div>
     </section>
+
+    <!-- 第三區域：政府機關專區 -->
+    <section id="zone3Panel" class="zone-panel zone-gov zone-full-span" aria-labelledby="zone3Title">
+      <div class="zone-header zone-header-gov">
+        <div class="zone-title-wrap">
+          <span class="zone-step-badge zone-badge-teal">第三區域</span>
+          <div>
+            <h2 id="zone3Title" class="zone-title">政府機關訊息監測專區</h2>
+            <p class="zone-desc">
+              涵蓋總統府、行政院、經濟部及所屬（水利署／能源署／台水／中油等 10 機關）、國科會與三大科管局、國發會、環境部及所屬共 20 個機關單位
+            </p>
+          </div>
+        </div>
+        <div class="zone-stats zone-gov-actions">
+          <a
+            href="https://water.taiwanstat.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="btn-reservoir"
+            title="前往台灣水庫即時水情視覺化平台（3-3-2 水利署延伸連結）"
+          >
+            💧 台灣水庫即時水情 ↗
+          </a>
+          <span class="count-pill count-pill-teal" id="govCountPill">-- 則</span>
+        </div>
+      </div>
+
+      <!-- 部會層級選單與關鍵字過濾模式 -->
+      <div class="zone-toolbar zone-toolbar-gov">
+        <div class="gov-group-tabs" id="govGroupTabs" role="tablist" aria-label="政府部會體系分類">
+          <button type="button" class="gov-group-tab active" data-group="all">全部機關</button>
+          <button type="button" class="gov-group-tab" data-group="3-1">3-1 總統府</button>
+          <button type="button" class="gov-group-tab" data-group="3-2">3-2 行政院</button>
+          <button type="button" class="gov-group-tab" data-group="3-3">3-3 經濟部體系 (10)</button>
+          <button type="button" class="gov-group-tab" data-group="3-4">3-4 國科會與科管局 (4)</button>
+          <button type="button" class="gov-group-tab" data-group="3-5">3-5 國發會</button>
+          <button type="button" class="gov-group-tab" data-group="3-6">3-6 環境部體系 (3)</button>
+        </div>
+
+        <!-- 子機關膠囊選單 -->
+        <div class="gov-agency-strip" id="govAgencyStrip" aria-label="子機關篩選"></div>
+
+        <!-- 所選機關監測重點與官方網頁直達捷徑 -->
+        <div class="gov-focus-banner" id="govFocusBanner">
+          <div class="gov-focus-text" id="govFocusText">
+            正在載入 20 個政府機關之預設關鍵字與最新公告…
+          </div>
+          <div class="gov-channel-links" id="govChannelLinks"></div>
+        </div>
+
+        <!-- 全部 20 機關官方原始頁面總覽摺疊面板 -->
+        <details class="gov-directory-details">
+          <summary>📂 檢視全部 20 個政府機關監測頻道與預設關鍵字清單（共 36 個官方原始網址直達）</summary>
+          <div id="govDirectoryGrid" class="gov-directory-grid"></div>
+        </details>
+
+        <!-- 關鍵字過濾模式與二次搜尋 -->
+        <div class="gov-filter-bar">
+          <div class="gov-mode-radios">
+            <label class="gov-mode-option">
+              <input type="radio" name="govKwMode" value="preset" checked />
+              <span>🎯 依各機關專屬預設關鍵字精選</span>
+            </label>
+            <label class="gov-mode-option">
+              <input type="radio" name="govKwMode" value="global" />
+              <span>🔗 套用右上角多關鍵字搜尋</span>
+            </label>
+            <label class="gov-mode-option">
+              <input type="radio" name="govKwMode" value="all" />
+              <span>📋 顯示擷取之全部最新公告</span>
+            </label>
+          </div>
+
+          <div class="gov-search-right">
+            <input
+              type="search"
+              id="govFilterInput"
+              class="local-filter"
+              placeholder="篩選機關名稱、法規、投資案或關鍵字…"
+            />
+            <span class="source-summary" id="govSourcesSummary">正在同步政府機關資料…</span>
+          </div>
+        </div>
+      </div>
+
+      <div id="govList" class="card-list card-list-gov" aria-live="polite">
+        <div class="skeleton-card"></div>
+        <div class="skeleton-card"></div>
+        <div class="skeleton-card"></div>
+        <div class="skeleton-card"></div>
+      </div>
+    </section>
   </main>
 
   <footer class="footer">
     <p>
-      提示：右上角搜尋框支援以 <code>+</code> 號同時搜尋多個關鍵字（例如 <code>水資源+水庫+再生水</code>），並可切換「任一符合 (OR)」或「皆須包含 (AND)」。
+      🐚 <strong>神奇海螺輿情與國會訊息即時監測網</strong>（Magic Conch Public Opinion &amp; Parliament Monitor）｜涵蓋台灣即時新聞、立法院公開資料庫（<code>ly.gov.tw</code>）及 20 個中央政府部會與科學園區管理局公開訊息。
     </p>
   </footer>
 
