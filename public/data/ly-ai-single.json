@@ -1,0 +1,1537 @@
+{
+  "keyword": "AI",
+  "keywords": [
+    "AI"
+  ],
+  "mode": "or",
+  "fetchedAt": "2026-11-27T09:03:23.785Z",
+  "total": 132,
+  "counts": {
+    "all": 132,
+    "official": 72,
+    "bill": 20,
+    "interpellation": 24,
+    "press": 16
+  },
+  "sources": [
+    {
+      "name": "立法院議案／法案",
+      "count": 20
+    },
+    {
+      "name": "立法院質詢發言與公報",
+      "count": 25
+    },
+    {
+      "name": "立法院官網與研究報告",
+      "count": 100
+    },
+    {
+      "name": "立法院新聞稿與國會動態",
+      "count": 21
+    }
+  ],
+  "errors": [],
+  "items": [
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "函，為115年度中央政府總預算決議，檢送數位產業署宣讀本部分新增決議（六）智用雙全行動計畫AI人才培訓執行說明書面報告，請查照案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/311110249810000/details",
+      "source": "立法院・預(決) 算決議案、定期報告",
+      "meta": "第11屆 · 第6會期 · 排入院會",
+      "proposer": "數位發展部",
+      "summary": "提案：數位發展部 ｜ 進度：排入院會 ｜ 摘要：數位發展部函，為115年度中央政府總預算決議，檢送數位產業署宣讀本部分新增決議（六）智用雙全行動計畫AI人才培訓執行說明書面報告，請查照案。",
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "timestamp": 1796083200000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "函，為115年度中央政府總預算決議，檢送數位產業署宣讀本部分新增決議（八）智慧雨林產業創生計畫補助資源及AI人才流向書面報告，請查照案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/311110249830000/details",
+      "source": "立法院・預(決) 算決議案、定期報告",
+      "meta": "第11屆 · 第6會期 · 排入院會",
+      "proposer": "數位發展部",
+      "summary": "提案：數位發展部 ｜ 進度：排入院會 ｜ 摘要：數位發展部函，為115年度中央政府總預算決議，檢送數位產業署宣讀本部分新增決議（八）智慧雨林產業創生計畫補助資源及AI人才流向書面報告，請查照案。",
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "timestamp": 1796083200000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "函，為115年度中央政府總預算決議，檢送數位產業署宣讀本部分新增決議（九）智慧雨林產業創生計畫要求導入至少兩項AI解決方案書面報告，請查照案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/311110249840000/details",
+      "source": "立法院・預(決) 算決議案、定期報告",
+      "meta": "第11屆 · 第6會期 · 排入院會",
+      "proposer": "數位發展部",
+      "summary": "提案：數位發展部 ｜ 進度：排入院會 ｜ 摘要：數位發展部函，為115年度中央政府總預算決議，檢送數位產業署宣讀本部分新增決議（九）智慧雨林產業創生計畫要求導入至少兩項AI解決方案書面報告，請查照案。",
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "timestamp": 1796083200000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "函，為115年度中央政府總預算決議，檢送數位產業署保留本部分新增決議（六）擴大AI自動掃描詐騙廣告範圍之具體規劃等書面報告，請查照案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/311110249910000/details",
+      "source": "立法院・預(決) 算決議案、定期報告",
+      "meta": "第11屆 · 第6會期 · 排入院會",
+      "proposer": "數位發展部",
+      "summary": "提案：數位發展部 ｜ 進度：排入院會 ｜ 摘要：數位發展部函，為115年度中央政府總預算決議，檢送數位產業署保留本部分新增決議（六）擴大AI自動掃描詐騙廣告範圍之具體規劃等書面報告，請查照案。",
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "timestamp": 1796083200000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "函，為115年度中央政府總預算決議，檢送該部決議（二十八）「政府AI試用場域及創新應用計畫」書面報告，請查照案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/311110250020000/details",
+      "source": "立法院・預(決) 算決議案、定期報告",
+      "meta": "第11屆 · 第6會期 · 排入院會",
+      "proposer": "數位發展部",
+      "summary": "提案：數位發展部 ｜ 進度：排入院會 ｜ 摘要：數位發展部函，為115年度中央政府總預算決議，檢送該部決議（二十八）「政府AI試用場域及創新應用計畫」書面報告，請查照案。",
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "timestamp": 1796083200000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "函，為115年度中央政府總預算決議，檢送資通安全署決議（七）「AI網路主動式防禦關鍵技術研究計畫」及「關鍵基礎設施資安防護計畫」之具體執行進度等書面報告，請查照案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/311110250050000/details",
+      "source": "立法院・預(決) 算決議案、定期報告",
+      "meta": "第11屆 · 第6會期 · 排入院會",
+      "proposer": "數位發展部",
+      "summary": "提案：數位發展部 ｜ 進度：排入院會 ｜ 摘要：數位發展部函，為115年度中央政府總預算決議，檢送資通安全署決議（七）「AI網路主動式防禦關鍵技術研究計畫」及「關鍵基礎設施資安防護計畫」之具體執行進度等書面報告，請查照案。",
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "timestamp": 1796083200000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "函，為115年度中央政府總預算決議，檢送資通安全署決議（十四）「政府數位韌性強化計畫」及「資安治理AI化計畫」之差異說明書面報告，請查照案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/311110250090000/details",
+      "source": "立法院・預(決) 算決議案、定期報告",
+      "meta": "第11屆 · 第6會期 · 排入院會",
+      "proposer": "數位發展部",
+      "summary": "提案：數位發展部 ｜ 進度：排入院會 ｜ 摘要：數位發展部函，為115年度中央政府總預算決議，檢送資通安全署決議（十四）「政府數位韌性強化計畫」及「資安治理AI化計畫」之差異說明書面報告，請查照案。",
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "timestamp": 1796083200000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "函，為115年度中央政府總預算決議，檢送數位產業署決議（十一）盤點我國發展主權AI所需之真實算力缺口書面報告，請查照案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/311110250160000/details",
+      "source": "立法院・預(決) 算決議案、定期報告",
+      "meta": "第11屆 · 第6會期 · 排入院會",
+      "proposer": "數位發展部",
+      "summary": "提案：數位發展部 ｜ 進度：排入院會 ｜ 摘要：數位發展部函，為115年度中央政府總預算決議，檢送數位產業署決議（十一）盤點我國發展主權AI所需之真實算力缺口書面報告，請查照案。",
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "timestamp": 1796083200000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "「科技產業園區設置管理條例第三十一條條文修正草案」，請審議案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/202110252360000/details",
+      "source": "立法院・法律案",
+      "meta": "第11屆 · 第6會期 · 排入院會",
+      "proposer": "本院委員鍾佳濱等21人",
+      "summary": "提案：本院委員鍾佳濱等21人 ｜ 進度：排入院會 ｜ 摘要：本院委員鍾佳濱等21人，鑒於科技產業園區係由早期的加工出口區更名而來，為促進投資、發展經貿及提升創新能量，經選擇適當地區與劃定範圍，得報請行政院設置科技產業園區；現政策、資金與人才過度集中少數AI相關產業 … ，其餘產業卻長期承受需求疲弱、關稅、匯率和國際競爭壓力，為使高產值之AI產業得有效帶動其餘產業轉型升級，爰擬具「科技產業園區設置管理條例第三十一條條文修正草案」。",
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "timestamp": 1796083200000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "「產業創新條例第四十三條及第四十九條條文修正草案」，請審議案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/202110252380000/details",
+      "source": "立法院・法律案",
+      "meta": "第11屆 · 第6會期 · 排入院會",
+      "proposer": "本院委員鍾佳濱等21人",
+      "summary": "提案：本院委員鍾佳濱等21人 ｜ 進度：排入院會 ｜ 摘要：另為使高產值之半導體與AI產業能有效帶動國內其餘產業轉型升級，爰擬具「產業創新條例第四十三條及第四十九條條文修正草案」。是否有當？敬請公決。",
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "timestamp": 1796083200000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "「科學園區設置管理條例第七條條文修正草案」，請審議案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/202110252370000/details",
+      "source": "立法院・法律案",
+      "meta": "第11屆 · 第6會期 · 排入院會",
+      "proposer": "本院委員鍾佳濱等21人",
+      "summary": "提案：本院委員鍾佳濱等21人 ｜ 進度：排入院會 ｜ 摘要：本院委員鍾佳濱等21人，鑒於我國半導體與AI產業在全球占據領先地位，高科技產業的成功，奠基於政府長期提供水、電、土地等單一窗口的政策支持，前述公共資源背後是全民的付出，惟每一個人感受到經濟成長的速度，並不完全相同 … ，政府應透過機制使非AI相關產業得以獲得協助，進而達到全民共享AI紅利之目標。",
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "timestamp": 1796083200000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "「兒童及少年性剝削防制條例第二條及第三十六條條文修正草案」，請審議案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/202110254190000/details",
+      "source": "立法院・法律案",
+      "meta": "第11屆 · 第6會期 · 排入院會",
+      "proposer": "本院委員楊曜等17人",
+      "summary": "提案：本院委員楊曜等17人 ｜ 進度：排入院會 ｜ 摘要：一、媒體專題報導，數位性暴力入侵校園，校園傳出利用情色APP進行AI深偽（Deepfake）不雅影片合成案件，報導指出，檢方研析後表示，當前科技發展的速度顯然已超越既有法規的覆蓋範圍，導致在新型態數位性暴力的追訴上 … ，出現令人擔憂的法律灰色地帶；亦有法律界人士建議，未來若修法時，可將利用電腦合成或AI技術製作兒少不實性影像等行為，明文納入處罰範圍。",
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "timestamp": 1796083200000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "「中高齡者及高齡者就業促進法第五條及第十八條條文修正草案」，請審議案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/202110254210000/details",
+      "source": "立法院・法律案",
+      "meta": "第11屆 · 第6會期 · 排入院會",
+      "proposer": "本院委員楊曜等17人",
+      "summary": "提案：本院委員楊曜等17人 ｜ 進度：排入院會 ｜ 摘要：一、立法院研究報告指出，國際經濟合作組織（OECD）表示，因應AI帶來之轉變適應，需要透過教育訓練培養符合勞動市場不斷演變需求的新技能；政策制定者在確保勞工適應AI環境扮演關鍵角色；而國際勞工組織（ILO … 二、有媒體報導指出，AI工具更新快速，雇主要求員工跟上AI卻無提供訓練、範例，易致生落後與羞愧感之重大壓力，換言之，無意願轉換工作情形下之勞工，面對AI等數位轉型對工作之衝擊，只能選擇努力適應，而使勞工產生極大之心理壓力",
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "timestamp": 1796083200000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "「全民共享經濟成果及穩定民生特別條例草案」，請審議案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/202110236990000/details",
+      "source": "立法院・法律案",
+      "meta": "第11屆 · 第6會期 · 三讀",
+      "proposer": "本院國民黨黨團",
+      "summary": "提案：本院國民黨黨團 ｜ 進度：三讀 ｜ 摘要：本院國民黨黨團，鑑於我國115年度經濟成長強勁，受惠人工智慧（AI）、半導體及資通訊產業快速發展，經濟成長率大幅超越原先預期，國家歲入亦隨之增加。 … 此一經濟與財政成果，係由全體國民、企業及勞動者共同努力所累積，AI與產業發展紅利自應適度回饋全民；此外，面對物價持續上漲、生活成本增加及國際經濟情勢高度不確定，為減輕人民生活負擔、保障人民基本需求、提升家庭可支配所得",
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "timestamp": 1796083200000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "BBC事實查核團隊公布最新調查：中國網軍正在用大量AI假影片干擾台灣選舉！",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wUlJuTXZSclNLa2dRTnpCX3puaEFuYXRtZ2NkOHBFMkZTN2cyUXhCbHl3WVd2X3VIc2hCSF9WZ1YxTTNwWmdOanVfSFRxdUNnSF9jZzBId0RwT1lieG9ZQU1XUXEwQnJMQzVwR1lrS1M?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-27T03:25:42.000Z",
+      "timestamp": 1795749942000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "議題研析 - 立法院全球資訊網",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUDZOVUdZUGlYNndycmFoSGE3cVk1VzgxTGdpRHo2STNQamI3VnhJMUdHWXp6cWpFRkEwb1R4cHktNU5oWHU0OG1aTmpQTzZhZVNtX2w5M0JFd0RyQ05XUENCQ1RfNlUtb1RoMVBEQm5waWJYU3N3WnBJcldGM1BSVWVIWGRuN04zMW1qVnJZZ3dEYkJm?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "議題研析 立法院全球資訊網",
+      "publishedAt": "2026-11-26T15:38:30.000Z",
+      "timestamp": 1795707510000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "Untitled",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TeGVqM1hZWFhyVzV0Z29JRFYtbGMyV0NPbzNMbWk0blloT0l0WnZUT3J0T3JjQ3JvVUt2RXFpTklqNXBvM21sSTZRcXAtVTZBaW5ZSlN0UFZ6aU5IalF6ekVaZ0VfMF8yakE?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-26T13:58:53.000Z",
+      "timestamp": 1795701533000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院部會報告",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxORjlNUmtDcjJuaU5wQjJqc1UxOVQyc0d6SmVpVTFHNmxtblladXZvRlNTMmtlSGc3MGFTc2hQNTV1ckNWeGdyM0FBeVNUZXRoVVRFUENDemNUS2o4M0lwN2l0dTQ4cmd4aUhObDY5TVppVFJUOG4tNElROUNhSmY4RlpUSXRZM2hPcVRGTmJTRC1IRjBaSHJXWWNwbC1BVUxXN2RPMWJlQUViYUZkTTlWOEFSUGdNemJmVmlqZmhmMHJhRlJvcEtPS1liVEJVVVJ1amRLR1M3WXREYm1Xb19vY3R0WklmczFLc0FuYnNDYlN5UUVIWmN5VUlPckl5TVU4UnItbTRjVGlJSW5MM2s3bFJnaTFNUWIxYkltcF9uS2ZGZw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-26T10:44:16.000Z",
+      "timestamp": 1795689856000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "「金融科技發展業務之推動情形與展望」 專題報告",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdEtOeE9qNmNLeHNFYlZKU3ZyU3ZpRHVEZ21TLXl0b0l2VXRYdjdqWUozZ0dGRmlxUng5ZnAtVGU4Ym9IVjRtVTgxcXFlQ1RCTVdBQm1rN3ZaNFBmNzlSWXl3Nl9RbWVldUtJT3JteXMzUFNiRXZ2YzhmOWZsdXNlTU80Q19MVmhVRXJnOGVOLVdSdw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-26T10:24:20.000Z",
+      "timestamp": 1795688660000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "「從AI算力中心BOO案論稅式支出之財政影響及評估機制」專題研究報告座談會",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NOGJtam40bWVmYmpUVmpmVmxuWFY1VjJNVlVleXRWd2tKME0zQXFCUmp2TzlobWUxcVZVbnRPeXAxRkJVYjV4NGFWd1ZQSFFfMmpzNHVWbW1hS0xmS1ZzRTJQcmtkUHJ1dGphdWRn?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:19:35.000Z",
+      "timestamp": 1795598375000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "國會圖書館",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTmVFLXFGdFZ0N2ZUZXFBem16Yl9KT1c5Mlk1RGk4TldscWwtejZqN2d2N1U5eWpoejllLUVrR2ZxRm90QXh3WF91eUxfbk9hLWMwUWw3andRdmNmNWZaZ3ZNVHI2OGFBMHJKcGFWRUk1N01BeWxCOGxLSWxtOGw3ZFZ6cE9ZZlAxSWZoQlhtSTZEQjktRl9RTmpEYUVPUW5KRTRPZWZWdDhFZzRaRHJBcQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-25T04:47:54.000Z",
+      "timestamp": 1795582074000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "交通 相關影音",
+      "link": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQY1ZKNGMwZEp4cmJ4Z2wyTnFkNTA1LVVXbUI2cEtIODhuM2lHdktjdkdLLXBPMElaaGpOS2xPYWtYRllTakpFcFJXNGM2N05EQ1FOajFtWVBqSUxYMUpXY0NGRkdVcFczRVkzUkpLODhvaXVsRkUxd25FVDVic3F2cjhMNW9EYkJKaUh2RjZ0X0dqTGVqazFDYnFhbVREY3lVVGlIdzk4bHVhSkZTeThzNndWUmhJTjlnYndDQy1qRm03YjlJT1kxaXU2YnFoaGpnclJJVnptRmtjSGZSbklCUHl2RmkzbmJGcjJJZ3BvVzRWYjBTT1NCUWZDVWd6cHlLeUUyTU9mZ1JBTFM5QW5fbmdOQ0Q4bVhvbW5ZSTQ5Qzg2Ykt1clJFd0xMT1A1X09hdm8zeUV1eFh4LURmYTNlejNPVmVIOVp6aHFTME1zaTFxdVRKY0FpQlFfRVNMRW9ERG5WX0t6cmZsQXNCb2Y4SGFsZnFVak1HV2JhVlUzaFp3b3FwbWgxcXBjT0dCMUpJM3BoeVEyeWFQRmRuS0VmS01haWxldGdXZXVld1BYRVM4ZTZoRW5RQ2tob2FVM1pGMi1UNkZOdmRxYTh4aGxDU0tFYVVoNXZERkFzMWF4LVdXM3pQQWFrX0Jlazg?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-25T04:17:51.000Z",
+      "timestamp": 1795580271000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "蔣萬安與李四川兩人選舉公報政見欄「完全沒有提到」松山機場遷移，所以之前的大張旗鼓是唱雙簧蹭流量？還是騙選票？",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uYWY4Z3lNVElpNGZSWmw2cjhQeVNXS0tDUlZPSTllS2dLUHljeDJFc2o0S3F1STV3MEZSM2hTdlRNWjk4Uk53Ny1mRWdLTW1qX0ZZQWZGNHJ6OXlqS3NsdTQxdzdHTXZrT2Z6ZkFzdmU?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-24T05:54:44.000Z",
+      "timestamp": 1795499684000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "王鴻薇曝光公文！故宮11/12函詢北市文化局「屋頂安裝光電」",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hZzdWQnk0LVFaSkVJV1FPbjVmSlp1TEJDY1JlVXpNb1Z4SGRqMmFRLXZJaE11cGRVcm5vY18xWFJfSHRRTEJLMWpMUTJ6Vi02MzdyakhUbldlLTRHcFZyTnVyNlZIbTJJT0ZrX21CZXc?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-23T04:09:51.000Z",
+      "timestamp": 1795406991000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "公聽會報告詳目（請點選目次內容調閱原文）",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVGt5Vy1QSkVjbHBRcllqU3d4U2J6YjBzTXpGRTVpZDh2NlFjZVpJMjFxbmR1Z1B6MDFveERHR1pYa19tY1JPWDFZVm12a3R1LUxUaENJUS16U0xDSkNUVjd1cGYzQlE4UnN1WGlpYUxhc0VGQm4wVUhIcEJuX1IyUG12N0k0QW1YQWNUUU96Y1ZaazY4Unp5TTlCMERiRXg5VUE?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-23T01:19:05.000Z",
+      "timestamp": 1795396745000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "「AI主權時代：學門建構與應用、 研究應用倫理及數位透明度之配套措施」 書面報告",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHpBRDNPR2NrRU0tTFRIaGJtWHRzTHcwemM0MU94SXFacVNkSlJfWFdpVGRjR0ptMkRqSVJLUmduTmhFdUNOWmZ1cUtXNlJCUlhCcjZLWWdDb3VxYlZTV3pGQ2pQS2lnZUM4WEJkWllmdHlVd01LTlNndzVHYnlpYnVhRUdNaTltM2UtUE1HZEpSQQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-23T01:17:36.000Z",
+      "timestamp": 1795396656000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "交通部中央氣象署預算第1 目 「氣象科技研究發展」編列 18 億 1,665 萬 2 千元，凍結 5,000 萬元解",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1taWZrT3pJanhMeWlCc1drRlE5UUhYc3RodFFzRHg1Y3lnQlF3cURibUlQUW56TjlfVkd6aG8zc2hiSkhJN3kwN29uV0ZodHc3VHBRbUM2TEthdGJvUmxGOFBpcWhaZHRYWnpZ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-21T18:31:08.000Z",
+      "timestamp": 1795285868000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【陳培瑜委員發言質詢】第11屆第6會期第8次會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172252",
+      "source": "立法院議事轉播 IVOD・院會／委員會",
+      "meta": "發言委員：陳培瑜 · 時段：14:12:13 - 14:15:36",
+      "proposer": "陳培瑜",
+      "summary": "發言提及：「…ai-transcript…」 ｜ 第11屆第6會期第8次會議（事由：一、討論事項：本院教育及文化委員會報告併案審查委員范雲等16人、委員馬文君等17人、委員魯明哲等24人、委員王育敏等17人、委員洪孟楷等20人、委員黃健豪等20人分別擬具「學校供餐法草案」等案共2案。（11月20日）二、對行政院院長施政報告繼續質",
+      "publishedAt": "2026-11-20T01:00:00.000Z",
+      "timestamp": 1795136400000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【邱慧洳委員發言質詢】第11屆第6會期第8次會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172251",
+      "source": "立法院議事轉播 IVOD・院會／委員會",
+      "meta": "發言委員：邱慧洳 · 時段：14:08:53 - 14:12:06",
+      "proposer": "邱慧洳",
+      "summary": "發言提及：「…ai-transcript…」 ｜ 第11屆第6會期第8次會議（事由：一、討論事項：本院教育及文化委員會報告併案審查委員范雲等16人、委員馬文君等17人、委員魯明哲等24人、委員王育敏等17人、委員洪孟楷等20人、委員黃健豪等20人分別擬具「學校供餐法草案」等案共2案。（11月20日）二、對行政院院長施政報告繼續質",
+      "publishedAt": "2026-11-20T01:00:00.000Z",
+      "timestamp": 1795136400000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【謝龍介委員發言質詢】第11屆第6會期第8次會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172250",
+      "source": "立法院議事轉播 IVOD・院會／委員會",
+      "meta": "發言委員：謝龍介 · 時段：14:05:11 - 14:08:31",
+      "proposer": "謝龍介",
+      "summary": "發言提及：「…ai-transcript…」 ｜ 第11屆第6會期第8次會議（事由：一、討論事項：本院教育及文化委員會報告併案審查委員范雲等16人、委員馬文君等17人、委員魯明哲等24人、委員王育敏等17人、委員洪孟楷等20人、委員黃健豪等20人分別擬具「學校供餐法草案」等案共2案。（11月20日）二、對行政院院長施政報告繼續質",
+      "publishedAt": "2026-11-20T01:00:00.000Z",
+      "timestamp": 1795136400000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【洪毓祥委員發言質詢】第11屆第6會期第8次會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172253",
+      "source": "立法院議事轉播 IVOD・院會／委員會",
+      "meta": "發言委員：洪毓祥 · 時段：14:24:05 - 14:27:24",
+      "proposer": "洪毓祥",
+      "summary": "發言提及：「…ai-transcript…」 ｜ 第11屆第6會期第8次會議（事由：一、討論事項：本院教育及文化委員會報告併案審查委員范雲等16人、委員馬文君等17人、委員魯明哲等24人、委員王育敏等17人、委員洪孟楷等20人、委員黃健豪等20人分別擬具「學校供餐法草案」等案共2案。（11月20日）二、對行政院院長施政報告繼續質",
+      "publishedAt": "2026-11-20T01:00:00.000Z",
+      "timestamp": 1795136400000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【洪孟楷委員發言質詢】第11屆第6會期第8次會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172255",
+      "source": "立法院議事轉播 IVOD・院會／委員會",
+      "meta": "發言委員：洪孟楷 · 時段：14:30:55 - 14:34:09",
+      "proposer": "洪孟楷",
+      "summary": "發言提及：「…ai-transcript…」 ｜ 第11屆第6會期第8次會議（事由：一、討論事項：本院教育及文化委員會報告併案審查委員范雲等16人、委員馬文君等17人、委員魯明哲等24人、委員王育敏等17人、委員洪孟楷等20人、委員黃健豪等20人分別擬具「學校供餐法草案」等案共2案。（11月20日）二、對行政院院長施政報告繼續質",
+      "publishedAt": "2026-11-20T01:00:00.000Z",
+      "timestamp": 1795136400000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【范雲委員發言質詢】第11屆第6會期第8次會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172254",
+      "source": "立法院議事轉播 IVOD・院會／委員會",
+      "meta": "發言委員：范雲 · 時段：14:27:28 - 14:30:38",
+      "proposer": "范雲",
+      "summary": "發言提及：「…ai-transcript…」 ｜ 第11屆第6會期第8次會議（事由：一、討論事項：本院教育及文化委員會報告併案審查委員范雲等16人、委員馬文君等17人、委員魯明哲等24人、委員王育敏等17人、委員洪孟楷等20人、委員黃健豪等20人分別擬具「學校供餐法草案」等案共2案。（11月20日）二、對行政院院長施政報告繼續質",
+      "publishedAt": "2026-11-20T01:00:00.000Z",
+      "timestamp": 1795136400000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【莊瑞雄委員發言質詢】第11屆第6會期第8次會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172256",
+      "source": "立法院議事轉播 IVOD・院會／委員會",
+      "meta": "發言委員：莊瑞雄 · 時段：14:51:06 - 14:54:26",
+      "proposer": "莊瑞雄",
+      "summary": "發言提及：「…ai-transcript…」 ｜ 第11屆第6會期第8次會議（事由：一、討論事項：本院教育及文化委員會報告併案審查委員范雲等16人、委員馬文君等17人、委員魯明哲等24人、委員王育敏等17人、委員洪孟楷等20人、委員黃健豪等20人分別擬具「學校供餐法草案」等案共2案。（11月20日）二、對行政院院長施政報告繼續質",
+      "publishedAt": "2026-11-20T01:00:00.000Z",
+      "timestamp": 1795136400000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【劉書彬委員發言質詢】第11屆第6會期第8次會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172258",
+      "source": "立法院議事轉播 IVOD・院會／委員會",
+      "meta": "發言委員：劉書彬 · 時段：14:58:03 - 15:01:15",
+      "proposer": "劉書彬",
+      "summary": "發言提及：「…ai-transcript…」 ｜ 第11屆第6會期第8次會議（事由：一、討論事項：本院教育及文化委員會報告併案審查委員范雲等16人、委員馬文君等17人、委員魯明哲等24人、委員王育敏等17人、委員洪孟楷等20人、委員黃健豪等20人分別擬具「學校供餐法草案」等案共2案。（11月20日）二、對行政院院長施政報告繼續質",
+      "publishedAt": "2026-11-20T01:00:00.000Z",
+      "timestamp": 1795136400000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "「SMART Parliament智慧國會 AI 體驗日」對外開放場次訂於2026年12月5日辦理",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84TDNwb3UwZ0tGVXJQaVJ6d3ZmSzBoZG9OdmhaZnV1aFFqUVcxUDAxV0c5b1lRdnljd2lvM2ttNVA2MVcyN0U0d1BnSDhTLXNiMGxMNXdQR3JJWTU2b0N5SFFJWmZfNF8zYkdTbjc3N1c?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-19T06:52:38.000Z",
+      "timestamp": 1795071158000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【林月琴委員發言質詢】第11屆第6會期社會福利及衛生環境委員會第7次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172235",
+      "source": "立法院議事轉播 IVOD・社會福利及衛生環境委員會",
+      "meta": "發言委員：林月琴 · 時段：09:18:06 - 09:35:34",
+      "proposer": "林月琴",
+      "summary": "發言提及：「…ai-transcript…」 ｜ 立法院第11屆第6會期社會福利及衛生環境委員會第7次全體委員會議（事由：處理115年度中央政府總預算決議有關衛生福利部主管預算凍結報告案51案。(含報告事項46案及討論事項5案) 【預算凍結報告案如經院會復議，則不予審查】 【11月18日、11月19日二天一次會】）",
+      "publishedAt": "2026-11-19T01:00:00.000Z",
+      "timestamp": 1795050000000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【張雅琳委員發言質詢】第11屆第6會期司法及法制委員會第7次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172232",
+      "source": "立法院議事轉播 IVOD・司法及法制委員會",
+      "meta": "發言委員：張雅琳 · 時段：09:08:39 - 09:28:07",
+      "proposer": "張雅琳",
+      "summary": "發言提及：「…ai-transcript…」 ｜ 立法院第11屆第6會期司法及法制委員會第7次全體委員會議（事由：一、處理115年度中央政府總預算關於立法院主管預算凍結項目共5案。【本案如經院會復議，則不予處理】 二、審查116年度中央政府總預算案關於立法院主管收支部分。【預算提案於11月17日中午12時截止收件】 【11月18",
+      "publishedAt": "2026-11-19T01:00:00.000Z",
+      "timestamp": 1795050000000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【陳昭姿委員發言質詢】第11屆第6會期司法及法制委員會第7次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172234",
+      "source": "立法院議事轉播 IVOD・司法及法制委員會",
+      "meta": "發言委員：陳昭姿 · 時段：09:28:33 - 09:42:44",
+      "proposer": "陳昭姿",
+      "summary": "發言提及：「…ai-transcript…」 ｜ 立法院第11屆第6會期司法及法制委員會第7次全體委員會議（事由：一、處理115年度中央政府總預算關於立法院主管預算凍結項目共5案。【本案如經院會復議，則不予處理】 二、審查116年度中央政府總預算案關於立法院主管收支部分。【預算提案於11月17日中午12時截止收件】 【11月18",
+      "publishedAt": "2026-11-19T01:00:00.000Z",
+      "timestamp": 1795050000000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【廖偉翔委員發言質詢】第11屆第6會期社會福利及衛生環境委員會第7次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172241",
+      "source": "立法院議事轉播 IVOD・社會福利及衛生環境委員會",
+      "meta": "發言委員：廖偉翔 · 時段：10:03:49 - 10:20:28",
+      "proposer": "廖偉翔",
+      "summary": "發言提及：「…ai-transcript…」 ｜ 立法院第11屆第6會期社會福利及衛生環境委員會第7次全體委員會議（事由：處理115年度中央政府總預算決議有關衛生福利部主管預算凍結報告案51案。(含報告事項46案及討論事項5案) 【預算凍結報告案如經院會復議，則不予審查】 【11月18日、11月19日二天一次會】）",
+      "publishedAt": "2026-11-19T01:00:00.000Z",
+      "timestamp": 1795050000000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【林倩綺委員發言質詢】第11屆第6會期司法及法制委員會第7次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172238",
+      "source": "立法院議事轉播 IVOD・司法及法制委員會",
+      "meta": "發言委員：林倩綺 · 時段：10:00:28 - 10:13:33",
+      "proposer": "林倩綺",
+      "summary": "發言提及：「…ai-transcript…」 ｜ 立法院第11屆第6會期司法及法制委員會第7次全體委員會議（事由：一、處理115年度中央政府總預算關於立法院主管預算凍結項目共5案。【本案如經院會復議，則不予處理】 二、審查116年度中央政府總預算案關於立法院主管收支部分。【預算提案於11月17日中午12時截止收件】 【11月18",
+      "publishedAt": "2026-11-19T01:00:00.000Z",
+      "timestamp": 1795050000000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【邱慧洳委員發言質詢】第11屆第6會期社會福利及衛生環境委員會第7次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172243",
+      "source": "立法院議事轉播 IVOD・社會福利及衛生環境委員會",
+      "meta": "發言委員：邱慧洳 · 時段：10:20:37 - 10:45:31",
+      "proposer": "邱慧洳",
+      "summary": "發言提及：「…ai-transcript…」 ｜ 立法院第11屆第6會期社會福利及衛生環境委員會第7次全體委員會議（事由：處理115年度中央政府總預算決議有關衛生福利部主管預算凍結報告案51案。(含報告事項46案及討論事項5案) 【預算凍結報告案如經院會復議，則不予審查】 【11月18日、11月19日二天一次會】）",
+      "publishedAt": "2026-11-19T01:00:00.000Z",
+      "timestamp": 1795050000000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "「資通安全管理法第三條、第十條及第二十四條之一條文修正草案」，請審議案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/202110248870000/details",
+      "source": "立法院・法律案",
+      "meta": "第11屆 · 第6會期 · 排入院會",
+      "proposer": "本院委員黃健豪等16人",
+      "summary": "提案：本院委員黃健豪等16人 ｜ 進度：排入院會 ｜ 摘要：一、現行「資通安全管理法」第三條第四款規定資安事件須影響系統機能運作，致AI代理發生授權外行為但未破壞系統機能時不生通報義務。",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "timestamp": 1794873600000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "「中小企業發展條例修正草案」，請審議案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/202110250370000/details",
+      "source": "立法院・法律案",
+      "meta": "第11屆 · 第6會期 · 排入院會",
+      "proposer": "本院委員賴瑞隆等17人",
+      "summary": "提案：本院委員賴瑞隆等17人 ｜ 進度：排入院會 ｜ 摘要：本院委員賴瑞隆、林楚茵、伍麗華Saidhai Tahovecahe等17人，有鑑於我國近年經濟成長表現亮眼，中小微企業打造的靈活供應鏈功不可沒，然而在面對國際政經局勢變遷與供應鏈重組、淨零碳排與AI時代的挑戰",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "timestamp": 1794873600000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "行政院人事行政總處及所屬115年度單位預算評估報告",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSDgxX0tJbzVwenJ5ZU1HNTVkRWVxWFVEeEdKVWxLeVhDb2tzVm43MFJJai1ZWWxtQ1ZkWndPVDhJMmZySHNzQnNkdFhUTmdMbHFLZGlVZkktNEF6VVltZ21HUVJiTER1cmEwWVljYlRna3NSLUlzUFFLNUI3Ym95M1l5RFNRdVNYZHZqbXFBd3c1WXZz?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-16T13:50:33.000Z",
+      "timestamp": 1794837033000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "七、設置「人工智慧專區」提供AI人工知慧學習資源，惟學習使用情形仍有精進空間，允宜加強推廣，俾達成智慧國家政策之目標",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lZUw1eEItWk1EWHA2eURiLWRXRHFWSENGLUh1c2w5UnZObnQwWTlVVzVpNENWdDc2bHlhUkZwYzRyMFhoY3FaZDh1ckJaOHRaVU94M1ppR042TzlqLUtUc29HYVUxa0Y1enVLTWdPRnk?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-16T02:13:31.000Z",
+      "timestamp": 1794795211000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "函，為113年度中央政府總預算決議，檢送該部決議（四十一）AI 的模型智慧防詐規劃運用書面報告，請查照案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/311110029580000/details",
+      "source": "立法院・預(決) 算決議案、定期報告",
+      "meta": "第11屆 · 第1會期 · 審查完畢",
+      "proposer": "數位發展部",
+      "summary": "提案：數位發展部 ｜ 進度：審查完畢 ｜ 摘要：數位發展部函，為113年度中央政府總預算決議，檢送該部決議（四十一）AI 的模型智慧防詐規劃運用書面報告，請查照案。",
+      "publishedAt": "2026-11-13T00:00:00.000Z",
+      "timestamp": 1794528000000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "記者編輯部| 【張凱鈞專欄】政府導入AI不只是口號立法院首度使用AI宣讀",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkVWFHekE4N1J1Vkh4aFRYWmVXV2hLbUhmT0NsUVlPOERQS3c5d0RqVFlTcEU4LU1ZdVJtR0FicVZ3UVJtWkxfblp2RUxnZHhHMjZKT3pUOTk?oc=5",
+      "source": "國會動態・梅花新聞網",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-12T08:00:00.000Z",
+      "timestamp": 1794470400000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "函送「政府資訊系統及AI應用運作韌性強化計畫」核定本，請查照案。",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON1JpdklVWkhOLTU1WV9KNXBUdVFvZTVxdGhRQmtwTVVFbkxMWkltYnRvTWg3QkIxQ0hQUVJGYS1nTHFoZ1l2dE5IRzNjd0xVR3k1QkNXNjFURHhabGVTMG1iNzEtV25weDFMUzNzQi1nLTIwLWNLMWhsMllNd3pmX3AxdDd0ZVlY?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-12T03:43:59.000Z",
+      "timestamp": 1794455039000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "AI的男聲進入立法院",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IRlJuMHJkWTVDUi1lWkFNZlRia09KOTRRaWRRQkNrMzJWQXhqNjhXRXZsb2NwWWJ6aWZfWVlQZjlJbDJwWUNTbG51RjM4dVFkWi1KY0pEbw?oc=5",
+      "source": "國會動態・www.anntw.com",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-11T09:33:47.000Z",
+      "timestamp": 1794389627000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "立法院創紀錄！首度試辦「AI語音」宣讀3.5萬字法條　省時逾半",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1QcXJMWU5lM200T3E2eXl1OFdHd1o1SDlSVHYwSEJ2RWJfWEVRb0NxZkZNVlRZU3k4STN4aWdESDlDbGpNYllJTNIBTEFVX3lxTE1hMVM5aUZWQ0RoeklGdTdrWnNGZkRqZ0Y2WHdLSTRGcWZLaHFMaTRkU1R5TTRoSWdlRVVFWDZKS2F4REdOVmYxS0xiOWw?oc=5",
+      "source": "國會動態・三立新聞",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "立法院創紀錄！首度試辦「AI語音」宣讀3.5萬字法條 省時逾半 三立新聞",
+      "publishedAt": "2026-11-11T08:00:00.000Z",
+      "timestamp": 1794384000000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "立法院首用AI念法條 衛環委員會科技化",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Ga296ZHBjUEttckRmRmlyYnc4M3hQX1hZa3BDVnZOTzlOU1dtWllxcVZBck5zT3lkLUlNQzhhMFNmVmRYbl9OYWRsM1U0WlRwWndFU1hISQ?oc=5",
+      "source": "國會動態・台灣醒報 Awakening News Network",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-11T08:00:00.000Z",
+      "timestamp": 1794384000000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "立法院首度用AI宣讀法條　《失智症基本法》3.5萬字1小時讀完",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90cndHVUpsTEoydWVOQ3h2MWRqR0JZU1Y2VWM5SHVqYTJtY1lRYS1UNmlXQ3ZiRTBEVDZFeHNfb0Y5YTUxbEFoNUR4M242T2RU0gFPQVVfeXFMTUdJZzlaWmhiZ0pfekxRTzN5X3lQWmRGQkZrRW50WEdCVjVGaWRkMUNNbW5VeWdqWWxnVllsT1dkdnVfRkQ2VHl0dVEyRnBhcw?oc=5",
+      "source": "國會動態・ETtoday健康雲",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "立法院首度用AI宣讀法條 《失智症基本法》3.5萬字1小時讀完 ETtoday健康雲",
+      "publishedAt": "2026-11-11T08:00:00.000Z",
+      "timestamp": 1794384000000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "立法院首次用AI宣讀條文 估2倍速念完只需66分鐘",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zQjVZZFprMkc1ZHVueWxrREFvcXRUSW4yOXExOWtRZlVPbGJyR3ZfZmJVMnlxYmowYy1Zam5Oa1NDaW1ydVpHMTlCbHZmM0ZpVk9BdnN4YjR6aDRvZVpBR2xRRTluUmwyR3fSAW9BVV95cUxNOHhXVUZoMWRvOEl1UGowME9jcXRzblk4c2M1WTRTNFNZbHNXZlBPWXdmaDZlTWVWclBWYXI2cWxxYVdIR0Y0VWV5SDVUaVBkVWdRU09MOS1McG5XRnVYWWxZbzc2Zk9IeEkwRUd5OFU?oc=5",
+      "source": "國會動態・自由時報",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-11T08:00:00.000Z",
+      "timestamp": 1794384000000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "立法院首度用AI唸法條！3.5萬字飆2倍速估1小時唸完| 政治焦點",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XQU5JTEctMUVpQ29vRGdjUzhrNzdUYTJkRjNfcFR1ZjVSRU9KOUp5ckJoSjlLLVNkRTk2SGFmUVJqUFhrMl9NbE9DbVdNYXcyS2Q2SWlFR2tmbENt?oc=5",
+      "source": "國會動態・太報 TaiSounds",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-11T08:00:00.000Z",
+      "timestamp": 1794384000000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "立法院史上第一次！衛環委員會採AI代讀「失智症基本法」共3.5萬字",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00MTl2aEZJZGZDUTFlT3hBRUhSVHl3MlU1eEo4VVJmV1p1bHplRHh3bmtpYUVtWjRUZ2wxRjRjODMza29JTEJjZFlOWHlEX3ZwRWY5MFdwdC1IZ9IBX0FVX3lxTFBuNlBFams2US1ITGpKZVc5OUtXbTJ1NzhlTExyZ0VJQWMwRDQ3T0FIS2gyQnFONmRudzE4eDB1RmJyeG81ejA4dEtfTHhnNkxZX1pzc3BqY0VkNmRrYUlj?oc=5",
+      "source": "國會動態・經濟日報",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-11T08:00:00.000Z",
+      "timestamp": 1794384000000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "中國駭客利用AI代理攻擊亞洲政府機關，入侵臺灣立法院、法務部的內部系統",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zeDZTY29uUG9jRG4zZnhDaVByRkZhZXdfbVc0SlBQajVDXy1scmxPVkhvbTJITnVjMnU2R1QxQzlXdW4tR3BwWUctQW5yQQ?oc=5",
+      "source": "國會動態・iThome",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-09T08:00:00.000Z",
+      "timestamp": 1794211200000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "經濟部所屬(產業發展署、國際貿易署)115 年度單位預 算評估報告",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY1hYTVNadGVVQWtCS2lPek1Xc09yVEw5dDVyVHBRSFFmWHVpRzhldXBreDRvdGlLaDZOZGU1a2hfUEVmV0puSHQtQzdmcnNyUXhfZlhQSXF1VHNBTnE5ckZHZVR2b01HRDdXcWNrR2lERFRpMFNtbUtERkVYRFZKcGJwREhUNzg5YTlmZmtBVUNRWUlD?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-10-25T05:59:21.000Z",
+      "timestamp": 1792907961000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "「預算法增訂第八十一條之一條文草案」，請審議案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/202110238300000/details",
+      "source": "立法院・法律案",
+      "meta": "第11屆 · 第6會期 · 逕付二讀(交付協商)",
+      "proposer": "本院委員邱鎮軍等20人",
+      "summary": "提案：本院委員邱鎮軍等20人 ｜ 進度：逕付二讀(交付協商) ｜ 摘要：本院委員邱鎮軍等20人，鑑於近年來政府多次因稅課收入實徵淨額高於年度歲入預算而普發現金，還稅於民；另鑒於賴清德總統宣布將於一百十六年度中央政府總預算中增列新臺幣二千三百五十七億元，普發現金每人一萬元，以實現「AI",
+      "publishedAt": "2026-10-20T00:00:00.000Z",
+      "timestamp": 1792454400000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "函，為115年度中央政府總預算決議，檢送第4目項下「施政知識社會參與及循證決策AI幫手計畫」預算凍結10％書面報告，請查照案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/311110239760000/details",
+      "source": "立法院・預(決) 算決議案、定期報告",
+      "meta": "第11屆 · 第6會期 · 交付處理",
+      "proposer": "國家發展委員會",
+      "summary": "提案：國家發展委員會 ｜ 進度：交付處理 ｜ 摘要：國家發展委員會函，為115年度中央政府總預算決議，檢送第4目項下「施政知識社會參與及循證決策AI幫手計畫」預算凍結10％書面報告，請查照案。",
+      "publishedAt": "2026-10-20T00:00:00.000Z",
+      "timestamp": 1792454400000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "沈伯洋「科技廊帶」言論惹議 王鴻薇：打臉黃仁勳跟輝達嗎？",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50V2d4bDBrVTdRbmFZS193cDRzbkIyRjEtTlA3Qnl0c1R1QXFxeUlnUFJPMTZ6dldQOEZ5Unk4TGNXVERvWmhkTVljajA1a3NIYUJITEVaam9Tel9rQjFqZG1pNzZ3ZmNkLWFYTkFjSno?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-10-16T07:00:00.000Z",
+      "timestamp": 1792134000000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "台灣AI語料建置不能等！林楚茵質詢數發部，林宜敬：新聞媒體要有價",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5waUZ1b3RRNUR1eFZqcXI0eHgweU11Z2F0TXoxcmxZbDFtUG1WUXdfZzktb2NyWXhmTEdMeHdhU2Uza292M1F2X1FUWmtmeG55TlE1cEo3RWRHQjFkQ19fRlI0Wk5NcmhMUFBxOTl5Tm0?oc=5",
+      "source": "立法院全球資訊網",
+      "meta": "立法院官方發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-10-15T07:00:00.000Z",
+      "timestamp": 1792047600000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "美國「人工智慧緊急停止機制法案」（AI Kill Switch Act）簡析",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54Z2hzZU9aWEJFMTY5Q01TQ2twVFBDZm1rTUVyQUlhWDhQRm9lcmFMUUpLMmFGdzBoaVhrZmctaW82Z3VpVV9vLUtqbUJETG1XMENkNTEyZDlNM2tvclpsdXFjTTd1R05IaUE4SHBnbw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-09-21T02:34:58.000Z",
+      "timestamp": 1789958098000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "制定「人工智慧基本法草 案」聯席公聽會（書面報告）",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aWEJvZG1JV21hSFQzeWNYSU5fX2tORS1peVB1SUtNSllHdGlJdFhINEpheW90MS1aU015ejd0MWowTEVWb2F3WWVLSHB5M0x1cC1PMmtvOWhjTklpR1BFMmtiSmlrYV9obWFjY0Rn?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-08-27T06:08:08.000Z",
+      "timestamp": 1787810888000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "生成式AI陪伴應用對心理健康之影響與美國監理法制研析",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJRFJiVjRRQVN4bklUYjJLbkcwd21pUXVxb3U4VmZJY0RGRTU5dFhCcUliZVo0dXlKWVdmSDR1ZVA5TkZGZENUUmVVb0EybEozMGk1UDhtZlNqYjlTNDhmc0ZzY3hvQVN4OUJoZEpmaw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-08-26T02:03:57.000Z",
+      "timestamp": 1787709837000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "AI紅利下的分配正義–K型經濟因應之研析",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BaHd2a3BHX3Q5ZGNERURMUXJEQlBzRDltdUJGUVdGOHZOZVdYejB0SENwVUFfS2VjM04wMkZkSlZYVERqN2hJV0FKdjZlOUVGb01NZVFpSjVOYW9jSzd6aEJFVGdram1uWi1KZjQ4QQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-08-18T06:59:59.000Z",
+      "timestamp": 1787036399000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "發言紀錄 - IVOD",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oV3dvNUp1MnRsRUUyaTR2eW1SZnN6RGVYU3dVY1YwVXJXaFFKTVMyMVhoaEF2b0pnZFROQ3JtWUtoUldOZ2NoZVpIYVZjWmU2cHQwUDJ3?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "發言紀錄 IVOD",
+      "publishedAt": "2026-08-17T04:55:14.000Z",
+      "timestamp": 1786942514000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "擬具公民投票提案主文為：「您是否同意政府廢除『非核家園』的能源政策，以確保國民健康、穩定供電、便宜電價，提升國防韌性及支持人工智慧（AI）產業發展？」請公決案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/212110226200000/details",
+      "source": "立法院・一般提案",
+      "meta": "第11屆 · 第5會期 · 排入院會(討論事項)",
+      "proposer": "本院國民黨黨團",
+      "summary": "提案：本院國民黨黨團 ｜ 進度：排入院會(討論事項) ｜ 摘要：擬具公民投票提案主文為：「您是否同意政府廢除『非核家園』的能源政策，以確保國民健康、穩定供電、便宜電價，提升國防韌性及支持人工智慧（AI）產業發展？」請公決案。",
+      "publishedAt": "2026-08-14T00:00:00.000Z",
+      "timestamp": 1786665600000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "AI時代 助中小微企業提升競爭力 總統促立法院通過總預算",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5meDVmaWFYUGRpWGszWjZ1RmpCWnpWUUt0RC11X3d6U2dxcVhnTkJ4RFhxVjZMOUw5M3doWlFlSnE1Z3Z4bm55M3hna0xmY3IwMm9z?oc=5",
+      "source": "國會動態・中央社 CNA",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-07-21T07:00:00.000Z",
+      "timestamp": 1784617200000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "院長出席2026第28屆信譽品牌頒獎典禮 韓國瑜：AI時代企業競爭的不只是品牌，更是信任",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pdjRIYUx6a1pwc2FuMHlHVHY2U01fZmczTFhldlJwbWxsLVItdVhSenBMWWZCSUlhTk9jRjFHaU5MVjI1YkdYZGdQV3c4OUNzaHZaSUtPUTFIaGxkOEZFaGRBa1dJdksyRlZSam9oTQ?oc=5",
+      "source": "立法院全球資訊網",
+      "meta": "立法院官方發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-06-18T09:04:35.000Z",
+      "timestamp": 1781773475000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "Legislative Yuan -歐盟人工智慧法關於勞動權益保障法制簡介",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WWkVGZmRQbWsyZEllRTJ6S3dDZmxIZVV0QkZsSVZ6aGstNXloTXA5S01XWTgxcXlPNE1MVjFmRGNJMElJd05PUmZMcl9OdWd1cUR4MlRPZUxrbWtDNmdTbHdyeXpsY1lZSWZld09IQzRXY1E?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-05-24T01:30:30.000Z",
+      "timestamp": 1779586230000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "有關大院115 年 3 月 16 日經濟委員會第2 次全體委員會議， 貴委員請本會明列AI 新十大建設與五",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWTV0T3VDcjZ2MkpWTFdpYU94MjZqczJXMG9JUjQxSFV0WXlsZFY5eDFrUkhuOXA5SEtibkxlQnhMYWF5alU1LVhWeWV4Tko4N3VRS3NfUEM4ZEdBYk9uSWNUSEtXNjZBa2xEdnRwRll6d3pwUnprRmlTS1dsanIxRFN1OHRhdDVqYTZ5Ym1RT0lzQQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-05-20T12:56:40.000Z",
+      "timestamp": 1779281800000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "指標型數位建設促參案AI算力中心BOO 鴻海有意申請、尚未遞件",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ab3ZYVlhIRWxCVk9yZFNtQjFJdFR2YTg2TFQ3aXZBdXZHM3ItSEtxdUE5MVJEWVAwU01LWWs1RUlNem9NU2RYTDJHQ2hKeWJLRFliZF9GUGJJRUM2SHVhT21STmtGZzZIREhMLUhxa1E?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-04-23T07:00:00.000Z",
+      "timestamp": 1776927600000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "AI 替代勞動對我國所得稅結構及所得分配影響之初探",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNVdTTGZub3VZT1RHSlZuUm5qWlNUTkF5WF8yU1lZODVpYTRyTWlYN2QzdEs3LXpRX3N0VWsxaGJjcFcwS2l0YUJRQUxxWFB2QnluNGFYYWk0SC0wMzJ5R1lWVlpsOXEtX3hjLVc5aU5LWUFTODJ6M1FlOUdJRGE4N1BCcm1FQjZ6bkhaT2laY3NRUENB?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-04-18T13:20:33.000Z",
+      "timestamp": 1776518433000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "函，為本院制定人工智慧基本法通過附帶決議，檢送「AI應用發展兒少、人權、性別影響評估報告」，請查照案。",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WQVA4dFBnSVA5c21qbUlENUxseWw5QjRPQndlTUFDRzYyQjlJZ3VpLVY2dUtKOVV5SHJ5Um5qSFRNRmJPNEstcC1wZ3l1d0FvazZqOGRXYjdSeVZ4OGs5Y0FBYnlaZw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-04-15T11:06:05.000Z",
+      "timestamp": 1776251165000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "中國製AI聊天APP淪資安破口 林楚茵呼籲建立通報綠色通道",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10cUxURFR1dXZfaXNtRzlCZ3VMZFN6a3N3Vm1odGxBTVViYmkycmxKc3J0UGc3MGtlZjFETEc1cEM1UEJXX2NCVXo5NHRTRjBybEIwa3NuX0R5Yk1fem9BeXVIOHlYZHZlRXhVa2RrOWs?oc=5",
+      "source": "立法院全球資訊網",
+      "meta": "立法院官方發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-03-18T07:00:00.000Z",
+      "timestamp": 1773817200000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "台灣立法院跟不跟？美國國會用AI於公務 眾議院已用、 參議院也跟上",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mekw3c3cxajJYMkF5MmZUaVdSSENiNURWTVpKcXJ5YUM1YVdmNk5XZGFCZXRBTHJSNVBDa1ZIcHptUTFfdUpPbDRadFZVdw?oc=5",
+      "source": "國會動態・風傳媒",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-03-11T07:00:00.000Z",
+      "timestamp": 1773212400000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "Legislative Yuan -愛吠的狗公司許冠文先生主講「AI的奇幻旅程─新聞稿與簡報的運用」",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wNm5MX2dSX0lIVHJYTHFpcjRzQmEza1FrV2xMNG9JYkxhSlFLQ24tTVhaNUhkMmdqOVFPWUlUNFRQMVdZTFFISkZJemVZcWl5a3dMczAwNHJQZ2JUeUFhbHA3cV9fZUFVVjRLeVNQOUNydw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-02-11T00:14:47.000Z",
+      "timestamp": 1770768887000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "立法院三讀通過人工智慧基本法》與行政院版本有出入，明定主管機關為國科會",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON3VhNW5iemF6SXFjbVU3Nzh5RlRuNFFyNE9ZYnlIRHRuUnAyYzM2M2FndGdfVTJtM1NYM2tMSHJEVkhrQzlxX3BWMG9PRWt3c1VMNW52WUxhT2N1S0EyUVRvVGl2WF9WYXRYSlVCQ0Nxdk1mbGp3ekRvX0ZWU2FqbQ?oc=5",
+      "source": "國會動態・今周刊",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-12-26T08:00:00.000Z",
+      "timestamp": 1766736000000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "生成式AI 產製新聞之法制問題研究",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeWVIXzFVS1FwcWdCaktPc3dvemEwdjZrN1FnYllVRXFnMHZNbm5WM29sTzkxblU1V2tZbmV6SGpEOVctbldpb3dBUi1feHk4WjZYYUtyd1FzWmIyN2RaTWRQS3ZFcndpZTFMTFNhRTNkdy12Tm00LUZ5Vmt0bVFKOEx5NGdoVGZoREl4VUEwZ2FnQTB2?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-12-25T05:13:44.000Z",
+      "timestamp": 1766639624000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "「大南方新矽谷推動方案114年執行情形」",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWEMzS1RVTDJaTDNkZjZUN21WdWRwYU1tcHZaRUZWRVBjbFZTNEVEMDdVb2JwUHIyOWdnVmlBLU1wZTdFR01leFhzU2RNS3JiZjFXdkJnNkxTc2pOX2UyeFAtbkhmNmFockh4LUFPbkpRRDJiVTZIYjhVSUhwLTF0VDFwb28tV0tZd1pLb1V6MEQxUQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-12-24T22:49:58.000Z",
+      "timestamp": 1766616598000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院第11 屆第4 會期第14 次會議紀錄",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUnlFNWh1cWsxNlhkOGx0dmhOSFhOenUta240Y1VTTDVtQ19SckVTZlZjdlBNOVVDQ3JtV0ZvcVdGWVRKNHFORmtYTG9VTmw3NzRyRHVwMW9LM2hXMkNLdFZfMC1jSVJidUtEU040c015d2JXeGlzU2RMU21IQUt0MkVhMTFyblM2QUlQN3VCbGhpdFRJLUtid09QZHVUUEVaYlBfdUdtTXgxSUIyN1FJWGRTQ3lzZw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-12-23T08:00:00.000Z",
+      "timestamp": 1766476800000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "美國眾議院AI 運用之法制研究",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZkpPLVMzdHNud2pnZTI2Q2hmdWpJTkVJWWIyQktlMVE1dFpmRWFMbW14ZHJmd0QyOVFVa2tjc3pERjV6djlLaWxJdU53M2RLVk9xbGwyeS0wQnFSeE40OF9DbjJpcXNJQjRpSndFWk96bGxxaUJyeGgyN3ZLUnY1Qm5SekUtWE1aR3ZZVXJvaUpIdGpP?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-12-19T13:32:42.000Z",
+      "timestamp": 1766151162000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "立院二讀 AI 基本法 通過主管機關為國科會",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SLWFrUjJPMXZvTnJuV1o2X2VWMDJlNS15ZXpoVzV4Q3BNTU43YjRDMW0xYTV6NDZlelZlTkh1aEY5WmxzbnlvVU1tMDltR1It0gFWQVVfeXFMTW1tVmk3U3NMdEVlUGlQZW5vYWZkOVNKSlV5emN2VG4yb09EcjRkS2o5NVgtd0stVHVIZVZrZk5mbE54YWh4ZTQ2ZFFwajVPeTJENXZDVWc?oc=5",
+      "source": "國會動態・UDN",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-12-19T08:00:00.000Z",
+      "timestamp": 1766131200000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "AI基本法完成朝野協商 僅「主管機關」未達共識待留院會表決",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rcDhtd01Ra2wtcnZwWGI1TEozMFlfSnRqcTI0MWRZY3Z5bkYzMlJKc2pZOU1SUHd6MGFxYnNWQU4zcndSNzU4ZU8yOElMaVFP0gFWQVVfeXFMTjYzcm9vdVRiS09HRkZqMXNSc1ZJUld6aXJLRGs4WTUxRjVGZEZfd1Z6am1fTTlRc2dIQnRydzQyTnBSY3dmWVAzczdOUEI0SHA2ZHIxcmc?oc=5",
+      "source": "國會動態・UDN",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-12-04T08:00:00.000Z",
+      "timestamp": 1764835200000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "韓國瑜明協商AI基本法草案 葛如鈞：盼盡速三讀",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XY0tDUmZobnRFNG1LMU9IREp3VkxRcGF0Vy1LVFg2T1lZVjFaM2twTG5vUnhBTmVSVjB4dWpIWmZUakhJV0l5V2kyb2FRU0lw0gFWQVVfeXFMUEVfR3AxVUg0cldwOE9MVGNJUnR6eU9XYl9aNHhJaGMxSTBud1g5YTAycmQ3WXEwT0ZUNXdSR2tKdFNVTmpuelpHMldJX3h5VkRJNDdYOVE?oc=5",
+      "source": "國會動態・UDN",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-12-03T08:00:00.000Z",
+      "timestamp": 1764748800000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "公務機關使用生成式AI相關法制研析",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00RXE1Zmg2RFZVNVoyVUU1RTdVY0xFQVhJSUlMZWNfU0xFTmZGMHN6ZDNYNHVRcGNueXZ4NXBZX3R4RUhYSTlyRlJEZGs4aGNubXdlb3VKZlNwOEx0OFpaSjZwcF9FZlhrakNTekx4QQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-11-26T07:42:46.000Z",
+      "timestamp": 1764142966000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "AI新十大建設憂排擠人力？ 卓榮泰：轉型必然過程會先做防範",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uUnUtSVhwOENoM2pmR3JXX1F0Z2JjQTFrcXZEZ1VkMS1NZ3BZa3dWYXhrdUllcmdCbXJzX2l5VS12NVIxTmlycmhaUFVDQ1By0gFWQVVfeXFMTmg0alQ1MnQ3elhReGJuYWpVQ0ZGRFV2RXVVQ2FrUUk1LWpQNlBLejJ4Y0JTb3NhSTBlS2lzWnFmTktLdkJtZ2otMjMxdXU1SXZOcGlieFE?oc=5",
+      "source": "國會動態・udn",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-11-11T08:00:00.000Z",
+      "timestamp": 1762848000000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院法制局專題研究報告編號：",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQVFBc0hWY2s2cGRvN2xzcTgwakZCRFFSNXdRWG11M3FxSHpaNm81U29US2RpZjNaZjlpdDFiZjFoSE1nY0psM1pfRXIwa2p2OXZIUlBuNjdlVmVvaHZNVWVmNFNfZ2FfZ29udWxRV0xObTlPcXlyUjFkanJIdHR4ejEwdVYwZDNHWTlRWEJibno2QmJX?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-11-01T17:36:39.000Z",
+      "timestamp": 1762018599000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "主權AI發展相關問題研析-以數據資料與大型語言模型之建立為例",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yRTJUalJ4M3dQTGNzQ09oakxYRWl1b2xVT09GT19IZVNzNnNLeDR3cWpqdXJ4aml1LVc5RnhaWnUwZ1ZqdEhYWXJTSkNuTFdTeFV3OFo5WnFWZ2Q0ZW1ORUk0UDFoVmRiVHEtc0Judw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-10-16T09:11:59.000Z",
+      "timestamp": 1760605919000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "AI沙盒強化隱私保護相關法制淺析",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yaXI0anJSUHk3OXE3Rm96MlhNdlR2Rzl4LWZySzYzNERicnNCTUwySFV3a0l3RHZTZVoyZ1l4eFdCenV1ZTRSQWJheGVqNjFReFBJSWxQelVHanZaT3V2cXFXdFFFaWRsa2xhTWZFcw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-08-11T01:10:04.000Z",
+      "timestamp": 1754874604000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "「推動 A I 之產業發展政策」 專題報告",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSmRrWUlwVkZ6NWwwUUlOYVR6S3NRbEVQWGRXVVVpQ296Q1NDU1gwREgxTUdXeloxSnpjc2FrWnRUQjZ3Q2d3OFAyamVpVDl2WTU5OV96el9tT2FxbkxXdWwzUEdORktXdjZnX1JIcnZDcU4zZVhTdlBSWWQ5OWNzV3pnX3NXT29XalgyajU2ZldCZw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-06-18T07:00:00.000Z",
+      "timestamp": 1750230000000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "AI人工智慧治理問題研析－以建構可信任AI為中心",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rYVZkMXQ4MGQyaWV3ZW9pdDBDRVFhdGlDTmxQak9SaV9nN0lrSUJBaGVkV0EwQzRfZTJicGRtVXc2dWpyeldBSXZBbnR3cTQzd0tROFpDRk9YWlBfQ1pVU0pTLVNPQ2VYRHVWLU8tRQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-06-17T02:33:57.000Z",
+      "timestamp": 1750127637000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "國家科學及技術委員會函",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdkt3Q002d1QxZ3RaN0R4RGF1Y1gyZFRVSU91eHNGRWFrUGpiYkxGcFNWb0FWUm9ERTd4YTdqUHlPMldtZnMzTXNIdEdHOXZUeG94WGVWTHNzanlncjM2M1pWRUVsNlVxQ0hYRkFIcEVpdmdkbWN2N05KYkJKTmRmMmNZVU5VTUYxcnRzaWNKMlZ0Zw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-06-12T07:00:00.000Z",
+      "timestamp": 1749711600000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "八一、我國 AI 排名及超級電腦算力持續落後，鑒於電力需求倍增，允宜加速建置相關基礎建設，",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcndCUnRuZjUzZWRTU3IxbWpaUm1VQ3E0QThZTUk2YWV0VlpVaWR3X0tqNm9yWGJuOENaU2tEWUNlZWloM1RMaGhQdHZKbGZRbnFxMi05bHRWcDJtcTdJaEhrQVFKYWdXUk1FRF9ObWhaandyREU5eWlwdDJETXFWUGI2RXR1SUFPNXdFZFBNZ0FuRTEx?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-05-27T05:56:04.000Z",
+      "timestamp": 1748325364000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "生成式人工智慧犯罪歸責探討",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83VlBGbEFCUFVuY1FGWTVkNl91djl4STRjd2dIcFJkWUVzT1ZKajROVGdDME1veVhRcHE1Qmg5Y3cxMGh4cWdzTXZxaWlHVkF0NEl5eFRCZGdPWkZ3MHdQaHRHZ28zWEFqTmFUcllXSQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-05-21T03:37:56.000Z",
+      "timestamp": 1747798676000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "四、統籌各部會辦理AI行動計畫，惟我國AI國際排名下滑，允宜強化各細部計畫之鏈結，俾提升整體計畫績效，以達成厚植AI國力目標",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuMTlYQjZ1eGpLUW5JcmZwSXBpUUU1MlVFV1pRb3ktT1kxak5WWjkySnc2R0VJNi0wOUZ4SThuZThfekRJYUZVNUJNVGlvdUdDNUVpckc3VmZRMExtMDlHN2t5dGNwQkJqWUFLWVRrNHo?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-05-14T14:28:28.000Z",
+      "timestamp": 1747232908000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "「審查(一)委員吳宗憲等17人、(二) 委員賴士葆等28人、(三)委員楊瓊瓔等26人分別擬具『人工智慧",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWGVfMGxqZmpEeFZPbnJlcFA0Yi13bWEwWlpMUHR3LUpNM1FNbGpkR3phSFZjR3lES195UjlON2JQWlNsQ2FLdkJvZnplR1hWUklaQWFfYTNsMFkwOHlScVZ2cE5sTkxmTWN0NGVraFpidVl4VGdNRWtJTWFtVmtRS21rbFVUYVdFX0YtN1dWRTdwdw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-05-08T07:00:00.000Z",
+      "timestamp": 1746687600000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院教育文化委員會考察",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQREZrQmNqYl9vd213ZERUTjIzVzRBbm9hcnJuM2dnMW5WVkVGU3pCS0RySUx0eTk2aVRtNjdJZlhTN1RUeFg2T3dSNUdoTHFDSUh5Rl8xM3dpb29HUHFLVzgzUFZLREEyWVVyY21xTi1FRjcwZjhGeXE5ZWFvYjdmcEREOWh6aS14VUlfMExCQU9fV2ZKQUNCN20xb1BxaWNTekpN?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-05-02T04:59:53.000Z",
+      "timestamp": 1746161993000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "推動「晶片驅動臺灣產業創新-AI產業應用與普及發展計畫」",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91SlQtckxXTTgtTTBJZGY5SktTT3RmZmQxVnNGOWZpdm93RnhsclpBXzRJU0VwOXlYYXVhTlF3VGM1U240c0FWa0pBM1paR3FXOGJzYnVOTFpJMFZxajZaSnVlVVl0b3pxeWxqaFFBX2E?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-05-01T07:46:12.000Z",
+      "timestamp": 1746085572000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    }
+  ]
+}

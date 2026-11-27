@@ -1,0 +1,730 @@
+{
+  "keyword": "地熱",
+  "keywords": [
+    "地熱"
+  ],
+  "mode": "or",
+  "fetchedAt": "2026-11-27T09:03:17.421Z",
+  "total": 59,
+  "sources": [
+    {
+      "name": "Google 新聞 (台灣)",
+      "count": 50
+    },
+    {
+      "name": "Bing 新聞 (台灣)",
+      "count": 11
+    }
+  ],
+  "errors": [],
+  "items": [
+    {
+      "title": "打起火山的主意？Google簽約採購熔岩地熱電力 為AI資料中心找電",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PTDkyQWhMVEFwVmxmb0FLTzBSOVNITHQ5RUx2VW50VE1WRENuRGxLcXh5MTdBRlllUWNJZnBBcjk4QVNncHVGN3hPUFpzS1JaTE1kS1hvTE9kVjVtU1JXMVl2MXrSAWRBVV95cUxOT0w5MkFoTFRBcFZsZm9BS08wUjlTSEx0OUVMdlVudFRNVkRDbkRsS3F4eTE3QUZZZVFjSWZwQXI5OEFTZ3B1Rjd4T1Bac0tSWkxNZEtYb0xPZFY1bVNSVzFZdjF6?oc=5",
+      "source": "倡議家",
+      "sourceUrl": "https://ubrand.udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T05:17:13.000Z",
+      "timestamp": 1795756633000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "鑽孔測量設備市場展望2035：地熱與礦業需求推動成長 - 新聞與統計",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV2UzQkNrVVAwcTNPclNqeFVLZ2l6TUdycl9Ed2FYYnNiaWVSSnhoVkRCU2ZTQ0ZBYlAxUlZGclJyZnlLbFdwQVFfelVyT1UwQTBjbm9TXzB5eWU2MTk1UmVaU3VzQ1JGSk91WnZlU0RZdEFIRHFqYUF4NFlOcS1teHdHVEI0RFYwcVBocGxjamxpMzlpX0NfUDJ2Q1hqdmFfTWU3QVV6bTVBTWM4UTV5akNFZm1xUzBwcVZ3MGwxRTJxSVJw?oc=5",
+      "source": "IndexBox",
+      "sourceUrl": "https://www.indexbox.io",
+      "summary": "",
+      "publishedAt": "2026-11-26T00:26:04.000Z",
+      "timestamp": 1795652764000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "天能綠電總座唐亞聖接掌再生能源公會 邀四大電源業一起推進綠電交易 | 陳逸群 | 地方新聞",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hRF9PQUlhOHhiM2FQUi1fUWtqSk9vMXF1T1BieFNFYTRZc015UkpkWGY2QjRvaG1BNjNMdUpUNV9BWEdmQkJrblRqMkhWZw?oc=5",
+      "source": "Storm.mg",
+      "sourceUrl": "https://www.storm.mg",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:56:00.000Z",
+      "timestamp": 1795600560000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "台灣中油抱回2026 TCSA四項大獎 布局光電、地熱與氫能拚減碳轉型 | 陳逸群 | 地方新聞",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9uVkMtSS0xU25PRXQxRmVRZlJURDY4UFh0QXpmM0tVOG53ZnhDTUE3TmlncXNOb0VyaE55SzZxWmszdmpWTU9FRWpxUG8ydw?oc=5",
+      "source": "風傳媒",
+      "sourceUrl": "https://www.storm.mg",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:33:00.000Z",
+      "timestamp": 1795599180000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "iKnow",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VNERmT0JyOXRZRzFYTUlMZ2pPUktXMkt5Mm1nVGhWc1RUeHpWc21FSl9lcUUtRUJEMHFOYWNRUkxGNHdSbWw0aE9NYkdLTTRobXNHTGlZNUJsUQ?oc=5",
+      "source": "科技產業資訊室",
+      "sourceUrl": "https://iknow.stpi.niar.org.tw",
+      "summary": "",
+      "publishedAt": "2026-11-25T08:00:05.000Z",
+      "timestamp": 1795593605000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "GOOG Alphabet - AI算力荒，讓長期停滯的地熱能源重獲生機- 股市爆料同學會",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EZXBoSV9sMzhQcFg0aTAxYUNuZWlSWHI5aUh4ZWVfTUdKLTZvenQ3ZkdZM1JtV05uUkNSeVBPbGQyanhiN2RDczI3M0JlVGM4QXBjQVIwY1E?oc=5",
+      "source": "CMoney",
+      "sourceUrl": "https://www.cmoney.tw",
+      "summary": "",
+      "publishedAt": "2026-11-24T10:38:14.000Z",
+      "timestamp": 1795516694000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "Google找電「腦筋動到火山」！砸160億賭新技術「熔化岩石」 探向地底尋10倍能量| 產業",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xRHo2MUxHcFlBYndWUkJUcTJjSEVwb3FxQndQUlJkNnkteDdBblRSeHdVVUxwNXQxY2VlVVRyNzZwaVMxaVcyMzRLUXJwSWszODZkc2FPSTNQb2st?oc=5",
+      "source": "太報 TaiSounds",
+      "sourceUrl": "https://www.taisounds.com",
+      "summary": "",
+      "publishedAt": "2026-11-23T12:17:41.000Z",
+      "timestamp": 1795436261000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "台灣電力大考3》地熱開發藏兆元商機 工研院揭四大瓶頸",
+      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E7%81%A3%E9%9B%BB%E5%8A%9B%E5%A4%A7%E8%80%833-%E5%9C%B0%E7%86%B1%E9%96%8B%E7%99%BC%E8%97%8F%E5%85%86%E5%85%83%E5%95%86%E6%A9%9F-%E5%B7%A5%E7%A0%94%E9%99%A2%E6%8F%AD%E5%9B%9B%E5%A4%A7%E7%93%B6%E9%A0%B8-220200919.html",
+      "source": "Yahoo奇摩新聞",
+      "sourceUrl": "",
+      "summary": "台灣地底下蘊藏龐大能源，卻遲遲難以轉化成實際電力。工研院估計，若2050年地熱裝置容量達到6GW，連同電廠建設、鑽探設備與特殊材料等相關供應鏈，有機會帶動3至4兆元產業商機；然而，截至今年10月，台灣僅有8座地熱電廠，裝置容量合計14.02… ...",
+      "publishedAt": "2026-11-22T14:01:00.000Z",
+      "timestamp": 1795356060000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "美國能源審批改革迎重大突破？伯恩斯坦：地熱、電網設備有望成最大贏家AI數據中心建設或受益作者智通財經 - Investing.com 香港",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwblhmVmd6b3FQMmwtb2ZJTWo3SzVKS2NmY0xsSXZackdqeEhGcUZ4ZmE2Q0p4VHhaYUQxSUtZc0ZtQWdtYWQ1emZ3N2JaUTRxekJYSXI2Z3d5N19qZjZKVnJtWG5TWWEtWGZucUtiX2I?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "sourceUrl": "https://hk.investing.com",
+      "summary": "美國能源審批改革迎重大突破？伯恩斯坦：地熱、電網設備有望成最大贏家AI數據中心建設或受益作者智通財經 Investing.com 香港 - 股市報價& 財經新聞",
+      "publishedAt": "2026-11-20T16:11:53.000Z",
+      "timestamp": 1795191113000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "Google 向火山借電力，砸逾 5 億美元開發「融岩技術」",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcHN5cEVaNnhSXzk2UnlpcUVxeExuYUJZZ0Q0WnYyVE9VV3pQMGFGR1hsQ1VFMlVzOFFJNjFMS2FTS1VsMFJOQThDU2FjYWkzRTJhcEtoMEx6VHRZZTlCSXEtZnpZVUtRZ0llN3FnaWpZaXdRUVNmTEtFU0E2bGlfZGR2NlgxUFJvYnhJcXN2VWRWLU4tRGo0ZmZGaVhKWEtoUkE3djdQeFhGY1A1eW85dG9LVE9hZ2YtclE?oc=5",
+      "source": "TechNews 科技新報",
+      "sourceUrl": "https://technews.tw",
+      "summary": "",
+      "publishedAt": "2026-11-19T01:25:37.000Z",
+      "timestamp": 1795051537000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "Google簽50MW超高溫地熱購電協議最快2030年供應奧勒岡資料中心",
+      "link": "https://news.cnyes.com/news/id/6665609",
+      "source": "Anue鉅亨",
+      "sourceUrl": "",
+      "summary": "2026年11月18日（優分析／產業數據中心報導）⸺ Google與地熱開發商Quaise Energy簽署50MW購電協議，電力將來自美國奧勒岡州中部的Project Obsidian，最快自2030年開始供應，支援Google在The Dalles的既有資料中心及當地社區。",
+      "publishedAt": "2026-11-17T09:00:00.000Z",
+      "timestamp": 1794906000000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "台灣地熱資源潛力豐富，開發仍受地質與成本限制",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcnJqeklXcGs2VFNzZHRpVDNOUUtDM1JhZkUxQzh4TXZyLWJNT25pWUhjUVJ0QjlzWkNiRG1xdmNUZnFjTzA5X3FNSWVqblF3NVFUaENGRWttd2tnLVczM29PLTR3WkQ4dUZBb3hFb255eDRJYlQyMHE2eldaRWdqdGMwQlpTall4LS1wUTVRMzZITjRiNmFj?oc=5",
+      "source": "TechNews 科技新報",
+      "sourceUrl": "https://technews.tw",
+      "summary": "",
+      "publishedAt": "2026-11-04T08:00:00.000Z",
+      "timestamp": 1793779200000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "地熱開發迎AI新解方：探勘、鑽井風險有望降低，專家拆解融資與土地門檻| 新聞",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqM29XaG5HQXg5OVdpa1hnMktFMzJicG5oMU5iV0lUb2gxRndYVm43bXlxUFFOMEJ1VXpNcDdxR29LVmNBZGROVVdaWXQzMld6QU5VbVhhUTdPMlNTNXQ4eTdSR3F2ZElCZTJyQWoyQ2p6UjdvOE8zX1I3MHF3cTQ?oc=5",
+      "source": "Reccessary",
+      "sourceUrl": "https://www.reccessary.com",
+      "summary": "",
+      "publishedAt": "2026-11-03T08:00:00.000Z",
+      "timestamp": 1793692800000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "地熱國家隊鏈結國際能量 熱啟臺灣地熱產業新局",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcnp4RWNIZ1QyZ2NMcGdQVFRzQllMUFkyMGNwOE5BdjBwOGZaVFdfUklQREZGcTRndXVWQ1Q4VkYwZXY2b0JteHZERFo0TllpM0NHMTRadVpVcWVtZjd5aWJ5ZmJWYzB4Wnc3S3VOM2ExcU02Q3BXTnhZX3RXaTJpeFRxTVMzMC1KVzFDVg?oc=5",
+      "source": "經濟部",
+      "sourceUrl": "https://www.moea.gov.tw",
+      "summary": "",
+      "publishedAt": "2026-11-03T03:00:00.000Z",
+      "timestamp": 1793674800000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "經濟部攜金融業推動地熱開發，金崙案場拚 2027 年初併網",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUUN1Nmg1SXdfNWlVcTdEdlp4UmplZzU4R2hIbWtZUDJlTGFnQVRsXy11NldnSjNvNEloeTQ1WUtmOTNMNUt3UEE3WmtoTVBzcTl1RlFYUUdEOS1Uajl5R2FSc2VQcTB5Vnl2cFpFblVVRFJKVFR0SWFIeVVzTmhVbHZONXhHc05wRS1LVUdTckd3UUk4Vnk0MjVfMks0WF83VTQxU1JpUkRnWFhKemJfMUMtN2VYbGJ2Zm5BekdVeWdEYm5hbWh0aGxBZ0Q3SjJodVgxQzBDTUQzY0VxVTZMZWpWaw?oc=5",
+      "source": "TechNews 科技新報",
+      "sourceUrl": "https://technews.tw",
+      "summary": "",
+      "publishedAt": "2026-10-12T07:00:00.000Z",
+      "timestamp": 1791788400000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "儲能與地熱題材升溫，正式訂單會先落在誰？-黃勢週期經濟學",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU1dpa0xPbXZBSnZyNmYwaTR1OEFvZmliVkRKcUVnSWpQY042dDVxbUZiRzJxRUVkYXZDZTVPS3AwQWRXdVQzdWdVTU13MkJoNXpDZzZsSl8wYTZUV1dqem5wTUgxQk9NQnhUWW5EM2JXblR3VDF3TUtrcFlybzlYcU9GTDZhNDQ?oc=5",
+      "source": "CMoney投資網誌",
+      "sourceUrl": "https://cmnews.com.tw",
+      "summary": "",
+      "publishedAt": "2026-10-10T07:00:00.000Z",
+      "timestamp": 1791615600000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "新穎地熱裂隙流體精密成像技術-綠能科技-尖端科技-工業技術研究院 - Industrial Technology Research Institute",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb1hPWlNkSEwwZERoRHFmeFpKY0w4VnpqZHBkSVNKMEtQOWlFRllyZEVDUk1WcThOeHhXRzc3bXhfbGhBUmtXekl5Q3NDVERJUE1aV2tBZGtLN1RqcmUtQ0NTQ1hKNDlCYktPNzNRcTNLckJIcVk2aGdZZWpfdVJmVUJQSjljWl9IT2hVRll4Ukxyd21wWDQ0ekYybXZGSGVkQS1sS0pMUWowM2wzVFZETFIwaGh3YlBtaDA0VjY1cw?oc=5",
+      "source": "Industrial Technology Research Institute",
+      "sourceUrl": "https://www.itri.org.tw",
+      "summary": "新穎地熱裂隙流體精密成像技術-綠能科技-尖端科技-工業技術研究院 Industrial Technology Research Institute",
+      "publishedAt": "2026-09-30T21:03:51.000Z",
+      "timestamp": 1790802231000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "專訪》地熱從示範走向產業化，結元能源拚 2030 年開發 40 MW",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPenJxSzBOT1V4VHBlSGF3ZzVwcDlVelIxa1FBUXhjczI1cHNiUDNia0FpZjFFeEdQVUFpMWtuUTBPUVBTT0pfUnNWMzNCbzNmNHRUSnRTRGE3THVfdkpGLXJ6MDBxY29lQ2FHeVExOFlhWnlVU3dIVUJhWWxrMFgya240QXViS2tZWVhXTEVsd205QnpTeWdXQmZpWGlVU3NyaHlac0cxSTNTZTNhWUcwaWh1ZWpxQzRBdUV1Wl9FRVRBSGFWMHl1NGZoMWZNaTdxaDZwaUF3ajMxVFBXZm5RUHJDZU9FbzQxR3phMTVtQQ?oc=5",
+      "source": "TechNews 科技新報",
+      "sourceUrl": "https://technews.tw",
+      "summary": "",
+      "publishedAt": "2026-09-30T07:00:00.000Z",
+      "timestamp": 1790751600000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "中油地熱技術獲國家品牌玉山獎首獎 共獲頒7座獎項",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jaE1EUXN1NEhrMVBXSF83NGpmNVdEdUZqRXVlS1c2YWc3eDVqdW1WN2ZnZTVsdzdfUjg0Z092OGx5cWN1U3dYOFB3TzF1VDhJT1d6UUpNWHVsbmZHcjg40gFkQVVfeXFMT0JFV21tcEtjN1RmbmhjamxzVi11TWoyc0NYU2tjVFNqMzVHR1JYLW9LeUU1d1VHRzZ6VkJDOFppSG1uY280MlBjUXkydkVfd2RCc3lxU1FrRHlUeXdjQzBBeXJPNg?oc=5",
+      "source": "自由財經",
+      "sourceUrl": "https://ec.ltn.com.tw",
+      "summary": "",
+      "publishedAt": "2026-09-23T07:00:00.000Z",
+      "timestamp": 1790146800000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "地熱潛能等同15座核三 台灣為何守著能源金礦發不了電？",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuZFVQM05sLXFHRmdYb193dlBWblRhSnU2MlJ4ME8yOExIcnV1ZC1oNTFYOWRzc0Q0OXFqWlo1WkplYUR4a05kbU9rNVZqTGNiaFVTeVdmemZJRVk3ODBKcTA3TQ?oc=5",
+      "source": "商業周刊",
+      "sourceUrl": "https://campaign.businessweekly.com.tw",
+      "summary": "",
+      "publishedAt": "2026-09-14T04:25:34.000Z",
+      "timestamp": 1789359934000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "台灣首座深層地熱電廠 中油最快2028年拍板",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YWVN3N2ZsYTJXWHpmdi14LXJScDd1Q1pFdFRiWHlfdTNjTERYMlV3VldmT2p1OHg3Smc4S2RmT0dzSVlfZzVUbkFrcHVLUlNNNmh5YkRCUTdoOWxqa1ZJ0gFkQVVfeXFMTmQyVVFDUUZsSzR5cWNQRFRzdkVKaVh4b095WXU4RmxnOExCMjZkVWtrbVV2enB4MkhwN2RxQmF2WGZGSXV3ZDNLWWpPVWtiZlhUY3BGOGpnc2lOLUdpRy03ODB4Ng?oc=5",
+      "source": "自由財經",
+      "sourceUrl": "https://ec.ltn.com.tw",
+      "summary": "",
+      "publishedAt": "2026-09-03T07:00:00.000Z",
+      "timestamp": 1788418800000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "朝向百MW級投資 台灣地熱產業邁向新世代 | 綠色產業 | 商情",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FcjlRWDdpYjJwcGpJOHAta21EbVJFVGJVUEw1cUhoRDVyQk1yeXpKV0dhcnR6Q1lIMGgxejNnRnVVMG9rVjV1aTFKeVE1OXlkc0lsQjVtNnBJUQ?oc=5",
+      "source": "經濟日報",
+      "sourceUrl": "https://money.udn.com",
+      "summary": "",
+      "publishedAt": "2026-07-13T07:00:00.000Z",
+      "timestamp": 1783926000000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "和熱共榮：人、環境與地熱的永續對話",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR3lLeGlxUTRzc2V2b21qM3R0NTl2Tkhpd3lCLWJ2MVQxbW1za3VZS1dFenRlUmZKTDVBOWFTd3h6dkVGOWwzTzBOc2pKQkFmRkQ0alRaR1oycVpVNlRBSTdiLWJPR2lHM09qWE5aZ1hySzgwdmlLRzN2d3J0YnV6dG5sTQ?oc=5",
+      "source": "國立自然科學博物館",
+      "sourceUrl": "https://www.nmns.edu.tw",
+      "summary": "",
+      "publishedAt": "2026-07-10T07:00:00.000Z",
+      "timestamp": 1783666800000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "原民會否決地熱案？ 卡大地布轟阻民族自決",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBsekZ6aVFNS3lvNGxSOGpGWWlGSUdBM1JYUHpfc3hmTjV0Y0ZKM2c3Zy1PQmY2aUpHdXR2RlRmT2dOY0Y1Y0E?oc=5",
+      "source": "原住民族文化事業基金會",
+      "sourceUrl": "https://news.ipcf.org.tw",
+      "summary": "",
+      "publishedAt": "2026-05-25T07:00:00.000Z",
+      "timestamp": 1779692400000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "擺脫西部輸電依賴！台東發展小水力、地熱發電 目標2030達成自主發電",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tQk93a3hDR25xV3hNenRkbjMxOHYwczNRMFVnbEhxVDB5Q0FfWnZScng5bHBfeHdzXzc2ZXR5TmZaSmtHNEZUSFV3ZmxEeHp1MzAtSXBteGw3cEZQOEg40gFkQVVfeXFMTzRudGJtbEZKdmlWWWV3UWxteExTd0xqbEF4WjNuRTV4Qmc5aWRCb1k0UXlJU3M1VmtOa0d2QjJ1aWEtY2sycWJQR1ItNUp4RWZibi1GaUM5WVhXUnpPRmZvdVVnMg?oc=5",
+      "source": "倡議家",
+      "sourceUrl": "https://ubrand.udn.com",
+      "summary": "",
+      "publishedAt": "2026-04-28T07:00:00.000Z",
+      "timestamp": 1777359600000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "縮水六倍！ 經濟部2030地熱目標從1.2GW下修至200MW 業界：被潑冷水",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84LWx5SERreWpUOVM5aVFZU0x3QThfc18wLXlzWnRMd2VVODktYTJmWVQwRzRNZ3F6Z0JEbXd5b3pvTHhkN3Z5X2VBVTlPZw?oc=5",
+      "source": "環境資訊中心",
+      "sourceUrl": "https://www.e-info.org.tw",
+      "summary": "",
+      "publishedAt": "2026-04-16T07:00:00.000Z",
+      "timestamp": 1776322800000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "新技術讓地熱變便宜 智庫：可望取代歐洲4成化石燃料發電",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02QXVoSEl6eklUQ0pMOUItVS1fNDVNVXVKYW1NU0pFZzZ1eVlBZUFGNHVhZXpsZzlITXhfSTJHd0RZbWpJOUwtc1hoSDB3TEhVdVJ0X1hWajZFYllYVG9B0gFkQVVfeXFMTk5wVzhST19TQ21NVnI2NWg0dUNhaU5XbDAxU09jQ21XcTBua3MwLW9hY0hPVnVVX2FQNHJwRHUydEJkcUFMbHRrR2tOYkQxZ3FYSnZMR29ZOXg0V1pHTnJXQ1RMWQ?oc=5",
+      "source": "倡議家",
+      "sourceUrl": "https://ubrand.udn.com",
+      "summary": "",
+      "publishedAt": "2026-04-05T07:00:00.000Z",
+      "timestamp": 1775372400000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "看準台灣邁向「次世代地熱」EGS、AGS 外商摩拳擦掌：準備好了",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43Nnl4WmdTUUI0NmdqUXZyekdYdExwUTdhbDB3dC1OZnROY1JuemdVT0lzWjJsUFdrVnBiX1lFREppT3UtblVnR0RNa0pOdw?oc=5",
+      "source": "環境資訊中心",
+      "sourceUrl": "https://www.e-info.org.tw",
+      "summary": "",
+      "publishedAt": "2026-03-31T07:00:00.000Z",
+      "timestamp": 1774940400000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "宜蘭地熱突破 中油冬山井拚4千公尺、台電仁澤二期下半年啟動",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mZEN1a3c3bjJwVF9KUEZWaklXZkVpU0NGR0VHUlYxWTlUcTB4RDZ1RUVtQlBVQUpJeVF0UmxqZElJUWo3cmxOS1pBZzZObm50SUJ0Ym5rNVZmalBnTUFz0gFkQVVfeXFMTWQ2UFBVMVhZRHFtaHR4UzZESjdNOEFxMk43dERlNWVVOEN3NjdvVTJRU1BwQjB3WjB0QkNyeWxKTXo2RHFfNmtycEFzV3ZQVmdyY0ZpT1RKTlhBWGhGMGhvUEJ2dA?oc=5",
+      "source": "自由財經",
+      "sourceUrl": "https://ec.ltn.com.tw",
+      "summary": "",
+      "publishedAt": "2026-03-26T07:00:00.000Z",
+      "timestamp": 1774508400000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "中油宜蘭冬山地熱鑽井拚4000公尺台電仁澤擬擴廠| 產經",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ENzJhcnZFXzIwNW0wNmpTeldoN1RFUVpLRk5OMmJqcWFGMUc4aXhWZnNYTC1uc3I2TjM3Q1BPTUFUeHp2NlQxd0hqU0FkTkVlNnFFenhhZlpZbDlZTVE?oc=5",
+      "source": "中央社 CNA",
+      "sourceUrl": "https://www.cna.com.tw",
+      "summary": "",
+      "publishedAt": "2026-03-26T07:00:00.000Z",
+      "timestamp": 1774508400000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "新技術讓地熱變便宜 智庫：可望取代歐洲四成化石燃料發電",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1JckpRbWh4dnlPbjhqNjNsMDBhSzhyaEJkWWh5MEhEc3c4ZGxlTEtIV2stSmNWNWhITFJudTBqRW1OQQ?oc=5",
+      "source": "CSRone 永續智庫",
+      "sourceUrl": "https://csrone.com",
+      "summary": "",
+      "publishedAt": "2026-03-24T07:00:00.000Z",
+      "timestamp": 1774335600000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "經部3箭助地熱發電今年鎖定台東卑南鹿野招商遴選| 產經",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lWEFtLVRTaWI3M2ttMFptXzVJUjFtM1FWMVE2b2l3R2JDdHZDVFlmUHRoT21CXzl0eFlUUVJGemh5Z1RLcTR6RTJDMjFlTVRPS2hIM3kzYUJfWng4Ync?oc=5",
+      "source": "中央社 CNA",
+      "sourceUrl": "https://www.cna.com.tw",
+      "summary": "",
+      "publishedAt": "2026-03-22T07:00:00.000Z",
+      "timestamp": 1774162800000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "從AI算力到淨零電力：地熱發電成關鍵基載綠能| 勤業眾信",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMzdKck9CQ2VYZVNUamZtVHNYTllvczdQbzJhU2pvMUpYYjFFYVpPdVRaUHdMZTQzOXBqcEN3ZzdGcXNyRDJWSmFZMDA5TzN1eDRyWWM3blVIaENQMDR1djFILTk1Qkdya2U1YnN6ci1YRUhZdl9GYnNNWmxHb1JLeGJxVzJJR18tYVRlbENhWFp1bmtYNEZsSmRVZHJHMm8?oc=5",
+      "source": "Deloitte",
+      "sourceUrl": "https://www.deloitte.com",
+      "summary": "",
+      "publishedAt": "2026-03-11T15:59:32.000Z",
+      "timestamp": 1773244772000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "地熱在哪裡？ 不盲目鑽井 看科學家如何用「地質模型」建立地下世界",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqamowUHBVbnVTT3kxWG51MnVBaVhFbktzdnZvQk5Oa3VkNW9kQ2lhdWM2alZJLVZSaTBRY3VZdVg5RThGWXN6ZFA4QUUtQQ?oc=5",
+      "source": "環境資訊中心",
+      "sourceUrl": "https://www.e-info.org.tw",
+      "summary": "",
+      "publishedAt": "2026-02-04T08:00:00.000Z",
+      "timestamp": 1770192000000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "首座深層地熱井傳來好消息 實測達150°C 距熱源僅「一牆之隔」",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YaEJyaEtuWlFMcnZwbDNZelQwc1pidlRRVHI3NE4tWnFFQWt0Um4taWk2dEF6YXlqbnZqMGNzUGI4T0hDUmJILXNFWVVldw?oc=5",
+      "source": "環境資訊中心",
+      "sourceUrl": "https://www.e-info.org.tw",
+      "summary": "",
+      "publishedAt": "2025-12-30T08:00:00.000Z",
+      "timestamp": 1767081600000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "中央研究院-新聞訊息 | 中研院攜手中油深鑽近4000公尺 發現高潛能地熱儲集層",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BMktLNWFKM1NvX2FfWDFJOUlpLV9yV19tZ1JnaXlBZDN5cUYwdGEzazhla0xrZ0hNdUpmWHRoN016X29NNjlhNVNVTjAwV2VkTzhFdE9ZUjFzUQ?oc=5",
+      "source": "中央研究院",
+      "sourceUrl": "https://www.sinica.edu.tw",
+      "summary": "",
+      "publishedAt": "2025-12-10T08:00:00.000Z",
+      "timestamp": 1765353600000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "解鎖北宜花東地熱藏寶圖 直升機搭載科技「透視眼」，地熱國家隊聯手探熱未來",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaWVBWXJoYkJ3RDhsaEhfOTdvdF9mNVFnZFpFSXdiUDhVZDJ4SlA0bjloOGpUeHZGTmxuejRWTVNPRkx2a3VvdkxqdlBIRVBpVGRqZDVBSjVoSDZReTcxTnd3Ql9WSXNTalVRQlFsazlPRkptTFYzSk5XR1BoNTFhWExVdU9NMzdYeE5wMw?oc=5",
+      "source": "經濟部",
+      "sourceUrl": "https://www.moea.gov.tw",
+      "summary": "",
+      "publishedAt": "2025-11-26T08:00:00.000Z",
+      "timestamp": 1764144000000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "當光電遮蔽大地呼吸：台灣地熱的戰略價值與政策困局",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hMHQ1cWI0am9zUVplN1RKOVY0MnhNdkI3ajdQX1drMFA0V0xGd0NCdUhoRl9oS0dsMlBldlVLdzMzeTlxWi1lREhmVzFwdw?oc=5",
+      "source": "ESG遠見",
+      "sourceUrl": "https://esg.gvm.com.tw",
+      "summary": "",
+      "publishedAt": "2025-10-17T07:00:00.000Z",
+      "timestamp": 1760684400000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "臺大新碳勘科技研究中心與東京大學工學院共同發展超臨界流體地熱探勘技術",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQRlpPQTcwRFdvdDR6dVFBZnBBLTJfNnB0YzNWNXJhTHdJTXJXcGRtYWdaT2tpTlRRS3ZpR3Z5NmRqRW1tRzhBN2hEdlJSampWM0phWVRZV2pNOEl2TjJpNFdGNGpQMTQ?oc=5",
+      "source": "國立臺灣大學",
+      "sourceUrl": "https://www.ntu.edu.tw",
+      "summary": "",
+      "publishedAt": "2025-10-15T07:00:00.000Z",
+      "timestamp": 1760511600000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "台灣地熱產業協會成立！倍速羅得、台泥綠能等9家開發商發起，3目標推動規模化發展| 新聞",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeFdRc3hjX0hqcWlSblQ2R2R5Y25GZWpIb2hsVkRwM2UydElXSDktZjM1WlVyR0xrSGtBSWxLcmhRU1Q1WmJMc2NkYi1PWkd4cFU3bUItY25UeUs0NWhndmQ2SlVkeEUwYU5wYlVxRmRPdXZ0MmxuMEtGTEp4eC1JcUROZ002a0dNb2toZGRrZDdRdw?oc=5",
+      "source": "Reccessary",
+      "sourceUrl": "https://www.reccessary.com",
+      "summary": "",
+      "publishedAt": "2025-06-10T07:00:00.000Z",
+      "timestamp": 1749538800000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "溫泉業者和地熱業者當鄰居——搶水還是共存？ 在金崙看見能源轉型進行式",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9vc3dIbHExRWxVNl9RWnpjVnk2Z3E0T050NmtqaVNwV1hlaVZQR3FIUmFCVDg5eXM5RzhCVFljVVFPTWFjdDY1clhEQ3lVUQ?oc=5",
+      "source": "環境資訊中心",
+      "sourceUrl": "https://www.e-info.org.tw",
+      "summary": "",
+      "publishedAt": "2025-04-22T07:00:00.000Z",
+      "timestamp": 1745305200000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "亞太潔淨能源新里程碑 - Google 簽署台灣首宗地熱購電協議",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcUx6b3BNY2l3Skd3LWtFNzNjbEg3cmxONE9GNlBaNGNDU1RJYmNVcDhEY3VLY2U0X081WndQdkZ4dlNYanZpbGIyMlVoRWEwb211Z2x1eUEtcjBLYi1ucUd1SHhuRGNZNzYwMGQtUzVZOHR5VEN1RGxSQ3RjTm9TLVloOE5uZ0I2TXJv?oc=5",
+      "source": "blog.google",
+      "sourceUrl": "https://blog.google",
+      "summary": "",
+      "publishedAt": "2025-04-15T07:00:00.000Z",
+      "timestamp": 1744700400000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "宜蘭員山全台首座深層地熱探測井開鑽 2050淨零轉型助力 開創綠能新局",
+      "link": "https://www.businesstoday.com.tw/article/category/183015/post/202411110024/",
+      "source": "今周刊",
+      "sourceUrl": "",
+      "summary": "在全球面臨氣候變遷的嚴峻挑戰之際，台灣積極推動再生能源發展，以實現2050淨零排放目標，其中全台首座深層地熱探測井「員山1號井」於113年10月21日舉行開鑽典禮，展現我國在地熱能技術上 ...",
+      "publishedAt": "2024-11-18T21:59:00.000Z",
+      "timestamp": 1731967140000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "地熱綠能2｜台灣首座！清水地熱電廠不只煮蛋 7億投資揭示「億級」高門檻",
+      "link": "https://www.knews.com.tw/news/45D2B0BCB715308D2A0ED5720023F2BF",
+      "source": "knews",
+      "sourceUrl": "",
+      "summary": "【記者吳珍儀／台北報導】位於宜蘭大同鄉的清水地熱公園，假日常吸引大批遊客前來泡湯、煮溫泉蛋，但你可能不知道，公園後方有座佔地7公頃的清水電廠，它是全台首座地熱發電廠，裝置 ...",
+      "publishedAt": "2024-10-28T09:59:00.000Z",
+      "timestamp": 1730109540000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "新聞稿-台電今簽地熱MOU 打造地熱開發合作國際團隊",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xSFRMYUtZVE5hRWxYVHVJS0pabmVJUDZ2MEtRa09taGNhd0Vud3lpTGxCUUdZREFaOFJSRWt1aXdyOGJlQ1FZOEdzU1B1bktWYWk5UXZ2Qkw2cy1fX1E?oc=5",
+      "source": "台灣電力公司",
+      "sourceUrl": "https://www.taipower.com.tw",
+      "summary": "",
+      "publishedAt": "2024-10-01T07:00:00.000Z",
+      "timestamp": 1727766000000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "[Podcast]世界電力新聞週報第121集-次世代地熱技術正在升溫，為淨零提供更多元的選擇",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zYzhELURrSm5GZmtIcXpnVnBNQ2dzOE82VUJnUGhwZElCTjd3MDJTZ2RWdUJDNjRmX1RXSUI0Qkh3bVF3MFoya1ZRdUdWMlRtOHBjalVPTUk2dy1ta1U2WGZtWlU?oc=5",
+      "source": "台灣電力公司",
+      "sourceUrl": "https://www.taipower.com.tw",
+      "summary": "",
+      "publishedAt": "2024-09-12T01:26:33.000Z",
+      "timestamp": 1726104393000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "全台都有地熱潛能，10個地點大屯山最出色！地熱發電24小時都能穩定輸出，100GW有機會實現？",
+      "link": "https://www.businesstoday.com.tw/article/category/183016/post/202311010073/",
+      "source": "今周刊",
+      "sourceUrl": "",
+      "summary": "行政院能源及減碳辦公室周三（11/1）主辦「地熱前瞻發展趨勢研討會」，邀請麥斯管理顧問公司創辦人陳世芳、經濟部能源 ...",
+      "publishedAt": "2023-11-02T04:00:00.000Z",
+      "timestamp": 1698897600000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "新聞稿-地熱發電國家隊成果首發台電宜蘭仁澤地熱啟用年發近500萬度綠電",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsWmNUeVlhcW90YnRFVEYxSHBJa1BCcGxvLVkwNkRSUEl2RGVTMWtzQUxoZ2dlaGlobzZQSGYxcWZkNlBRU1lpQW4tVEx6eWtzQmtRNjZnZ1ktOHE0YUE?oc=5",
+      "source": "台灣電力公司",
+      "sourceUrl": "https://www.taipower.com.tw",
+      "summary": "",
+      "publishedAt": "2023-10-24T07:00:00.000Z",
+      "timestamp": 1698130800000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "全台首座火山型地熱！新北市金山區四磺子坪地熱發電廠10月成功商轉",
+      "link": "https://www.setn.com/News.aspx?NewsID=1362621",
+      "source": "三立新聞網",
+      "sourceUrl": "",
+      "summary": "Q1：根據文章所述，四磺子坪地熱發電廠具有什麼特點？ a) 可在全年24小時不間斷運轉 b) 可大量減少溫室氣體排放 c) 具有穩定的發電效能 d) 所有選項皆是 正確答案：d) 所有選項皆是 Q2：根據 ...",
+      "publishedAt": "2023-10-03T13:00:00.000Z",
+      "timestamp": 1696338000000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "走進地下，打造綠色能源：中油地熱發電技術",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10OEVZbUlPX2F1Z05URXQ5b2REVG0zWGNzRjhISE5VSEZjZGFQeG92U0t6d1FPclJmdklmTllWb0ZUWVZKVlM2UGItSFdqMFgxNlpwLWg3V2RZVWFkbTd1NWR2aWdBOUR0aEVB?oc=5",
+      "source": "台灣中油全球資訊網",
+      "sourceUrl": "https://www.cpc.com.tw",
+      "summary": "",
+      "publishedAt": "2023-09-16T13:45:18.000Z",
+      "timestamp": 1694871918000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "地熱谷公園改造大變身！ 7月20日起全區免費開放入園，邀您一起仙境探秘！",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUWt1NWs0amdYQ0VwWXRxdWNFa2hDd3FWMjdha0J0SHI5eHFrU2hkSDJPdnBQRXlzUGExV2JQTmh5aXEzSUtFVU1zUEZZS1lwWkgzREduVXhxTnluaWNBek84OTZkUnZKRVhaeC1jSV8tSHFCalhpbHBiWThtN25FbjhpSkR2UGo5WWl4bzRDT1JiOHFOSkpmZG5uRmJ6Wnox?oc=5",
+      "source": "臺北市政府全球資訊網",
+      "sourceUrl": "https://www.gov.taipei",
+      "summary": "",
+      "publishedAt": "2023-07-21T00:27:42.000Z",
+      "timestamp": 1689899262000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "地熱發電在部落｜如何利用熱水打造共存共榮的未來？【用熱發電系列之二】",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JWEJCWWlOeVY2dkpKckRtTS05TDgyR25hWUF2MVNlS04wUHZFRkxNWkR1UGx1akxlRDIwXzh0YWVtQ1NZN1dNVjZ3WHBFRHU4OV9n?oc=5",
+      "source": "我們的島",
+      "sourceUrl": "https://ourisland.pts.org.tw",
+      "summary": "",
+      "publishedAt": "2023-03-11T08:00:00.000Z",
+      "timestamp": 1678521600000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "尋找地熱香菇｜地熱探勘的望聞問切【用熱發電系列之一】",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uRTZBTG84Z2U0RTJYbjV3b3E0T0tMd25KLVg4LUJET3gxazIySlFWNEZjc2UzdlhVbFJzRGM0eGp5Yi1yRkRvQkNzZng5bXkzN3F3?oc=5",
+      "source": "我們的島",
+      "sourceUrl": "https://ourisland.pts.org.tw",
+      "summary": "",
+      "publishedAt": "2023-03-05T08:00:00.000Z",
+      "timestamp": 1678003200000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "正夯！ 永豐首度跨足地熱發電融資",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQlhLRUlYdDBsVklIWWFkSVJhVmlKNWlxUUVxb0diWUJFTG1PZ192QnoybGZWRDc4T2VxTmFZbkU3azVaY2dJR09xbGl6SzBqeW54QnkwZHU2enpOZzZxQjVuaU0tYVBBRm1IcUhNdl9Jc2o0LThKUE9CRVVLQWNGN1BZRlFGOEcx?oc=5",
+      "source": "Bank SinoPac",
+      "sourceUrl": "https://bank.sinopac.com",
+      "summary": "",
+      "publishedAt": "2022-07-18T07:00:00.000Z",
+      "timestamp": 1658127600000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "地熱，台灣「穩綠電」妙方？發展現況、常見迷思，一次看懂",
+      "link": "https://www.businessweekly.com.tw/carbon-reduction/blog/3008940",
+      "source": "商業周刊",
+      "sourceUrl": "",
+      "summary": "1.地熱發電是不受天候影響、可不間斷運行的再生能源，發電效能高達98%，能夠作為穩定供電的基載電力。 2.工研院預估，台灣地熱潛能逾33GW。北中南部皆有地熱潛勢區，但台灣地熱發展速度較 ...",
+      "publishedAt": "2022-01-24T08:56:00.000Z",
+      "timestamp": 1643014560000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "【地熱發電台灣夯3】台廠磨拳擦掌開發23處潛能案廠 地熱發電喜迎黃金5年",
+      "link": "https://tw.news.yahoo.com/%E5%9C%B0%E7%86%B1%E7%99%BC%E9%9B%BB%E5%8F%B0%E7%81%A3%E5%A4%AF3-%E5%8F%B0%E5%BB%A0%E7%A3%A8%E6%8B%B3%E6%93%A6%E6%8E%8C%E9%96%8B%E7%99%BC23%E8%99%95%E6%BD%9B%E8%83%BD%E6%A1%88%E5%BB%A0-%E5%9C%B0%E7%86%B1%E7%99%BC%E9%9B%BB%E5%96%9C%E8%BF%8E%E9%BB%83%E9%87%915%E5%B9%B4-215856862.html",
+      "source": "Yahoo奇摩新聞",
+      "sourceUrl": "",
+      "summary": "將 Yahoo 設為首選來源，在 Google 上查看更多我們的精彩報導 加入首選來源（另開新視窗） 本刊調查，目前全台共有23個地熱案場正在規畫中，主要潛能區為台北大屯山、宜蘭清水與土場、南投 ...",
+      "publishedAt": "2022-01-19T13:59:00.000Z",
+      "timestamp": 1642600740000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "耗資7億 全台最大地熱電廠在宜蘭 清水地熱年發2500萬度綠電",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iQ0V3dGV4alJnT0Z0aHJIQUdiRDAyUGJYWlpaTFhHWTNsbm5tRFc0WU9rdnBQTlBObnAzWDB6UU9fbUE5TXZVNzZDaDRqZw?oc=5",
+      "source": "環境資訊中心",
+      "sourceUrl": "https://www.e-info.org.tw",
+      "summary": "",
+      "publishedAt": "2021-11-23T08:00:00.000Z",
+      "timestamp": 1637654400000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "什麼是「地熱發電」與「誘發地震」？台灣與國際目前的發展現況？",
+      "link": "https://www.thenewslens.com/article/101774",
+      "source": "The News Lens 關鍵評論網",
+      "sourceUrl": "",
+      "summary": "台灣科技媒體中心（SMC） 架構具跨領域溝通性質的科學新聞平台，提供正確的科學新聞素材與科學新聞專題探討。我們以「即時回應」與「專題報導」的方式，提供合適的專家，作為媒體採訪的 ...",
+      "publishedAt": "2018-08-14T01:00:00.000Z",
+      "timestamp": 1534208400000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "地熱之島｜台灣有沒有發展地熱的潛能？",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kSEF1RUlMdEV5bTJSczNZQ2NIejlFcjVnUWV2aUVFRDlVeklxRUpna0EzQnhGbll2ck5IYzVYdmR2cmFpek1NdzR6cUxrSU4yRkJJ?oc=5",
+      "source": "我們的島",
+      "sourceUrl": "https://ourisland.pts.org.tw",
+      "summary": "",
+      "publishedAt": "2013-11-25T08:00:00.000Z",
+      "timestamp": 1385366400000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    }
+  ]
+}

@@ -7,12 +7,16 @@ const DATA_DIR = path.join(__dirname, '..', 'public', 'data');
 
 const PRESETS = [
   { slug: 'default', keyword: '水資源', mode: 'or' },
-  { slug: 'reservoir-single', keyword: '水庫', mode: 'or' },
-  { slug: 'recycled-single', keyword: '再生水', mode: 'or' },
-  { slug: 'desalination-single', keyword: '海水淡化', mode: 'or' },
   { slug: 'reservoir', keyword: '水資源+水庫', mode: 'or' },
   { slug: 'recycled', keyword: '水資源+再生水', mode: 'or' },
   { slug: 'desalination', keyword: '水資源+海水淡化', mode: 'or' },
+  { slug: 'conch-combo', keyword: '水資源+地熱+半導體', mode: 'or' },
+  { slug: 'geothermal-single', keyword: '地熱', mode: 'or' },
+  { slug: 'nuclear-single', keyword: '核電', mode: 'or' },
+  { slug: 'semi-single', keyword: '半導體', mode: 'or' },
+  { slug: 'ai-single', keyword: 'AI', mode: 'or' },
+  { slug: 'park-single', keyword: '科學園區', mode: 'or' },
+  { slug: 'tariff-single', keyword: '關稅', mode: 'or' },
 ];
 
 (async () => {

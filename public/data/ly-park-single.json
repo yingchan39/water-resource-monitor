@@ -1,0 +1,1143 @@
+{
+  "keyword": "科學園區",
+  "keywords": [
+    "科學園區"
+  ],
+  "mode": "or",
+  "fetchedAt": "2026-11-27T09:03:24.179Z",
+  "total": 74,
+  "counts": {
+    "all": 74,
+    "official": 43,
+    "bill": 0,
+    "interpellation": 15,
+    "press": 16
+  },
+  "sources": [
+    {
+      "name": "立法院質詢發言與公報",
+      "count": 15
+    },
+    {
+      "name": "立法院官網與研究報告",
+      "count": 54
+    },
+    {
+      "name": "立法院新聞稿與國會動態",
+      "count": 17
+    }
+  ],
+  "errors": [],
+  "items": [
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "賴清德轟盧秀燕：社宅賣建商、藍線零進度",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wX3lXZC0yeDFBNjFQRVVoQjZBX1dDQkdqTkxoODFJX1ZUSDczTHp4WUJCSUtyZXl5aW13SUIxelR1WXQ0VHYzMjU0NmJaaWdySGJQVWNWOWNzN3Vw?oc=5",
+      "source": "國會動態・鏡週刊Mirror Media",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-25T14:25:00.000Z",
+      "timestamp": 1795616700000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "龍科三期會議驚見林智堅幕僚張力可牛煦庭轟綠營拿台積電鋪路選舉- 政治新聞",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzV3WHNySElWQUptWVFhb0Vwc1F6andWbmR3bDFZNDFWV1pSSTA1Nzd5U3JScUo5ZC1TeElKLUdRN0ZYTTNwQ08teGJZWmo4OWFNWF9Kc2ZoUndLdzJ2U0tjQ05GcWJOUFRaN2piWVNydEZzdExzSGVwREtlWm9lM1VxNlBDenlJT2c?oc=5",
+      "source": "國會動態・PChome Online 新聞",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-25T07:11:41.000Z",
+      "timestamp": 1795590701000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "卓榮泰批龍科三期停滯3年　藍委反控中央延宕核定：公文已送行政院兩個月 | 政治 | CTWANT",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QeEtuLVRNUGhRMmVONE1PaEFSOHVseWU3SHZzZlpkZGp1SVRsa3ZGYWNMTXJKN0ZLMjg3RUd5Z0hZdGlWQUFONUdyV21DaFHSAVRBVV95cUxQME14YjFXczV6NnRpWURleG9KWWxldFVPX2Noc0VMZVBGZmVkbXhRNVdtTVdHT3F1dnd6VmVONmpxQkV2VFFTU2EzZ1g1NFZYYmJDX0k?oc=5",
+      "source": "國會動態・CTWANT",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "卓榮泰批龍科三期停滯3年 藍委反控中央延宕核定：公文已送行政院兩個月 | 政治 | CTWANT CTWANT",
+      "publishedAt": "2026-11-25T06:53:55.000Z",
+      "timestamp": 1795589635000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "把台積電進駐當選舉伴手禮？林智堅輔選大將竟現身龍科三期會議",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ic3lwZjkteC1ENVcwTnpDY3ZCUjdWWi11LXJRdUF5VDJyVkVIYmJxZ3B4TVo3cnd5bVhIOW9IQlJDX1c3eFJ0UGMycllvcTF3VTBn?oc=5",
+      "source": "國會動態・中天新聞網",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-25T06:33:57.000Z",
+      "timestamp": 1795588437000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "卓榮泰批桃園停滯3年藍委轟：政院不是民進黨競總、請回來上班| 政治",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OTFB1dVZYMjZpRUJCWThOM0JfSkkzRWU0Yno5aEt2OUk1aG5DMnNiTmU5OEJuaDVQR3B1OVlPb0NpaWp1aEQ1ZWJjX2ZnLVVQdWprVk50WjhVeUU?oc=5",
+      "source": "國會動態・Newtalk新聞",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-25T06:14:10.000Z",
+      "timestamp": 1795587250000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "卓榮泰批龍科三期停滯3年！ 藍營反擊：核定公文早送政院",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pTDBwbUdyRXMwN1JiZ3BFdTNUNk5SSng3MUVyQ0JfMTFTb0dnYzFldFQzcTNveTZWSzVocFRTUk1aVDBNZGg3R05WODA1d3NLRS04dGItcnZ2dw?oc=5",
+      "source": "國會動態・東森電視",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-25T05:36:00.000Z",
+      "timestamp": 1795584960000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "卓揆批桃園建設停滯 國民黨團提3訴求：停止唱衰 | 自由電子報",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54NU9NdVVaeUZiTkd6RlQtTnJmTHhtd2tfZXpQb2JMNURhci1paElQejFndVhHVklEYWVmSF9ZRW90d190akw2QXVDYk9iVUJ6QXVjVVpB?oc=5",
+      "source": "國會動態・LINE TODAY",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-25T04:14:58.000Z",
+      "timestamp": 1795580098000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "韓國瑜三度合體張善政車掃 寒風冷雨擋不住熱情民眾陽台比「YA」力挺",
+      "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxNMk44Z3k2enVCYlM5S1ZXa0M1Ti1sVUJQbmhIcjJXazZDYWwxbG5GWWFPREpCLTJ2SUJLQkR4OTF2TGd1d1JFVVRraDJBYUZQbnhmWnhhaGFEeVV5UUVuY0lRVU9uT282WHJFNWFUVE9QcDhIeEtSbW9JMktHQnp6X0RnNG9WM0dmYUh4SUhjcXM1RnVVaElUaUFqQ0o5cHBEcU44S1JTem82dUJJNzMwTUdlbmYtZUZLQjY4TmFVZC1zRW5DOFJOR2htUGkzTEdPbFA3Qm9MeHZ0MjVDVGNWWW9faFZMWWE3ejdNX3RNQV9EZUZMczNVRmRmOUowZFZjMmdCVWRlWUVxVnNPZ0hVOWRjcU9QSkhrSXM5SFdfLXdaN0xILWowUTZza3BnYVpVTXdfT0tuVGtkQjJPUmRMZG1KWkJ1V0ZER2xKZkw1bEx0clE4QVlidFRQSW5Uc1BlMG9VdGRiRFpSZ1NRSGtkNktlSndMRlNXZ3VHZWJuY1BjQ0hLLXVUcFR0Q2pINkpMdWNSbVV3SUxXXzJtR09kU0htRzRIREN3bWR4bG9veVM2YWlRWnpLMkFjS2M?oc=5",
+      "source": "國會動態・台灣好新聞",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-24T19:59:31.000Z",
+      "timestamp": 1795550371000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "韓國瑜三度赴桃園助陣冷雨中與張善政中壢車掃| 政治",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03b09ycXZBZEc1ZXRGQk1BVTN4eml3SjFWaDBvT3lMcjFGUENMXzlqYktaZ1ZyaFFJb0pqNWx5X0NoekRXUmRuTVhaam8wTC1DUEVrdWVUVTBocVk?oc=5",
+      "source": "國會動態・Newtalk新聞",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-24T12:22:21.000Z",
+      "timestamp": 1795522941000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "不畏風雨三度合體 韓國瑜陪張善政中壢車掃 支持者冒雨喊「凍蒜」",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc2dISk1CZHBJRklmdGFKVkpfeDNYMnFuWXVlbGNkb2ppbUJlbWxpcWtzcGJoQnRLZl9EdWw5V2lyQkdLMW1MaGVYbzU2UVl2bmVxOFVDeEh3cmtMUFYtTXRBMmVLcTU2RDY4Rkl3NHFnX0dsVzdlTkE1akt4TTc5SzZwa1V0TENR?oc=5",
+      "source": "國會動態・PChome Online 新聞",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-24T12:11:00.000Z",
+      "timestamp": 1795522260000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "桃園市長政見會 黃世杰主打交通新治理 張善政強調捷運與市立醫院",
+      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQd2RsOFBrbVFUdWNKT3RsQW0tdkZzR0FYU1IxZnZiVGd3aFRsZkFNUy1Ka1ZwdTZKR2lMYXJidXVkcDViejZXVjkwMjlJdU1YTXRKSzRBVXdPSzA1V2NHRWlncUVxTU9EbW5CbUtmejhocVdJeFJqc3R5ZERBMURQSmVreFNTSFladU44bjRCYjJXWFlPZUtNVGZOMkdqQ09BS3B2MU9mVURoczQ4ZDlEZ0g4RE05R3FnaGFqaWN0U0pMYW5WbnJ0NXJwNnhvMjBhZjRrT2JnM2JmWllnSXhKbjZGYVBRZlJIVF81N0hYTDFqUzYzY1Q2LWxBN3BCNFZ0clBsSkpSMi1pcGd1YkwzaHJoNWtiUDl0ekFxb1hsN1NDRWpkbWhPRTdFR0pIckZra3Z0M3Q3aEpNOWFKdzduRmdVd3kwWlBVN0ZfZXZWcWFGVDdnT0U5NlNaaDZJN1E3UGpsRnZTVy05UQ?oc=5",
+      "source": "國會動態・報新聞 Mega News",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-24T01:13:33.000Z",
+      "timestamp": 1795482813000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "卓揆稱龍科三期停滯3年 張善政反擊：造勢有時間 公文沒空批？",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaZmJyczR5TU0yZW1DdDA1U1A4NnEzSlpmdzlUSThOMzdHZWlZMVRtYkd1OVBmYm5aRjdWdVU2RU55N2hyMHFhdVAxcmRfbmRfdE1jTmIwUElEM2VNY0hfSlV6QzNRZzFrUnA2cUJzS0xUbUk?oc=5",
+      "source": "國會動態・翻爆",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-23T13:48:40.000Z",
+      "timestamp": 1795441720000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "影／發兩萬會害所有人領不到1萬？ 謝龍介指陳亭妃邏輯錯亂| 時事",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhaDdoaHdROTNJZlpiOTVzYjJZWFNpYnR4T08takNlS2pfam9KRlNqam91Mllib1EyalpqeG03SGx4N3FaV0RDaGlB?oc=5",
+      "source": "國會動態・聯合影音",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-23T07:46:00.000Z",
+      "timestamp": 1795419960000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "大罷免後柯建銘首同台沈伯洋「零互動」 台上只有他們沒牽手",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2ZmZFdG9TTlV1RWptb0p2WkQ0ekk3QjEzTjBtUTdnRzAxZnM2YWdaLUhHWGpYLWM4NnljYThFbnVLWjR3bTNJUTNzT0t0N0ljTU1V?oc=5",
+      "source": "國會動態・TVBS新聞",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-22T06:47:00.000Z",
+      "timestamp": 1795330020000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "8年第4次核能公投：核電振興經濟？6大爭點看「廢除非核家園」公投",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONVFWS2RzVHFxS1hCcTFrT2UxN1hyTEtlZmQ5cG1NdDdjbVFTZ2hWbE9MSU0xUy1MNmpjYng4NTdMT1BtZHNkTXFwTGNQbEdOTlA3OXA3T1F5ZVlIbTM4Nk15RUN5SnppVTg5aWxVY0FEa2dNb0tVaTNGM3BsWFBUZjZzX2RsdG5pSTJfZXh4bkl1U3dRbVczMzJRWQ?oc=5",
+      "source": "國會動態・報導者The Reporter",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-20T14:45:44.000Z",
+      "timestamp": 1795185944000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "「科學園區設置管理條例第七條條文修正草案」，請審議案。",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOamRfanRpQzVfeXNlMEduRlZRalJkdHVXWGVTci1YVS1rRTRPbVRIdDRDNXY3bElfcVQwRVAxYjYwNG12VWlkU05Ea2dQOVZidGdjT1Y4ZTZDLTZwamNTWUxCbFM0OER5TGw4cFRKc0laV01rQ0dGNnRfOHB3bXdsa2tWZ295T3B2?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-18T10:20:24.000Z",
+      "timestamp": 1794997224000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【陳超明委員發言質詢】第11屆第6會期第7次會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172145",
+      "source": "立法院議事轉播 IVOD・院會／委員會",
+      "meta": "發言委員：陳超明 · 時段：09:16:42 - 09:48:37",
+      "proposer": "陳超明",
+      "summary": "發言提及：「…Clip…」 ｜ 第11屆第6會期第7次會議（事由：一、討論事項：本院社會福利及衛生環境委員會報告併案審查行政院函請審議「國民年金法部分條文修正草案」等案共4案。（11月13日）二、對行政院院長施政報告繼續質詢。（11月17日））",
+      "publishedAt": "2026-11-17T01:00:00.000Z",
+      "timestamp": 1794877200000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【徐欣瑩委員發言質詢】第11屆第6會期第7次會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172147",
+      "source": "立法院議事轉播 IVOD・院會／委員會",
+      "meta": "發言委員：徐欣瑩 · 時段：10:05:01 - 10:37:33",
+      "proposer": "徐欣瑩",
+      "summary": "發言提及：「…Clip…」 ｜ 第11屆第6會期第7次會議（事由：一、討論事項：本院社會福利及衛生環境委員會報告併案審查行政院函請審議「國民年金法部分條文修正草案」等案共4案。（11月13日）二、對行政院院長施政報告繼續質詢。（11月17日））",
+      "publishedAt": "2026-11-17T01:00:00.000Z",
+      "timestamp": 1794877200000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【鍾佳濱委員發言質詢】第11屆第6會期經濟委員會第7次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172104",
+      "source": "立法院議事轉播 IVOD・經濟委員會",
+      "meta": "發言委員：鍾佳濱 · 時段：09:53:11 - 10:03:53",
+      "proposer": "鍾佳濱",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期經濟委員會第7次全體委員會議（事由：一、 處理或審查115年度中央政府總預算有關經濟部及所屬主管預算凍結案等24案。 二、 審查116年度中央政府總預算案附屬單位預算營業部分關於經濟部主管：台灣電力股份有限公司、台灣糖業股份有限公司。 【所列預算提案於115",
+      "publishedAt": "2026-11-16T01:00:00.000Z",
+      "timestamp": 1794790800000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【蔡易餘委員發言質詢】第11屆第6會期第6次會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/171966",
+      "source": "立法院議事轉播 IVOD・院會／委員會",
+      "meta": "發言委員：蔡易餘 · 時段：10:31:08 - 10:46:50",
+      "proposer": "蔡易餘",
+      "summary": "發言提及：「…Clip…」 ｜ 第11屆第6會期第6次會議（事由：一、本院社會福利及衛生環境委員會報告併案審查行政院函請審議、民進黨黨團、委員蔡易餘等17人、委員吳思瑤等18人、委員王美惠等22人、委員陳亭妃等16人、委員楊瓊瓔等36人、委員王美惠等17人、委員鄭天財Sra Kacaw等17人、委員張智倫等16",
+      "publishedAt": "2026-11-10T01:00:00.000Z",
+      "timestamp": 1794272400000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "科學園區管理局作業基金116年度預算評估報告",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pcXNJRk1YamE3TzR5dDlJUnZKSDgtdFQ4blZfVUMwYjlhbHAxV0U4RmpaR05wSzNwZUNQZzBQZjZVNVdPVkotU3lMUnlFYndRNnVJQUl5YzBydzhRbzNv?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-06T21:10:57.000Z",
+      "timestamp": 1793999457000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "一０一、科學園區開發計畫修正頻繁，致近10 年開發經費增加445 億元，且多項計畫期程延後2",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQWQ3ak84S3JnYml1dFMzbE9Sd0J1S1c5N1Q5djhCbTcteklIbDdUQW1yWll5ZXFROWV4cmVFa0l1RG82X3Rlb1l5UmlQd0t0a0Nja3QzNm1rTURIQ0k2X20yX1NNaEZpTFdQRXQ3VFFHektFWGxhaDRxZlY2VmloUl9nZHlYZlNmUUwzd1pjTVlGQkRh?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-05T01:46:31.000Z",
+      "timestamp": 1793843191000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【羅智強委員發言質詢】第11屆第6會期教育及文化委員會第8次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/171914",
+      "source": "立法院議事轉播 IVOD・教育及文化委員會",
+      "meta": "發言委員：羅智強 · 時段：10:23:28 - 10:31:34",
+      "proposer": "羅智強",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期教育及文化委員會第8次全體委員會議（事由：一、邀請國家科學及技術委員會主任委員吳誠文列席報告業務概況，並備質詢。 二、審查116年度中央政府總預算案有關國家科學及技術委員會及所屬單位預算案。 三、審查116年度中央政府總預算案有關行政院主管行政院國家科學技術",
+      "publishedAt": "2026-11-05T01:00:00.000Z",
+      "timestamp": 1793840400000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【羅廷瑋委員發言質詢】第11屆第6會期教育及文化委員會第8次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/171907",
+      "source": "立法院議事轉播 IVOD・教育及文化委員會",
+      "meta": "發言委員：羅廷瑋 · 時段：09:26:36 - 09:43:37",
+      "proposer": "羅廷瑋",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期教育及文化委員會第8次全體委員會議（事由：一、邀請國家科學及技術委員會主任委員吳誠文列席報告業務概況，並備質詢。 二、審查116年度中央政府總預算案有關國家科學及技術委員會及所屬單位預算案。 三、審查116年度中央政府總預算案有關行政院主管行政院國家科學技術",
+      "publishedAt": "2026-11-05T01:00:00.000Z",
+      "timestamp": 1793840400000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【郭昱晴委員發言質詢】第11屆第6會期教育及文化委員會第8次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/171912",
+      "source": "立法院議事轉播 IVOD・教育及文化委員會",
+      "meta": "發言委員：郭昱晴 · 時段：10:10:02 - 10:23:15",
+      "proposer": "郭昱晴",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期教育及文化委員會第8次全體委員會議（事由：一、邀請國家科學及技術委員會主任委員吳誠文列席報告業務概況，並備質詢。 二、審查116年度中央政府總預算案有關國家科學及技術委員會及所屬單位預算案。 三、審查116年度中央政府總預算案有關行政院主管行政院國家科學技術",
+      "publishedAt": "2026-11-05T01:00:00.000Z",
+      "timestamp": 1793840400000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【陳培瑜委員發言質詢】第11屆第6會期教育及文化委員會第8次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/171906",
+      "source": "立法院議事轉播 IVOD・教育及文化委員會",
+      "meta": "發言委員：陳培瑜 · 時段：09:14:57 - 09:26:16",
+      "proposer": "陳培瑜",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期教育及文化委員會第8次全體委員會議（事由：一、邀請國家科學及技術委員會主任委員吳誠文列席報告業務概況，並備質詢。 二、審查116年度中央政府總預算案有關國家科學及技術委員會及所屬單位預算案。 三、審查116年度中央政府總預算案有關行政院主管行政院國家科學技術",
+      "publishedAt": "2026-11-05T01:00:00.000Z",
+      "timestamp": 1793840400000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【陳秀寳委員發言質詢】第11屆第6會期教育及文化委員會第8次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/171909",
+      "source": "立法院議事轉播 IVOD・教育及文化委員會",
+      "meta": "發言委員：陳秀寳 · 時段：09:43:44 - 09:56:30",
+      "proposer": "陳秀寳",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期教育及文化委員會第8次全體委員會議（事由：一、邀請國家科學及技術委員會主任委員吳誠文列席報告業務概況，並備質詢。 二、審查116年度中央政府總預算案有關國家科學及技術委員會及所屬單位預算案。 三、審查116年度中央政府總預算案有關行政院主管行政院國家科學技術",
+      "publishedAt": "2026-11-05T01:00:00.000Z",
+      "timestamp": 1793840400000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【林宜瑾委員發言質詢】第11屆第6會期教育及文化委員會第8次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/171911",
+      "source": "立法院議事轉播 IVOD・教育及文化委員會",
+      "meta": "發言委員：林宜瑾 · 時段：09:56:35 - 10:09:54",
+      "proposer": "林宜瑾",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期教育及文化委員會第8次全體委員會議（事由：一、邀請國家科學及技術委員會主任委員吳誠文列席報告業務概況，並備質詢。 二、審查116年度中央政府總預算案有關國家科學及技術委員會及所屬單位預算案。 三、審查116年度中央政府總預算案有關行政院主管行政院國家科學技術",
+      "publishedAt": "2026-11-05T01:00:00.000Z",
+      "timestamp": 1793840400000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【伍麗華Saidhai Tahovecahe委員發言質詢】第11屆第6會期教育及文化委員會第8次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/171917",
+      "source": "立法院議事轉播 IVOD・教育及文化委員會",
+      "meta": "發言委員：伍麗華Saidhai Tahovecahe · 時段：10:47:15 - 11:00:28",
+      "proposer": "伍麗華Saidhai Tahovecahe",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期教育及文化委員會第8次全體委員會議（事由：一、邀請國家科學及技術委員會主任委員吳誠文列席報告業務概況，並備質詢。 二、審查116年度中央政府總預算案有關國家科學及技術委員會及所屬單位預算案。 三、審查116年度中央政府總預算案有關行政院主管行政院國家科學技術",
+      "publishedAt": "2026-11-05T01:00:00.000Z",
+      "timestamp": 1793840400000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【吳沛憶委員發言質詢】第11屆第6會期教育及文化委員會第8次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/171919",
+      "source": "立法院議事轉播 IVOD・教育及文化委員會",
+      "meta": "發言委員：吳沛憶 · 時段：11:00:44 - 11:11:07",
+      "proposer": "吳沛憶",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期教育及文化委員會第8次全體委員會議（事由：一、邀請國家科學及技術委員會主任委員吳誠文列席報告業務概況，並備質詢。 二、審查116年度中央政府總預算案有關國家科學及技術委員會及所屬單位預算案。 三、審查116年度中央政府總預算案有關行政院主管行政院國家科學技術",
+      "publishedAt": "2026-11-05T01:00:00.000Z",
+      "timestamp": 1793840400000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【吳思瑤委員發言質詢】第11屆第6會期教育及文化委員會第8次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/171916",
+      "source": "立法院議事轉播 IVOD・教育及文化委員會",
+      "meta": "發言委員：吳思瑤 · 時段：10:31:44 - 10:47:07",
+      "proposer": "吳思瑤",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期教育及文化委員會第8次全體委員會議（事由：一、邀請國家科學及技術委員會主任委員吳誠文列席報告業務概況，並備質詢。 二、審查116年度中央政府總預算案有關國家科學及技術委員會及所屬單位預算案。 三、審查116年度中央政府總預算案有關行政院主管行政院國家科學技術",
+      "publishedAt": "2026-11-05T01:00:00.000Z",
+      "timestamp": 1793840400000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【葉元之委員發言質詢】第11屆第6會期教育及文化委員會第8次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/171926",
+      "source": "立法院議事轉播 IVOD・教育及文化委員會",
+      "meta": "發言委員：葉元之 · 時段：12:15:56 - 12:32:20",
+      "proposer": "葉元之",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期教育及文化委員會第8次全體委員會議（事由：一、邀請國家科學及技術委員會主任委員吳誠文列席報告業務概況，並備質詢。 二、審查116年度中央政府總預算案有關國家科學及技術委員會及所屬單位預算案。 三、審查116年度中央政府總預算案有關行政院主管行政院國家科學技術",
+      "publishedAt": "2026-11-05T01:00:00.000Z",
+      "timestamp": 1793840400000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【蔡春綢委員發言質詢】第11屆第6會期教育及文化委員會第8次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/171925",
+      "source": "立法院議事轉播 IVOD・教育及文化委員會",
+      "meta": "發言委員：蔡春綢 · 時段：11:59:48 - 12:15:42",
+      "proposer": "蔡春綢",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期教育及文化委員會第8次全體委員會議（事由：一、邀請國家科學及技術委員會主任委員吳誠文列席報告業務概況，並備質詢。 二、審查116年度中央政府總預算案有關國家科學及技術委員會及所屬單位預算案。 三、審查116年度中央政府總預算案有關行政院主管行政院國家科學技術",
+      "publishedAt": "2026-11-05T01:00:00.000Z",
+      "timestamp": 1793840400000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "八、科學園區管理局區作業基金財務計畫，修訂草案5度審查未通過，已逾16年未核定，允宜儘速完成修訂程序，俾使國庫撥補有據及基金永續經營",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DRDZCTF9RaDZRY0V4SmlhZkJGLXUwb0hJVjFoSTI4dXg0d1hsNUF0ZnJDZFNUOXBHZUJvWjNCTzdKdXFfQUxZd3NhN0dwQXo3ZDdzOEFPTFRlUjN1U0ZyYW5SZFhGZ1h0akZ1bWs0d1o?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-10-17T04:26:37.000Z",
+      "timestamp": 1792211197000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "一００、115 年度科學園區管理局作業基金債務總額近1,700 億元，平 均每月利息支出逾2 億元，",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcWNWdEE2RFg4TDhXb2Q4YzlfYVdxMHBUQlo5MlYxX1BYS2dvRlQ4Y3dCajVBaGU5bFp3S1c0OHN3eHBIUDB5OFlrTEUwZV9GLTYwV2tmV3Flc2YzcTNoMVppU2xYLXpCckRqY0V4Wi1vY0N4Qkdoa3cwSS03bER6clhPbkhCa0pwNlhOU0M2eWFlNG5I?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-10-10T00:14:21.000Z",
+      "timestamp": 1791591261000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "二、科學園區管理局作業基金財務計畫",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BSmg4anY1Q0pRdDFPbnNZX3hwVW8zOTBpVXlXb1lPSnBzTlA2VFNPdDQtc01sY3I4Qmoycy1nMFBtWHl6V0ZWSTA3Qk9NVDRla3piUWFMcmhNOUhqN05hR04wSi13UkdyblhCM2RGNzg?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-06-02T19:38:30.000Z",
+      "timestamp": 1780429110000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "三、近10年科學園區管理局作業基金收支餘絀情形",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ndkxCQWQ0ZE9sRy02WU4zQTFWZHpEdVlUTHRkeFZ6enVUclVmYTZxOF9pWm10czN5X25CeWJ5bkh5aFpSbkZHRVBYVnlISGo3QmkxeUw4VUswc0sza1VuVG1UdVZFb1FIWnBQZ2llOVA?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-06-02T19:36:19.000Z",
+      "timestamp": 1780428979000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "立法院經濟委員會考察雲林農經建設 聚焦虎尾與褒忠產業園區推動進度",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RTTAtOTlLOHZ2QWdwQmE4TkNJeUxJRGdfa3RGQTJ0VHdHU0taUWFCdm15MGZhZ2pNaG1GY2tHUG9pQ2phOE9hdmxvX1pzZ3dYVnBjZ2VhcVNEcGJmeTVkYnkycm9EeWJNS3JCcktQWW1EZ1ZpbVNJ?oc=5",
+      "source": "國會動態・雲林縣政府全球資訊網",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-06-01T09:43:00.000Z",
+      "timestamp": 1780306980000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "科學園區管理局作業基金115年度預算評估報告",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvb0l1RVhsMWdLT096VFREdXpUcHlTV1hZcUhxVWE5YnVNcFZxOVY2NjVoNXBWYzZ4eUlQYzdCckFuQl82WjA0TGVxRFhaV0hweF83NVpHaFJGRmVXVDl3?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-11-11T23:09:22.000Z",
+      "timestamp": 1762902562000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "科學園區財務及營運相關問題之探討",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02VHJlV3F4OHZ2MS1tUzV3RnZFVTVCanJUOC1QZ0pzRzNBbEJ1RExxcDBIRkZOdVkwVllZeDlZZjgtZzFkVzdLYkt6Mkx1aW53b2pubFlGTnl6Sm5ySFJZ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-08-01T07:46:53.000Z",
+      "timestamp": 1754034413000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "科學園區管理局作業基金113 年度預算評估報告",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTWk4Tjh3TE1lcW9hcXExN2RHT29RdDhiRjg5SC1SUXlobGNpNl9HUmp6Zm5EcjRHX004UW5jd280OVJSYUg3UVkydFJsWjVEZDhpaGNfeHl3T1pHMnlPaFJyMHJPMm9CcGpRSlNkTmQzYmpBdmdwQk0xQkh6RUxHMnFrX2RHa3o1NXlEXy1CQjBsSVBR?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-06-09T03:30:07.000Z",
+      "timestamp": 1749439807000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "科學園區管理局作業基金113 年度預算評估報告目錄",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb2QyLTQ3bUFldDlTcjh6RXhfQnV4YjhNMVBPZW1NMU1LaWpHeDJacXVwck14V3Q4c05McFRRaWVFaWJUWW01RDFVSDRTUXFHUk9XZW5WTFpFaWpac2NsUXVEdWxiQ1Y3SmRNQi1RVTBvMk5yeHViQnVJN0RGNm1ZRElTcGY5aTJNWUNoLVl0OTBsaFN3?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-06-09T03:09:31.000Z",
+      "timestamp": 1749438571000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "二、近年科學園區實驗中學雙語部整體招生率未及7成，且收入尚不足支應營運成本，允宜研謀強化收支控管，俾達成收支平衡目標",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TcFRUZVExNVpETVBZNHN2MEEzSVdWZlRPeDY1T2pST1BQMS1GaVFZVDNWWHFtYnd0YXJDc3pBc1l6d2FWZjdLdFNjZ0tiQ2VtWGRRMTFFbUlVTFVrWTlNakZQYWRIVnhEa3RnTTRRaEg?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-06-09T03:01:39.000Z",
+      "timestamp": 1749438099000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "Legislative Yuan -黃昭順爭取高雄捷運紅線應延伸至高雄科學園區",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HVDVCSTNkRGdURTNLRDZ1RlhKVkpXSHUxRlIyOThNYTM5WFJaaGJ4Nl8xQ3YzSU9LQ3dsc2NVXzFGdjRGdy1MQ3ZFWjdNc1pzVVNFM2JsTUhsOEhQTDRlUmM1aENqX0k0ZGw0RktWcmtFZw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-03-27T15:06:02.000Z",
+      "timestamp": 1743087962000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "Legislative Yuan -科學園區放無薪假國科會否認",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85VmhZSnk5djBXenY0OWp6b01DT0trUTJTVl9LMDV4YldnZl9NSG9xNF84SVo0ZlB5U0VLa1hqZ2xyNzhicDBxV2VOMHpIY21CYnZTMUtvVTRlQk04SHRtYjFraVVnTS1CSkZzb1E2eDNKZ0hp?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-03-25T19:08:23.000Z",
+      "timestamp": 1742929703000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "國家科學及技術委員會114 年度科學園區管理局作業基金附屬單位預算報告",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWVFOTnAwRW51eWhGOWdIdHU5bmt0Q0ROdzhfWnhCSE9MM3FxV2tZem55QjE2c1NwT3JtWmlqNHJTUXduSE9wSkdyaHByMVY2SVEtRkRha1RjWUxfT0VDZFJPdGpXUDFEZHlBcVBxRGtleVl1UHUycHRqbE1qZWlYS0RqUGFCSWdvejh6bEJRU3hRZw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-11-28T08:00:00.000Z",
+      "timestamp": 1732780800000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "科學園區管理局作業基金114年度預算評估報告",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sTzNkVDQyaFZxN1FiUVBURnJSZGgweHJfd3VBV1JoWWU4b05hMHM5eXJuSHh3V09XTWUyR3oyNHBNTWk0dm9ZTHExTXgyTGJEenR0T1h0ZGdEekoxdHBF?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-10-28T23:10:57.000Z",
+      "timestamp": 1730157057000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "國家發展委員會函(稿)",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLWI1UTFmSEt2cG1YS0tObzZNeHE3U05oTEx0alQwaUttTkx3T2p3Y1hlWXZpRVNoZlBYcTZqN1BPUGJQX2NnbFEtdGJEWGpleGFMaUI5Vk9keGdWZ2NLY3hiU0xVaGtua1d2ZEpXZFZUNVg2eVdrVEt6WmlZV2xwWllpQ1BDQ0JEVHBIVWJ0MGdkUQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-09-04T22:54:59.000Z",
+      "timestamp": 1725490499000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "二、科學園區為我國創造就業機會，從業員工人數占我國就業人口比率呈增加趨勢",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80eU5zeWFpQ25jTjhJSGt6TWZudXhqTVlCMGxwVWd1OGkxQkg2VVNjNm5hVVpnWGxVM1lNcGpBWHpBMFZfd1pHN0NyWmh0OGxBczR2S3BhMjBvSU9jWTVGOHFFc2xKbkRpdkpDWGFvQko?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-08-25T18:54:50.000Z",
+      "timestamp": 1724612090000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "科學工業園區設置成本及轉型之探討",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb0tpcXA0QnVSaXktdmM3OWh1OHQ1cExUZ3F0aXpNQ2hEWk1USUEtSlEtMWwwVWxpNHFBY0xucXB1ZTgxOTFmYkQwRWVrZUFHU241WlhpYk5kc2tPTUVOSFZpYlBWdGNJbGlGMHk2YnFuSDc0WjNsYlUyMjR4ZkVOajNBZnpGc3lMdVZBS3BTejhoZw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-08-25T18:21:32.000Z",
+      "timestamp": 1724610092000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "科學工業園區設置成本及轉型之探討科學工業園區設置成本及轉型之探討",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUHc0Z1RPdGFOalpvYkZFXzBwRUJocVZkMWZ0TGFRdnZlczJjOE0wZjI0VXNhaGpnTFF4R3RTdVJZNDNzZnMtUWxMXzJycThlY25oeEFvbkQyb2phYjAtQTZab0NyS2R5bmpfYkE0UDZQaUUzaXgxNmhoUjFKdVNEX3NMYlZSUFNra054LUFJZmxuUQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-08-25T18:17:27.000Z",
+      "timestamp": 1724609847000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "三、科學園區事業享有高額之租稅減免，得以降低生產成本，提升競爭力，惟相關租稅減免轉由全民負擔",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WZ2h6cE5rN2lZNmRudTlzMWtJRWdvd3ZNcmZMTzhHX0hYamh5aU1LcG8wYlVxdWdLQ2ctN3BjeVJScEJPQ3p4N3RYejZFRm9NLTBGN0ZIZi13NWI1TnF2ZUxxUm5aQ1h2cWQwa2lqX0s?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-08-25T17:56:15.000Z",
+      "timestamp": 1724608575000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院全球資訊網-四、科學園區用水、用電量及有害事業廢棄物逐年增加，為環境永續，允宜由產源減量，提升水電使用效率，並降低廢棄物之產生",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByWXhVNnAwNllNcms5STFBWTFOTmNoNFh3aVdFNHExdDdhQUZZd3pVOWlYNUxUd0NibUM0dDR1QWVId1E3VGx6RmhwRW1SNUxqNmhZQnV1SkZ4NHJfS0pfc1VvTXh2Vk1CNDg0SXVvY1M?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-08-25T17:52:00.000Z",
+      "timestamp": 1724608320000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "北高雄地區規劃新創園區評估報告",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM092NmJSekZ1akNZVTA0TmxXLVNaMms2SWMtS0FrVW1FbEk3b0NqejhVLXMtY3U3TjRuZ1djbUJaRDl3S1Y2M2wtSkF6MjNBX1laai1fTTBHNURmRmhqbDlYd1lYZkJLTmRvYnZodHFzMHp6b293X2xNd2w2WXhEbkxjdTViUkxPRzN3Sjl1cmtwZw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-07-28T06:27:05.000Z",
+      "timestamp": 1722148025000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院全球資訊網-四、賡續辦理「橋頭科學園區聯外交通整體計畫-台39線高鐵橋下道路延伸線優先路段」，允宜督促地方政府儘速完備規劃用地之取得等程序，以利工進",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TYm5DS2lYNk5OY3N1OUNGTkM3R2ZBbUxybnd3ZFZNX0pNZEJxYUpQVFFyMjNybW5VZThMeXYtRTR0YTdPODhJUnhkNjBZWVB1NTEtSDJaVFFYbUh5cWZUQ0E3OGxiaHZ4REJVV1hXYUE?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-02-16T06:52:21.000Z",
+      "timestamp": 1708066341000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "八、部分科學園區溫室氣體排放量概呈增加趨勢，且園區廠商之源頭減量作為仍有待強化，允宜加強節能輔導，俾達成溫室氣體排放管制目標",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aQ1pFTkRUbWdJTkRzUmwyU0ttVjRsOUVsTU5hUzlMX1NWWkFWQ3kyVnBnODRwWDhSQVVLc1RlWFJjbERlZG4tQTNseVNncmthUUpJWkh2cHVwYVpmb0dQRk5INGdnSUxJUDFSTWZxUzM?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-01-27T13:55:06.000Z",
+      "timestamp": 1706363706000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "國家科學及技術委員會113 年度科學園區管理局作業基金附屬單位預算報告國家科學及技術委員",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTm5hNDNLcVl2ZkpWakZkd0lnWXYwVDVucFBrWnVWbEZ6TE5qXzQzMWl6SUlZdFFSTkMxOEM4QnVNZkJuOHVKd0ZkNkpmM3kyVUJwQW9wRzlJRUlMblJhTFNmRXNsLXozRXoxWWlIRkhjOVc2UmxXVzNhNVdKdWV1a3Fob3dxLXpGRkoyWGZYaG1EZw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2023-11-08T08:00:00.000Z",
+      "timestamp": 1699430400000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "三、部分科學園區員工宿舍出租率及出租收益尚有提升空間，允宜因應廠商需求調整各項設備配置暨檢討現行收費標準，俾增加基金收益",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jNlFpRkpDMzRyOVloQ0c0azBDTjJzWENJUHBoVkctV3RkZGowdUVzVlBJbVliY1VvSEFia0hEZ2VTNEpCMmNpZ0xTalZ6RTZ3VnB5QmNLWkFCeHNGX182Wi1QWEVzOG9DWnMyNDJxcV8?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2023-10-27T16:03:20.000Z",
+      "timestamp": 1698422600000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院教育及文化委員會「考察新竹科學園區及周邊公共設施之完善情形」涉經濟部及所屬業務",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR0h4TW1jZ1lQZm94d09wVXBsb0t5MDNzQ2RzR19wc0M2TXNuZFZKRFhCZHh2N1drR2ZpZXhySHhQdlJrNlJSSWFXbWhTVGd4TEJDTjRGRFJkd2ZOUTM3cXBxeFNhd3FZdHl3OFpLMWhPTXRjZE5TdXlmNDA1cVRTdVVDc3VISHJnclRKbW96bzFLTW5pUWU2djlodFVGUVpUWHA0?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2023-07-22T10:56:26.000Z",
+      "timestamp": 1690023386000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "國家科學及技術委員會112 年度科學園區管理局作業基金附屬單位預算報告",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeklQdG1iRHRzdnVXQWJNQVZWUmZ4VFBqZVVTM3RqSTFiRVpyVFF5NHpyM0FZaHpBZHRUWldubFZVcEUyWElyb0VyZUVsZjZHUS0za0ItUnctZ3U2b0RtbkZ2Uk1WcG1wUW5tOHNsTFlTUi10Y21iZ3Bva1BwQnBnRmVjTk9iUDlyVi1sdWNKc1FNQQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2023-07-19T10:52:01.000Z",
+      "timestamp": 1689763921000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "九、新增辦理橋頭科學園區聯外道路台39延伸線優先路段，允宜配合園區開發進程及台39線規劃情形，妥為擬訂相關細部作業流程",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1X2VuLTFtdnJCQkFvV25IbUFpX0NaWFZyT25JTnRrQWVsV3dIbHE0c2JpaTRtRjN0ak81ZnR3R0hEcjVTV21fdVZ5REUzSVRHdEwtenVGT25ncGhVRk04bmhqeUp4NTJMWGE0aGpnQjE?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2023-04-13T23:49:22.000Z",
+      "timestamp": 1681429762000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "國家科學及技術委員會函",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcGpHMUk0cnR4RmxTR3lLWjJaMkxoTGJXVDBRblZOeF9aanBraHRlUVFyNW9Rd2UyZUJtc0xra3U4YWY5R00wenVkV2s2SWh5UW84bkhueG16N1NpMVJEbnJlUmlwdkZzdl93UW1mNW5jMDVsdGlBSXN1RFV5Z0p0eGtpNTZsd2RaMVM4WmNZa0RXZw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2023-04-11T07:00:00.000Z",
+      "timestamp": 1681196400000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "科技部主管107 年度決算評估報告",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbHFNMU92VGlOM0RxX1U1cklCaHQ2Q3dhQzVWTkVPeVExWl9MenRFbFBvbENYZHlmYS1HRnBPaVlNRTQ0TFhMTGVWbk5ZYk1ueFNaaEc3NzNKVHhOZWNueWNReGNHWFVZSmtpck1YVl93bzh0Rlp0WU1kT185bUpxQjRLSGNzVDZtZ2VIR04wS0pSZw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2023-04-08T09:21:30.000Z",
+      "timestamp": 1680945690000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "科學園區管理局作業基金111 年度預算評估報告目錄",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOblVwQTVxa0daVHV5cEE2V1U4djYyWmdtY01PZHc1MDYyY2tsXy1hMEpibWJ4OUdJMl9vTjlpZUNvRzRnZmY3TGU1SkZHb2h5TXBwWnRIdUJZd2pwNGpkZVdkVHZVdXNhN0hTamVUSkFwM3F3bE5RcHdoMHNnMFJTeV9HOEVLTzRBQjY0MUlRaUZGVTZy?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2022-12-31T06:13:01.000Z",
+      "timestamp": 1672467181000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "科學園區管理局作業基金111 年度預算評估報告",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQjBYV0FPTjA1ekNlclFzclVBR2hkaEVlQUctNURGeTdVYWtKOHRxUGVLOHlFUml2TnI5T0xOaUhTUFhSRkVkTTlydHVpLVVkeTVHeVVvaF9GczRpVE84Yy14Vzg0Q2lYM2JTcXluelFkYzFPTFNuYW1IWmdoLWRMYWRmN3JLT0tYRjRreFROUWx2R3kx?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2022-12-30T20:00:32.000Z",
+      "timestamp": 1672430432000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "科技部主管單位預算及科技部主管單位預算及行政法人國家災害防救科技中國家災害防救科技中",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeUhjdUxEU1pua0JmR2o3QVlYT1lweGRyLWtpX01fYkVHdjVGZS1LQWhMQW8zQU1fNlpoQlVfVnAxTmJQVUlQblVvdF9mRk9LaE4yWlVxNXBNR19VX25DOUE1eDVLM1VzM2l4Q0J6ajI2NXlER3Z4eFFlUlphY1E3blFEanZsNUpnTXpWZ0Njd0tVMHhU?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2022-12-04T11:49:20.000Z",
+      "timestamp": 1670154560000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "科學園區管理局作業基金112年度預算評估報告",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qemZfNFJibUZfbGVMQkNJNGJmZUNxaUFMTHBiMkU1TUxSNWdwOG9XV0FUUTZzV0xld21JYzU3UDd2dG9XbWp5SURpX3RaUkoxYTRUdmk1bG1IaTdRV0Z3?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2022-10-20T16:08:49.000Z",
+      "timestamp": 1666282129000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "科學園區管理局作業基金110 年度預算評估報告",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZXhoTmxBY0dpa19Tb2JjcHVJcXFMVTZ1RzBNY1ZxQVFHSnFwaXVxcTRNTnBSTEk1Z0ZteENaZG5VYWRrbk5YU1RMRkdpYzJpTDF1TFBxN29lMnB1QTJMVUNjVV83clpHTXJ5ZVBGVjhOMmtSQVF5eERiSURhRWV6N3hOcVduNGd3T1J0NjdVU2VaQQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2022-08-21T17:59:26.000Z",
+      "timestamp": 1661104766000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "九、科學園區刻正進行多件擴建或新設之籌設計畫，允宜殷鑑過往環評或用地爭議，及交通壅塞等問題，縝密周延規劃與完善溝通，俾科技發展、環保、民眾需求與經濟發展兼籌並顧",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12bl8tV2FqN1B6ai1LWlVJTkVlMU9wZUVZSWRKYVpDdXdURTNmS0NNamFWYks1ZDgxazFmRlFzNzliei12c2pTbmNReGV4ZC0wX3VLN1V4NlA0OGVJd1NNSU9ET3RObnJYb0VnWFNYSFo?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2022-05-20T01:59:42.000Z",
+      "timestamp": 1653011982000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "「科技部南部科學園區管理局組織法」名稱修正為「國家科學及技術委員會南部科學園區管理局組織法」；並修正第一條及第六條條文",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43NnJpTHdOWFA1R2JtN2Vxd25fNW5kd2dYR0xBYTA5b1VvZVkwcEhDY1RWejRMcHR4VHlzdFc1QUMwOWdfTTQ4YUstbmd5MnZlTW15WW1HX3c4WUJqZjVpRXd2UktsMEo1ZjMzaWxvV3c?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2022-01-14T08:19:33.000Z",
+      "timestamp": 1642148373000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "科學園區管理局作業基金109 年度預算評估報告",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUXcxWlBqWTBPRE5oX0R3OEdOLWJFc1p1YjBLVGN4Tk5tblNIeG5KUlRCTXdBbS1LTnVQT2ZhTktMZ1lLb1hVbHloTnhHNGVrR043Ykx3NmVGbUNaRkRKWmhKdWtWUW5jQkRYQXFSRlljdUYxZ2k4N1ZnQjF2cnhDOEpaZWI5TXJsVVNJNE82Snhrdw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2021-10-03T05:03:36.000Z",
+      "timestamp": 1633237416000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "六、推動科學園區之擴建，允宜基於長期產業發展，妥適規劃必要開發之時程，並積極招商，俾發揮投資建設之效能",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vREJwS29MNkFha2REeTJIaUl0ZEl1YXNjcHRyRXBxemdNZmhYeVByam1OeVZXb3ZXOW9HUk11WndZbTZmMlJPbjdvUVk4LW83RVY3cF9oSjZQcFlQcE5YemhEbW52ME03YThvWXFsVWs?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2021-09-26T09:48:54.000Z",
+      "timestamp": 1632649734000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "【新國會online】帶領科技之城向前衝！國民黨立委林思銘：希望用我的法律專業，讓政府不要分顏色，給新竹縣該有的經費！",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aX0tCSTZsWVB1VXdtcG8wc2JGMjc3R3JFSklhQW9pdnI1c3lXOTNySmZPSGVMSFJidi1kRW1NdVpPenUydGN4VU1UbGlKWWJ3OWZERE1RV2p0QklGRDdz?oc=5",
+      "source": "立法院全球資訊網",
+      "meta": "立法院官方發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2020-04-01T07:00:00.000Z",
+      "timestamp": 1585724400000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "科學工業園區管理局作業基金九十四年度預算評估報告",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MOHpZRFpqZ1lFaGFRRG1Yc3VUSmhQNERzNVp0TGJqTHFXcE1qVkoyYV9udUdFc1V0QUZibHZROTZvbV9fc2lHNFZNYTlfZUt0YmU2UkpsdzZJajh0MHc?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2018-01-15T10:03:41.000Z",
+      "timestamp": 1516010621000,
+      "matchedKeywords": [
+        "科學園區"
+      ]
+    }
+  ]
+}

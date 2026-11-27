@@ -5,16 +5,16 @@
     "海水淡化"
   ],
   "mode": "or",
-  "fetchedAt": "2026-11-27T08:20:54.550Z",
-  "total": 100,
+  "fetchedAt": "2026-11-27T09:03:11.577Z",
+  "total": 237,
   "sources": [
     {
       "name": "Google 新聞 (台灣)",
-      "count": 81
+      "count": 243
     },
     {
       "name": "Bing 新聞 (台灣)",
-      "count": 23
+      "count": 24
     }
   ],
   "errors": [],
@@ -80,15 +80,27 @@
       ]
     },
     {
-      "title": "EBRD支持约旦阿卡巴—安曼海水淡化项目",
-      "link": "https://news.goalfore.cn/latest/detail/109577.html",
-      "source": "news.goalfore.cn",
-      "sourceUrl": "",
-      "summary": "EBRD融资将用于在阿卡巴建设一座年产能3亿立方米的海水淡化厂，以及一条全长438公里的输水系统，将饮用水从阿卡巴输送至安曼。项目配套建设一座装机容量281 MWp的专用光伏电站，满足约30%的电力需求。",
-      "publishedAt": "2026-11-26T17:48:00.000Z",
-      "timestamp": 1795715280000,
+      "title": "台積電投資美國微妙變化！亞利桑那水電吃緊，德州投資將成談判籌碼？",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSTVfOWVRRXVRQUJjYXpHcTJ3V2JULTFTdERpa0RyZWxjVEQwaXZaa3F5UE1DVndEZkFtY2J6ZHg1UW1va01GQUt3NEdWenpNbk9Zb1BBUUhEa1FLNUkwLW9aLV9wNjIwNmV0VUdXb2xBUTFWSG9NVlc3cW1MNGJ2TTFwSmZEUHFWVWdYMQ?oc=5",
+      "source": "TechNews 科技新報",
+      "sourceUrl": "https://technews.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T00:32:42.000Z",
+      "timestamp": 1795739562000,
       "matchedKeywords": [
-        "海水淡化"
+        "水資源"
+      ]
+    },
+    {
+      "title": "國研院辦理創新創業激勵計畫115年第二梯次決選暨頒獎典禮《SiliconMind：AI for 晶片設計》《水境革新》《友萊生醫》榮獲創業傑出獎",
+      "link": "https://www.thenewslens.com/article/271374",
+      "source": "關鍵評論網",
+      "sourceUrl": "",
+      "summary": "國科會「創新創業激勵計畫」115年第二梯次決選，由《SiliconMind》、《水境革新》、《友萊生醫》三團隊獲百萬「創業傑出獎」。此計畫旨在將學研成果商業化，培育新創以強化臺灣創新創業生態系。",
+      "publishedAt": "2026-11-26T16:00:00.000Z",
+      "timestamp": 1795708800000,
+      "matchedKeywords": [
+        "水資源"
       ]
     },
     {
@@ -99,30 +111,6 @@
       "summary": "",
       "publishedAt": "2026-11-26T13:00:00.000Z",
       "timestamp": 1795698000000,
-      "matchedKeywords": [
-        "水資源"
-      ]
-    },
-    {
-      "title": "近2亿欧元，威立雅在中东地区斩获重大海水淡化合同",
-      "link": "https://www.sohu.com/a/1106782860_121124527",
-      "source": "搜狐",
-      "sourceUrl": "",
-      "summary": "威立雅在中东地区斩获两项重大海水淡化合同，总额近2亿欧元，新增海水淡化总产能达49万m³/日，进一步加速了威立雅在当地的业务版图拓展、强化运营能力，为当地水资源安全与生态安全提供支撑。 海水淡化是保障中东地区水安全的重要基石之一。目前该地区数十座采用威立雅技术的淡化厂稳定运行，充分证明了我们能够依托前沿创新、本地化专长以及多元化能源结构，提供高效且兼具成本竞争力的饮用水生产服务。凭借这些新合同，我 ...",
-      "publishedAt": "2026-11-26T09:31:00.000Z",
-      "timestamp": 1795685460000,
-      "matchedKeywords": [
-        "海水淡化"
-      ]
-    },
-    {
-      "title": "個股：惠民實業子公司接獲高科技廠RO薄膜清洗訂單，明年可望顯著挹注獲利",
-      "link": "https://fnc.ebc.net.tw/fncnews/stock/223657",
-      "source": "東森財經新聞",
-      "sourceUrl": "",
-      "summary": "惠民實業 (6971)積極強化水資源循環經濟布局，旗下轉投資子公司惠連薄膜提供專業逆滲透（RO）薄膜清洗服務，已於第四季接獲高科技廠外包業務，正式承接外部客戶訂單，並於11月已順利突破單月損益平衡點，公司預期啟動外部接單業務後，明年起將可明顯挹注獲利貢獻。",
-      "publishedAt": "2026-11-26T01:04:00.000Z",
-      "timestamp": 1795655040000,
       "matchedKeywords": [
         "水資源"
       ]
@@ -152,18 +140,6 @@
       ]
     },
     {
-      "title": "《綠能環》打進高科技廠供應鏈！ 惠民子公司接獲RO薄膜清洗訂單",
-      "link": "https://www.ctee.com.tw/news/20261126701121-430201",
-      "source": "工商時報",
-      "sourceUrl": "",
-      "summary": "【時報記者郭鴻慧台北報導】惠民實業(6971)積極強化水資源循環經濟布局，旗下轉投資子公司惠連薄膜提供專業逆滲透(RO)薄膜清洗服務，已於第四季接獲高科技廠外包業務，正式承接外部客戶訂單。惠連薄膜以專業RO薄膜清洗技術為核心，今年優先滿足自身需要，再鎖定台灣再生水廠及高科技業者等市場需求，於11月已 ...",
-      "publishedAt": "2026-11-25T16:00:00.000Z",
-      "timestamp": 1795622400000,
-      "matchedKeywords": [
-        "水資源"
-      ]
-    },
-    {
       "title": "無私守護水源生態近17年 台水深溝志工隊榮獲「全國績優志工團隊獎」",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS3JzTWxQbEJ3VXQwRkdETHBiOFc5Tkg4VUlhNEZxRHdlTkdDNVdua2d4VXhkNXNHX0o0anY5eWlLZEg5R2RqZEdHendfMXRCc0xyR3lLRUxhY2RPVko2WUxsLWF4SlRsYy1SWWZNMVBRLUVFeWM2dW9DeVMyMUtHczJudTNyUWJGOTVsV1JzWQ?oc=5",
       "source": "PChome Online 新聞",
@@ -176,39 +152,76 @@
       ]
     },
     {
-      "title": "惠民子公司惠連薄膜突破損平 獲高科技廠外包訂單、明年獲利挹注可期",
-      "link": "https://udn.com/news/story/7241/9901833",
-      "source": "聯合新聞網",
-      "sourceUrl": "",
-      "summary": "惠民實業（6971）水資源循環經濟布局報捷，公司25日表示，旗下持股51%的轉投資子公司惠連薄膜，本季已正式接獲高科技廠逆滲透（RO）薄膜外包清洗訂單，跨出外部接單第一步；隨著本月順利跨越單月損益平衡點，預期明年起將明顯挹注集團獲利。",
-      "publishedAt": "2026-11-25T10:41:00.000Z",
-      "timestamp": 1795603260000,
+      "title": "李長榮展現綠色轉型影響力 藉AI取得資源循環與水資源管理突破性",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqVFV0REpSbUhJM3RhMW53NkVBbkFkOTkxYjQ3NUgxbUxURGRKZjlYOEcwTVFYSW9tTnNadjlKX2ZwajFLbkFlZHRGeWpFMms?oc=5",
+      "source": "鉅亨網",
+      "sourceUrl": "https://news.cnyes.com",
+      "summary": "",
+      "publishedAt": "2026-11-25T10:54:34.000Z",
+      "timestamp": 1795604074000,
       "matchedKeywords": [
         "水資源"
-      ]
-    },
-    {
-      "title": "自然资源部：截至2025年底，天津市海水淡化工程规模已达每天45.6万吨",
-      "link": "https://news.qq.com/rain/a/20261125A0D0SW00",
-      "source": "腾讯网",
-      "sourceUrl": "",
-      "summary": "11月25日，红星新闻记者获悉，近日，自然资源部发布《加强海洋开发利用保护 推动海洋经济高质量发展典型案例（第一批）》（以下简称《案例》）。案例为有关部门、地方、金融机构和企业等提供参考借鉴。其中一个典型案例显示，天津市在海水淡化方面取得的部分成果已达国际先进水平，截至2025年底，全市海水淡化工程规模已达45.6万吨/日。 ▲海水淡化与综合利用示范基地海水淡化试验场 自然资源部发布的信息显示，淡 ...",
-      "publishedAt": "2026-11-25T10:10:00.000Z",
-      "timestamp": 1795601400000,
-      "matchedKeywords": [
-        "海水淡化"
       ]
     },
     {
       "title": "李長榮獲「2026 TCSA 台灣企業永續獎」四獎項",
-      "link": "https://udn.com/news/story/7241/9901671",
-      "source": "聯合新聞網",
-      "sourceUrl": "",
-      "summary": "李長榮集團25日於「TCSA台灣企業永續獎」中，獲頒「台灣永續企業績優獎」、「水資源管理領袖獎」、「循環經濟領袖獎」以及「永續報告銀級」等四獎項。 針對此次獲頒獎項，李長榮指出，過去一年，李長榮持續投入資源優化製程效能，並透過前瞻性的AI技術創新，在資源循環與水資源管理上取得突破性進展。 在循環經濟方面，李長榮持續開發循環材料及回收技術，包括Lacyon™鞋大底循環材料，以及電子級異丙醇（IPA） ...",
-      "publishedAt": "2026-11-25T09:30:00.000Z",
-      "timestamp": 1795599000000,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44LWJHQXMtY3FUejd2VGhTRXVtY3BHN1R4UUtWdG02VzlvVGZSYjNhNnV3T0pTQ3d2NHZIX3FNalpydGEwbXR2cHhNS0N1dk0tX3RodVlTNFhxUdIBX0FVX3lxTE81bmJkWGVGSGYyX1lfQzktYmxfMkdCbmREVVRyTFVHZkhIbFM4UGJxdElGc3hzb2F5VmY4MlBOOUZFR2Z3QWJtOGszeDZ2cXprbTd4VTRKUzlISmpwTzc0?oc=5",
+      "source": "經濟日報",
+      "sourceUrl": "https://money.udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:30:42.000Z",
+      "timestamp": 1795599042000,
       "matchedKeywords": [
         "水資源"
+      ]
+    },
+    {
+      "title": "南亞科明年迎接擴廠！資安防護再升級，150 家供應商納入評鑑",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EMllaRENVQTdfQVRYOUYwaHp0eEJnOGt1M2NHYnl0dHVhdWtMWVJjdW1sTTdsUjVjMFFYVkwwY3dFODIyUHlEUVYtdU1SVmRpMTFCdG12M2RuUQ?oc=5",
+      "source": "TechNews 科技新報",
+      "sourceUrl": "https://technews.tw",
+      "summary": "",
+      "publishedAt": "2026-11-25T08:35:23.000Z",
+      "timestamp": 1795595723000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "【社團法人臺灣農村經濟學會】農業水資源永續治理發展與實務座談會",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE01eXotY2hZOVBCeE1NaFRsMV9pMzFZcm9NZGkwRlgtZktwemNCMXltSGZIQ1d5c3hGWm5zNUc3Y19LdEw0SXlTSnRB?oc=5",
+      "source": "環境資訊中心",
+      "sourceUrl": "https://e-info.org.tw",
+      "summary": "",
+      "publishedAt": "2026-11-25T08:18:22.000Z",
+      "timestamp": 1795594702000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "搶佔水資源循環商機 惠民子公司接獲高科技廠RO薄膜清洗訂單",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0RVR3LUFaYVNKS0M0N2NWT2NVbkVhOW5yZG1YUnduaV9FNDNOVXIxMVg5dUluM05PamNKaVNSUlJVYnBOaGE0ZTlFODhRMjRZdG9FcXFtX1ktLXNwWl9r0gFkQVVfeXFMT2hwNFR6akFvS2J1NDlidENKWGF6Q3ZmRzRlUXE3eHJrR0pWTG9jUXh6V1gwcDBSb1A2eHZFclAwdUlIOUNGanJFd2VfaUF2QkoycDgwRVoyNWRMbl8xLUM4S0QwZw?oc=5",
+      "source": "自由財經",
+      "sourceUrl": "https://ec.ltn.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-25T08:03:57.000Z",
+      "timestamp": 1795593837000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "2026全球暨台灣企業永續獎／宏遠勇奪三大獎｜新聞快訊｜豐雲學堂",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yd1E3Z1UwSGVuT2FQamh1UWJ6RUNIMVotRnNJSE1kY04teUFIZHJ5Z1BGazNtdFZkWUxveExQRnUxQkZzbnN4VDAzREpidzBRYXloYzdHclRnYjA2TU45SHhPNXJSdkJRb2VTWjh0eWZYclRfdHc?oc=5",
+      "source": "永豐金證券",
+      "sourceUrl": "https://www.sinotrade.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-25T02:51:00.000Z",
+      "timestamp": 1795575060000,
+      "matchedKeywords": [
+        "水資源",
+        "海水淡化"
       ]
     },
     {
@@ -219,6 +232,19 @@
       "summary": "",
       "publishedAt": "2026-11-25T01:54:50.000Z",
       "timestamp": 1795571690000,
+      "matchedKeywords": [
+        "水資源",
+        "海水淡化"
+      ]
+    },
+    {
+      "title": "台中水利建設成果國家肯定 打造韌性永續宜居城",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxORUZFdV9lbFZLZEFqemZkR1c1VkxvSkIzNTNhVWpBVk9SMDlwZEpoek1rOEpEWkFycnl1am5JWkZHS0VQelAxS0ZUSUVhUjR6QmZkZjA5ZDZTU3VMUkxUbVdHTVFlZlNnMG43Zmk0T2FUVFlKcGdGVVBCQy1lUVhueVo0UG1CdXdYQWphbjQ3UTBKaURad0ZnaFNWYWtzMTR1OG5ZOHYwaXhZY2VtaElXbGZTNDNsaU5TQUs4d1pxTHFQRFNOVXNqeS1XRGxkQTZyNm9zak45Sm5JZDBEOUJwdHYtYXE1MXFNNDhYZ0M3UmZYYWt1RjB0VlczTGx2clJRQy03RlFfVkw2T3ZtNm5qUlBncmRPRU9Lak8yVmRwV1VKM3lFRlp4ay15QXdzUk9IWlBMNEgxdF8tOWVVcnlRQmVvYUhXQVRRTlJmRDhSMjA?oc=5",
+      "source": "Yahoo新聞",
+      "sourceUrl": "https://tw.news.yahoo.com",
+      "summary": "",
+      "publishedAt": "2026-11-25T01:12:59.000Z",
+      "timestamp": 1795569179000,
       "matchedKeywords": [
         "水資源"
       ]
@@ -232,7 +258,8 @@
       "publishedAt": "2026-11-25T00:00:00.000Z",
       "timestamp": 1795564800000,
       "matchedKeywords": [
-        "水資源"
+        "水資源",
+        "海水淡化"
       ]
     },
     {
@@ -248,49 +275,170 @@
       ]
     },
     {
+      "title": "學者：中國將湄公河水資源治理安全化擴大中南半島影響力| 兩岸",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54cE94WXE1cXZlQ056cm5PWmtxYlNCOE9BWFNzUWxqbUk2VGJIdUtXVURLcE13aUlkcm5fMXRQMHJmVDc1TkE5NndWR2RzUTlfMGtwbHRqVTYwYWY0R2c?oc=5",
+      "source": "中央社 CNA",
+      "sourceUrl": "https://www.cna.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-24T09:17:00.000Z",
+      "timestamp": 1795511820000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "陳春暖赴立院爭取卓蘭水資源改善 三大水利單位高層與會協商",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CcG1UOEVFTW9vSlYxR2NfbFZIOGRqU3J5QWlhd081cVhmdDRFVmFvYmFqcC1zTERzUFFoclN5Zm9ST0wyV2NDV2hTZ1VldjEwNndPaXpJczNPNEwyUGs2cWVRSWMxdzZ6aVHSAW9BVV95cUxNdlN2NnV1ZkFoUWJDSHpzaHN4X0ROa2xiN2Z5WmhkdTFTeFlqNExSU0VXM0tfNXdRZUloX2t5YUpMVWpCd3h1Zjg4MFJUVTRrVTF3QVRDOFVUbHJ3SkpJRmVnYWp0NmUwMWpjYmtBVGs?oc=5",
+      "source": "自由時報",
+      "sourceUrl": "https://news.ltn.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-24T09:04:12.000Z",
+      "timestamp": 1795511052000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "中市污水接管破33萬戶、奪逾百座國家獎盧秀燕強調8年水利建設打造韌性永續宜居城| 王秀禾 | 地方新聞",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9uWmk5SzI5Ymo2WjhUMF9VOUZDcl80akRLSjc5MVZBMkNjalRLekI4UUpsOVZaNGpqWnUtZU0wZVZVVXdDQmNPTGVuNmV1QQ?oc=5",
+      "source": "Storm.mg",
+      "sourceUrl": "https://www.storm.mg",
+      "summary": "",
+      "publishedAt": "2026-11-24T09:02:00.000Z",
+      "timestamp": 1795510920000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
       "title": "陳春暖赴立院爭取卓蘭水資源改善 中央三大水利單位齊聚協商",
-      "link": "https://www.msn.com/zh-tw/news/other/%E9%99%B3%E6%98%A5%E6%9A%96%E8%B5%B4%E7%AB%8B%E9%99%A2%E7%88%AD%E5%8F%96%E5%8D%93%E8%98%AD%E6%B0%B4%E8%B3%87%E6%BA%90%E6%94%B9%E5%96%84-%E4%B8%AD%E5%A4%AE%E4%B8%89%E5%A4%A7%E6%B0%B4%E5%88%A9%E5%96%AE%E4%BD%8D%E9%BD%8A%E8%81%9A%E5%8D%94%E5%95%86/ar-AA2i6bTl",
-      "source": "民視新聞網 on MSN",
-      "sourceUrl": "",
-      "summary": "即時中心／顏一軒報導 民進黨苗栗縣議員、卓蘭鎮長候選人陳春暖今（24）日前往立法院，在立委沈發惠、協助下與苗栗縣議員羅貴星共同召開「卓蘭整體水資源改善協調會議」，邀集經濟部水利署副署長王藝峰、農業部農田水利署署長蔡昇甫、台灣自來水公司董事長李嘉榮均親自出席，針對水庫回饋金、民生用水及農業灌溉三大議題進行協商。",
-      "publishedAt": "2026-11-23T23:57:55.000Z",
-      "timestamp": 1795478275000,
+      "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxQS0VDSDdBTFBoTmtvaVlNZndhZjZ3NVVhUGlybVdVVGs1Xzk1SDlKRDV1bjQ5WGVSQVBJUmZRbDBjeGtwcmFuQWF2dkJiRk9FdENCc0pjUm41NVM2X1JfWFN1WTRuTWtIbmVCeTNiR1ltbnU4TjlRNjlUR212cUZvYS1PanhWM0txZ1Z4NC1wWFdtTkxEcVlzUTNXb3dUcUpielZVYkRDUU16RzZrZnV1RnNjdFpMaF8yX21mdFhxSS0yNWNsZmFOVl9WRUFDRzN4LUgwbHc3bnJhRTFCUzJsMWxseWxpaFdYc2ZJb1dCemE4d05hRmZEaVBlbkJkczU3MlNmTmdjVlJRWk9jOU1GaXpJTE9ndDZKaTZROU1aRnBYc0VHdnhHaVUtbWhJdHZHVDA3YmJQaW1CTC1vQ1Zxb0FpT0RfRC1qTzN0aGZHdnRUMmlvQzctZ3gtZkt4cFZVeTJiLVRyN25maWJ2TVpJQlpLUEg0RmlBckNWOHktRWFLOHUxRkdLTFF3T3hyZThrQmxYVFJxa0o?oc=5",
+      "source": "Yahoo新聞",
+      "sourceUrl": "https://tw.news.yahoo.com",
+      "summary": "",
+      "publishedAt": "2026-11-24T07:57:55.000Z",
+      "timestamp": 1795507075000,
       "matchedKeywords": [
         "水資源"
       ]
     },
     {
-      "title": "《ESG》華邦電深化永續供應鏈合作 聚焦循環經濟與水資源管理",
-      "link": "https://www.ctee.com.tw/news/20261120701604-430301",
-      "source": "工商時報",
+      "title": "水庫相互支援！「珍珠串計畫」串聯全台水資源 日調度達338萬噸",
+      "link": "https://esg.tvbs.com.tw/view/trend/1746",
+      "source": "esg.tvbs",
       "sourceUrl": "",
-      "summary": "【時報記者葉時安台北報導】華邦電(2344)周五舉辦「永續供應鏈管理論壇」，以「從源頭到循環，共築水韌性與資源永續循環」為主題，邀請重要供應商夥伴參與，聚焦循環經濟與水資源管理兩大議題，透過專題分享與實務交流，深化供應鏈永續合作。同時，表揚在資源循環與社會影響力方面表現傑出的供應商，攜手落實Go ...",
-      "publishedAt": "2026-11-20T09:19:00.000Z",
-      "timestamp": 1795166340000,
+      "summary": "水利署推動的「珍珠串計畫」，便是透過跨縣市、跨局處的整合，串聯全台灣各地的水庫等設施，建立跨區輸水網絡，以北水南送、南水北引等方式，讓水資源依各地需求進行調度，提升國家整體水資源韌性。 其中，桃園石門水庫至新竹寶山的聯通管工程，便是計畫中的重大建設段之一。隨著新竹人口成長、科技產業發展興盛，用水需求也日益攀升。",
+      "publishedAt": "2026-11-23T20:46:00.000Z",
+      "timestamp": 1795466760000,
       "matchedKeywords": [
         "水資源"
       ]
     },
     {
-      "title": "別怪AI喝光水資源! 研究：一顆雙層起司漢堡夠你聊Grok近7世紀",
-      "link": "https://www.msn.com/zh-tw/%E9%A3%9F%E7%89%A9%E8%88%87%E9%A3%B2%E6%96%99-/%E4%B8%80%E8%88%AC/%E5%88%A5%E6%80%AAai%E5%96%9D%E5%85%89%E6%B0%B4%E8%B3%87%E6%BA%90-%E7%A0%94%E7%A9%B6-%E4%B8%80%E9%A1%86%E9%9B%99%E5%B1%A4%E8%B5%B7%E5%8F%B8%E6%BC%A2%E5%A0%A1%E5%A4%A0%E4%BD%A0%E8%81%8Agrok%E8%BF%917%E4%B8%96%E7%B4%80/ar-AA2hQcaP",
-      "source": "TVBS新聞網 on MSN",
-      "sourceUrl": "",
-      "summary": "AI資料中心究竟有多耗水？半導體研究機構SemiAnalysis以馬斯克（Elon Musk）旗下xAI位於美國田納西州曼菲斯的Colossus 2資料中心為例，估算其一年水足跡約3.46億加侖（約13.1億公升），相當於約2.4家In-N-Out門市一年販售的漢堡所需用水。報告還換算，一顆雙層牛肉起司堡的用水量，相當於每天向Grok提問30次、連續使用近670年。",
-      "publishedAt": "2026-11-20T00:51:58.000Z",
-      "timestamp": 1795135918000,
+      "title": "柱塞泵市場展望2035：水資源基建與能源需求支撐後續成長 - 新聞與統計",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdzZJeW96bGlRNXlKS0hENVU3MUE0ekoyRFF2dGQ0MjlaTl92bnVtZG9DTUdKR1Q0Q25qbU5xQU1felRPdFRCWGllY2F3TlZPbGp3MVQ0R0h1UEN4UFk4Mlh1RUVSVzZDTEhIV2kxaGNvVDZPaFczdGk4UEhQVXhhMGNzZTBKZFFYdzFkZjZ3UGp1M21tZVg5cnFZa3Q3aGZ1ZzBtUWhsbC02VURRTDZ0OXRUeEg0d0hxMHNVczRndnlySzlnRnJrNmwyLTlhUUFqN0tLVjV4TQ?oc=5",
+      "source": "IndexBox",
+      "sourceUrl": "https://www.indexbox.io",
+      "summary": "",
+      "publishedAt": "2026-11-23T10:51:04.000Z",
+      "timestamp": 1795431064000,
       "matchedKeywords": [
         "水資源"
       ]
     },
     {
-      "title": "全球钛板及换热设备供应链迎来新机遇，电解制氢与海水淡化推动高端钛材需求增长",
-      "link": "https://finance.sina.com.cn/roll/2026-11-20/doc-inizkizc5609377.shtml",
-      "source": "新浪财经",
+      "title": "韓國KT攜手韓國水資源公社，水壩與淨水場導入實體AI",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sdlo2cG9hNmd2YlhEMDJfZ3hsMmdNSDZVUEp6bXBWTVdvNDFtRmRHN3ZkS2JCUW00OG9XTXItQ3lXYmszR2FWTmdlMVlIRlo3Mm1GLUxuVjFXSkxrbmpCTHdjbW9neFJnd2pzMFl6SlpZdmpNSXQxUWFn?oc=5",
+      "source": "BigGo 財經",
+      "sourceUrl": "https://finance.biggo.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-23T04:25:00.000Z",
+      "timestamp": 1795407900000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "國發會通過嘉義海淡廠計畫 估121年產水強化供水韌性|新創臺灣",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CdzB0WWNqaFRWVU1oR0hSMWc5cnB4dUtvdF9FVURwa0wyU3RNU3ExU29oemtXanZKVjlzcjR1WFR6WWhkQmZseTlXNA?oc=5",
+      "source": "僑新聞",
+      "sourceUrl": "https://ocacnews.net",
+      "summary": "",
+      "publishedAt": "2026-11-22T18:00:00.000Z",
+      "timestamp": 1795370400000,
+      "matchedKeywords": [
+        "海水淡化"
+      ]
+    },
+    {
+      "title": "集集食農教育大小朋友下田共享收成樂趣- 政府消息新聞",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRXNNOTFHVTVibXdQMzdlUVBWNkpPUndQaTViQXBycXNIeDlyaDNhZEhsVEdzcW54eHdLM1VPVGlRMUdJNnZxMDFSLW12S1pSdmFIQVlseHA3Y0phRmVKR0JmVlRLOTJYcFRHek9SQmJZLUk5NjlBZGFCd25wTUxCQzlDNHBLcV9heVJ4UQ?oc=5",
+      "source": "PChome Online 新聞",
+      "sourceUrl": "https://news.pchome.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-21T09:26:39.000Z",
+      "timestamp": 1795253199000,
+      "matchedKeywords": [
+        "水資源",
+        "海水淡化"
+      ]
+    },
+    {
+      "title": "參與公益路跑 正視水資源公平與兒少生存權",
+      "link": "https://news.pchome.com.tw/living/tcnews/20261121/index-79523948079350280009.html",
+      "source": "PChome Online新聞",
       "sourceUrl": "",
-      "summary": "随着全球能源转型和工业设备升级持续推进，钛材料的应用正在从传统航空航天、化工和海洋工程领域，进一步向电解制氢、热交换设备、海水淡化及电力系统等领域延伸。钛材凭借优异的耐腐蚀性能、较高的强度重量比以及良好的长期服役稳定性，正在成为高腐蚀环境下关键设备的重要材料选择。近期，一份针对全球钛板、钛带及钛制换热设备供应商的市场评估报告，对六家具有代表性的企业进行了梳理，也反映出钛材料下游需求结构正在发生新的 ...",
-      "publishedAt": "2026-11-19T23:46:00.000Z",
-      "timestamp": 1795131960000,
+      "summary": "過去每天得花一兩小時走到溪邊、提水回家的尚比亞女孩米莉安（Mirriam），因為世界展望會的水資源暨衛生計畫協助，現在從家裡走約5分鐘就能取到乾淨的水。省下來的時間讓她可以就學讀書，朝當醫生的夢想前進。11月20日世界兒童日，米莉安以台灣世界展望會「水資源兒童倡議大使」身分，用親身走過的取水路，邀請台灣民眾參與2027 Global 6K For Water公益路跑，一起關注缺水地區兒童的健康、教 ...",
+      "publishedAt": "2026-11-21T05:38:00.000Z",
+      "timestamp": 1795239480000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "115年度集集鎮食農教育－拔蘿蔔體驗暨水資源宣導活動～「惜水好食光」 大小朋友下田共享收成樂趣 吳大村鎮長呼籲珍惜水資源",
+      "link": "https://more-news.tw/774593/",
+      "source": "more-news",
+      "sourceUrl": "",
+      "summary": "為促進在地社區的情感凝聚，集集鎮公所於民國115年11月21日(星期六)，在集集鎮中溝農路田區舉辦了一場別開生面的「拔蘿蔔與水資源體驗」食農教育活動。吸引約500至600位鄉親熱情參與，這場活動不僅吸引了許多親子家庭共襄盛舉，更有大批社區鄰里、銀髮長者到場同樂，現場歡笑聲不斷，讓跨世代的民眾在親近泥土的同時，也深刻體會到珍惜水資源的重要性。 活動一開場，陽光灑落在廣闊的集集中溝農路田區，大片綠油油 ...",
+      "publishedAt": "2026-11-21T02:00:00.000Z",
+      "timestamp": 1795226400000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "Invesco 標普全球水資源指數ETF(CGW)成分股、持股明細總覽",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4xaWNhR2lYOFdTbTRBUzBWcFU1WmRxWHZmWGc3MWJmTTg1Yy1VVVZ4NlUxOHpiaWt1SE0zZmVlVlgzNlBXXzdFVg?oc=5",
+      "source": "口袋證券",
+      "sourceUrl": "https://www.pocket.tw",
+      "summary": "",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "timestamp": 1795161600000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "別怪AI喝光水資源！研究：一顆雙層起司漢堡夠你聊Grok近7世紀",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HRjVScUxtcXIzQzhVSTBHREowOVNrSnZUWXI3dUk3ME5RN3Y5ejFUTGlqNnJySU9JeW9vUTZ2ZFY4RDIzOWpOTXRIeG1CUQ?oc=5",
+      "source": "TVBS新聞",
+      "sourceUrl": "https://news.tvbs.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-20T06:43:00.000Z",
+      "timestamp": 1795156980000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "搶救南科用水 首座大型海淡BOT案過關",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1yVVUwb1VHREltYmFYcXFkVjZSeUVaUjlYNHh0ZFJSbHhwRERRZVY0NUtEY1FhNUlicWxYa3JFU09sQ050MzVtUkJ2VGJJSzhHRDVzZkZxZjJXczFqZERMd1FOWkc?oc=5",
+      "source": "台灣房屋",
+      "sourceUrl": "https://news.twhg.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-20T01:53:17.000Z",
+      "timestamp": 1795139597000,
       "matchedKeywords": [
         "海水淡化"
       ]
@@ -308,25 +456,25 @@
       ]
     },
     {
-      "title": "累計砸逾5億美元翻新地方供水基建！Google揭曉資料中心五大水資源承諾",
-      "link": "https://mashdigi.com/google-data-center-water-stewardship-plan/",
-      "source": "mashdigi",
-      "sourceUrl": "",
-      "summary": "核心亮點一：Google 承諾 2030 年達成「水資源正效益」，目標每年回補超過 190 億加侖水量，並已累計投入逾 5 億美元協助資料中心所在地翻新公共供水與廢水處理基礎設施。 核心亮點二：為緩解 AI 算力帶來的散熱用水壓力，Google 祭出五大水資源承諾，包括在高風險缺水流域強制改採「氣冷」或「再生水」，並持續公開各場址年度用水數據以維持透明度。 核心亮點三：Google 積極推動在地化 ...",
-      "publishedAt": "2026-11-19T16:00:00.000Z",
-      "timestamp": 1795104000000,
+      "title": "國發會通過嘉義海水淡化廠計畫",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41NGMwWnliTDkwRWdSeU1wS1EyZ0ZRUmYwZEZNbXBwQ3ItZWlydzdBTThmWFNWdWJyWHlrbGxLRGxxT3JacHVoZEZVeURfc2FtZWc?oc=5",
+      "source": "中華新聞雲／中華日報",
+      "sourceUrl": "https://www.cdns.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-19T12:32:09.000Z",
+      "timestamp": 1795091529000,
       "matchedKeywords": [
-        "水資源"
+        "海水淡化"
       ]
     },
     {
-      "title": "【拚翻轉2-2】借鏡嘉義布局彰化產業邱建富提海水淡化廠突破中科二林水電限制- 政治新聞",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM3lLRDZEQzR1UEQzZHdUYTBKTkw5NDdsTnZabjg4SlVaamhfS2VTMkUwMm1XdjVtZlN6OXhoeVBsdEZGVGJ2Z0k2N2s5bGJHSHUzUE9LRnRXLTJnMk1RRTB2a2dkX3lyXzZBRkcwbjZBZ2pBamtnSzdLN3NKdmJzNnJkaE16MnJSRGc?oc=5",
-      "source": "PChome Online 新聞",
-      "sourceUrl": "https://news.pchome.com.tw",
-      "summary": "",
-      "publishedAt": "2026-11-19T06:06:57.000Z",
-      "timestamp": 1795068417000,
+      "title": "日供10萬噸活水助攻南科　海淡廠解鎖這兩區房市買氣",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oNTQ2STlqRWkwVTI4cmV0SnYxMmtENlNoeUdxbzNuWlRrLTFFQVdSVlppV2E4bVQ1LW1YTzJRVFdzMm9OMTA3SkhUNHltaHdRMUhfQ1FXckVDR19KSFNSSzNKdEsyNlhHMTV30gFwQVVfeXFMUFJpWE5uNTJUR2lVUDdFeFJFd2VmWW50cGFvcGwtVnh6UEZXUnFkRlpzQkxUeUdzOHdtcXBQclZJUVdURUNCQk5MZVdvVEdjZDdhQlN1V2R2V1ZCRDZkRTJpZUFvbEVVQ08waDJpcko4NA?oc=5",
+      "source": "好房網News",
+      "sourceUrl": "https://news.housefun.com.tw",
+      "summary": "日供10萬噸活水助攻南科 海淡廠解鎖這兩區房市買氣 好房網News",
+      "publishedAt": "2026-11-19T09:05:00.000Z",
+      "timestamp": 1795079100000,
       "matchedKeywords": [
         "海水淡化"
       ]
@@ -337,20 +485,32 @@
       "source": "經濟日報",
       "sourceUrl": "https://money.udn.com",
       "summary": "",
-      "publishedAt": "2026-11-19T04:14:36.000Z",
-      "timestamp": 1795061676000,
+      "publishedAt": "2026-11-19T08:00:00.000Z",
+      "timestamp": 1795075200000,
       "matchedKeywords": [
         "海水淡化"
       ]
     },
     {
-      "title": "國發會通過嘉義海淡廠計畫估121年產水強化供水韌性| 產經",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RLTBTNXIxT2xtcHY1cmJoUjhMOWY0SjZDdjRSS1Fpa1ItSl9PcWRTVmc2OXctU3B2Tnd1SGNTeFlIOGNiNk0tTm12SGFMREJka2RpRHVaVDh6MWVXTnc?oc=5",
-      "source": "中央社 CNA",
-      "sourceUrl": "https://www.cna.com.tw",
+      "title": "11/19世界廁所日！ 莊競程推加速啟動水資源中心擴建",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HSTZGMllnZ3ZEOGE1aU1xM0tkcDBfLXN6QjUtWjllOC1zSTNRSkdnRDZJOUk4RFpSeHRWZVF2dnRJaXJVRVh4bEFHMDlqWHE1YTE2b19vTnFCcUpPZU85eGRHZ0poZ29wYWfSAW9BVV95cUxPV3hlYkJSUnlSNVdaQi01bUVOajBtMU1vb1hDQWE2dUtsdkhrMlF3YVlhdjA5SEF6OUI5NUdDcjJKaWh5S01XSUpFUjVJZ0gtWTFvaUNfeHp5WkotdklzTDZLQTgwZmhNRjZZczBqQ2M?oc=5",
+      "source": "自由時報",
+      "sourceUrl": "https://news.ltn.com.tw",
       "summary": "",
-      "publishedAt": "2026-11-19T03:39:00.000Z",
-      "timestamp": 1795059540000,
+      "publishedAt": "2026-11-19T08:00:00.000Z",
+      "timestamp": 1795075200000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "【拚翻轉2-2】 借鏡嘉義布局彰化產業邱建富提海水淡化廠突破中科二林水電限制",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9sTmZfR2R2VnIyck9ESndKSmg2Q1NnRnZCRHdfeS1VODV2RFQ0bF9DcnB5N3JkOTdYaFkwSi00Q2g5ZzNNMFJtRFlR?oc=5",
+      "source": "匯流新聞網",
+      "sourceUrl": "https://cnews.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-19T06:06:57.000Z",
+      "timestamp": 1795068417000,
       "matchedKeywords": [
         "海水淡化"
       ]
@@ -368,49 +528,134 @@
       ]
     },
     {
-      "title": "11/19世界廁所日！ 莊競程推加速啟動水資源中心擴建",
-      "link": "https://news.ltn.com.tw/news/HsinchuCity/breakingnews/5645962",
-      "source": "自由時報電子報",
-      "sourceUrl": "",
-      "summary": "你知道今天11月19日是聯合國認證的「世界廁所日」嗎？新竹市長候選人莊競程今天提到，這個節日最核心的議題就是「公共衛生」，講得直白些，就是有沒有安全的衛生設施可以系統性地處理排泄物。如果沒有，就容易衍生疾病傳播的問題。竹市人口及建案持續成長，但竹市的污水接管不夠快，後端處理設施也無法負荷，已面臨超載狀況，他強調，未來當選市長，一定優先處理水資源中心擴建工程，不會讓市民家中的馬桶爆管，還要人工抽水肥 ...",
-      "publishedAt": "2026-11-19T03:20:00.000Z",
-      "timestamp": 1795058400000,
+      "title": "獲67億美元資金挹注 約旦啟動大型海水淡化工程",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45VlFIS3p1SEZIYTdrcEVkNEwtdTFEcVUwZEJTRXlCSm5tN2R0UEh0RjBHWEJ0UnJreklOZGFXdGFjTlAyUFY2bnA4bWNHMi1RUktoMWE5QVQzMGxPX2dUMg?oc=5",
+      "source": "民視新聞網",
+      "sourceUrl": "https://www.ftvnews.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-18T15:14:18.000Z",
+      "timestamp": 1795014858000,
+      "matchedKeywords": [
+        "海水淡化"
+      ]
+    },
+    {
+      "title": "約旦推67億美元海水淡化計畫 緩解全球最嚴重缺水危機",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lTnMtQ1ZoMnk3Vy0xNEEycWlaRTBNd25sR3l6enVMV3JadHZpR0ZzSW0yeWFMRmlqOEpKZ29TOURkV1YzdVIwN1luN3E3dTM0X3Uzam9nUDI3OWxkaHFsRQ?oc=5",
+      "source": "民視新聞網",
+      "sourceUrl": "https://www.ftvnews.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-18T13:49:11.000Z",
+      "timestamp": 1795009751000,
+      "matchedKeywords": [
+        "海水淡化"
+      ]
+    },
+    {
+      "title": "討論牆 | 約旦推67億美元海水淡化計畫 緩解全球最嚴重缺水危機",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFZzNiWC1pVTV5RXllZVdJeTBlN1pMdk1LZ2h4YlZ3Y2ZKMGVDdHVtMUNFLW9BZzF3Z3RDcDZDOVJPWHVwVXpNc0YzMkZHdFdNUDhvdXZ4aGFQbmdfdlpCTFJGZWo?oc=5",
+      "source": "LINE TODAY",
+      "sourceUrl": "https://today.line.me",
+      "summary": "",
+      "publishedAt": "2026-11-18T08:00:00.000Z",
+      "timestamp": 1794988800000,
+      "matchedKeywords": [
+        "海水淡化"
+      ]
+    },
+    {
+      "title": "智慧技術助力綠色未來：循環經濟視角下的廢水處理",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04SUVILU5WcTdjRmN6LVBSOWNlN0NCZW5TM3dfVmpTRV93c2VsamNjSl9XTF9XM25URXNQRkRTQTNrZG9TMjRLWHk1WTZtSFU4VWNKci1UZw?oc=5",
+      "source": "海基會兩岸經貿網",
+      "sourceUrl": "https://www.seftb.org",
+      "summary": "",
+      "publishedAt": "2026-11-17T08:00:00.000Z",
+      "timestamp": 1794902400000,
       "matchedKeywords": [
         "水資源"
       ]
     },
     {
-      "title": "上海：把海水淡化写进供水“保险单”",
-      "link": "https://finance.sina.com.cn/jjxw/2026-11-19/doc-inizfunf4250847.shtml",
-      "source": "新浪财经",
-      "sourceUrl": "",
-      "summary": "海水淡化被上海正式写进了城市供水的“保险单”。上海市海洋局11月9日正式印发《上海市海洋经济发展“十五五”实施方案》，政策之笔勾勒出城市水安全的崭新图景——其中明确提出“支持将海水淡化作为重要应急备用水源”。海水淡化技术早已走出实验室，这一部署不仅是对技术路径的确认，更赋予其“重要应急备用水源”的全新的身份。 海水淡化被上海正式写进了城市供水的“保险单”。 上海市海洋局11月9日正式印发《上海市海 ...",
-      "publishedAt": "2026-11-18T18:48:00.000Z",
-      "timestamp": 1795027680000,
+      "title": "新聞眼／光電凌駕水資源？投一個想要的生活",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yTzZLczZtTTRfTjRnSzZJREFZajdNRi1CRFQ2Rm9wMm1Eei10NmpGb2dvOTdkUmt2cFg4TllLNHQzR0ZGRmUwaVo3UVBQUGlXblQ40gFYQVVfeXFMUDZ4c0Nfb21SM2wyVVBYOVBzUFl4dFRxQW91Q2h0aUttUm9iUGE5NHQ5clpEdmNMbEF2c1RDMTloVExRcDBlZ2d2T2NJQUNEQ0t0OFY5RTdodA?oc=5",
+      "source": "UDN",
+      "sourceUrl": "https://udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-17T08:00:00.000Z",
+      "timestamp": 1794902400000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "【即時新聞】水資源管理商Badger Meter(BMI)宣布配發0.44美元季度股息，殖利率達1.14%",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbjlXQnlYYVVXT0h1bGwwTkFjeGZhelhFZWdCOEY4OHVOQUotQUUtNjlISTdsR2RuX1o0dGZkbDM3UDlMajh1OUNCc19FcVVnZ1lOc0c1WHlDSUVlMlphYk1vcFhlenBScFh3REl6c25jS0FmQ3VrNk5QRzY0RDFZbjZ6alMzb1UyWU5Sa3dRTzI?oc=5",
+      "source": "CMoney投資網誌",
+      "sourceUrl": "https://cmnews.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-14T08:00:00.000Z",
+      "timestamp": 1794643200000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "中市福田再生水工程正式通水 打造城市小水庫穩定產業供水",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PTklkcE9zNlZ3bG1ieWhfNFphWlBfdGxfR1JwVTB3Y0NKZXlsOUlhSHcyTVNiZzZHX2wtN2pWZktKdzdNbVc4eDJMVTlpRzljdWc?oc=5",
+      "source": "臺中市政府全球資訊網",
+      "sourceUrl": "https://www.taichung.gov.tw",
+      "summary": "",
+      "publishedAt": "2026-11-13T08:00:00.000Z",
+      "timestamp": 1794556800000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "人口跌破120萬、薪資全台最低 邱建富提高科技招商、海水淡化布局",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8tVWQyZjhIT0gwMjN0TXlGS0NnQ1VPMjh0eE9IZ05MSE1id1hxMTJoX1VTVW9EOXF3N3F0TW5SckFMdw?oc=5",
+      "source": "墨新聞-MORE News",
+      "sourceUrl": "https://more-news.tw",
+      "summary": "",
+      "publishedAt": "2026-11-12T08:00:00.000Z",
+      "timestamp": 1794470400000,
       "matchedKeywords": [
         "海水淡化"
       ]
     },
     {
-      "title": "从“青岛经验”到“国家标尺”：全国海水淡化行业首部国家职业标准在青终审通过",
-      "link": "https://qingdao.dzwww.com/qdws/202611/t20261116_18304209.htm",
-      "source": "大众网",
-      "sourceUrl": "",
-      "summary": "记者获悉，近日，《海水淡化工》国家职业标准终审会暨《水供应服务员》国家职业标准启动会在青岛召开。这意味着，全国海水淡化行业首部国家职业标准进入终审收官阶段，青岛在海水淡化领域多年积累的一线工艺和技能要求，即将正式上升为全国统一的人才评价标尺。人社部中国就业培训技术指导中心标准处副处长张韶华，青岛市人力资源发展研究与促进中心党委书记、主任陆昕浩，青岛水务集团党委委员、纪委书记王法体等参加会议。",
-      "publishedAt": "2026-11-16T01:40:00.000Z",
-      "timestamp": 1794793200000,
+      "title": "首長活動 - 自來水全球資訊網",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6bjlKTHdnc1R3Y2Y2cHZaM01HTmFoR1o5aXhuMzZyV1pkSkpxNzNoeWZRVDBlUTQ0Slo4bUVnZ3hELUVoclIwRm1RaVNKT25VZTFrSXR3Uk1OZ3h0NGdETzBta3VPNkNmVWhF?oc=5",
+      "source": "自來水全球資訊網",
+      "sourceUrl": "https://www.water.gov.tw",
+      "summary": "首長活動 自來水全球資訊網",
+      "publishedAt": "2026-11-09T11:55:09.000Z",
+      "timestamp": 1794225309000,
       "matchedKeywords": [
+        "水資源",
         "海水淡化"
       ]
     },
     {
-      "title": "看了沙特的海水淡化技术，再看中国海水淡化技术，才懂两者的不同",
-      "link": "https://www.sohu.com/a/1101406013_122654001",
-      "source": "搜狐",
-      "sourceUrl": "",
-      "summary": "以前一提到海水淡化，第一反应就是沙特，人家有钱，石油多，海水淡化技术也牛，全世界第一。 结果最近仔细一了解才发现， 真要比技术，中国的海水淡化技术，比沙特可厉害多了！ 沙特现在每天海水淡化产能差不多750万吨。 占到全球海水淡化总产量的两成还多，全世界第一，这个数据是实打实的。 全国六成饮用水都来自海水淡化，剩下的靠开采地下水，地表水几乎可以忽略不计。 它起步早，几十年持续砸钱，靠着国内便宜的油气 ...",
-      "publishedAt": "2026-11-14T01:38:00.000Z",
-      "timestamp": 1794620280000,
+      "title": "東協周報》Google加碼布局大馬水資源｜印尼電力出口踩煞車牽動星國布局| 新聞",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NcHVjdWN5ZG45SFMtZmJ6cG1zTFJldGRXcEdSV3NXS21NU1B0Ym5YZlFEWkxqSnFkc2lRUFNVTzA1OEhxVFRhbWFkUXVyNTB4M0dNZ2Z5WVZmaEkzamQzdjhVS0NlM2w0Z3lj?oc=5",
+      "source": "Reccessary",
+      "sourceUrl": "https://www.reccessary.com",
+      "summary": "",
+      "publishedAt": "2026-11-09T08:00:00.000Z",
+      "timestamp": 1794211200000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "聚焦新加坡/新加坡海水淡化新突破 陶瓷薄膜省電省空間",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12NlVyd2k3S0p2SHdRS2NfemRHSko3ZHlPR0UzSHcwcjZVLU92S21vamNPV0RLYktRQm1aT2Q4RXc1akk4dWhBNWdQRllxR2M?oc=5",
+      "source": "TVBS新聞",
+      "sourceUrl": "https://news.tvbs.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-09T08:00:00.000Z",
+      "timestamp": 1794211200000,
       "matchedKeywords": [
         "海水淡化"
       ]
@@ -428,6 +673,30 @@
       ]
     },
     {
+      "title": "臺師大推動水資源環境教育 以水、生命、環境倡議永續發展",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nazVCZmIxTF9Ja0tIbm1lWGJMQ1M1TFBISThVTktCMGlZOWtzemVlS1h3UkRTUm1KSFoyTlZrX0xYOFgxek9rSlJLb0cybXdZWl9fU0ln?oc=5",
+      "source": "中央社 CNA",
+      "sourceUrl": "https://www.cna.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-06T08:00:00.000Z",
+      "timestamp": 1793952000000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "全球25%資料中心面臨缺水風險 AI擴張考驗水資源",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIdXozeEwxZXVlUkdTN2FwZlZXUjVGT2lpek50R3I3TUNjNk05dEhIZE9EXzZyOGlsYmtnRVJDVjFXNmNldGV5Z2pleERHZy1zaTJNZjRLbw?oc=5",
+      "source": "Rti 中央廣播電臺",
+      "sourceUrl": "https://www.rti.org.tw",
+      "summary": "",
+      "publishedAt": "2026-11-06T08:00:00.000Z",
+      "timestamp": 1793952000000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
       "title": "從源頭減量到循環再用｜守護水資源永續-資訊圖卡",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyUmxmaVZJMURMcWpvX2JLSTQ1VXVrQ1NkVjYxb1JWYzBUXzk3MF9CRzZXeUpNVXZQR21XWkV6bm9IXy1KQ0tQSVRhSXpMeXYxcGlEZk1tOXVBTFlyb1NlUnRqZ0U?oc=5",
       "source": "環境部新聞專區",
@@ -435,6 +704,210 @@
       "summary": "",
       "publishedAt": "2026-11-04T08:00:00.000Z",
       "timestamp": 1793779200000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "Google投入52億建水資源基礎設施，擴大布局大馬資料中心",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc2VHQ25OQTRBTC1KRHAxZkRFMXRYbVlZaDZ3UWRrdFFDbldRM0xWRXNod0lsTENpYVAxNEs2T1VtNl91QWRPM2l6OUE4UmItS0cyNkJVb096b3A1UkNEaGVEOWFnWVNWMDNMNnVMdUp2cEpXVHNNZ21RdHJmLTlNWFdET0tiQWFKZHc?oc=5",
+      "source": "Reccessary",
+      "sourceUrl": "https://www.reccessary.com",
+      "summary": "",
+      "publishedAt": "2026-11-02T08:00:00.000Z",
+      "timestamp": 1793606400000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "運動休閒與水資源永續交織 首屆台中再生水盃地面高爾夫賽福田熱情揮杆 | 王秀禾 | 地方新聞",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9vVlVuU0RKdmNuZTNadTZ0WExOWlp0YXl0dzVJVE1wempaczl5dUhqa2Mta0J1SVliM0RlNUk0NHRpajNVLWlCZHJucF9yQQ?oc=5",
+      "source": "風傳媒",
+      "sourceUrl": "https://www.storm.mg",
+      "summary": "",
+      "publishedAt": "2026-10-30T07:00:00.000Z",
+      "timestamp": 1793343600000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "雲林打造韌性循環水資源城市 智慧調適論壇登場 產官學跨域簽署精準灌溉MOU | 熱門亮點 | 商情",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iYmhhdmd0SGU2d2NDa2V3d2I4Y2VHNkNuQlEtcnpzZ285WVBQYVdEeDhQZlRGVzg5Z2lyZVBaS0d5Z29GZU5kXy13WmItV1BHdjcteHdRQk9MZw?oc=5",
+      "source": "經濟日報",
+      "sourceUrl": "https://money.udn.com",
+      "summary": "",
+      "publishedAt": "2026-10-29T07:00:00.000Z",
+      "timestamp": 1793257200000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "迎戰氣候變遷！雲林智慧水資源氣候調適論壇登場 產官學攜手打造韌性循環水資源城市",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwSXkwbHNaUnlwakxxTExNbTQxZEw0aTluQjFRRFZvNjJ2ZnRZVjBSVVNPMkpkYkY5ZkFSRTE1V2huaDllRzY2MzVlbzVVZXhCbTlnOHo3dkdaMF9jRWFBUDVWY3FVZGVtRWRz?oc=5",
+      "source": "雲林縣政府全球資訊網",
+      "sourceUrl": "https://www.yunlin.gov.tw",
+      "summary": "",
+      "publishedAt": "2026-10-27T10:15:39.000Z",
+      "timestamp": 1793096139000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "以色列成太平洋島國論壇夥伴 提供氣候變遷與水資源專業",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEb0FYaE1IZEVQYVhmczA4VjV4TUZiNmRWNS1WZDhWZU84OXlhRHZjM21kVmdQWmM3MmtIX0otN29fR2RUSlJZc0prWEtpLTYxTHlMcFZPOVoyZ9IBX0FVX3lxTE14dnBKaEVFTFNjOTB0d0tjR3psOURiMDFHZWhwWUw2VmNDTExWbVVlczZkcFhaZlUzdk9LbTY0bGdFNlR0WWtUQWRSNFI3ZHI4Y0NKdDIzTmNyam92bVBr?oc=5",
+      "source": "經濟日報",
+      "sourceUrl": "https://money.udn.com",
+      "summary": "",
+      "publishedAt": "2026-10-21T07:00:00.000Z",
+      "timestamp": 1792566000000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "以色列加入太平洋島國論壇 聚焦氣候與水資源合作",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VNHFlTWhoY0w4Si1oQzl1Q0V4UzBwaEFzX1J2c3ZsQWRxV0pjY245blVQR1NyVXRwVFE5LW02S2JhTHdrRmNpSHQ1Q1JKSXRkUHZyMGNQYw?oc=5",
+      "source": "Rti 中央廣播電臺",
+      "sourceUrl": "https://www.rti.org.tw",
+      "summary": "",
+      "publishedAt": "2026-10-21T07:00:00.000Z",
+      "timestamp": 1792566000000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "IDWS 2026齊集全球力量，加速佈署水資源解決方案",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQVWh0S2V6dmFZcEZtWkdkakJ0d0R6bnFPRWJEaGduNVBTQ1NMTlVET256ZlFUcGdCQ1dOYkIxRTBtVTdqSU9CcTBrVnJwNDFfQjRwQUdkTGkwcW4yUkFnSEVJSEJxekxsb1V3QlhtY0dpcVdXWmFXbU93N2FJY3dhc0VZNXFjTGtxSjh1cVNVclBKY0EtcTZTdUI0cFFtWTVQWXF1UHRuakNjVTB5ajc0R0Y3X3ZxQ3ZvS1BfX19EYzNzTUJ5OVRWLWVvaUNudG9yQ2VCQXZnN082RThUSTVYVTB1eDlYbURid1JUQlJWbnl0eVRiNUladDJNTkNIMjRKczM1azhJRjN3a0dCZ2YyZlhfa09fcW9HVDZXQ3A0ek1ZVEsxR2FlTlpKQ21ra2dhRmdhdg?oc=5",
+      "source": "Yahoo股市",
+      "sourceUrl": "https://tw.stock.yahoo.com",
+      "summary": "",
+      "publishedAt": "2026-10-20T07:00:00.000Z",
+      "timestamp": 1792479600000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "淡水水資源回收中心擴建動土 拚2028年完工",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQZTFPQTJ4Ui1kdU1tck9GZENkYWVZRWh2YzdoZ2dSSWVpcm1vNXFwQlQ3dnBzd1Z6bzRsUHp5cEJaMHFwcVVWcHpzSkFxQktG0gFWQVVfeXFMTUVsMXZ5NzNaNVFZblprRm1nZXlOYm1IbEs2Yk4wOVprTmJTVkNwUzctd18xVnJOekZoZmN4SkNfV1R4SHdPUnRldjRqS3RDMmNvN0JUQmc?oc=5",
+      "source": "UDN",
+      "sourceUrl": "https://udn.com",
+      "summary": "",
+      "publishedAt": "2026-10-20T07:00:00.000Z",
+      "timestamp": 1792479600000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "科學研究 - 東京科學大學開發出從海水淡化排水中高效回收鎂的新技術",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaVGlSSEkxQTY3bzBRRHBXcjVIazN4cVVsSkx2ZUFOMGZ2ZmpJdjktbFA2SjQzNHFGNVEtQmgxMmxZUWtRc2x3Zk1xaDdvemd2c0F5aUhaV0ZvdUtHeHNFTW5ONnJjeHJCV1ZjSnk1NjFDT2lLQlE?oc=5",
+      "source": "客观日本",
+      "sourceUrl": "https://tc.keguanjp.com",
+      "summary": "",
+      "publishedAt": "2026-10-20T07:00:00.000Z",
+      "timestamp": 1792479600000,
+      "matchedKeywords": [
+        "海水淡化"
+      ]
+    },
+    {
+      "title": "淡水水資源回收中心擴建動土 預計2028年完工",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oU0pZX3FIME5FaXZCWGNhNUJHLWQzbmFmcjNsenBneXBkQ054WV8zVW4yLWZSLUNsY1BtbVJzanhCUnpaNjAwb0MyV2JlYlh1Yk5pNEhYa3NTWGk5ejFUdmZZTjhtUnM?oc=5",
+      "source": "AN不動產新聞網",
+      "sourceUrl": "https://annewsmedia.com",
+      "summary": "",
+      "publishedAt": "2026-10-19T07:00:00.000Z",
+      "timestamp": 1792393200000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "響應2026國際水週 愛女孩打造非洲偏鄉可永續經營水資源解方",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pYmhwUVJycUtTek1LZVpuaTFmRklHazFUUi1xdjE2UjFjZklsMFpnVWlNWmg4TDJDZktTLUMxcEptWmo0RUZra2I3NjNLTzZ4NlloaENn?oc=5",
+      "source": "中央社 CNA",
+      "sourceUrl": "https://www.cna.com.tw",
+      "summary": "",
+      "publishedAt": "2026-10-19T07:00:00.000Z",
+      "timestamp": 1792393200000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "為AI產業超前部署！淡水水資源中心擴建動土 日處理量爆增- 生活",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IR3NnUEhjeFdUTDNqckoxZ3llS3VRMU1KNUpVYXhPZWdzVFREa2xyd0ktZS1fOG5TYzlGRi1QaGJwV1hHZkpTNG1uczhjbGEwYmhxX1NMMVlpd0c1Xzhv?oc=5",
+      "source": "工商時報",
+      "sourceUrl": "https://www.ctee.com.tw",
+      "summary": "",
+      "publishedAt": "2026-10-19T07:00:00.000Z",
+      "timestamp": 1792393200000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "為首都圈黃金廊帶奠定基礎 淡水水資源回收中心擴建今動土",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBERjNXWGRGNklseXdSMFJvRW9vSVRETHZObVNWN0Zxd2YtRFo3NGF5UnlQc0RpVDAwSW5mT2hyUFZZd2F3TlNORmJ3aWo4c2cyZXROeDlrWQ?oc=5",
+      "source": "Rti 中央廣播電臺",
+      "sourceUrl": "https://www.rti.org.tw",
+      "summary": "",
+      "publishedAt": "2026-10-19T07:00:00.000Z",
+      "timestamp": 1792393200000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "因人口快速增加淡水水資源回收中心擴建動工| 大台北| 地方",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2MHJzWHBaTldvMEd6U1JwT3RqRnBTcHFNd1FSSzJkTHVDVVBYUS05bUsxNUhscHhodW8zUmt4NmwtckRzYmlZOTk1WHZtOFhX?oc=5",
+      "source": "UDN",
+      "sourceUrl": "https://udn.com",
+      "summary": "",
+      "publishedAt": "2026-10-19T07:00:00.000Z",
+      "timestamp": 1792393200000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "淡水污水量能大升級！侯友宜宣布水資源回收中心動土，因應淡海科技園區發展| 鄧亦涵 | 地方新聞",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IckhTWi1iX3dEcWd5RmkwTDdPRHlNY3kxVW81T1loZmdkQ0hjaWE0N2dtQUVTSGV4aGV4YmdZdkxmcllHWjljWTlHSVpFdw?oc=5",
+      "source": "風傳媒",
+      "sourceUrl": "https://www.storm.mg",
+      "summary": "",
+      "publishedAt": "2026-10-19T07:00:00.000Z",
+      "timestamp": 1792393200000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "淡水水資源回收中心擴建動土 斥資1.8億滿足25.7萬人需求",
+      "link": "https://news.ltn.com.tw/news/NewTaipei/breakingnews/5611093",
+      "source": "自由時報電子報",
+      "sourceUrl": "",
+      "summary": "因應淡水區人口成長及污水量增加，新北市水利局辦理「淡水水資源回收中心超額第一期擴建工程」，今（19日）由市長侯友宜主持動土典禮。工程總經費1.8億元，預計2028年9月完工，每日污水處理量將由5.6萬噸提升至7萬噸，可滿足淡水都市計畫範圍2042年計畫人口25.7萬人的污水處理需求。侯友宜指出，淡水地區近年人口快速成長，污水處理需求也隨之增加。為提前因應未來人口發展及污水量成長，市府推動淡水水資源 ...",
+      "publishedAt": "2026-10-19T05:29:00.000Z",
+      "timestamp": 1792387740000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "天意能創參展2026水資源展圓滿落幕！首創「水資源×能源×環工」整合平台 打造AI時代永續基礎建設",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8taEpQSFVrVTlIbkRDazR6QUU2XzREZEQxMFVJb3hTQVdaQ2hYYUV6ZDBIbG9BWnBXMllOd0ExWnd3QjdFaU5LaHBmTmNMMzBWYWdjbmwzdl9neVdYN2hF?oc=5",
+      "source": "工商時報",
+      "sourceUrl": "https://www.ctee.com.tw",
+      "summary": "",
+      "publishedAt": "2026-10-16T07:00:00.000Z",
+      "timestamp": 1792134000000,
       "matchedKeywords": [
         "水資源"
       ]
@@ -452,6 +925,42 @@
       ]
     },
     {
+      "title": "全球水資源挑戰升溫 貿協 10/15 匯聚國際專家共探解方 | 產業動態 | 商情",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54QU1DVVdwdkZVcjBuWGR2a19CaktwRWgxZnBOanM1RUlPZ3pxSGJnTWo4SjNFNUJabWdBUE1ydWdReVNiVFlyRzlXUXNmekN1SnZpRktaRlU3cFU?oc=5",
+      "source": "經濟日報",
+      "sourceUrl": "https://money.udn.com",
+      "summary": "",
+      "publishedAt": "2026-10-14T07:00:00.000Z",
+      "timestamp": 1791961200000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "力麗集團旗下天意能創整合四大戰隊 切入水資源、綠電與AI環工",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0akpVbWk2Y0tvLXJTbG94SEVPcEJQbGx1V1NRUkJXdUZRQVc0N1p6T3drQUVHNE1nTV9vVW0yVWgxSXFFcGkxWmU4NnhtUFE?oc=5",
+      "source": "鉅亨網",
+      "sourceUrl": "https://news.cnyes.com",
+      "summary": "",
+      "publishedAt": "2026-10-13T07:00:00.000Z",
+      "timestamp": 1791874800000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "全球水資源挑戰升溫貿協10/15匯聚國際專家共探解方聚焦PFAS、AI水處理與工業水循環掌握產業永續新趨勢| 生活",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SUVdxd0RNdHdYcEhidjliWE5icVRMZXNwS3pLSUI5NS1SejVYTGdGLVFDczYzWXRDcGU4TzN4bThVSTg2TWI4UFhPaXI4VzBVaVFqcUV5cGlyZWFURzE4?oc=5",
+      "source": "非凡新聞台",
+      "sourceUrl": "http://news.ustv.com.tw",
+      "summary": "",
+      "publishedAt": "2026-10-13T07:00:00.000Z",
+      "timestamp": 1791874800000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
       "title": "2026台灣國際水週 國統秀海淡技術與產業鏈實績",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jSVlFcWUtd09jcGVsbUVSTUdTdVFONnNBZ19XYm1tajlHUEFkRlVQcDlPSE9JbEhmNk1hRUs5NjQ2bEN5UWUybXMwNjRoMXZMdGoxNldBaUxaandRUTQ2bGZBbm1CZERWSDdz?oc=5",
       "source": "中時新聞網",
@@ -460,522 +969,18 @@
       "publishedAt": "2026-10-12T07:00:00.000Z",
       "timestamp": 1791788400000,
       "matchedKeywords": [
-        "海水淡化"
-      ]
-    },
-    {
-      "title": "水資源挑戰升溫 貿協10/15邀專家探解方、聚焦AI水處理到產業實務",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94TWU4eHBaWk0yRVFiM1ZDdnN6dTZMajRwN3N3RzRFeVVvUmZsNXo2bm9LeXFDeHdVbHBObS14X3pudW4wdFdPUnJEaDk4QTg?oc=5",
-      "source": "鉅亨網",
-      "sourceUrl": "https://news.cnyes.com",
-      "summary": "",
-      "publishedAt": "2026-10-08T07:00:00.000Z",
-      "timestamp": 1791442800000,
-      "matchedKeywords": [
-        "水資源"
-      ]
-    },
-    {
-      "title": "永續發展台灣水資源管理",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YTmV1cUFrcDNDLWdXX3Q5QmRhZzBGelNhallBb28tYUs2eTBteEh1SFdGSGlYdmxfN19OVkVnV0RmS3F6UU95emtlcHBGMU1KWVAzdTBoMEplQ3p2UTlRX3FKOERSREFGaUo4Qw?oc=5",
-      "source": "自來水全球資訊網",
-      "sourceUrl": "https://www.water.gov.tw",
-      "summary": "",
-      "publishedAt": "2026-08-10T07:00:00.000Z",
-      "timestamp": 1786345200000,
-      "matchedKeywords": [
-        "水資源"
-      ]
-    },
-    {
-      "title": "整理包／伊朗戰火揭波灣國家致命弱點 海水淡化廠接連遇襲",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qa2owckpNT2hWN19mdkxybUZHNV9obVFxUTN3Ynk2dVo2ZWV6cV8teFV5OEhWa1dVd0xDeUhxVU5yTlNYcnIwc0poaTRNeDlUNnZPcnNuN2xwUdIBX0FVX3lxTFBWdjAtcE4zcG04eTZScXlGLXhwRVZRa3RNaDBtUnZ2b3FJN3p6VldEekhSUTA2VnU5bVYxV0o2X3dyZHpCaXFZV3drTEsxbG4ybjM4T0ZzYlp1VERwdXZJ?oc=5",
-      "source": "經濟日報",
-      "sourceUrl": "https://money.udn.com",
-      "summary": "",
-      "publishedAt": "2026-07-22T07:00:00.000Z",
-      "timestamp": 1784703600000,
-      "matchedKeywords": [
-        "海水淡化"
-      ]
-    },
-    {
-      "title": "政策赋能海水淡化产业 六只概念股市盈率不足二十倍",
-      "link": "https://finance.eastmoney.com/a/202607213813786741.html",
-      "source": "东方财富网",
-      "sourceUrl": "",
-      "summary": "全球淡水资源供需矛盾持续加剧，海水淡化成为重要补水路径，行业增长空间广阔，产业投资与资本市场同步迎来发展机遇。 政策赋能海水淡化产业 据国家发展改革委网站日前消息，国家发展 ...",
-      "publishedAt": "2026-07-20T17:00:00.000Z",
-      "timestamp": 1784566800000,
-      "matchedKeywords": [
-        "海水淡化"
-      ]
-    },
-    {
-      "title": "陸海水淡化產業發展行動方案發布 目標日產450萬噸",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15Z2MySjR2NlZJb2VBQ0JvUWVfN2NjWHo2RkZqaEFSMmRfYkxOVERjQnp2WWZZY2ppNjJrbk4xc2JJYnFZamdYd01nRlZLdjNpbmhqalRrVHF3a3NTb1VCWUxaRXE5R1lHaEhuYmhn?oc=5",
-      "source": "中時新聞網",
-      "sourceUrl": "https://www.chinatimes.com",
-      "summary": "",
-      "publishedAt": "2026-07-17T07:00:00.000Z",
-      "timestamp": 1784271600000,
-      "matchedKeywords": [
-        "海水淡化"
-      ]
-    },
-    {
-      "title": "印尼提4項水資源倡議 強化全球水資源落實機制",
-      "link": "https://www.cna.com.tw/news/aopl/202606300337.aspx",
-      "source": "中央社CNA",
-      "sourceUrl": "",
-      "summary": "本網站使用相關技術提供更好的閱讀體驗，同時尊重使用者隱私，點這裡瞭解中央社隱私聲明。當您關閉此視窗，代表您同意 ...",
-      "publishedAt": "2026-06-30T12:10:00.000Z",
-      "timestamp": 1782821400000,
-      "matchedKeywords": [
-        "水資源"
-      ]
-    },
-    {
-      "title": "水資源知識大挑戰活動開跑 iPhone 17、Dyson、Switch 2等超大好禮快來抽！",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZmc0VkxOWmZXZjgxY1pRNW9oR1VBblhrZWlQYWxmT01EUHI5N2tXQURMUjM3SzJMWFpjY2VwWXdYeWMxR1o3T1J4eWlaaFd6SmFMOEMtTU5fUkx0V04yN1dUSlZfMzJ3U2V2eTRLVS1XTVlPYkxTR05FUUlTRUQ3TThPSFY?oc=5",
-      "source": "臺北市政府全球資訊網",
-      "sourceUrl": "https://www.gov.taipei",
-      "summary": "",
-      "publishedAt": "2026-06-29T11:32:24.000Z",
-      "timestamp": 1782732744000,
-      "matchedKeywords": [
-        "水資源"
-      ]
-    },
-    {
-      "title": "台灣水庫、水壩將串連 共享水資源 珍珠串計畫 卓揆：保障台灣晶片、農業",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GMllXcnBHYjRGb0llYnJZZmUzLWdXaVQ1enBjay1hSkdDR1hUZEMxTWVsbzIyZW1md25NaHhqMlN2OGstRmtJVzlaMFZiVFlobGhHVlhR0gFbQVVfeXFMTVhvNHVBOVF1RmxVYlVtVXFvaWo3RG45Z3FYdm45LWJmUU0tOTV4bnpjR2oyeDEzbE9Fd0FTSzhNa0ZjV3E5WUtiTnBNdUpfMXgxcWt1MUpfMVFIaw?oc=5",
-      "source": "自由財經",
-      "sourceUrl": "https://ec.ltn.com.tw",
-      "summary": "",
-      "publishedAt": "2026-06-13T07:00:00.000Z",
-      "timestamp": 1781334000000,
-      "matchedKeywords": [
-        "水資源"
-      ]
-    },
-    {
-      "title": "【06/04 產業即時新聞】水資源族群盤中強勢表態，水情議題升溫引爆政策利多想像空間",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNk1xRlhGNXQ3UEpLbEVQVE1EQzlGdUJJZTI0TWU0ZUwyNmVTQll6ZTlzQjRNd3FQZ0RDQlY3RGFpZWdKYVNKVVRSOGRpQVRwR1FLZi0zNnhNSlprUlZaalR2dE5fT2I4aVNuaTlxWGNCamNOMDJabDZFSDBPWmtRUXBJaGV0SXAwYmRtb2lB?oc=5",
-      "source": "CMoney投資網誌",
-      "sourceUrl": "https://cmnews.com.tw",
-      "summary": "",
-      "publishedAt": "2026-06-04T07:00:00.000Z",
-      "timestamp": 1780556400000,
-      "matchedKeywords": [
-        "水資源"
-      ]
-    },
-    {
-      "title": "因應嘉科園區用水 布袋港外興建海水淡化廠引起漁民關切",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XYVFuLTl6Q0NCaFFENDBxRklRY2dLR2dBWHJfaHJvV1VxaWdpanJjSHNTcVJEVlNsMlFGMHlqbGF0ZW1nQnoyVlFNOHNXOFNj0gFWQVVfeXFMUHAtQUlEYkYtal9zSW41eHVNZ2ZPZFh5TUE2QTBkZm95ZGh3SEtiYWJMNVRhUDJuTlFzQV9SMk1QZ1phclVmYkhQdVFGcWlrQ1JTOEt0OXc?oc=5",
-      "source": "UDN",
-      "sourceUrl": "https://udn.com",
-      "summary": "",
-      "publishedAt": "2026-06-04T07:00:00.000Z",
-      "timestamp": 1780556400000,
-      "matchedKeywords": [
-        "海水淡化"
-      ]
-    },
-    {
-      "title": "嘉義興建海水淡化廠公聽會漁民憂鹵水影響養殖| 地方",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14Q2ZpNExvVTdCR2k3bk9STVlERkxGRktXSWNIN3ZuT25mblpVU0FtdXR2MW1lN0lwR2dVaGU0R3A4WlpFRkEtMlRvV0NyMDFIZThWdWN5YTd1dXVNbnZZ?oc=5",
-      "source": "中央社 CNA",
-      "sourceUrl": "https://www.cna.com.tw",
-      "summary": "",
-      "publishedAt": "2026-05-28T07:00:00.000Z",
-      "timestamp": 1779951600000,
-      "matchedKeywords": [
-        "海水淡化"
-      ]
-    },
-    {
-      "title": "台南將軍海水淡化廠進度超前 拚後年底正式通水",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45TUM3azhFMkRIU3FqUFB4R0RzaGpobjI2NGs5OUlydUhPNzJYQ1pWTEtTU3JFaGNFUjhhZlhFQUZpSzZkQmZsbGQtUmxLUmJm0gFWQVVfeXFMT2ZjOU04QjY5TGdUejAzaUgyQTUtYjhzcllkYXR5elFTLTJubUczYllsRkJXZ2s4QzdaTmE4VlRhaU5FRVZ3NzJaMmdYbURmeGIwT1F4TkE?oc=5",
-      "source": "UDN",
-      "sourceUrl": "https://udn.com",
-      "summary": "",
-      "publishedAt": "2026-05-20T07:00:00.000Z",
-      "timestamp": 1779260400000,
-      "matchedKeywords": [
-        "海水淡化"
-      ]
-    },
-    {
-      "title": "里長挺發展、漁民憂生計：嘉義布袋海水淡化廠環評通過 填海造陸引關注",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BWDFPMmhsNFJIWlEyYUdfWkNIcHg3dXN3NGxreXdHcXl6a0RDZDFSYVFZU2plZlBkdkNtdEJTLXoySmhXQm8wWVFpSVhpeEpRNVZpaTY0NGZrdFN1azZZ0gFkQVVfeXFMUHVSMjlNRFFWaW93Z242Qmk2TTA1V2J5Tlo2eklVelVSeDJ3OXRkT1NNQUlzV2NwYWF1NzlxRVFLVkEyWGFXQmtHcS1xaEh0d0U2aHJlbFQxOE11Tm0xbkxHQ1J5RA?oc=5",
-      "source": "倡議家",
-      "sourceUrl": "https://ubrand.udn.com",
-      "summary": "",
-      "publishedAt": "2026-04-30T07:00:00.000Z",
-      "timestamp": 1777532400000,
-      "matchedKeywords": [
-        "海水淡化"
-      ]
-    },
-    {
-      "title": "嘉義首座海水淡化廠環評通過 漁民憂生態生計衝擊施工期曝",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sLXBJTnhoOXluMGdhLUk2OHh4bjNRanAzNkNoZk93Tmw3bGtWMlpNZUw2Y1BfM3g3SjRCYkllc3ZaX3V5aVRmLTRWcEVsalFk0gFWQVVfeXFMT2hIZ1VsNlR5NWxXNjlNeW1rcWpiTmFDZXJjVVlfR2ZPRXdTa0lfeEViZ1BfUHZIZjVUR3lMY1RMTTJDR1RlNGFpeXBfMm9JUFpzUGFDenc?oc=5",
-      "source": "UDN",
-      "sourceUrl": "https://udn.com",
-      "summary": "",
-      "publishedAt": "2026-04-23T07:00:00.000Z",
-      "timestamp": 1776927600000,
-      "matchedKeywords": [
-        "海水淡化"
-      ]
-    },
-    {
-      "title": "台積公司雙管齊下，打造水資源學習新基地- 發揮永續影響力，驅動美好的改變",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0xSTVzMkRFQ0xqazR2SDFITkpEaDFIZDUyMjhpeTI1WjlpVjVsT1JKMlpBcG1OM1RHWWYydzBUeE9NNWhwdmtvUw?oc=5",
-      "source": "TSMC",
-      "sourceUrl": "https://esg.tsmc.com",
-      "summary": "",
-      "publishedAt": "2026-04-21T07:00:00.000Z",
-      "timestamp": 1776754800000,
-      "matchedKeywords": [
-        "水資源"
-      ]
-    },
-    {
-      "title": "伊朗襲科威特海水淡化廠威脅其9成飲水命脈| 國際",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vMm45RnozWmNIMkZVUXJ1cFF4TTdQZHBkRGFGRThxUjZfb19sTDdINW1VWVMzVjEwVnRFRjROWGxsWFV3eVJxWGxhbFBHc0loSllrbGw0ODVSbjVQYno4?oc=5",
-      "source": "中央社 CNA",
-      "sourceUrl": "https://www.cna.com.tw",
-      "summary": "",
-      "publishedAt": "2026-03-30T07:00:00.000Z",
-      "timestamp": 1774854000000,
-      "matchedKeywords": [
-        "海水淡化"
-      ]
-    },
-    {
-      "title": "攻擊海水淡化廠後果慘重 專家：恐演變成全民戰爭",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44ZGtwWWhLaVJSSlQwRDZVcS1neGoxcTQxNmE1aE1xZ0dSSUs0Q1dZQjh4X2J5Q1ZLZlRBNThoVFdZSDg0bXNRTlRsRk5xTDluc3ZNZ2hjX0NrUdIBX0FVX3lxTFB1UDljSXBZcHlzNFFhVFdxX3pFT3dzdUwxQmJ1M0dDdXhBZWo5SVFjZUowTm9OZENqQnoxTjFLUHJ1WF9IWVQ4NWpYcUxmb21ZWWxOUU5fUzFYQVpVckZV?oc=5",
-      "source": "經濟日報",
-      "sourceUrl": "https://money.udn.com",
-      "summary": "",
-      "publishedAt": "2026-03-13T07:00:00.000Z",
-      "timestamp": 1773385200000,
-      "matchedKeywords": [
-        "海水淡化"
-      ]
-    },
-    {
-      "title": "美媒：伊朗恐瞄準海水淡化廠- 國際",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCSFR4cVdhRkU0VjhPdkVHcEMwbW1lSEkyV1NvX1RNRlFxdHI0ZUpkWHFQMnktV3RpSmFRUUJUVXVNdUN6RGVjR3NzMWtoSWE0NHlKdXZVb2MtRU9ZR29raTlGbENvRjhfYlE?oc=5",
-      "source": "旺得富理財網",
-      "sourceUrl": "https://wantrich.chinatimes.com",
-      "summary": "",
-      "publishedAt": "2026-03-12T07:00:00.000Z",
-      "timestamp": 1773298800000,
-      "matchedKeywords": [
-        "海水淡化"
-      ]
-    },
-    {
-      "title": "學者：若伊朗攻擊海水淡化廠將是末日訊號",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQSng4LUI2ZHJidGVTams1NW80eWVEdHRNZm12akZ4XzBrUlhSaEtZSWJDeGdlREVlMlhtQmp4ajNTa2xCdW1kLXk2SW90UlphQ1pTMlpBZkNGUjN1aUhWU1JJLVppXzFaWXpvS1BfbXFfT3dWLXhXamlkeXpIcWIwSWhXSzR2T1FJWUJxSTZVVV9fNFIwcWFxQ21lcTBZbHI5ZllCU1Y5MUVmd29JR2N5OFd1NjBWOWRwOHZ5LWthc09uc1E4aXRJc2dZbmhvY0VveUthb3QtSVg3SUhMMkVXSVB5dlBNQnZ2Q21obHM0Nm54b080Ykc3dFp1MzEtSVNZaGdMbmtOOXlXYmV4LUVhM2xFMnpHRzI3MF9ReERWQm9manctU0VhMm1RMHY?oc=5",
-      "source": "Yahoo新聞",
-      "sourceUrl": "https://tw.news.yahoo.com",
-      "summary": "",
-      "publishedAt": "2026-03-05T08:00:00.000Z",
-      "timestamp": 1772697600000,
-      "matchedKeywords": [
-        "海水淡化"
-      ]
-    },
-    {
-      "title": "陶令文大使受邀出席巴士底海水淡化廠啟用典禮",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rRUJ2WHBTUWRFQnc5anhPN3BGcWlGWFU4MHFLU1VJM1ViN3llY3dPVVE4aHI4cU04R3RfNmQxUlRPM1MxVFZfQ09NQVc3ZTBHOXc5Zkt0SzBpTWc?oc=5",
-      "source": "ROC-Taiwan.org",
-      "sourceUrl": "https://www.taiwanembassy.org",
-      "summary": "",
-      "publishedAt": "2026-03-04T21:19:34.000Z",
-      "timestamp": 1772659174000,
-      "matchedKeywords": [
-        "海水淡化"
-      ]
-    },
-    {
-      "title": "太陽能海水淡化廠市場規模及預測報告（2035年）",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMmNFX2w0X2JUZ1Bfck5JRkhHM1RSTDRXZ01kcmNwbUozMDl6NUJIbFgwWjF3UEczTEhWeUQ5ZDl3ckk3R0toSWt1UGFvTzU5c0IxZzZLeFVZa09LeVA2RWQ3N2dKLWVjMkxmUWlEYmUxc3JoOUktcU9HeFZVZXVvVGlPajJ1SU5GT3NjcQ?oc=5",
-      "source": "Research Nester",
-      "sourceUrl": "https://www.researchnester.com",
-      "summary": "",
-      "publishedAt": "2026-02-25T08:00:00.000Z",
-      "timestamp": 1772006400000,
-      "matchedKeywords": [
-        "海水淡化"
-      ]
-    },
-    {
-      "title": "台灣也要有死海了？澎湖海水淡化廠的高鹽度鹵水再利用 變身「不沉之海」",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5INjFvMFM4a1daV1p0N21BUndRdUNISFVFblA1ZE5sZ1RrVmFWYVVYTGRVR1Atc1Izck1yM1dtOFdKMThVREVULXJlNmFGWk1QTERpRVFKNmg4anQ5alg00gFkQVVfeXFMTy00SkctVF9Ra0YzeTc1dm1uQUpSMTlOX3ZzdklETTFXMk52OUp6Wi1laGI4NHVyX05ScnpzbDdUeUs5SFVXOWd6aXU5bHdTZkV0T2ViZUpUOVJoWXVPcVdrT25ldg?oc=5",
-      "source": "倡議家",
-      "sourceUrl": "https://ubrand.udn.com",
-      "summary": "",
-      "publishedAt": "2026-02-24T08:00:00.000Z",
-      "timestamp": 1771920000000,
-      "matchedKeywords": [
-        "海水淡化"
-      ]
-    },
-    {
-      "title": "高科技用水解方！新竹、台南海水淡化廠明後年完工 高雄、嘉義評估中",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1aEVjZ2ZsMHc1dU5YMHRQNFBoaFBCdFd3dVpEX1VtbWZNN2dHZVZaaHpYV0plcl8yMndKWjlWcmRfeE5GQkI2QWhPb2VhX2VDZXFlMjM5UG1xQ3liS1dha09EdmViN3E4ZnVMdVJrSQ?oc=5",
-      "source": "知新聞",
-      "sourceUrl": "https://www.knews.com.tw",
-      "summary": "",
-      "publishedAt": "2026-02-08T08:00:00.000Z",
-      "timestamp": 1770537600000,
-      "matchedKeywords": [
-        "海水淡化"
-      ]
-    },
-    {
-      "title": "【永續新聞快訊】聯合國警示全球進入「水資源破產」時代",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5MekprY3BwRlp6VjZadjVQMjBWOW5LOVdiQi1VOFFRVkxlcmpaOGY4aTZOQTV4WWNPQlhXLXlTSGtXdw?oc=5",
-      "source": "CSRone 永續智庫",
-      "sourceUrl": "https://csrone.com",
-      "summary": "",
-      "publishedAt": "2026-01-23T08:00:00.000Z",
-      "timestamp": 1769155200000,
-      "matchedKeywords": [
-        "水資源"
-      ]
-    },
-    {
-      "title": "海水淡化廠將遍地開花？陸擬沿海布局「平急兩用」工程",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51cGdlNUxuelJYLXRoazFqQ1pJUmJEM1hUbmx0VzN2a1JTVTJ3UlV5QmhlbUhLdUhJeFBfTHhadW56bHR5b05CVzV1SktveHpaVWhJOGtkTzB4MmluTDg0?oc=5",
-      "source": "工商時報",
-      "sourceUrl": "https://www.ctee.com.tw",
-      "summary": "",
-      "publishedAt": "2025-10-08T07:00:00.000Z",
-      "timestamp": 1759906800000,
-      "matchedKeywords": [
-        "海水淡化"
-      ]
-    },
-    {
-      "title": "前瞻基礎建設計畫—水環境建設",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa1VyejJnOFI3dExyNlpWdjlUenZsLWJob3Q1ekVRNngwelJEWmxHNTBEbk1uNUhnaGRpOUhxYnFBUlFBNzZCbmFFV2JpU0ZubS1YYm1wUVhKMk1iSThrSEh4QlluemFDRGJiUjBSZFZMbmUycmtTb3dSYzI0a1l6ak15V2s?oc=5",
-      "source": "行政院",
-      "sourceUrl": "https://www.ey.gov.tw",
-      "summary": "",
-      "publishedAt": "2025-08-08T04:45:40.000Z",
-      "timestamp": 1754628340000,
-      "matchedKeywords": [
-        "水資源"
-      ]
-    },
-    {
-      "title": "人工智慧會威脅水資源嗎？",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BNVFvRWNXcVRCUFZMaGNwVkhiZnhJTzZ1MlNaeExUQkt1a0YyRTVLemswLUNBaEs5ZXltVUFyaUYwYXdVU1V1clNud2hINlh6MXY1a1NKRzFILVAyQ25IS0hVbmRSUdIBa0FVX3lxTE0yWTVsY0VaUHdMSlhIZUdBUUdwQlRYeDJmMkpHbzB3N0hMWW90QkV6c0lEeGI3SjhkQXY4X0ZMM01zamlJTFF0Z0dwVHN3WWg3VDhsV2tFc0dJRnlpUnJPRVpWajJlNDhiamVR?oc=5",
-      "source": "BBC",
-      "sourceUrl": "https://www.bbc.com",
-      "summary": "",
-      "publishedAt": "2025-07-14T07:00:00.000Z",
-      "timestamp": 1752476400000,
-      "matchedKeywords": [
-        "水資源"
-      ]
-    },
-    {
-      "title": "出席新竹海水淡化廠開工典禮 卓揆盼2027年如期完成 每年供水3,000萬噸 有助民生用水及產業發展",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV1JOX0VKd29jcXl2Z1pvVW01NTJDT0pySlBYVlRuYXh6ZFdwRVdsTjVEZURrLVpXVllDZ3g1YVU2aFRzQ0hzU0szMGVBQ3d6bjVEUXJQM3pVSWRrSHprS1hXNldUNzhtVTl3TFVqYlFieGY2bDFHWDdETDVCM3ZWVzFmeTNxV0E?oc=5",
-      "source": "行政院",
-      "sourceUrl": "https://www.ey.gov.tw",
-      "summary": "",
-      "publishedAt": "2025-05-16T07:00:00.000Z",
-      "timestamp": 1747378800000,
-      "matchedKeywords": [
-        "海水淡化"
-      ]
-    },
-    {
-      "title": "全球典範工業膜法海水淡化廠正式運營助力可持續水資源發展- 商情",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11X1p3T19HTFczSTlnYlZCbUljXzcwaFY0dmVKTGttcl96TjJnU0hTZlZmUGNSajNlazhJV3dsMGowVE9RanpYOXB2Mm9KQ01lNW9zc3NxajNzeXhpN3Jj?oc=5",
-      "source": "工商時報",
-      "sourceUrl": "https://www.ctee.com.tw",
-      "summary": "",
-      "publishedAt": "2025-04-29T07:00:00.000Z",
-      "timestamp": 1745910000000,
-      "matchedKeywords": [
         "水資源",
         "海水淡化"
       ]
     },
     {
-      "title": "重磅！2025年中国及31省市海水淡化行业政策汇总及解读（全）",
-      "link": "https://www.qianzhan.com/analyst/detail/220/250312-705d9053.html",
-      "source": "前瞻网",
-      "sourceUrl": "",
-      "summary": "行业主要上市公司：双良节能(600481)、碧水源(300070)、沃顿科技(000920)等。 海水淡化软件行业从“十二五”开始成为国家重点发展任务。2012年国家发布《中国云科技发展“十二五”专项规划 ...",
-      "publishedAt": "2025-03-12T07:00:00.000Z",
-      "timestamp": 1741762800000,
-      "matchedKeywords": [
-        "海水淡化"
-      ]
-    },
-    {
-      "title": "台南缺水有解？海水淡化廠獲批 正與漁民團體溝通",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5odndGWk5iaHNOcFZBVDY2SXBzLURyRzFhNGI5R0FLcm84dmI5NkUzM2pXSWFfS0xCM2xPb0dvdGVLbFR0YnRSbzlaX2lZR2hZNDVkM19zU1lEU0l1d3p30gFkQVVfeXFMUEFOaTRkaFlEM0ZyUlhjMTBzeWtjT2o1a0oyNU9xc0d4ZU5PT2t4S3FMOEZiNE1zLUVPbFN0RnU3WDVJdjlpelZJZGtSSzNKb2l6cFJsUU9jNHJ5d1NMX3hlRmhaWA?oc=5",
-      "source": "倡議家",
-      "sourceUrl": "https://ubrand.udn.com",
+      "title": "台灣年雨量豐沛為何仍會缺水？三得利引進日本「水育」計畫 從彰化校園推動水資源教育",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xRV9JdGJVS0FaX2phd2NYU0JvenZMWDBUTTdDX09RRmQ1ajh2QkFtazBuVDdGbWp0a2VWNzRTaUExbGJhYWs2YzFYUWkzN21WRzhtT0twbnZEVVd4blk3V0RicEJfR1E?oc=5",
+      "source": "食力 foodNEXT",
+      "sourceUrl": "https://www.foodnext.net",
       "summary": "",
-      "publishedAt": "2024-10-14T07:00:00.000Z",
-      "timestamp": 1728889200000,
-      "matchedKeywords": [
-        "海水淡化"
-      ]
-    },
-    {
-      "title": "因應產業發展需求 將軍海水淡化廠開發計畫內政部審定通過 將穩定台南用水",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IaFgyZGlJdHREQnp4eTVvYmVXWkZHazlIbER4M1NYOHBWbmNuR0QxOFVlU0lkc1FPMW4zdWNpM2JxRTNuMm43X3lwNmdlOGV3?oc=5",
-      "source": "自由時報",
-      "sourceUrl": "https://estate.ltn.com.tw",
-      "summary": "",
-      "publishedAt": "2024-10-08T07:00:00.000Z",
-      "timestamp": 1728370800000,
-      "matchedKeywords": [
-        "海水淡化"
-      ]
-    },
-    {
-      "title": "水資源循環新里程碑 中市水湳再生水今年底正式供給中科園區",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5YWV3VDN0dUs4aFVpS3ByNDhHdkRPRHNJUFVISHM0VlFEUk4yS0QxR3NHRF9WY0ZUR2U3M0xOSnlQbV96U2JBQTVsd0lnc29ELUE?oc=5",
-      "source": "臺中市政府全球資訊網",
-      "sourceUrl": "https://www.taichung.gov.tw",
-      "summary": "",
-      "publishedAt": "2024-06-22T07:00:00.000Z",
-      "timestamp": 1719039600000,
-      "matchedKeywords": [
-        "水資源"
-      ]
-    },
-    {
-      "title": "視察澎湖光榮水資源回收中心 陳揆：提升污水處理量能及接管普及率 促進資源永續利用",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT0s1WG5JNlRmSlJFRGpuWGxZdl8wN0h5MDJwUUptNkR0QmtsYnFMQW1kZDZsMEI0S1A2SnZlUUlFSWtEcHNwOWtrTjRxM0xJS0c5RHNXM0dZYk9MT3NQbk1mek1QVU1qXy1qRnBTYlk2WXBHUEZjY0k0RWZSZHV4eW96VnZOM2c?oc=5",
-      "source": "行政院",
-      "sourceUrl": "https://www.ey.gov.tw",
-      "summary": "",
-      "publishedAt": "2023-12-02T06:50:17.000Z",
-      "timestamp": 1701499817000,
-      "matchedKeywords": [
-        "水資源"
-      ]
-    },
-    {
-      "title": "視察澎湖馬公6,000噸海水淡化廠 陳揆：穩定地方供水 促進觀光產業蓬勃發展",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMktCNUpuM09wWU1uWGlpR1RoVVBYeUxqM1F3dkNocDlRaUZKN2Zza3h6U2hXSWZjVTZRdFZ5OVBUb2FEdVhZbGkwM0JDZi1uZmVoMzRsWThXY2dzajZJQ2Z4bE1Kb3ZIZ0tiY1V1X3lUSTdUblNRR0ViakdnYjdHOG82d0wzd2M?oc=5",
-      "source": "行政院",
-      "sourceUrl": "https://www.ey.gov.tw",
-      "summary": "",
-      "publishedAt": "2023-09-12T07:00:00.000Z",
-      "timestamp": 1694502000000,
-      "matchedKeywords": [
-        "海水淡化"
-      ]
-    },
-    {
-      "title": "西班牙巴塞隆納旱象嚴重 海水淡化僅救急非解方",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DODdBWUM2YjdiWTIzRnNqYm5yVm1HSG9vTGZMTHE3TEg0QTFtTno5NG9xXzVUQnd4enNwSkhzdjU5REh0N3NjNHlsaFpLWEE?oc=5",
-      "source": "公視新聞",
-      "sourceUrl": "https://news.pts.org.tw",
-      "summary": "",
-      "publishedAt": "2023-06-09T07:00:00.000Z",
-      "timestamp": 1686294000000,
-      "matchedKeywords": [
-        "海水淡化"
-      ]
-    },
-    {
-      "title": "【最全】2023年中国海水淡化行业上市公司全方位对比(附业务布局汇总、业绩对比、业务规划等)",
-      "link": "https://www.qianzhan.com/analyst/detail/220/230419-a1830afe.html",
-      "source": "前瞻网",
-      "sourceUrl": "",
-      "summary": "海水淡化行业产业链条长，涉及领域广，包括海水淡化设备制造、海水淡化工程服务/咨询以及海水淡化工程建设等环节。总体 ...",
-      "publishedAt": "2023-04-19T08:00:00.000Z",
-      "timestamp": 1681891200000,
-      "matchedKeywords": [
-        "海水淡化"
-      ]
-    },
-    {
-      "title": "實現水資源永續循環-工業技術與資訊月刊-出版品-新聞中心-工業技術研究院 - Industrial Technology Research Institute",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUGMxMXdOWnVGRDJRcTZkdkNNMHdNYmo2TDc3eldST2ljb1kwWXlVaXpubENJOXQ4TDBJeTVXX215VGp6QXJIeTRQblhzNWM5TjBOVFRzVmx0eU5feHVlVUtweVZyeXRITUlhWFlLeFR3MmxJOVdkYVN4N2lBSkhycklxRXNFaFhHUndvcF9mcFJlZ25YamE0dWt0bC16NWlzcjVNZllxM2NUbTgyZ2xReXlCT25LcjdrWVlHZWxZaw?oc=5",
-      "source": "Industrial Technology Research Institute",
-      "sourceUrl": "https://www.itri.org.tw",
-      "summary": "實現水資源永續循環-工業技術與資訊月刊-出版品-新聞中心-工業技術研究院 Industrial Technology Research Institute",
-      "publishedAt": "2023-03-15T07:00:00.000Z",
-      "timestamp": 1678863600000,
-      "matchedKeywords": [
-        "水資源"
-      ]
-    },
-    {
-      "title": "台灣到底應不應蓋海水淡化廠？",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJSG1sakU5NFVvenFLa2VNdGJpOEJTaTBRdnZjMFAzOWVPdmF0b3o4SHRhUVBPNHpfdlBxLVdXdHZnZk8tc3hBQU1sb0U0cFVla2RzbWFLV3VuU1lQYmVV?oc=5",
-      "source": "工商時報",
-      "sourceUrl": "https://www.ctee.com.tw",
-      "summary": "",
-      "publishedAt": "2022-07-16T07:00:00.000Z",
-      "timestamp": 1657954800000,
-      "matchedKeywords": [
-        "海水淡化"
-      ]
-    },
-    {
-      "title": "台南、新竹海水淡化廠環評過關 日產水30萬噸、年耗電增3.8億度",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLVXppbEdaQnMxSk5JeFBHYVdaVnYzZVZmOV9HUkNPdFVJcU9OSEZjYlUyVUNOczY4SXpoOGN6bHI3WHAxZzlPbGtDZDRhZw?oc=5",
-      "source": "環境資訊中心",
-      "sourceUrl": "https://www.e-info.org.tw",
-      "summary": "",
-      "publishedAt": "2022-07-13T07:00:00.000Z",
-      "timestamp": 1657695600000,
-      "matchedKeywords": [
-        "海水淡化"
-      ]
-    },
-    {
-      "title": "水資源再利用新紀元！全國最大「福田再生水示範案」115年供水",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zNGs0U0RpTFFCQ19xVmZFSnZUXzZlUUY4Uzc0R3FPUkI0UjFTYW5NVm01ZWR6Y3JYd1dIdWg2d1dsTUpQUGFCMVRkT0VYRmpJbXc?oc=5",
-      "source": "臺中市政府全球資訊網",
-      "sourceUrl": "https://www.taichung.gov.tw",
-      "summary": "",
-      "publishedAt": "2022-07-05T07:00:00.000Z",
-      "timestamp": 1657004400000,
-      "matchedKeywords": [
-        "水資源"
-      ]
-    },
-    {
-      "title": "天津、青岛推行海水淡化“放大招”：成本高昂，会否导致水价上升",
-      "link": "https://news.qq.com/rain/a/20220424A08P1Z00",
-      "source": "腾讯网",
-      "sourceUrl": "",
-      "summary": "最近，北方沿海城市天津宣布，将海水淡化水作为京津冀协同发展的战略资源。 近日出台的《天津市促进海水淡化产业高质量发展实施方案》提出，到2025年，天津海水淡化水年供水量将达1亿 ...",
-      "publishedAt": "2022-04-25T00:56:00.000Z",
-      "timestamp": 1650848160000,
-      "matchedKeywords": [
-        "海水淡化"
-      ]
-    },
-    {
-      "title": "雨來了，留得住多少水？ 台灣水資源像坐擁金山的窮人",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6Q0RJTzlhTWRPYUpRSjJYQlpyNWRFeTFod291dXVnM3JyR0lpRDMySG91MGZtbFJ3ZC1HUzlqNEFPZGVXWnJLc2k4dkQ1Zw?oc=5",
-      "source": "環境資訊中心",
-      "sourceUrl": "https://www.e-info.org.tw",
-      "summary": "",
-      "publishedAt": "2021-08-08T07:00:00.000Z",
-      "timestamp": 1628406000000,
+      "publishedAt": "2026-10-12T07:00:00.000Z",
+      "timestamp": 1791788400000,
       "matchedKeywords": [
         "水資源"
       ]

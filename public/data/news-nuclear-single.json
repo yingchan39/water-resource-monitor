@@ -1,0 +1,982 @@
+{
+  "keyword": "核電",
+  "keywords": [
+    "核電"
+  ],
+  "mode": "or",
+  "fetchedAt": "2026-11-27T09:03:20.015Z",
+  "total": 95,
+  "sources": [
+    {
+      "name": "Google 新聞 (台灣)",
+      "count": 92
+    },
+    {
+      "name": "Bing 新聞 (台灣)",
+      "count": 12
+    }
+  ],
+  "errors": [],
+  "items": [
+    {
+      "title": "11月28日公投投什麼？第22案問核電政策，通過看兩道門檻",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MV21kQnVCaldyUHRQRmpLVjctTHBKd2dNdHYzRnpuYWcyNGVlQnN3anJ2OE9tUUVFYldjTHpQeDZnOVZ3a2N2a3JHcVJ5NFMtb01lM3BzN2VlaUYwdTFWQkt0ektIeE53VTU2SXgxUTN1QQ?oc=5",
+      "source": "maygoddejia.com.tw",
+      "sourceUrl": "https://maygoddejia.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T08:46:35.000Z",
+      "timestamp": 1795769195000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "專訪》第四代核能來敲門，X-energy 眼中台灣的新機會",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMWdnUDNWODloT0JocktvMUNsMGFfNlFrNjdNb0FxWUZjNXlLQnFEYlluVnc3R1h0OUdsTjJvR2ktcUNubkt2eE5WUFd3R3B1ZmhfLUVsYmlXb0FEN3FKNGtLOUNWSklzNUJsaW9xYmtUdUpxaVUycWFFMnBKbEcxQ1RBVG0tUTBaVkxiLTZXRFNBeGFCU2wzSFVTeXBGdi1MMGZuczBmTU56YklqbkRwSjBobjkzVk1QVEE?oc=5",
+      "source": "TechNews 科技新報",
+      "sourceUrl": "https://technews.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T08:02:35.000Z",
+      "timestamp": 1795766555000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "核能公投明登場！環團揭「台灣核武秘辛」示警：核能天生抗拒民主監督| 環保",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YWjVDSmlUSExsckdBLXRDbnk2QlNmd0VxdEtIMkRzeG5neGNqWUw2WGsxRTBFNzVHNWlXLWdPSEJwZFdXUUxRNUZIa2lmQmNobENRTktyekNQcGs?oc=5",
+      "source": "Newtalk新聞",
+      "sourceUrl": "https://newtalk.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T07:28:10.000Z",
+      "timestamp": 1795764490000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "九合一綁核能公投將登場藍召開記者會籲領票投同意- 生活新聞",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd3dGdW1WZGl2WXZzUXZFWFFQTkVwNVBvQjMzNXBNN0EtTzdrRTd5cTNEc2ZKekJDa19tM1JlSUd2RE9YMWVsTDNiYUxhUXpkUURyOTJYMmpqTnFQZDFFbW1pcEd3V3VDb0s4VGhGTDg2MGhkd2FpeXl0RmxzMXNzRkpZMFBrNzFC?oc=5",
+      "source": "PChome Online 新聞",
+      "sourceUrl": "https://news.pchome.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T07:11:00.000Z",
+      "timestamp": 1795763460000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "斥網軍造謠核電公投是藍白擴權 黃士修：不投票只會爽到廢核光電利益者",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00OGVPbUladEpoUlpxekRGbmc4V1lLd0tyOTg5NUZvR0NvOHlnbzhNZ2tndXRCQUl1WmtpaUZMTWszcVNyX3FVeGx6dF9fd21WTWpxOFNxM1Q?oc=5",
+      "source": "梅花新聞網",
+      "sourceUrl": "https://www.i-meihua.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T06:59:00.000Z",
+      "timestamp": 1795762740000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "2026九合一選舉明天投票！35大投票QA一次看懂：投票所查詢、22縣市長候選人名單、核電公投、最多領6 張票",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80QmM3YlEtLVYtWDU0RWN5SlRpbHY4V0ZwUW1WN2tpYTRScmpndmtaTEFKLXNUQWlrazVNTS16eWhnQlRhcWV2ODUzMGNwdWxo?oc=5",
+      "source": "Storm.mg",
+      "sourceUrl": "https://www.storm.mg",
+      "summary": "",
+      "publishedAt": "2026-11-27T06:42:00.000Z",
+      "timestamp": 1795761720000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "「廢除非核家園公投」明投票！藍籲：徹底終結錯誤能源政策",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CWkRGMTlJSHV3NDBydTkyTm42SHRqbjJWYUhPVWR4TnVRcXBfVDRmaFVpd2dQUDdqbzRjNEFEZWkyUC1Va2laSjROTC1JMmxmMGRj?oc=5",
+      "source": "TVBS新聞",
+      "sourceUrl": "https://news.tvbs.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T05:56:00.000Z",
+      "timestamp": 1795758960000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "核電公投遭指藍白擴權 黃士修轟斷章取義",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV1dMcXdGY05EdER6bm1qRTdUSHdzZTlrU3BvTnFGVFp0VWRDeHNaNk95VlBqMDFiZWhnUG15aHdsTmxkUXpUaURkall3V2hwTnR2M1BYbjY2UWRkdVg2RGQtVlhMOVB5Rmkydk5qbjdKRDZRVXBoMXBBVE11UE1ubjBqWUJMYzNqZmJfZVdRUQ?oc=5",
+      "source": "中時新聞網",
+      "sourceUrl": "https://www.chinatimes.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T05:48:57.000Z",
+      "timestamp": 1795758537000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "徹底終結非核家園！國民黨呼籲全民明天核電公投案投下同意票",
+      "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxQNldYd2x5aVczMHpEUXFIWldCMW1TQ0tuZWdQbVB5bi1PV1pGSnhUM0JKSlMwek5ReEJmWVRqWUUzWGtGMTdhZkJzSVFHNVo2dnBOdG81Z1RWdExIR3JOWW9lc194ZXJKQ25WVXp2eDhlQWo2bWh4akpKVGNFZEU1ZFlpOHFFVDNNTjFlX2xfVWNneUd4bkRYYXB1Y1RIQTh2YVdhWjFtWWxDYnZmc2RZOFNydGN5aVloSnlxOWFPSkM0anZJQmZLNThfYl83S3ZmMGJVY0dnaFJfUkdlQmdJTEZWNXFhRDdZdlY4MGRWVUVvMC1EY2FBeGxFX3BnYkwzejdnZ1RkUHNxRGhfLVV1dnZNS1VXb0NDSFRZZ3hfTm1lVVRGLU9LeEtScDNyWXdkTHV1djlmNXRrdDJkOGdicy05WG9yZURQQ1RiSS1JOE4tUnFkNmNIVWxUOEY2SWpSZUc1NmJ1aThCbUhUUDBSakgxYVpOc29MUm9PZzQzb1hPX2hpZ1dhRk9RQW5selNWaVVZR2hEUnk?oc=5",
+      "source": "Yahoo新聞",
+      "sourceUrl": "https://tw.news.yahoo.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T05:31:06.000Z",
+      "timestamp": 1795757466000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "扎波羅熱核電廠因軍事活動失外部供電 IAEA稱第28次",
+      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNUGZiUnIxQjRjX0xMX1ZCVGZGMUZ2cE1oX2d0Nl9peGxLM0xVV2tId0k4VXhKUm9rVllCOElpVnBDVmFWNWEtNld3OC11RjY1U1YzTUFpN3AtaFUxRlB6aUxPYTdKRHFGbnkzUzVBUmpJTnB1Mm1KeFZkVDZtSk1DNzlscE1TX2FyWmRhcktVcmdSZGdtQ3FUYXF5T3FLRDRzOWxZSFcxdDVDeUhsY19Ga2dHYktUamtMaDc3dHhxTzB0T1U3RFU1bWNxVXEyckE0NjBBWm9BcEJJTWRxRUFtM3hPQUFDR3hySERQdDRkY1M1V2tmMzlRMkhjWUJaLXItUVhnSU02djZhaDhRemY4NW1oUzlMcndTQnFCNTJlTm9DSnZkNzBocy1jeGxkZkEwQ1JHUURNSTlsLXZmU3RDM2p2MDhOQWdzZmhQcUNDa3EzNVZKa1dCQjNXNkVCcmc?oc=5",
+      "source": "巴士的報",
+      "sourceUrl": "https://www.bastillepost.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T05:01:00.000Z",
+      "timestamp": 1795755660000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "扎波羅熱核電廠28度斷電 外部電路全斷 國際原子能總署促俄烏停火搶修",
+      "link": "https://news.google.com/rss/articles/CBMiwANBVV95cUxPRXp5QkdERXZqQ1dFZ3VubDl2eXVuQ3R3WUFpWDBxZmhYSXJYbWpmMm84eGlvMDlvT1pseGMtQ3R4Vk9JaTJ2cmNfaVFMVnJpQW95Q0J1aUw0cHJ3TVhlUDNLRFJqNEdQT01zU3k3UnUxNU9ZNHYxVjV0clEwSjhIbGZza0NSRnhZcncwVlBoWFhsa1NRdXFWVU1TXzF1WThsNE5LbkVyYTJ6YTlMaTFhRFVLSk9udWVwa1dBNUhUZVpjSC1YR1lWanZ2WnlRU0RuYkdyRE5kVGZodGM1aFphN1cwNHlyTndYYUtUc2tuVDI2bWRROE05YnlkdnNrX1E4ZGk0WTR3cnJMUkJaMlZpSHpMYU5QV09hRXRyWmlUV1ZELVdndXdfYXN4d2dhcEFSbUtaMEZKR3VLT0JrXzVQSGVIcmt3Wl9QdTFYNGN5SG91NUFMaF9JQ014QnY1VWZlT3ZtZnNzZFRNNTFkZkMtaE1zaHBKNFJxSlpPT2pKOFNfMnJSSm4wTFAtLTlxQ3hqZXF3OHNUSVRFNGRIcjg2bHJZbVdPQWlqRjk5VnpsdDZUQVZJOExsdmU4ZzJ5dWgy?oc=5",
+      "source": "Yahoo新聞",
+      "sourceUrl": "https://tw.news.yahoo.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T04:41:15.000Z",
+      "timestamp": 1795754475000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "國際產經：札波羅熱核電廠第28度喪失外部供電，IAEA急促俄烏達成局部停火搶修",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOanlHYm5qQ2xYYk5pRF9OR29FYldhYWg5QVlrS1dOT0I2ZTUxdGQ1QWZjTHl2anBLbFpOb2NRcWgxS2RUbjRwU3M0Mk5keThrWlptbzhDQUJGVngwdUFOa1hkRERkaUszQzV4aW5ZOEE3NkZ1cFZab0JWRFY4Z29jZ0lmaDNoSkVG?oc=5",
+      "source": "富聯網",
+      "sourceUrl": "https://ww2.money-link.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T04:27:00.000Z",
+      "timestamp": 1795753620000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "2026核電公投》11/28投票！正反方立場、通過門檻、3大爭議一次看－商周頭條｜商周",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wLUZvbl9ZMDVPWEF5NU0zRzFWcVZtRUNZcEt2dllsdDZucENMdzNfbnR0WUd3TWMycGtVUnk4V05LZlVQVjlCWWRicEtMQmRUc0M2d3RTLXZfVEppTC1aOWZR?oc=5",
+      "source": "商業周刊",
+      "sourceUrl": "https://www.businessweekly.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T04:16:58.000Z",
+      "timestamp": 1795753018000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "捷克杜科瓦尼核電廠重新招標，韓國水力核電陷「施工費兩難」",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DMVU5Qk1WMUFrVTZIbjFvX2RsQTNVOVRUWWxBMW1LTEh3Zkc4Zk9jZEM2MkszUVdLNXhpTzhQMVhGcEgtWUpzRDd6ZmJTREtvazNmLWtEYXJEUXlLQ3N4b0E5bmlKVGFNWVFtekNtOXZkTmJWLVVIMjdR?oc=5",
+      "source": "BigGo 財經",
+      "sourceUrl": "https://finance.biggo.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T02:26:00.000Z",
+      "timestamp": 1795746360000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "【夏一新專欄】別被題目與舊習慣騙了！1128公投「挺核電」請圈票投同意",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKaUh4WXBMbVpfX2VQYXJvZjRtamxHOXJvd1J2NHhEOXk1UmFuWHNuVk92R2NndEpzQ29hRnF0VjRtTTFtc2FPSng0MzdNUlhqMWF1bDhYUFM?oc=5",
+      "source": "梅花新聞網",
+      "sourceUrl": "https://www.i-meihua.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T02:15:00.000Z",
+      "timestamp": 1795745700000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "札波羅熱核電廠外部電力中斷 IAEA協調俄烏局部停火搶修",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aWXp0b1Bfelo4YVU4NDdCamdLeFBNWElmbHRUMDFDYVhrQmdRd3BwRnZUV1VpTXFKU19DcFZiQi1wMVZrdHVCc3ZzN1pDRGtxZ1JFdGp3eGFRYW1lWEJvSg?oc=5",
+      "source": "民視新聞網",
+      "sourceUrl": "https://www.ftvnews.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T00:31:31.000Z",
+      "timestamp": 1795739491000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "日本中部電力浜岡核電廠數據造假案處分13人，會長後繼人選仍未定、改革實效性受質疑",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52VDBnMU5ka0xyS1NhY3hodkw4TnpGM1ZGc2JxMEg1TktSb2cwV2lzNk00MVpLV0VvdU14ZEhkdlVEbXdGRnJHVHB0SXhqUWhmamhicHdna0ltV3JVT1R2QkE5Y3ZkWmJreDMxd1JSM3d6cXlRaW91NGdR?oc=5",
+      "source": "BigGo 財經",
+      "sourceUrl": "https://finance.biggo.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T22:25:00.000Z",
+      "timestamp": 1795731900000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "歐洲推動核能面臨融資考驗 官員直言無法單靠民間商業運作",
+      "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxOTEEtSG1KVnZhQzBCMzE3OFg4T0RsaTRPN1QxdFk1a1pyUmNLUWROUko2YUM0ZFZqVE9DcFNxWVJWQUFWeUx2TXIwejBUeU4yZk9IdFVTUC1FaWd5Y0JJUXZLSnUwV08tbWFlS3NUWjdpNTZvTjU0dGFZMlZ0cUs1UVFocmZ3RHZUcTZxSXB5eEp3VERTeFFZRGE1RFdRVVRBLWpDeVNuaG4tdEVhVnY4dlVDNmNLQ3NKc01mQ0dNQ3VBUUZNNThDNVprdzBGQlNkWmdKenBkYmEtcXdZSVh1bmFWSDA3M2swR0NqWEFFOWFjTFR6QlU1dHNsVEFoX2RXTHoxSzQzR0ltTDBMSXVMZWh6SHlzMERGaERyZ1dnekEwV0t0cHRKSHBiLWVhSGxkV1JhVmNvdmFLUmpCcXZjeHJJVXFUckpjTHAxaWVfU1pMbl9ac3h3WDVTdnZ3QmNtY3ljb0RLb0pVU0doTHdHM0FsNDM4VnpQbTctdWRMbWFFNGxvOFg4M0NOS3lsMnZUcHBma2dURnV5M25VS2FldjVtbGtPQnFfRXc4Qg?oc=5",
+      "source": "商傳媒",
+      "sourceUrl": "https://sunmedia.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T21:51:56.000Z",
+      "timestamp": 1795729916000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "札波羅熱核電廠又斷電 IAEA急洽俄烏協商停火",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tNDQxLXdCQXhPRXRKTGdRanRHUmhHRG50TUw5QXVnYS0tWF9yTHU4U3I5b012S3ZJcGpSTmtpUC1wc3gxZ25DMU1WTnJHOGJMWGlhWXdmLTdxLTFkU3VFZQ?oc=5",
+      "source": "民視新聞網",
+      "sourceUrl": "https://www.ftvnews.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T18:56:04.000Z",
+      "timestamp": 1795719364000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "「廢除非核家園」核電公投 連江縣選舉人計12078人",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UUjdQV0tRZmRXVmMyUUktZU5hdzdrQ1lmZlBiMEV0dUM5RklndUVHWGg1aFRvWE1qSGN0UVJpYTZ4a21ZWXBtbWZHdy1uOUJMd0o4OXRoZmk3MzRWUEE?oc=5",
+      "source": "馬祖日報",
+      "sourceUrl": "https://www.matsu-news.gov.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T16:00:31.000Z",
+      "timestamp": 1795708831000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "支持核電，不等於支持空白支票：第22案不能把政策責任交給選民",
+      "link": "https://newtalk.tw/citizen/view/75048",
+      "source": "Newtalk新聞",
+      "sourceUrl": "",
+      "summary": "支持核電，就必須在11月28日第22案全國性公投投下同意票嗎？這個看似簡單的問題，正好揭示這場公投最需要釐清的界線：支持一種能源選項，是否就等於授權政府推動一項尚未交代清楚的政策？核能具有低碳發電與穩定供電的潛力，台灣保留核能選項，當然有值得討論的政策理由。面對AI產業發展與用電需求增加，重新檢視核 ...",
+      "publishedAt": "2026-11-26T14:29:00.000Z",
+      "timestamp": 1795703340000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "東南亞核電發展升溫 IAEA估2060年裝置容量達32百萬瓩",
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQNFNTR2dHdjRObHlMQUN2NzhOSDRTSk04cVV0S3NsaHBOMmFzNEljYS12MWhyaWZBclozS0Q5V2dxMlA0em9mV25XQndXbWNmdHFqVlNmSHlaX3Y4ZUxheG91VFBDeTJpSXljWlE1a1VOUlFoU2ZIRHVmbTRtaVQ1aHRVemlCRXBJbmVSUlVfQlJabEdyUXZxcDhxaXBNUWkwb1kwZFp6N0FMV3lvUVhyQU9RU0RSYm1hN3daMlA5cndHOXVqcFczcTQyc3lPTXBoRmxWdmlVaWFUY1dtQ0FjQTc2M1BjV1NfbE9WYThWbHdTWGxicmdlYkxyX3d2SUhpVkNHNGlpQnJkc1lMb1ktX2taT0NFWTVlaDJxa21nZEdWeDEzYW1OUVNnS1NwSmRRLV8xa0o5ejh2Z2xJcmxiaEMyZEEzb0RFaXJ2eTN2Z0J6NFRac2c5U3NRMUQ3d2lNVWJWREV3?oc=5",
+      "source": "商傳媒",
+      "sourceUrl": "https://sunmedia.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T13:29:59.000Z",
+      "timestamp": 1795699799000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "金正恩下令擴戰術核武 南韓關切核衝突風險",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zemlIRjg4SXVlbEV3U0lBd1lGYVp1Z3dlenZ5NURxSWo2enZLajk5N0VJc2RDUlREbFYtZndpei1Ic3JCWmNDdVd1ZHhyOVE?oc=5",
+      "source": "公視新聞",
+      "sourceUrl": "https://news.pts.org.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T13:21:26.000Z",
+      "timestamp": 1795699286000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "台東選戰陳瑩喊清廉守法4承諾吳秀華強調反對轄區設置核電廠｜20261126 公視晚間新聞｜ 公視新聞PNN",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yckNsSTZvWEFWYWlObTRaTlNISFlSeEJtX2VFWVBpNEx4dzRuNUxlcFB0dE5IN3l3c3ozWklOWko3SlV2S2xaTUlCaw?oc=5",
+      "source": "公視新聞",
+      "sourceUrl": "https://news.pts.org.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T12:51:59.000Z",
+      "timestamp": 1795697519000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "台東選戰陳瑩喊清廉守法4承諾 吳秀華強調反對轄區設置核電廠",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HUWdmRHVNYXQzNHBXZWRTQzFnbWNhX1pkMUlYNC05d1dUTDk3YUVOdEVkVFN2YXFFbGRWUGRqMGQxRGJRdlg1ZDk0b19LS1U?oc=5",
+      "source": "公視新聞",
+      "sourceUrl": "https://news.pts.org.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T12:25:48.000Z",
+      "timestamp": 1795695948000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "投票日必備身分證今年還有核電公投- 政治新聞",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbUVxOTYwTzU0V21MTG5BMktOZ2tQOE5uZGFVUEpfX08tOU5VM2NDX2V6UkVMWnYxaHhzM3hLUm50eXNoSDIyNXVrYWdocnpPMGxpdkNtczlsdWZPdzcyWVNma09tX0F6Z3FuMkh5MXBmVUt0b3ZfQk9Wd05jRnlCclJOOXgzdklERzVZY0lKSQ?oc=5",
+      "source": "PChome Online 新聞",
+      "sourceUrl": "https://news.pchome.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T09:48:54.000Z",
+      "timestamp": 1795686534000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "【聯合新聞稿】拒絕核災風險，守護非核家園。公民團體聯合呼籲：1128核能公投要領票投不同意！",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBtTl9xM2tNUnhVZUF0SWUxQkZzQXhBUGFvcGYxYWh5S3ZUNlhHN1pNM3ZwODRmakJKdzVlZU8zUQ?oc=5",
+      "source": "綠色公民行動聯盟",
+      "sourceUrl": "https://gcaa.org.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T09:23:55.000Z",
+      "timestamp": 1795685035000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "告別核電近 20 年，立陶宛評估導入 SMR",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU0hfcWdBMjVVTDJVNmpkSnRpVGlPWkY5c3UtR3ZHOFQzRXRKS2lHcXdtMVNyZ2RyLWRaV2djY0V1N0E2QXZYb3hta0E4R0ZJcWctVjIwQTZYVUV0UDNadWFOVkJRS2pBUmFjXzRkVEJqQUhfdGVqdGZXbEpOTm5lQkJxMHZzRFlkVzZ4WjJ0cVc3cGNOd0ZBdQ?oc=5",
+      "source": "TechNews 科技新報",
+      "sourceUrl": "https://technews.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T08:50:16.000Z",
+      "timestamp": 1795683016000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "【話題開箱】1128核電公投 正方主張穩定供電 反方首重核能安全",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pN3JnbU1vMG9uSmliWk82Q21GakNDM09MMDFaeUh6MHN3SFkzeHVMY0x2MFppOEQzX1ByTklSNEdrX2E5VTRCbzROdEtFZzhDZ09QSGdsdVQ?oc=5",
+      "source": "Rti 中央廣播電臺",
+      "sourceUrl": "https://www.rti.org.tw",
+      "summary": "Rti 中央廣播電臺廢核團體重申反對核電重啟 擁核團體：AI需大量用電 公視新聞11月28日，核能公投請投不同意｜從核安、核廢到經濟成本：五場公投意見發表會看核能政策的關鍵爭議 綠色公民行動聯盟楊沛為、M.V.拉瑪納／核能不是台灣AI和半導體產業用電需求成長的解方 環境資訊中心自由開講》核電公投非核安空白支票：振興經濟不能跳過程序正義 自由評論網整理包／8年內第4次核電公投！投同意、不同意差在哪？通過門檻及核三重啟影響一次看| 公投與大",
+      "publishedAt": "2026-11-26T08:35:39.000Z",
+      "timestamp": 1795682139000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "《大行》花旗：中國電力板塊基本面分化 看好核電及風電獨立發電商 對煤電維持審慎",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52MUpHZlU4VXJTYTVtSEpyZWhCQUhrNjNtQ3dMZmJFbjJKbGZpR0VRNjNzZHNqM3B3cTMzS3lSaGdZbDVJQU8yVjFIdG1EZ3JURGtqNjBxeUlsSWJndmszamVzUjVudHEyamJycDhJa1k?oc=5",
+      "source": "AA Stock",
+      "sourceUrl": "https://www.aastocks.com",
+      "summary": "",
+      "publishedAt": "2026-11-26T07:52:00.000Z",
+      "timestamp": 1795679520000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "籲1128不同意「非核家園」公投 台灣基進三問國民黨：浪費8億違背民意值得嗎？",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBndkZIUWczNkNURlJZRXdJbjBaTE94NmtpdHhQWFlhVVNBNFZlRmZuMFNkdlBFcVI0QlNBVUtmMFdzbUhhWUllRkp3Z19SUVppSjRhd2FhbnRwdG5LdXBFUnVscTB1aGpLUlHSAW9BVV95cUxOX1J2MlUwQkQ5dm1IUjQ2SWt6Uk9WdnlXOXA5c3lBTmFLVmxKdlN4b0ZUaUhnQ3RHRnYyQjdvcEdaOFdnc3ZTMHFDYTVoWW5HNXQ4dm8xX3Bkb3hGN3hMY3dPN05NQWxNRmVzY05FVlE?oc=5",
+      "source": "自由時報",
+      "sourceUrl": "https://news.ltn.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T07:23:25.000Z",
+      "timestamp": 1795677805000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "拒身家性命豪賭核災風險 民團籲1128核能公投不同意",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTVGFxWm43LV9vWl9BbVZTbmtCVTNLVHduYUcwMU1DX3RFbkFGTEZYc2o3aVI3MEdjVlJERDltRXNxa0xTUE9aZkFjY0F4VEs4ME9vRjBpSFNyTlJvTFh3b19RZzZuWnp4d2fSAW9BVV95cUxPVGswaTZiVlp1N1ZkRTFFbUZ4QVV3RWpRV0N1d0RXSnduOFZlcnRTVEpDWWRXc2VrYkxPQlhxMzUxYU0xZnIzWWhwVXc1a2RtVHZ0UC1SRDJnVmFXSGZSLUlORFhjdHpsQUNUamxjZ1k?oc=5",
+      "source": "自由時報",
+      "sourceUrl": "https://news.ltn.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T07:20:38.000Z",
+      "timestamp": 1795677638000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "大選綁公投極易過關！環團澄清「反核不領票」謠言喊話：投不同意才有用| 環保",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQUW5QTlB3dkZtdU5jT2dpVTJhN3Z5cmxoUEtRYXI4UkxuQjVIbUZqaENHekcxTnpnWWhTV3c3MFFfNm12RXl6cGZyMXRlZkhiY3dZVHlHN21sUEE?oc=5",
+      "source": "Newtalk新聞",
+      "sourceUrl": "https://newtalk.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T07:18:48.000Z",
+      "timestamp": 1795677528000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "台汽電搶AI資料中心3商機 看核電重啟影響有限",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OOGJjZGJraDYwQmNRY09QbGdoaXdmUG5Za25UTVhxU2gyc1o0aVJWTHJ6MVdaeVZ4T0x5ZGV3OHJ0cjE5REtmS0w0Y1VwZGlieUc5OFR4b3ZjU3YyOXZB0gFkQVVfeXFMTWpHSlhsckk5dmozMFhPY3BtZ1lQRUFWUERLam1pUFg1LXFOTlRmRTVDdkl4TUY4ZzlHNS13YkJtU0xDZHRPdUZvVHJfRy1WU0tzRmh2RnBvZzA2cG9GSTFCYkV4RA?oc=5",
+      "source": "自由財經",
+      "sourceUrl": "https://ec.ltn.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T07:12:50.000Z",
+      "timestamp": 1795677170000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "挺核反核都要求政府表態 陳以信批民進黨能源政策首鼠兩端",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TMTUzNGwzdWdZVlhWZkJwYWt2R1pBSE53LWR3TXlSMnBGck5iNW4tRXNlTWgtOTNvQWhSWGMxbWpjdUQ2a0FTblU1aHpiMUF0c3RB0gFYQVVfeXFMTVFOb0dTUXk5U0lGTFJTc2RNOGFwNjZ5akVoVkJoMWJJSlBhZkhJRURiVjNRX0llWTFYOFVnek1VZ3I2NW9waS0wSndHdnd5aTN2eW1zanowQw?oc=5",
+      "source": "UDN",
+      "sourceUrl": "https://udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-26T06:41:10.000Z",
+      "timestamp": 1795675270000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "廢核團體重申反對核電重啟擁核團體：AI需大量用電｜20261126 公視午間新聞｜ 公視新聞PNN",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XU0FfakljZXVmRUU4ZjJQS2w1ZEViNmdCVElZQmd4aV9lOWItRHl0LXVmVERGTkxPa1pPb3N6TWViWF9LLUpZekdqaw?oc=5",
+      "source": "公視新聞",
+      "sourceUrl": "https://news.pts.org.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T06:19:35.000Z",
+      "timestamp": 1795673975000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "廢核團體重申反對核電重啟 擁核團體：AI需大量用電",
+      "link": "https://news.pts.org.tw/article/837471",
+      "source": "公視新聞網 PNN",
+      "sourceUrl": "",
+      "summary": "這次九合一大選也同步有一場全國性核能公投，26日上午廢核行動平台集結凱道，反對核電重啟、持續推動能源轉型，呼籲民眾以選票守護人民安全與非核家園。不過支持核電的氣候先鋒者指出，並非反對綠電，但認為再生能源比例有限，穩定供電需要核電，若核二重啟也可減少中電北送。",
+      "publishedAt": "2026-11-26T06:16:00.000Z",
+      "timestamp": 1795673760000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "影／全國廢核行動平台與民團上凱道 重申反對核電重啟",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zLW84YTJ3Xy1ZcVBvMDE5SXJHU1dVU2JMa0JtZ2NlNEIyLVdoaG12U1RydXJrNGVsRWI2TzRKLVJfMlJOMHBMTlhSME44LUhGRjdv0gFYQVVfeXFMTnB6eHN6QmlZY05tM3RsNTlIWnJLX2hJbEluOE40NThiNFJiSm9CS1ZUeFFQUUl4Z1hrUlJNek1rMTlHM2l1QU51djdObGJyYkZYRUlCcVR0ZQ?oc=5",
+      "source": "UDN",
+      "sourceUrl": "https://udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-26T05:15:25.000Z",
+      "timestamp": 1795670125000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "影／全國廢核行動平台與民團上凱道重申反對核電重啟| 2026九合一選舉",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HMWc1b2VEUzBhcENiYy1SZWFIS0ZUYk1zRWhwbHNYZ04zdHZfOHl2aE5ZUTEtdXNRczFlSkhUeF9RYWx0RTV6eFhfc1V5TlVnbGZrQlhuMjg?oc=5",
+      "source": "UDN",
+      "sourceUrl": "https://udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-26T05:15:00.000Z",
+      "timestamp": 1795670100000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "反核團體籲公投領票投不同意守護非核家園| 公投與大選總覽| 要聞",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JZktzNjNqdkhhY1d4MnJtRE1GRnV3cGxzY2RlV0dmbnJrcmpNM2J5aTRSSVBjR010eXhpcXExSHJVN096aVl1bzdDbkpPODVZdXIw?oc=5",
+      "source": "UDN",
+      "sourceUrl": "https://udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-26T04:59:48.000Z",
+      "timestamp": 1795669188000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "公投倒數兩日！廢核平台集結凱道籲人民出門投「不同意」",
+      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNUzZfMEJ2M3EzdzRjZlNWemdURjZqMlNiU01XMTNNVzJVNEJXVVM1cUFpcmdSSUtWLUJtTUIxNURRbWJzTFljS2hVSy1wUWZmb01kODUzbnZoaHVFbkZpTTJZMUFnTUE5Y0llM2EzcWpJSUw2am91c3Ryd1dPTU5EM25ELXE0NTdQX0gybHBaOVJtTTJFU3I1LXQ1OXAwdmUtQmxUTnYtc3NKWXpzNjcxa1lvOFlrRHVpSjZPS28xRG50YXp5SGVSNzhkMGxiS3NBTXA0eFNfLVNKX2o4bS1PR2VySEFqSFdYLU9fZG95VFA2aVlfSlI2X3NHWlB3aTlKYUp6aE1QR3gzZ1JVcVBWQWlnZzJiU1dhVXBHZ2l5bkllUHhrd3EyMS1ONDJjYXE5NXMyUXoxZE1nWHg0dlF0NE0ycXdiRVJydngwZnJiVk9USHRWQXNOLWxtQU1FcklkVVB6clZmS3FDQQ?oc=5",
+      "source": "Yahoo新聞",
+      "sourceUrl": "https://tw.news.yahoo.com",
+      "summary": "",
+      "publishedAt": "2026-11-26T04:45:03.000Z",
+      "timestamp": 1795668303000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "核能公投 民團指核電安全與核廢未解 籲要領票投不同意",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83UnZCUi11ZFR0d2F3RjBmM3ZfaTlHQnZKUy1ReHB6U25iV3MzSFFKS0tTMDdOS3NHWUxzdXBaUGQxM09VTjhLR0pWZ0xHZDZvZFU3WUJlQ2Y?oc=5",
+      "source": "Rti 中央廣播電臺",
+      "sourceUrl": "https://www.rti.org.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T03:40:08.000Z",
+      "timestamp": 1795664408000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "公投 2026懶人包：核電案主文、500萬959票門檻與投票流程",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBURzVQczNmZnVNalFsblNtMEw0X2tNeXdYSFllQmxmcFpwd0F5OGlEeE16S1NZcVlYc1kxVEVTYy1rOV83VEFFTDVnTEJ6ZXF2YWc?oc=5",
+      "source": "蕃新聞",
+      "sourceUrl": "https://n.yam.com",
+      "summary": "",
+      "publishedAt": "2026-11-26T03:21:37.000Z",
+      "timestamp": 1795663297000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "駁「支持放核廢」 吳秀華競總：不曾回覆相關問卷 | 自由電子報",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ndmJaaDhRblFCWUhYNHhXbE5ySENBeC04ay1GTEpQSmY4NW9xNFhTdEZfNGNBczdVMVQ4dXVBYWplSFQ4M1A4Slc4TWtBNWtRcmdKSGlR?oc=5",
+      "source": "LINE TODAY",
+      "sourceUrl": "https://today.line.me",
+      "summary": "",
+      "publishedAt": "2026-11-26T02:50:51.000Z",
+      "timestamp": 1795661451000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "11/28核電公投投什麼？通過門檻、正反立場、投票資格與QA一次看",
+      "link": "https://www.nownews.com/news/6895616",
+      "source": "NOWnews今日新聞",
+      "sourceUrl": "",
+      "summary": "2026年全國性第22案「廢除非核家園」核電公投將於11月28日（週六）上午8時至下午4時與九合一選舉同日投票，不同於選縣市長議員要滿20歲，凡年滿18歲國民皆可領公投票，有效同意票須達500萬1871票且多於不同意票才算過關。《NOWNEWS》整理核電公投投什麼、通過門檻與正反立場一次看。 根據中選會公告，2026年11月28日舉行的全國性公投僅有1案，為編號第22案「使用核電、廢除非核家園能源 ...",
+      "publishedAt": "2026-11-26T02:20:00.000Z",
+      "timestamp": 1795659600000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "觀點投書：核電是民生議題，不該是藍綠神主牌 | 木木醫師 | 評論",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZM01Qc3VXMUFRaEgxUDdIN042c0ZnZnk1ZUxRbUpDVFFKSmYybHFWcldaZ0YyN29vUTdfeXRVVDRpdkR2Yk9EUVlzYU0tZw?oc=5",
+      "source": "Storm.mg",
+      "sourceUrl": "https://www.storm.mg",
+      "summary": "",
+      "publishedAt": "2026-11-25T21:25:00.000Z",
+      "timestamp": 1795641900000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "藍白炒作核電，8 年 4 次公投已花 24 億！反對者要「領票、投不同意」",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HVXVKMXZ0UGtvWko1TWlOZ0t4bWY0Yl9qM1pXeXlFSFRzZjRkbXF3RTlHWGc4STJubXVvSzdZVHduTGxROUY4WHpVTHpKQmI3MjZuN04xcnU5WC1x?oc=5",
+      "source": "沃草",
+      "sourceUrl": "https://watchout.tw",
+      "summary": "",
+      "publishedAt": "2026-11-25T15:31:10.000Z",
+      "timestamp": 1795620670000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "救台大行動 核電公投催票",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1WUszYzY4N0lycnEyb0xnRmd2eUhERnQ0RnZjWlJNdzZtNk1GeWhOQlJSaHNiUm9qNDhuN0xrVjA3a3pfZ2JoZQ?oc=5",
+      "source": "台灣民眾電子報",
+      "sourceUrl": "https://www.allnews.tw",
+      "summary": "",
+      "publishedAt": "2026-11-25T13:35:02.000Z",
+      "timestamp": 1795613702000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "俄羅斯空襲烏克蘭能源設施 釀5區大停電核電廠斷電",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXMmFNX0dUTTd4MVFhWFZHU0hVWTBFTGxwZnRUd0Y1Ql9zM2tmVUFxS0M4UDlUUkg0MHlSRGNUandGOUdUSlBrN0FrNEd2VlpHdTBzZDdseGdxSXBfVzZkMg?oc=5",
+      "source": "民視新聞網",
+      "sourceUrl": "https://www.ftvnews.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-25T13:03:29.000Z",
+      "timestamp": 1795611809000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "吳秀華被指同意設核電廠及核廢料場 競總：未填問卷要求更正",
+      "link": "https://udn.com/news/story/124652/9901750",
+      "source": "聯合新聞網",
+      "sourceUrl": "",
+      "summary": "針對媒體報導指稱，國民黨台東縣長候選人吳秀華是全台唯一表態同意在轄區內設置核電廠及核廢料最終處置場的候選人，吳秀華競選總部今天下午發布嚴正聲明，強調團隊從未回覆台灣環境保護聯盟相關問卷，也未曾勾選或表達同意，要求該聯盟立即更正調查結果，避免將未回覆問卷誤認為同意。",
+      "publishedAt": "2026-11-25T09:59:00.000Z",
+      "timestamp": 1795600740000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "中國台山3號機組核島開澆混凝土，中廣核電力二期工程啟動",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sQl9id3dwcGxYTDF2U2xuQlJlU0JMWE8tUE9TSkI2RFFaR2hMT0lKRTdLV0FvbVVSakgxRGc2UDdybXpNU1R1UEpUVXNwcU9ZUDA0OVZNOF9JVUZoTlJHZ3NZYVhqa1l3ZVlPU1c0VHlESExCQVBtdnR3?oc=5",
+      "source": "BigGo 財經",
+      "sourceUrl": "https://finance.biggo.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:26:00.000Z",
+      "timestamp": 1795598760000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "碳化矽真是多功能，核燃料也少不了它",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcFFid2FseXpPNU12cWd1SFdQNnA2Mk03YkZtWTN5R3lwM3BNMHhlT3dKQ3o5RjJraldnLXlLVHAzZmNzRFR6blVCZm1HQXpFNlRRSnZzaTlZa3N5bHNlSDNwaXJxTFFKOGpTb3NxSkh5WC15V2J3TkJISVlQNElxUTlpbWVHMW8?oc=5",
+      "source": "TechNews 科技新報",
+      "sourceUrl": "https://technews.tw",
+      "summary": "",
+      "publishedAt": "2026-11-25T08:54:52.000Z",
+      "timestamp": 1795596892000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "綠常會未提黃仁勳與核電公投 盼救台股",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05SGNHeFZpaUZ5SjViQ3BvSHVlbUNUYndhdVNNSTJQcE14ckVhQWczRzlyMkZhMFVvRHVmb01sbmRnN0dtOE5TS1A4a3BtT0lYWWk0NDBiWWFBS3JGZVlrSFd1OFJEZTA?oc=5",
+      "source": "中國評論新聞",
+      "sourceUrl": "https://hk.crntt.com",
+      "summary": "",
+      "publishedAt": "2026-11-25T08:22:03.000Z",
+      "timestamp": 1795594923000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "自由開講》AI需要電≠核電是答案：公投宣傳不能取代能源論證",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5ZzY4dzkzcGhOaUZ3Q0F1bDZfOFdqdUhXdWgyVGJKTXdmZ0lKQkN0b2RTYzNzNFI4aktCMHFHNnM4dS1UcWpOWFdpeHFXaW9TaWpXVGpQYkhkbTlqeHBFUEV30gFnQVVfeXFMTWFEY1M5QTE3aGYycy02LVYxWkJXcmtqUXhTcWhxa2RsTnhKRFU3c2lBQ0p3aloyM1lhVnJTaDFIZ0FrbmxXN01Ic0FkbjZLLUZlWVNraXltSm55VFZ6NmMzRkdBTEIzaw?oc=5",
+      "source": "自由評論網",
+      "sourceUrl": "https://talk.ltn.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-25T08:00:00.000Z",
+      "timestamp": 1795593600000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "《DJ Insight》BWXT擴大核電業務，拚生產效率帶動獲利- 新聞",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVEJmZHFrcFQtRTYzTlJMYVBtTERxeDczRjBQakR5OXhzeDVtdjI1QWQ1dG5iUlVuQk92MFdoVC1qX2hrM1U1cDd1dERjT3RtWVNPbklRR0Z0SlBZd3pxQjhNeXdlY2hRRmIyOVo0TWJ2SU5LNHpCTkdCRnFialVIcmo2SmFycmxDb3hma2xZOTZzZw?oc=5",
+      "source": "MoneyDJ",
+      "sourceUrl": "https://www.moneydj.com",
+      "summary": "",
+      "publishedAt": "2026-11-25T07:11:00.000Z",
+      "timestamp": 1795590660000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "影／全國廢核行動平台與民團上凱道重申反對核電重啟- 股市爆料同學會",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Ta3BUbW10TVlObGZnejJXV2cwWE1DQnZnSDZLSWdEWXl1WlRYU0ZyRF9rRjRtYXFuclI2QXhac3Y2RzRYSGhPUlJlLU95bjlnZnhnOHZ6ckg?oc=5",
+      "source": "CMoney",
+      "sourceUrl": "https://www.cmoney.tw",
+      "summary": "",
+      "publishedAt": "2026-11-25T05:56:56.000Z",
+      "timestamp": 1795586216000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "核能公投周六登場 學者呼籲重啟核電評估：台灣不應放棄",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MNDZlcmp4ZlRuczNOMVdSWEd0SXFuN1lFR2MzMEJ1aE9XamhxWFJZU1pEUlplNkdOVTdobTBZV3JzUHNMUEt4WEpKZDRWMVRLaWFGTk95TUx0dmNEQXlMMTdEN0lpblI1OG9TamJ3?oc=5",
+      "source": "中時新聞網",
+      "sourceUrl": "https://www.chinatimes.com",
+      "summary": "",
+      "publishedAt": "2026-11-25T04:12:38.000Z",
+      "timestamp": 1795579958000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "廢除非核家園公投怎麼投？莊瑞雄揭民進黨態度",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOT293NUZIVGlaNDJuVzJWN241S1QwNVpjS2w5b1VQRkR3Z2RCQ2xZUkxDbWxiQnpSNFhDQWs1S29lWGRuNlRNb3A1RWdDdGZaS0lxS1FnUVFJYlhCaVM0SVo1Yi1VUmtWLWl2aGVTUGVIbnJrY2QzLU5GTGVIY3lMeTVYRm9mZEVITlZUbHBfcWJnM3lWRUF4WXNrb25pejE2RThuOHNfOXRpSU0wbU9CeEpTYUktTmp2bGdMVjRLYnc1MnU5TS02d0gzbC1mSk1qSk9CeXJYNWxuSy1kVFZaSGdNYlpXQTlYOW9TM2xacVhBNlJ4VnVMSUdtcXJUVHU2a0ZpZXVGb2VIRnpJOEtBMHZWaHk3aEpCNnZjc1RjZllLV0xuRWI5RmdJN3V2VUV4U1FZdW95S1A0ay15Y0hrRmJudks?oc=5",
+      "source": "Yahoo新聞",
+      "sourceUrl": "https://tw.news.yahoo.com",
+      "summary": "",
+      "publishedAt": "2026-11-25T03:46:46.000Z",
+      "timestamp": 1795578406000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "台灣沒核電拿什麼撐AI？清大教授示警電網3大隱憂：天然氣船一斷，算力跟著停 | 林子靖 | 新聞",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xMzdJQk85MDVUdm1BS2Njd1l0czZBc1pQbDc5aUhtdzVEbGFfRWU1aFdyQ3JVVjZRTm5jUGpaVzdYVklFNWpsVUFLM2diQQ?oc=5",
+      "source": "Storm.mg",
+      "sourceUrl": "https://www.storm.mg",
+      "summary": "",
+      "publishedAt": "2026-11-25T02:16:00.000Z",
+      "timestamp": 1795572960000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "整理包／8年內第4次核電公投！投同意、不同意差在哪？通過門檻及核三重啟影響一次看",
+      "link": "https://udn.com/news/story/125076/9889033",
+      "source": "聯合新聞網",
+      "sourceUrl": "",
+      "summary": "2026公投即將登場，到底滿18歲就能投票，還是要滿20歲？這次要投哪些公投案、正反雙方在爭什麼？本篇懶人包為你一次整理投票年齡資格、投票時間、領票流程，以及「有效同意票須大於不同意票且達選舉人總額4分之1」的通過門檻算法… ...",
+      "publishedAt": "2026-11-25T02:01:00.000Z",
+      "timestamp": 1795572060000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "環團指吳秀華「同意核電設址」 競總：從未回覆問卷",
+      "link": "https://www.chinatimes.com/realtimenews/20261125004127-260407",
+      "source": "中時新聞網",
+      "sourceUrl": "",
+      "summary": "吳秀華競總強調，能源政策涉及國家整體規畫，屬中央政府權責，地方政府無法單方面決定；相關設置應經專業評估、安全審查及充分地方溝通，並尊重地方民意。競總也指出，台東地震頻繁，不適合設置核電廠及核廢料最終處置場。",
+      "publishedAt": "2026-11-25T01:54:00.000Z",
+      "timestamp": 1795571640000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "核電能救AI用電、解台電虧損？「廢除非核家園公投」正反雙方怎麼說",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fbHBGd0czSmd5QmdSV0tXYUZ2UTR0YUpQOU1yLTZ2YXhVVG80WVhKa1l1Q0d6eEs2T0gzZnpFRXhmMFRVM1piYklEM05haldWckcyeQ?oc=5",
+      "source": "TNL The News Lens 關鍵評論網",
+      "sourceUrl": "https://www.thenewslens.com",
+      "summary": "",
+      "publishedAt": "2026-11-24T09:32:00.000Z",
+      "timestamp": 1795512720000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "【獨家】不滿賴清德暗批反核 年輕世代幕僚一度醞釀串連嗆辭黨魁",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QeUFNYmZTYVB4MjIwb2JzS2xjRm9IaHBBTTducEVSWXA2VkhVclNqb2oxUVFqUTFtTktuaS1DWFM1UnRNeV9PN2t4bUZGYmxFMmkxaV81VGpsdGV0Umh4Q0syNXNxLTB3eEtUOWZFNFVnYUU2dVlMQlln?oc=5",
+      "source": "上報Up Media",
+      "sourceUrl": "https://www.upmedia.mg",
+      "summary": "",
+      "publishedAt": "2026-11-24T08:29:00.000Z",
+      "timestamp": 1795508940000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "COP31化石燃料意見分歧 環境部長：重啟核電 可降電力排碳",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lSXBfRERWYlRLa1Jfd1VUZmNrV2E4RzY1b0l2bDRxc080Vkw0SW5NOG1IQTNmd2ZraGdmVzRkcFl3UmlaSnVmemlYYzNrOEl2UjI1bFdoQ2ZxZWNWNmV4UEpB0gFnQVVfeXFMTmNWSThpN3ZyVlExSWF0cktzQ2FCQTlXWGdxdHpzY0JsS202WTMwelNwVl96VTJRRXZyanpsSFRFUVk1bVRrUTlzaGZTa2t1clE2MmNDZVZ6aUpTU2FWbDUybTVrWXcyZw?oc=5",
+      "source": "世界新聞網",
+      "sourceUrl": "https://www.worldjournal.com",
+      "summary": "",
+      "publishedAt": "2026-11-24T06:11:00.000Z",
+      "timestamp": 1795500660000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "美工程巨頭攜手推商業微型核電 助攻離網與無碳基載電力",
+      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxOQlY4cDRqVm5ienhOdExLNm50a29RNzZqUEZrTTdXaHBwc3BCeGZ6blYtamZRZEZrRjFZOXUyZXdnZl9iV1pCajdrdUZZRER2NVluUkw1dVZYZHZ1TGgtbmd3NWJ5YjVDZGtVcGZnMEpjZ1oxVmg2NXd4b1BUMXhnb3BId0dNZnB2VENUbjR1QVZUTFh3M1lBRkY5c01HQ1BiRDBqZFpFX2FwYWEzTUVMT29uQ0w5OG9jX3JBNUVjYzI2NUtlandMRjM5NGFNc1k3dnBtVGZrbWx2NTRtSkpUajU1YWRuS0RLMHduSnBfTFBnTmRuWDMxZjJ1WFNGbXo2QWtmZ3Fwbl9GRUtZTGlFWlFqd1RneThENktVRnItWDNZZ05GemZuazFoNkhHcHRlbU9OWS0yMWtRbHlmMHl2RUwxVmpEampPWVJjSE4zWWFORlgzTHlEMnotUGQzOElEcE9rTHhJMzc0cUhaZEdxWHREZ2prOEdyUmpvYXZjSDhUN2hnYTE0VGt1ZHowNUdza3FSVnJGUHE1ZmMzdDYtSQ?oc=5",
+      "source": "商傳媒",
+      "sourceUrl": "https://sunmedia.tw",
+      "summary": "",
+      "publishedAt": "2026-11-24T05:59:54.000Z",
+      "timestamp": 1795499994000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "鄭春鴻觀點：守住家園—領公投票，投「同意」挺核電！ | 鄭春鴻 | 評論",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kRDRpUmEzeWEzQXNaWU1jNEFjbXUtcTJXWWpRT2pWblhlZkw2MGgzWXNma2VQVWR3N1lsZjJ0dkV4SlFRbF91SnVaZGYxQQ?oc=5",
+      "source": "風傳媒",
+      "sourceUrl": "https://www.storm.mg",
+      "summary": "",
+      "publishedAt": "2026-11-23T22:40:00.000Z",
+      "timestamp": 1795473600000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "COP31分歧…彭啓明：重啟核電 可降電力排碳",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOWkF3SDFQUHNKZHRzVGxGWkl6QTByWG1peEQ2bGg3aVdBcTFqN2k0OV90TFg3VUItRkhwSVVCbHlVbWdEMEdWR3VpWmE0T3BPV3puWFBIM0xCeGhJcjRSU2Ytb2xmcWNBRDM5MjhjSVpzT20xeUdyQVRoazdBRmd5Q1dNUjVMeTdaSXdsQVZxOEZ6Uy1MSnZCVVgyOGN1d2tDUHluQkVwV0M4MjJ2N2haeFZzTDU1RjlsVTZVRG1MQlBkRi1tcjhaRzdBTF9YN0Fzc1FnZlA1ZHB1bzlYQ2FmQlNWQ1U1a19UWUZqTkdmdmF5M3p6RlZ4b09FV3duVGlBVk9vSl9aTmducFZNOHg2N3h3?oc=5",
+      "source": "Yahoo新聞",
+      "sourceUrl": "https://tw.news.yahoo.com",
+      "summary": "",
+      "publishedAt": "2026-11-23T22:37:22.000Z",
+      "timestamp": 1795473442000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "投書：支持核電 不必然支持第22案公投",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAycXVfbnBvUWU3UVZlMFBxY0g0V3F6UnRxRWQzejdkWG5EQk5MTnIyZjhxNko1VkR2ZFRmMjkzSy05TXEzTGgtVGNmYWdvYldMWjBmRmN5d25JT1ZvazZpR2JfNDRvaXhIUTlId1lRNDA4R1g0by1CSWtXMTFJZzA?oc=5",
+      "source": "上報Up Media",
+      "sourceUrl": "https://www.upmedia.mg",
+      "summary": "",
+      "publishedAt": "2026-11-23T22:00:00.000Z",
+      "timestamp": 1795471200000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "核電能振興經濟、滿足AI用電？核能公投反方六大論點，檢視能源下一步",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QbFFZV3R2TDlVbWJNdmFqOEZQbXVlaTItWGZETW9zdGxZdUJqblpKaW9NLXpHeTBLUm5uV015b0hpd1E5V3Z3bnJJdw?oc=5",
+      "source": "CSR@天下",
+      "sourceUrl": "https://csr.cw.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-23T16:00:00.000Z",
+      "timestamp": 1795449600000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "美國規劃新建 1 GW 核電，結合地下 HVDC 跨區供電",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNclNPaDJJUnVscTRGaHRmRXZoVlJrQ2k0ZEV0TURIZ01JSno2emNiR1FTa0N4c2t6WlFob285cXpvSzJhLWNWbWtENDZyay1jNW5waFVDS3NWaDhZZWE5aG5UZEdZSTI3U05DMGhZTXlWNzYtNVpsQjBwV3VZcUlZTHFiVjQ0OG55VTdjb05mYXh4enV2SzJma09ORzRuY1V5aHJwVg?oc=5",
+      "source": "TechNews 科技新報",
+      "sourceUrl": "https://technews.tw",
+      "summary": "",
+      "publishedAt": "2026-11-23T09:28:21.000Z",
+      "timestamp": 1795426101000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "自由開講》核電這把螺絲起子 開不出綠電憑證",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDcjV3LVVTT0IxaGF3djRjS0NubnNGSDJTeDFNVE9Sc3k3dmY5bFFuRE9pQXZfU25nWVY2NmdidGJKdjhVeWNBM2Q4T1BqUHM2aVBJVDhUUUo4M2sydmFxcmZR0gFnQVVfeXFMTzlCamVSOHk5dzdPN1plSk1neHhwdEViRzRnSlBOZ29fOXV6Zk1NQkJ1MnBHbXZCVDZ1cHJqTHgzTGlwRW9yd3BPNm5jaUlxcERJbmh0M093VG5qUUNmOS1WWWJVbnM4OA?oc=5",
+      "source": "自由評論網",
+      "sourceUrl": "https://talk.ltn.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-23T06:30:00.000Z",
+      "timestamp": 1795415400000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "核電與SMR族群集體拉回，法人賣壓何時收斂？-黃勢週期經濟學",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdU95cC15R1FneDBSREtjRDRaQXEyejk5clpFV0dOc0xucktGWHdpQkRCMU1GOTF1ejVGejMyaUZsaUJxNTlEMGlDVWx1MHFKMTBvMGNFaDZhMzZ0ajFtWEUteWFLSFEtcVAwOGhHQ2o5WXp5MG44dzlDcEFxdTJIQmE2WWZrbTQ?oc=5",
+      "source": "CMoney投資網誌",
+      "sourceUrl": "https://cmnews.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-23T06:04:49.000Z",
+      "timestamp": 1795413889000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "AI用電年均成長2.5%，核電就是唯一答案嗎？拆解國民黨核能公投影片四大論證盲點",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPbXBDVU1Halh4R1BaMzNHVEVIS3ZFMFZsY3M1UmdPR0tpbHZ1M08wdWY5UGpwb0xmQ1RZLWtCbXowQUpUTTd2T3VENWNxTHl3OVpGVw?oc=5",
+      "source": "TNL The News Lens 關鍵評論網",
+      "sourceUrl": "https://www.thenewslens.com",
+      "summary": "",
+      "publishedAt": "2026-11-23T06:00:00.000Z",
+      "timestamp": 1795413600000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "2026九合一選舉》最多領6張票！投票資格、要帶什麼、核電公投一次看",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1c083bjItT0NfbkRKd09iY0N3LU5lS1p5ZFNDdXpiT3VrSHJpUUhNemZJM0trOXA1dVJRRC02ZVRsdzA1OTdVc3Y3ZmdOVk5HcmhtdEYwaGY5STBWUmc?oc=5",
+      "source": "民報",
+      "sourceUrl": "https://www.peoplenews.tw",
+      "summary": "",
+      "publishedAt": "2026-11-23T04:14:21.000Z",
+      "timestamp": 1795407261000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "廢核平台回應核電公投 籲正視廠址斷層風險",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nakhnZEg5RXREdXhnc05qNnY4RHZERWFJaVE1cEN0UGVCNFdld3ZxbkViZ0JYMlB2d19nbTNSLTdCaG02aW5MTnJmRQ?oc=5",
+      "source": "台灣教會公報新聞網",
+      "sourceUrl": "https://tcnn.org.tw",
+      "summary": "",
+      "publishedAt": "2026-11-23T03:56:28.000Z",
+      "timestamp": 1795406188000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "【11/23 產業即時新聞】核電與SMR族群盤中下挫，高力重挫拖累，重電概念股短線面臨籌碼修正",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXE1VkR0bDlOUllVR1dpZVhONmhHSFhDWkRweTJES3hybkdHVXRrMFl4Vno0dl9PVklXRENidV9mb1JYTXlRTnlwdkIzeWc1TXJINW1xR2d0cDdhWVR5dV9paWlIMW1haUtuZ19DZFVLYzVQSm9zeExWa3lLV1RLeF8wYkZSNWZsS3Vjc2xR?oc=5",
+      "source": "CMoney投資網誌",
+      "sourceUrl": "https://cmnews.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-23T03:11:04.000Z",
+      "timestamp": 1795403464000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "九合一大選》投票要帶什麼？投票日上班薪水怎麼算？最多領6張票、投票資格、核電公投一次看",
+      "link": "https://www.gvm.com.tw/article/134734",
+      "source": "遠見雜誌",
+      "sourceUrl": "",
+      "summary": "九合一大選究竟要選什麼？這次選舉要領幾張選票？18歲可以投票嗎？投票所在哪裡？忘記帶印章、投票通知單還能投嗎？公投的通過門檻？要特別注意的是，18、19歲民眾這次可以投核電公投，但還不能投選舉票。《遠見》本文整理一次整理，讓民眾投票前掌握重要資訊。",
+      "publishedAt": "2026-11-22T22:51:00.000Z",
+      "timestamp": 1795387860000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "核能公投怎麼投？十個關於核電的關鍵迷思",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jblJMZlF3VmgxWGstOE9BZnprNmwtOUlLbzVoLWtIX3RDRTBMbFFGWnNvZEJOb1Bab0lQNHN0amNVV3JTdHV6d0lPZjFRVUZubVItUk5CTXhKQ1lqZmV1VUVydmNhdENqWTN2NHhUQlBSdXJyQm9PTElndEowRkk?oc=5",
+      "source": "上報Up Media",
+      "sourceUrl": "https://www.upmedia.mg",
+      "summary": "",
+      "publishedAt": "2026-11-22T22:00:00.000Z",
+      "timestamp": 1795384800000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "發電量占比低 台電：核電重啟 不代表電價不漲",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50LTNjWHhKajE0bTVPWlQ4N2JOMldMU255cEl4alFGanBoSnYtTm5PVGZCUUdWTmVFQ0N6cGljbEVHVy1JcHRKSXdiWkpxZlN2aDJpbFJR0gFbQVVfeXFMTlNYSVd5Z21BcmlCN3E1T3VrMHRoXzRTUHM3bzRyX21xdTJkM2Z1TG54WGpnWkM0TzhiU05wOElKWmMyODlJVE5uV0NBLVBXN2xsMlF6eXZRR1B2MA?oc=5",
+      "source": "自由財經",
+      "sourceUrl": "https://ec.ltn.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-22T21:30:00.000Z",
+      "timestamp": 1795383000000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    },
+    {
+      "title": "核電公投投票率有望逾5成許宇甄：人民要穩定供電、合理電價| 2026九合一選舉",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KR001dzdFUFZ3UzhpSnJDVTJSV1EzakY2UzMyN3dwaVRMMDNweUdfT1Q5UzhONUc4dGh2andkN20tSzJMaDFuYVFrcFlKUmlmYlllN1UxaTQ?oc=5",
+      "source": "UDN",
+      "sourceUrl": "https://udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-22T04:10:36.000Z",
+      "timestamp": 1795320636000,
+      "matchedKeywords": [
+        "核電"
+      ]
+    }
+  ]
+}

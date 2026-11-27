@@ -1,0 +1,982 @@
+{
+  "keyword": "關稅",
+  "keywords": [
+    "關稅"
+  ],
+  "mode": "or",
+  "fetchedAt": "2026-11-27T09:03:29.554Z",
+  "total": 106,
+  "sources": [
+    {
+      "name": "Google 新聞 (台灣)",
+      "count": 102
+    },
+    {
+      "name": "Bing 新聞 (台灣)",
+      "count": 10
+    }
+  ],
+  "errors": [],
+  "items": [
+    {
+      "title": "台灣關稅15%比肩日韓算過關？翁履中示警「74%」致命差異：選後挑戰才開始 | 李瑋萱 | 新聞",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fQVh6OWVPSDdKQkZrYjZLek8taHJJX2V2cHFhZXMxR1BpV2Uwa3paaURDWlhDNzVKYnEwbmVzX3dMc1ExM1FWdDl1d0NjZw?oc=5",
+      "source": "Storm.mg",
+      "sourceUrl": "https://www.storm.mg",
+      "summary": "",
+      "publishedAt": "2026-11-27T08:46:00.000Z",
+      "timestamp": 1795769160000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "【美股盤前1127】關稅擔憂過度？那斯達克一度重挫後收斂跌幅！｜豐雲學堂 2026 年 11 月",
+      "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQS01XbjgtdHhOQkVpUV84Zk1XR2phZUg4dUtkRmZtYkpBVFhZaDNuOW14TGswcVZ1OXlpc0g2clotemFRaUo5WlJMdDlzSWJTei13SUc2aVN2TXdkMWNveTZ2ZkRxa1FuNVBCUEVVRDFmRjN2cU9JYWNDWVM4RnRWekExNU1NVEduSFp3QVNfaFdiR2pHQVhtdEVBbURsRU1BME55NE9ZOXlONXh2UHVfaUN6WV9PZHd3dXp1OXRjb3F5Qkk3Zm1WU2RXV3pZanlGTXNfTzNyRXl1dkcyTlRqYTItWlFyNy1RdmFqZ0VqN1FpV3ZNS3NnY29KQVJMUUVVbjhrV05EOUlud0VZeDM0dnkwRnhNVWtnVHJKRk40QjEzckdYbDNtOHc1X3JNLVBkbU9Rc2hlQnNWMVU4NUNuWThkU1U2WHpSeFZLTnZ6cGU3eVJrSlJValdlUTR2R2MyS29rSV9zSkZiSzhUMTNuWjFkX29VZFdYWWVNa0xFQnBJSGFYRU1qNVA5WnFBVEs5VnNPem1CeUFPQUtSTnZ3Ql9ZRQ?oc=5",
+      "source": "永豐金證券",
+      "sourceUrl": "https://www.sinotrade.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T08:12:01.000Z",
+      "timestamp": 1795767121000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "川普新關稅恐讓中國面臨40%稅率 華府施壓各國與北京貿易脫鉤",
+      "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxObk5jbV9HSG44MVRLcmNCcU5PV29TNkt0ZThTdVIwODVZTGZuQUx2bGtaTk1pSGZkWVd4SFlrWl9VdW93dFpmTVVaTzdnSUVYSGJ4c0RJY0JSWWtKQzdKX0pOTTkzeXNxQmRucGdZLWVaQU40V0laUXNqcjFTcGd1a0c3LVVoNFNUb29MWFFhUlpoaEN3YlhSUlROZzZLVnJlclhqVGc2Z0dxM2x5Q1BGUS14azA4VzdVUWtYV1FOT1RYby1mcmlkQWdDMTAxUEMwWXhQYll5S2ZFLXladDg3VURpUmMySGhQN09OVjJTdTF5QXF5Z2tXYWdzTHFaSkRsX01CcVc5ZEtOcVBJVzJuMERiZDdma1ZVdjlPajBFLWJxV0VXd1ZtOUJmbFF6YjdWTEJPMEFld0gteTNoM3M1M3d1ajZtZDhLYXdqZldONDVpRlROelpsUTExLVd2LVhJbktmNUNfOFhDXy03RWZJWDZfWUhOS0lGYlduU0lXZDFSTkZHWDBPQmE4djJMd0hi?oc=5",
+      "source": "Yahoo新聞",
+      "sourceUrl": "https://tw.news.yahoo.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T07:48:21.000Z",
+      "timestamp": 1795765701000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "泰國前財長批泰美關稅談判不透明 籲政府說明檢討對策",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXOExlem9Sb0NmTl9OLVk4eHYtTzYyWlB3SnhBaUhwMGpiekw1UnVPeVN2RC03eDQ4ZXcyV2xlU0NsbU5la2lGNl9mai0?oc=5",
+      "source": "聚財網",
+      "sourceUrl": "https://news.wearn.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T07:45:31.000Z",
+      "timestamp": 1795765531000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "泰國前財長批泰美關稅談判不透明籲政府說明檢討對策| 全球財經| 全球",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEMExiMzg1bEI4WGhpRzFyUVpXMXRyWDQ4MWhlWTA5RVprMUxBNkdfVXVESklTZUd5QlRiTkNZakxQZUJUQjJBTkdDSmVNY182?oc=5",
+      "source": "UDN",
+      "sourceUrl": "https://udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T07:42:48.000Z",
+      "timestamp": 1795765368000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "日產縮減美墨產平價車配額高關稅重創入門車款獲利- 財經新聞",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQW5LUlBwMksySjdaYUM4dWJJeC1fR3FQd1RLdTlsVWxSd0VDUzIweXNPUHJFZldrdXc1RUdJZWEwQ3R4NHZoVHZZRjFhS2UxUDZ1TXZEcHgzNV90N21zNllramh6ZE0teFRsd09ualVnbnprOG1MbzVsUTA1SWhIN05VMEFPTkhKV2lIUA?oc=5",
+      "source": "PChome Online 新聞",
+      "sourceUrl": "https://news.pchome.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T07:27:45.000Z",
+      "timestamp": 1795764465000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "日產縮減美墨產平價車配額 高關稅重創入門車款獲利",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPeWhQNC1Vd1FtS0JnOVZsbUxKUEVIQ081ODVnb0k1emZiQnZDSlRFcWlXVml3Y19vX053QldFUWV6MDFuUmlRZEYxckIxX3dCQmo3cFgwMlFxR1BfOU1lZzJsSExZSkJTamx6YUZtYnJ5TThrYmxVcFp1Ym1NZjl4MjNVbzd2aU1KNVU3QVhTUG14WXNXVENaZjdDcGVBOGY1VHE5R0NHZk13bzBhQVBxZV9hRjVaQlAzazlCalBBUDQtRFRBTFhvMEpUblREYkU3NEVpcGdqRDAtSTlfUEdqTDJKbDN1YWl3VUxsVDYyT3FudmZUSk00ckQxTWxiRXBydFhSeTlIdzkySWtwT25CQUE3RE9CU0g0eWRvRWdjU1hIMGNkYy1ZWjMzaUNYdGtMbkpTN0J6NXJoU3lhdlJGNjVUYU9yVE9BUFhTaXE3UkdIUjdjdmgzVE13d1E3WFN5NGE0eFRaQk9Memp3NlhFOGt3T1NpRmlSb1NLblJ6VFBPc1Z4OF9mTw?oc=5",
+      "source": "商傳媒",
+      "sourceUrl": "https://sunmedia.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T07:27:45.000Z",
+      "timestamp": 1795764465000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "美301關稅方案出爐！這國擬被課最高35％、台15％、陸20％ 14國稅率一次看",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9IUmNtQlA2Zl9YV2tFcTJGR2ZyM3RKZ2R3cG4yd0tBRjJyRk14SW45WDNRZmlmU3ZEbm9WcjlyejFLejRpVVJ3dE5hSk13aEpUT1ZfcTJ2RjFndFZaak1KZDNyc1NzcHN0NTdjY0NxcS1CaWtoSUl2WjRTMA?oc=5",
+      "source": "財訊",
+      "sourceUrl": "https://www.wealth.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T07:22:40.000Z",
+      "timestamp": 1795764160000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "美股休市一日，台股回到兩大變數：301關稅科技過關撐起反彈，外資連九賣決定續航力｜豐雲學堂2026 年 11 月",
+      "link": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxObkp3LTRGNUdsaHFKVWFDb1g4b21TSS1xMndhbUM5RFFuSVl1QzdicVFSaFBVcW1FLXZlenktVHY4QUt3SHM0NS0tTVR0azFJcG40RFU0emljaTFUZUxxVmtnMUF2U3BVclhVblYzMllESjFHam83ckVvX29zeDhXbi0yV1R2ZzVLTTY0a2hzak1kN3ZIZmlmR20xYzBiQWx0YnBCbThSRDlRX0x5NGtUTjVKbHBoYzBBcWJ0RG9HV1ZLTDFnaHI5UzV0MUJhZnNaYmZ3TURhQk1iZ2pIUUhyVnQxVE5wa2ZtS2k3TXhoV21mZGxPOUNweW1zZVVXaFdHRWVNeGFJX255Ul9PT0U3QU1MaGZha1BJSFI5S01SRF8taE5EYV9xVzYzUTZPUmh0eVQzUXAxYVlEZjc5b3YxR21IQjl0UmpiNzdQS3BLWGg3WU5VNGlHTGFkcGU4dTZlRU8zZXNRaFI0ZjQzOUlNdmpQdmtpYnpzeDZrS0F4VWk2OFNJR2stV2hyc0NkLTFUY0dRaXdNeEZrQWlBYmJZYVgxdkJaanpQem91TUJzUHdOZmNuZzNha0tmbDVzXzRzQ25mUzB6dGltNGdyVkdrb2lmeG1ZX2N0WFRlNFExZ29NTldQaDBIc1JtNHRHNTAydm9VMmNsUGVCM3QtYkJ4RVVTa3FRY1NjVmFXZ05FU1dhRGktTThGN3ppMjZZbXZ1a0NnZFd6VGphdkE?oc=5",
+      "source": "永豐金證券",
+      "sourceUrl": "https://www.sinotrade.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T07:07:26.000Z",
+      "timestamp": 1795763246000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "川普政府301「產能過剩」關稅 中國實際稅率上看25%",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10NVFvRVR6Z25VeFVLWHU4RGl2Y285RUVkeENxMEx5ZGZoejJEMDBJaDRBSHRIbHJzMVdEMk1PdGtGeWlnZmw4QmppUVB3ZWhkTnpZV3VNYUlpeVh2dkFDaHh30gFnQVVfeXFMT0RNa1FWNTc4R01ORVpYZklrMDZQbGpEYi16QUNJbmlnMjV4bnpTNHVuNG5DR3EtY21MdHJSMkxpRzJVR01jb0ZqRzVBYzdFbVVVa1dMRnBGbFJCWVRTTkZ4Z01SMjBWMA?oc=5",
+      "source": "世界新聞網",
+      "sourceUrl": "https://www.worldjournal.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T06:29:00.000Z",
+      "timestamp": 1795760940000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "不顧期中選舉民怨 川普為何執意擴大關稅？",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93UEVoVzBQMHBNbFdhY0p6N3hJUDBHcGVodWtnalFBUnhjS09ndlByM0pLaGI5TkRWb29XNE9mS3FVN3lJRVUyQ2hQLVdOWXQz?oc=5",
+      "source": "UDN",
+      "sourceUrl": "https://udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T06:25:00.000Z",
+      "timestamp": 1795760700000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "川普又要搞關稅 北京嘴上不忍了 中國商務部警告將反制 | 謝駒蕥 | 新聞",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zM3EtZVEtSk1pT1pQcE9peUhLS0FJdmpqSTFnaG1zXzFmWVJmWkduRW15QkZ5cV9yQmdJb253TDF5bHM0RDNjV2ZERk00UQ?oc=5",
+      "source": "Storm.mg",
+      "sourceUrl": "https://www.storm.mg",
+      "summary": "",
+      "publishedAt": "2026-11-27T06:06:00.000Z",
+      "timestamp": 1795759560000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "美印貿易協議接近完成，17%關稅上限仍懸而未決",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vSldfS2VvWXhueXQ0NFJ3Zk50aUQ3ejBWV0N4ZUxsb3ZGM21NOVBvVnFmTmRVV0JDTVFfek40bnBSNlVXZTdoVExkZjE5U1V1eVVnWm5uV1pIcGZLUThHMU82N3JocU9ma1Q5RWtoa0d2dFN1YjFsZUJn?oc=5",
+      "source": "BigGo 財經",
+      "sourceUrl": "https://finance.biggo.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T06:05:00.000Z",
+      "timestamp": 1795759500000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "301關稅台灣奪15%不疊加MFN「各國最低級別」！美規車零關稅何時能成？鄭麗君親揭「這時點」就落實",
+      "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNdlNZelpkeU8xckF1aUFKczk0VlNGVmxrZEFCdUJVdTRKcDVrTnRkSVRlZkwwa3lEQ2U1dldmU0ZEM3NEYUpSNnc0XzdHS1NldmlCNUdISlRILWRxbjc4LWRiT3pFejRidVhjNWRyck5oY0t4dTJtTHcyaVU5OFBTOV9ZU2w1cGxDRFgwVm1aRHZySjBNZ3ZRYndhc3NDbzRuMTBpOUFoZzNrNUMyaHc4Si1PejY1R3p3aDJCRGh2SjRNUUlfN25oUGpFRzFVLVAtOHZ6Sjkzbzc4SC1ySHZuaXMtOFdjZDBaS3BseS15NVFCb3ZpNVVrb3c0RUVBRVpObnpaVFZ2NngxVlNNbU1Na0lBMEtJcXhjMXpJRkxKNl80c0NKSEJ2aWlac2RyX2VXVllRSi1kSWdRODZpN3dVTjBTVHpJOEM3a2tRaXlEbjk3aUp1M1pKUW5UMUJ1VXQ3OVpiV25FZl9sME12X0ZvYm9fSEs1QkhfaC1ybno0Um1YUnlPeVZ2V3BMOWZaODFhMHRRZ2d3bUQ5OWtzWkhtUFhadmpOSEhtYkQtVzlfZWNUQU5JclpjaUlXQ1NyUHc?oc=5",
+      "source": "Yahoo新聞",
+      "sourceUrl": "https://tw.news.yahoo.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T06:04:36.000Z",
+      "timestamp": 1795759476000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "川普再掀關稅戰 嚴震生：中國免疫 美國恐先承受反噬",
+      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPQzNNNDhya0paM2JLR3JFM19YVWFuVGhIR2h1OEkzSG82YkY5by1jcDZtd2ZpRGNndVZ4R1dEM0VNR3FfTk52b09ESkNYMGExekRHVUhOakIyWWs1dkxvOVM3VUJGNmhyY2pSN2JzZXpVeVV3WFp5R3phYVVBcmxJWUNDc28xN0dpeXVRNUNqYUYyUE5ZVjlUbzFaUjc0anduTXZLT1N2eDNNTk5NMjRNWjZxZDBXZEtueXByemdWSnV2VzUtTlBScGpKZnJwclpCbnBHMFdKY2hKQU0yZ3d1UWNjSlhNV2hrZ2dpRnF3RUhRdjNyd3dpSHE1VVY4eF9jYnZ5bDBQR1Vpd3pKX3V2ZnAxNXhZSGZtMlBlTHdNUXBLQjRoRl8xVzByMXhqRFZIODhnWWl4T2lqbkZ4dnBXd1NKZlo2MVVoV01DRWQ2TUFmRWVRazFXQmw2RHpBZTQ?oc=5",
+      "source": "Yahoo新聞",
+      "sourceUrl": "https://tw.news.yahoo.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T05:27:11.000Z",
+      "timestamp": 1795757231000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "美方點名光州半導體聚落 南韓關稅最高恐飆至25%",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBobEJaRThCY2JWRnpodVBBY2dtcHhYNjVRUWU5SjdjdlBSX0FZUWo2aVVZaVduQ1p5anRYR0cxbEx1T3NhYkZUYUNkd25SN182emVqYWtib0drYi1menBkdE1yUlN6R2lKU1d4MVZPaHlmYklEZnduSWtB?oc=5",
+      "source": "BigGo 財經",
+      "sourceUrl": "https://finance.biggo.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T05:25:00.000Z",
+      "timestamp": 1795757100000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "【話題開箱】美國301調查結果出爐 學者：履約、晶片關稅考驗待解",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NOVJNTGdfaW8yeDREOHQyblJnTWNrb0Q1VUlrZXdNUHVLTVdaR0IzNFB2NEdNYmRWdjhIQWpXTHp3dmxfRmJocFl1VEVjc2gxeVNDeEtPT3k?oc=5",
+      "source": "Rti 中央廣播電臺",
+      "sourceUrl": "https://www.rti.org.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T05:15:52.000Z",
+      "timestamp": 1795756552000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "南韓關稅恐升至25%！美點名「韓國版矽谷」半導體聚落 被指施壓擴大赴美投資",
+      "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPQlVXM3dQOHdtVUlINElRVXZRLVMtS2RjTUcxZFFlT0NPejJfcjVhZUhxREJxLWZRTHBpQ282SHVObEhQeEdSSVNjU0pzSG5mVkg3c2lWTmlGb3NxclRHLVFabmtPWmtNV1VEVjlSaUJBMXhTczRTNW5kNFhGNTJXZ2xxTWJNSHZwWWtZNUlMSzVENHNvQ3c5WV9hcy1BUXQxSDBsVlozSnRnWFNvMk9Cb3lXTlpxdUhkdDB6cll1aFlLdlBfLTJDb2l2dWRaQ05fV2steVJSNmp3MnpHSlllbEtfcER5ZTdWNXNhdWpwSVN6M2w1ckJVT3htVWM1SHc2TkdqQXpDcVpseUQ1bW1iY1NBM3RjRDMyU3dlWTJXVEhyOVQtXzdrNWVWYWlxRFlGRHdEb3RadVpBaWVfR0dtYkpoOW5qMFRVTV9LeWRnNFpQWEpXVG1MZXVNeEZDSmlJUlFzLWJoRVdZNnhFNzMwX1RpWnNubm1nbU9YNzJIckhBMUlhSXBOMVNsaWZLNzB6QWdER1RhUGc3eW84QXdjeUlMMHJlVWFLY29OUUx4TEZMZUtQSlhrZzhiWmI1X1k0amRwUkgwaWFBVDg?oc=5",
+      "source": "Yahoo股市",
+      "sourceUrl": "https://tw.stock.yahoo.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T04:58:30.000Z",
+      "timestamp": 1795755510000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "為何特朗普新一輪關稅的威脅不如以往？",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNVEt5bTlPS0tIRWliMW4zcGl6Tk1EbldOcE9xUkRsNDM4OWpCdW9JdEpabzgtRzRzazBYelh0NHlJNW5COV9yTHQyV1ZXbHAtMjBCUnBGMW5FOXppbktScmVIZTEtRDBLMXRKTWJWZzJPeFl2N1JaQkp2OHhCb09LRmhQWkMxVE84YkRLQi1BUVFPTENpRWR2WUl1SDBNMjlPLWxYb3dzMDM5aXdfWEJLWkl5TU4zYS12SmcyUGpqNWxuZmdIVm9ZQUtTc0V4Mkt5a2daSjQ4dXlLM0QxX1N5eDZzRkR6YUJfTFhUMzQ1UXY5Ukl5aXBxTjJBNVhwamhpNmRsMXVaaEJ5Q3F5T0g5N0JseWQ?oc=5",
+      "source": "Yahoo新聞",
+      "sourceUrl": "https://tw.news.yahoo.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T04:39:38.000Z",
+      "timestamp": 1795754378000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "美國關稅政策令世界嘩然",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBXdXJ4clR1V0s2aGdrUzR3MUFTT0JrX1R4UmdYRjJjRG5TVGNncUN1YmNDMFktRS1xZWZEVDZFeUFnVEgxYUlqcg?oc=5",
+      "source": "鉅亨號",
+      "sourceUrl": "https://hao.cnyes.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T04:19:18.000Z",
+      "timestamp": 1795753158000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "為何說川普新關稅將考驗美中關係",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbFExdTVnRE96VHpIeExHcTlCODJJS2hSZU1pdVI0MDJWUzZGZUhERTE3X3M5Y0ZyeDVoQWhxUmRrT2VIdTdJcVZ4aEVjSEt1R042MzJVLVIyd0p1NU1kSk5HM0pBdEZQOTU1TWdxVlRqWVM0S3RybUdNYnY2LTk2V3RB?oc=5",
+      "source": "WSJ",
+      "sourceUrl": "https://www.wsj.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T03:46:00.000Z",
+      "timestamp": 1795751160000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "【即時新聞】美關稅警報解除！緯創拉回整理，這「3檔筆電概念股」大戶積極卡位！",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaFdQR3ZZNDdpdWVtdV83NjRXbHFsWTJJUnNjOEo5YnZlRU82QUZDOUdjMnpUc3VRbXNTR0VqbkwzUE56bTE1ZkxZeVVmRTB1dlJtQ09XY0tQLWFJNGltM1FYUVRsVzctOU5pTnVfOFN1dmNxZDJHWWRsbEp5cjlteE9nUmdUbW9HMldKX2FqRGM?oc=5",
+      "source": "CMoney投資網誌",
+      "sourceUrl": "https://cmnews.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T03:36:31.000Z",
+      "timestamp": 1795750591000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "「習川四會」籌碼？美揚言對中關稅最高提至「40%」",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40Z2Z2enBFcFoyZllWXzlzbm9BSTNBMEh5eWZ1Y3FHTDJNOGgtRFlzRTN0elZKM1J6cjh1WGNmSlJ5Y0NxRjZzbTBpVzR0TllPNGRJ?oc=5",
+      "source": "中天新聞網",
+      "sourceUrl": "https://ctinews.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T03:31:42.000Z",
+      "timestamp": 1795750302000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "金融熱議》川普新關稅，恐怕會成為壓垮美國景氣的最後一根稻草！",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16VFZEaWhxOXZvN1BoYVdMamZFcjlVbXpuWmdnWXBUNzJ2eWpQemp1OEJFRnMtVXlkQ1lQVDA2VEh2VS0zM3pPOFVwOUVfZw?oc=5",
+      "source": "Storm.mg",
+      "sourceUrl": "https://www.storm.mg",
+      "summary": "",
+      "publishedAt": "2026-11-27T03:30:00.000Z",
+      "timestamp": 1795750200000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "301關稅15%不疊加緩憂慮 00878、00933B股債雙布局",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3TWVzZ25UNDE2RUdYZmVSMEdVS3JMV1oySUlEVWFHLXYwREpOZUV0RWU3aVB0Ymt5QTNQZTMxZklQRC1FeFFBakFJUTF4MGZtdnhr0gFYQVVfeXFMUFRxMldlRGQyZWNJdDZ1dzBVTzNoTVp4OWZwcklRSGwzYlRlaE02ekRZWkxhVnVGZ1VOUG5mTEg0WXZhMG5qZEJ4RW1xMzdxd0JlQWcxX192Vw?oc=5",
+      "source": "UDN",
+      "sourceUrl": "https://udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T03:29:17.000Z",
+      "timestamp": 1795750157000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "川普新關稅掀各國反彈 貿易夥伴國紛以外交手段抗議",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX25qSVV3ZXRpR0ppWk45SnRta2tKSnp2SW1PeC1sMTNDUG1qUENHZG5CVEJHU0tLb0JLOTdoci0yTG1yZG96bldPUUtQN2RSdUVGTV9FdVFuTHZab19kSmd6T3dRMFZfSGxMVlVNVmJtZHZRU24zckxpRWlpNjVhcDJfYzhjT2pmMDZfSktHOEhtcnMzZ0pV?oc=5",
+      "source": "DIGITIMES",
+      "sourceUrl": "https://www.digitimes.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T03:29:00.000Z",
+      "timestamp": 1795750140000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "301台灣稅率估15% 機械工具機業：不怕競爭關注匯率| 產經",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLY1loTTFlRjZWNUhGTmFlaG5POG1zZzl5MWpsTWlYNDNDUU1NbEN2NkNPc2dlb0VnT3VsV3Q5RjF5M1RPZTRfN2dseHZkQjlfWllmeUw3M1doOVROamc?oc=5",
+      "source": "中央社 CNA",
+      "sourceUrl": "https://www.cna.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T03:21:00.000Z",
+      "timestamp": 1795749660000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "美國公布新關稅計畫，擬對新加坡加徵最高20%關稅",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUUVlTWWhhY0JJMGloczVvUU1HQWZKRGlyWkxMRnhDZmdtZTVWa1Q3SUJCV25pVG9SZEFNYUdqeUJ1dy1WRHUzQXc4SmcyN2dNdnNRZGZKXy0?oc=5",
+      "source": "CMoney",
+      "sourceUrl": "https://www.cmoney.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T03:14:25.000Z",
+      "timestamp": 1795749265000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "川普威脅祭35%關稅 越南加速推動美越貿易協定談判",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDTXRUbFRkRXN1eUFidE1hV1ZYeGw0bV81UzVrLTBTRUozRVp6U0tqajdsal9vRHBET05rTVJYZEtvVV9MWjVVaXI4d1pEQm1fZkx1NThULUdLZlBwaHJMRHE4ZEEzdw?oc=5",
+      "source": "民視財經網",
+      "sourceUrl": "https://finance.ftvnews.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T03:01:42.000Z",
+      "timestamp": 1795748502000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "美國擬依301條款課徵18%關稅，印尼業界關注競爭力衝擊",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aWDFxRkZJVlNqZGFKRmtFaGJtU3ptUVVGR2FvZFYyQ096bXV6R0xTZV9uYnI3WHZoQUR0Z0N1bHNTNTFRUFFOTlhzOTItRGNSTGhrRGdnWExWYXJoTGdJbnYxRF9wMTFNZXdMUG5SQWFCd1hmZldENVFn?oc=5",
+      "source": "BigGo 財經",
+      "sourceUrl": "https://finance.biggo.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T02:55:00.000Z",
+      "timestamp": 1795748100000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "關稅恐跳至25%！美點名韓光州-全羅半導體聚落 三星、海力士擴產踩雷",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56Rm03dnlPUTFYdmM3QmVMckZZdWZzOHYzV05GY2UwRFh3NVZjLVhYTUYxclA1VTdvRjZERzVOMjI4MTEyWlduSGRJVEh3OGM?oc=5",
+      "source": "鉅亨網",
+      "sourceUrl": "https://news.cnyes.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T02:45:34.000Z",
+      "timestamp": 1795747534000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "川普新關稅政策 5大重點一次看",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RTmNJb2pyQjdjd2dNemw0QlpKYVVSY2Y0VjBrZl9TdVZnZ3pjWHVLd09wOUd4Q05hVFhoNWpOQm9LRm1EU2I5cGxZQ2tiX1FPc1VpSWlZQzZLODU4MkhZ0gFkQVVfeXFMT1FNUEpPaVJjNGFDRGFaNk1NYjRKNGxaNjR3ZnRJaVRkOFNUMXlrT05jTTZSQjVQZUUzZDhwR2ZEMnUyeW03cmd1NmRBQnI1NnFibDhQWkpUQTAwdlByU2Z1Y0luVQ?oc=5",
+      "source": "自由財經",
+      "sourceUrl": "https://ec.ltn.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T02:32:42.000Z",
+      "timestamp": 1795746762000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "美國指控印度製造業產能過剩，印度強力反駁：關稅數據說的卻是另一回事",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xV0VGQkxFMUNOb21mckZwZjY0S29zb0lVNzJaN1QyeEM1U0h3NS1OcnE2LXpjd0xKZ1UxaUJSU0kweWpFMS1QNVktMDJKb3ZXTEMzb2R4V3l3djBZQmdJWWo0VFFLeURpbDVtS0pTaHFDSXdqWkVhR3J3?oc=5",
+      "source": "BigGo 財經",
+      "sourceUrl": "https://finance.biggo.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T02:05:00.000Z",
+      "timestamp": 1795745100000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "美301新關稅鎖定中國 分析：施壓各國圍堵「世界工廠」",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhOXhsZm1PRXU0ZTk1N0dqcTYtWV9EMEVZT3NUMV96NGgwWFRuV0NyMXJZS2d1TndOQnpsNDhOc2F4ZlRDX2EwXy1od0E2ZFJPRkp5dllfcTlGWVFN?oc=5",
+      "source": "太報 TaiSounds",
+      "sourceUrl": "https://www.taisounds.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T01:31:49.000Z",
+      "timestamp": 1795743109000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "美國擬對巴西客機課徵一成關稅 製造商警告機票恐喊漲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zbTU3Zi1zNU51NWNyUjFTX0VyN3A0SEloOHF0ZURFeFlNT3dUSnpOcEpJcnBOU1RadVg4S2Z0Ty1EblNiUXVES21TQmMtMGNjQVE?oc=5",
+      "source": "蕃新聞",
+      "sourceUrl": "https://n.yam.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T01:29:05.000Z",
+      "timestamp": 1795742945000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "韓國KOSPI 4,700點關卡攻防，關稅疑慮緩解仍受資金斷層拖累",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04c19MdWl0OEU3QTBWaUJrMW5saGZXd3RuQTUzZUJMWkZmZkUxajJ0T1V2S183b3BnUUZ5aWFuZVpFTkFMZ0RpcGxvLTRrdlIwcHh3VVl3T1V6aUlIWjV0dzRCdkNlZVdrLWVNY09oZXN1NjZya2h5N0FR?oc=5",
+      "source": "BigGo 財經",
+      "sourceUrl": "https://finance.biggo.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T01:26:00.000Z",
+      "timestamp": 1795742760000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "感恩節後新台幣開盤小升！川普新關稅未明股匯仍難脫陰霾| 金融要聞| 產經",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ET2NZMnkzQXRJVG9FUlgybnZ2X19LZ3lwbHFRY21YcEtZNktZcXd1SHRYQTRkUkNMRkpmQ0M3cnlTRTVSdngxSWlhUVRUQldY?oc=5",
+      "source": "UDN",
+      "sourceUrl": "https://udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T01:25:37.000Z",
+      "timestamp": 1795742737000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "關稅最低級距 亞股慶祝行情.台股終場漲956點",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0ZnU3LXRUWERaZmNGQjRFMjkyZFBabzcwVnBrcFFqem9OV0ZIcDNQUzFuazhBajZJM3FwX0dnZTZ4d0RfSGYwMnhURXFVblZtMUJxeXRzT3Q0WU01VldpcE5BRDU1bjNXSm4zWVR3?oc=5",
+      "source": "華視新聞網",
+      "sourceUrl": "https://news.cts.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T01:20:00.000Z",
+      "timestamp": 1795742400000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "301新關稅 讓世界更遠離中國 還是更依賴中國? | 外媒解析 | 國際",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RR0RnLW04MTg5LW5PdVRhdUJvUDlDQ2ZOelhjSXMtbHlVU293MFpUcFlFUWVuYTBaNzlpMHB3dlFxTjJ1dWZ4NGxwUTBjcGhJZ3B3M0ZMZ0piR2lR?oc=5",
+      "source": "經濟日報",
+      "sourceUrl": "https://money.udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T01:17:23.000Z",
+      "timestamp": 1795742243000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "英國擬對超額進口PET課徵65%防衛關稅，食品飲料業憂成本轉嫁消費者",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KUk9fT2lkaW9yTmszMDlhUUd4dzBpU1hsUUNhRTFlU2J4RnRPc1R1dVVtWGQ4M0ZPd3dtSm1GOGxWbnBGRFNDVzMzTDlHa3VsUkZvXzhmR1JVQ0l4MW12TjBFOUZjWDBS?oc=5",
+      "source": "經貿透視雙周刊",
+      "sourceUrl": "https://www.trademag.org.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T01:01:33.000Z",
+      "timestamp": 1795741293000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "越印高關稅恐衝擊蘋果鏈，分析師：台廠隱形成本更難扛",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWXhRd0QtN1diS1NXaFpOTjBfYjdDVXhERm1GOU5UenJKUmF3SDBEazlUSGFybkVucTB0ZmlKUTVNLXdlbVU3RDRSWk5MVW9POGpCMF9PN0JMaHNQb2oyUTQyS0hpMWdGeFhLeVUxaU80NVhTbzVEUDRfa2NBaW1pQ2xSaTh4ci1tVGVWbHo0aW52WGQ3OXdENEpPY0NwOFM5bnJ6WlgxVGhYZ3dwSWFab0c5MXFhRk90WjI2eVROQQ?oc=5",
+      "source": "TechNews 科技新報",
+      "sourceUrl": "https://technews.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T00:20:30.000Z",
+      "timestamp": 1795738830000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "川普祭新關稅衝擊全球 美第3季GDP大增4.3%",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xSGdmeG1OeHktdndMdnJoblhBbXFFRHI3YnZhUWhIcmhReHJJSmFQT085Z2ZaSkNFYkJlbTliaUYxUjJfRTFMVTFqYUV0dWt1Wm9qWW13Mm1kYktJUGMzSGwwelpPUQ?oc=5",
+      "source": "民視財經網",
+      "sourceUrl": "https://finance.ftvnews.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T23:56:29.000Z",
+      "timestamp": 1795737389000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "早安世界》301台灣稅率估15%級別最低 政院續爭取豁免及232零關稅配額 | 生活",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGZHBFWmMzTGVkLVJWMklQWGxtc2M4U0t6Yy1CdnhVV3BuNmhzc3RmRHlnbHdNUkh0TG45d2dtN0pTYnFBb1JDMkwtM0FBZFpFN0VGbUxPSFpEUEJqZnUw?oc=5",
+      "source": "中央社 CNA",
+      "sourceUrl": "https://www.cna.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T23:36:00.000Z",
+      "timestamp": 1795736160000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "《歐股》歐股收高、關稅疑慮緩解 科技股反彈-新聞內容-基金",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMk5sc1VOQ3QwUnpPQkgzWGc0S0lYTjh3UU9hYXdMZmFkWmxwWWthTzdDWl85Z0FVb1BpQ05wcHlxVkxoR2JqZXVGbktHaVh3UF9jaUJ3VFVUUUNRX0tQV1BFcERkeXdhTGliek5nemxhNE11UlFwazR4QTI5TTl0dVZNRWtOeXljeEotNW96QzN1ZzA?oc=5",
+      "source": "MoneyDJ",
+      "sourceUrl": "https://www.moneydj.com",
+      "summary": "",
+      "publishedAt": "2026-11-26T23:30:00.000Z",
+      "timestamp": 1795735800000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "風評：川普新關稅台灣增加50%，值得高興嗎？ | 主筆室 | 評論",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81LUx2NjlvX0VUUkdRbmVuVUlYMzJvWEVLZHUxVk5aYlpZcTdQUVBKUnhOUGpPUFo0QTdJWVNtR2dac25jMmduWjB2Q29CUQ?oc=5",
+      "source": "Storm.mg",
+      "sourceUrl": "https://www.storm.mg",
+      "summary": "",
+      "publishedAt": "2026-11-26T23:20:00.000Z",
+      "timestamp": 1795735200000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "《歐股》歐股收高、關稅疑慮緩解科技股反彈- 新聞",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPczVqQzV1YzMtODVva0xsZGlsYlpHV3NXM2tYSUlMQUNQZnNhVVA3MVY4LTI4WEtpNkhaYzFZWTNaZ0Y4TU85OHo4QVVGSUowR1h3MjJQM1o3Zk03bXE4Y1dEcjgzNFF2bWNoMldrZUJKYzYyd3FxTzk2YllRWGpuTjRLNVRnYkpwS3E2eVZZbzdMdw?oc=5",
+      "source": "MoneyDJ",
+      "sourceUrl": "https://www.moneydj.com",
+      "summary": "",
+      "publishedAt": "2026-11-26T22:34:00.000Z",
+      "timestamp": 1795732440000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "新關稅 中難直接報復 美留後手加碼",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xQ0FuXzFfcGoxYkxnUmlwNl95WGpYTTlsdGdHR1BycV9DX1NsdkQ0MjhXeFRwQXVrVVZHVWxmeFNGc0Z6OGl2YU1xTFRVaFFaUHdTd0tR0gFbQVVfeXFMTVp1ZjVhdjVVMjE0MEdfOEJrZWxZY05vYTFla3REMTF5LTloOHpNWmNPa1RSLVFrNm1Yem1XVFhnekJ4YkR3bUJNcEtwV2E2TlBqQ2daVjd3d2N1NA?oc=5",
+      "source": "自由財經",
+      "sourceUrl": "https://ec.ltn.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T21:30:00.000Z",
+      "timestamp": 1795728600000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "322項農產品仍零關稅 農業部：更有利在美市場競爭力",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAycGpkZVBVOWhJV0hTUkFCMkZpUVg2Vm9wYVZPVHU0eXJ6NzBrYkZVRU1LN3NJVXF4WVRTMEpNRnQ5bzJZV1dTSTI2U0I5N3JaQjVodnpB0gFbQVVfeXFMTXhOdnlaaUIxT3hINUEwaWFMclJLOXgxTUkySC1mWjMzb1JjMzJkeXRTeDZkbnNjdE5lT2hLcDBNaWQ5QkhwT1ZnYmNxNDFKUHRKZW1BYk9vMVJtRQ?oc=5",
+      "source": "自由財經",
+      "sourceUrl": "https://ec.ltn.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T21:30:00.000Z",
+      "timestamp": 1795728600000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "川普政府推出新關稅：日本15%、中國20%",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYzNXZzNWTVA4RGotSzVnRFJiWGpDNFgwNFhSYXpFeG9QTUItSUFSa09oaHA4TVMzX3V1M3hXLS12MGtab3hQM0I4WFJ0S3dCUWgyREJETjZmd25rT0FPaGFwZTBTRVJjaG5tY1FEZ3UwU3luVDdYbWRmY3FSclRMeG9ZaXI5eTNFbDROZA?oc=5",
+      "source": "日經中文網",
+      "sourceUrl": "https://zh.cn.nikkei.com",
+      "summary": "",
+      "publishedAt": "2026-11-26T20:52:35.000Z",
+      "timestamp": 1795726355000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "232半導體關稅未明政府喊免驚- 財經要聞- 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWdzh1YmF6MDQ1U0RGVWhVcENVcWttUGJNU2tnZl9hWUg0akFVX19DVnRnNVhXczdzQXhsZ3YtWk5kUVZjZXNXRmJXVmE5SWhDbEtBQXBST2QxUklfM1ZkZXhCaXdKWV9WN0tv?oc=5",
+      "source": "中時新聞網",
+      "sourceUrl": "https://www.chinatimes.com",
+      "summary": "",
+      "publishedAt": "2026-11-26T20:10:00.000Z",
+      "timestamp": 1795723800000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "川普新關稅逼貿易談判加速- 全球財經- 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNMVNLWmdRZXhsaXZLVTk1cVhxM3g0MUpHS2pPSjlOZWVKV2dTR0ItdnM1SDhWQXo0M1RkMTNQQUNyOG90UDF2NDFRa3hMR1l4MjhNWktIOEgyZkpLUElwUVJ1UDdQbXRwajVZ?oc=5",
+      "source": "中時新聞網",
+      "sourceUrl": "https://www.chinatimes.com",
+      "summary": "",
+      "publishedAt": "2026-11-26T20:10:00.000Z",
+      "timestamp": 1795723800000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "301 關稅效應 工具機、自行車等傳產接單面臨考驗",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwOUV1U2ZxSHdDaXFRZjZ6cXJ3aHo4SGNTUHBUZnRYdHdEVUF6WU93NkRWc0YtcXJybnVEck5kcHRzREt2Snlod2VubDJTZmFKRkR4SFh6eFI4Z9IBX0FVX3lxTFBCQ1llX3F4d2FuRmVDOE5ia0Jad010Q0hENTVZalhPZjM4dW1xRVgzTF8tZEl2eEVIMjMxN3ppS19TMUVoelJBNjdMMDVWbWtHdV9ESUkydnFUMjV5bWFz?oc=5",
+      "source": "經濟日報",
+      "sourceUrl": "https://money.udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-26T19:45:27.000Z",
+      "timestamp": 1795722327000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "半導體業躲過301關稅 AI 伺服器、手機、晶片等均獲豁免 備戰232條款",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sREhHSXlYVDFjSDJoV0cyUWx1NlhPNTVVbi1WWWR0UWRhNE5LUnFOMGtxc1hnNEFoVU13RURBTkduUTlNaWxWelVqTXplZmxUUkMyUW8waGNXZ9IBX0FVX3lxTE5XTHBHcTlHQWVGNGZLMm1pZlNiYjJoaXo4bjdjR0U2SkVMbFRLMF9hWmZWdG9STk1CSlRqZExrdlFsbU5vc2hHUDl2cHpybEJaNFlPSXVGQlhxRndmNXRv?oc=5",
+      "source": "經濟日報",
+      "sourceUrl": "https://money.udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-26T19:43:37.000Z",
+      "timestamp": 1795722217000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "科技業躲過301關稅 PC品牌廠：持續多元布局",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb1NpRWUzel9aMmhBNXdER282M3duQ1ZpcDVDRERBSmhiMUo2d0tMWHdIejJZUDlVWURSY1hoX29YaFRYRDk4dE03eVJPNVVNalR6SzgtOENpZkZEMFpHLVJieExVTmtxVm1rXzNkVkxYVzhHeUNCcFhTdUVIY0pISdIBX0FVX3lxTE9SUDdmdlBFNDVhYXZSQkxQb0Uxc2RQOUVlX1gwNFBQNGhNSlpQS1ZiUkQyd3dMYThaeWZPbUEyVE5kLVR3WDBubU1lVGlaUEZ1d0dfWVl3b3pfWGZpUFZF?oc=5",
+      "source": "經濟日報",
+      "sourceUrl": "https://money.udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-26T19:41:29.000Z",
+      "timestamp": 1795722089000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "暗藏伏筆 川普新關稅預留加稅空間",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fRmp3QWVfRDI0NmNfOVFiUUx4WTN3SkJqSmEwa2pRcE1uQTRTTzI2U1NZdkdWb0toSWJEMFFCOUtiUDBqV1lJQ0xsWmZfMV9O0gFWQVVfeXFMTkhMaGlHQTQwOWtHYkFLTklfMkZPaUthMEdHcmpLOE0yZWtjNFZiTjNkTWRCUTNpMm5HdlZ3RXdrYjJNVGgteDhlU25CSTNhTUhMWWFUa1E?oc=5",
+      "source": "UDN",
+      "sourceUrl": "https://udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-26T19:38:01.000Z",
+      "timestamp": 1795721881000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "川普新關稅 日本向美抗議、星爭取降稅率",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VSzFtR1ltWmhOTWRFbnpaWlNmNHNLZDJVYW1zRzl6SXJrb2pSR0FlMno2UmhIRzRiemVLRVNpcW5iU2dac2VLZmlNODlsbk5s0gFWQVVfeXFMTjc1UTNUU3htTEVRMnhyckYyUkx0NjFVZmd4V1NBNnNZaE5yYnNBbnVENVBhS3FIVFF0dDQ1ZjdONG5mY28yX1docWJMaXU2VDNhaU5PdEE?oc=5",
+      "source": "UDN",
+      "sourceUrl": "https://udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-26T19:37:45.000Z",
+      "timestamp": 1795721865000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "美車零關稅 做好對接準備",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mQUNyelJKREVPZGxYLUhQeWZqMjBfcmVNa280T0R6SDVGSVR0MktXQVFjX2FHSU41RkZQSVBFLTlNNVFtN0tLRjdZbEF3czc10gFWQVVfeXFMUFlwOV90OHo4bzhPanZVdXBfSmo1bmtSQnNPSndfWW9yd0VtRkEtcWNvVC10U1RKcU9FbVdyd3dpTFVhaUE4d0ltblZKdW5TeGRiZWZwLUE?oc=5",
+      "source": "UDN",
+      "sourceUrl": "https://udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-26T19:28:28.000Z",
+      "timestamp": 1795721308000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "經濟日報社論／關稅漸明朗 台灣挑戰才開始",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuR2FtSFQzYUo1ODZSay1ESjVEYUViZWRPb1REUm9VSXRLdjRjUG04ZmJrc2NYZTdPR2dfZW5NMEo0dWR6N2RaMU94TFBMWkl30gFWQVVfeXFMTl90dEs2VzRwalBoRkplSkdTRUhxTktKc2laLUJrMEFycTFoanBhZlBWc3p1WENwYVFMZUVKN0F6cGJyc3NJM19LVmJzX0VVUnhIUDN3R0E?oc=5",
+      "source": "UDN",
+      "sourceUrl": "https://udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-26T19:26:40.000Z",
+      "timestamp": 1795721200000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "川普新關稅逼貿易談判加速- 日報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5odjVucF9BUUcyQVY0Y0x0cE45ek92cWcyTGRSYXNydGo4ajhCcGROa09tcVJBRE5LU211dDNoZk1VMUt4Q0ZvdDBtSVEwX19yTXdVLVhBeXNxZ3F3UU5V?oc=5",
+      "source": "工商時報",
+      "sourceUrl": "https://www.ctee.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T19:00:00.000Z",
+      "timestamp": 1795719600000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "台美關稅即將底定鄭麗君：有把握15％不疊加- 日報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NcGRlaV94Q3JyS3MtdlJTYk1BaFowcTh4eXlrUi13WElXRTlKTWNybzdoaXRnVjV5d1lLUmpoZFBUV0dzaXBDVFB2OThnbUFRc3FLV0pQWlNMd21mWTRn?oc=5",
+      "source": "工商時報",
+      "sourceUrl": "https://www.ctee.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T19:00:00.000Z",
+      "timestamp": 1795719600000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "美揮關稅大刀Fed鷹浪恐更強- 日報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jTy1wM3V2VEZTQ05xYklMZ1lwWjVVTHJxYWpTeWlWUmFjUldGTDFfdDNsb0kxMExSQ2Y1aXR0OGhjWlZvbDlHWHQ1eWVhbFFkdU5ocWhkN1dhSlpQM1ZB?oc=5",
+      "source": "工商時報",
+      "sourceUrl": "https://www.ctee.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T19:00:00.000Z",
+      "timestamp": 1795719600000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "習川四會籌碼 美威脅對中徵40％關稅",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UbXl3ZWU1MEtVOFp1SExjY19EZ1N3c2hHekRHU2pnTERRV1RxUGpmVkFiM3hKaXd4ZVFic0NEczNBajk0dEM0VFFWRG9JN2RvQjhmSXJuQ29Ra3dkVnk4?oc=5",
+      "source": "工商時報",
+      "sourceUrl": "https://www.ctee.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T19:00:00.000Z",
+      "timestamp": 1795719600000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "新301關稅》台科技廠衝擊有限- 日報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ObXFyWnVXRktmYU5ETHJHbF82Y1c1b1pRY0JjNXdBX1VwZFBSczlkYTZVbUxzaThfbS1UdjQtMnJIWTdyNTJxcEFIUGFmcXdXVUh5LTJ3eVJBT3FLcXJR?oc=5",
+      "source": "工商時報",
+      "sourceUrl": "https://www.ctee.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T19:00:00.000Z",
+      "timestamp": 1795719600000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "台灣232關稅優惠出爐！半導體配額內零關稅、無人機15％全球最低- 日報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40MEE1SzhZMnZLdV9lLVJ5RFk2YTZwNVNSVXlVVE9XYWZpMVhBMHdMQmRVRGhVZC1mMlQ0LV9ZLTZIdEdueURkUVZJWmxGTG4taUJTRmJHY1Z6aTBiQndn?oc=5",
+      "source": "工商時報",
+      "sourceUrl": "https://www.ctee.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T19:00:00.000Z",
+      "timestamp": 1795719600000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "美國301調查關稅出爐 晶片、主流消費電子產品影響「相對可控」",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcUtHckxNOHBKakFwTzVXM2pUUmNyNFpVUlFuSnlDU3BneG8zWkE4czMxNTVfb1FiZWc1Q2ltRVk0bmt4MmxhblhpcjczeTNydlFoQ0pndnoxMGw1eC02SElIWlNPQXlkMnlBUWR2clhlSEc1X2NURVRnVmxyTVNPYUNtUHpIRHc0dDdUTWNn?oc=5",
+      "source": "DIGITIMES",
+      "sourceUrl": "https://www.digitimes.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T19:00:00.000Z",
+      "timestamp": 1795719600000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "台灣關稅15%比肩日韓算過關？翁履中示警「74%」致命差異：選後挑戰才開始",
+      "link": "https://www.storm.mg/article/11185771",
+      "source": "風傳媒",
+      "sourceUrl": "",
+      "summary": "美國貿易代表署（USTR）美東時間25日公布「結構性產能過剩」301條款調查結果，提出對台灣所有產品課徵最高15%關稅的建議方案，但不疊加最惠國（MFN）稅率及既有強迫勞動301關稅，與日本、韓國、歐盟、瑞士同列最低稅率級別。對此，行政院副院長鄭麗君26日表示，有信心透過台美對等貿易協定（ART）及投資合作備忘錄（MOU），確保15%不疊加的談判成果。旅美學...",
+      "publishedAt": "2026-11-26T18:46:00.000Z",
+      "timestamp": 1795718760000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "SCFI終止連三跌 歐洲線拚漲長約價、美西線期待新301關稅搶運行情",
+      "link": "https://www.ctee.com.tw/news/20261127701241-430503",
+      "source": "工商時報",
+      "sourceUrl": "",
+      "summary": "上海航交所出口貨櫃運價指數（SCFI）今（27）日翻紅，上漲65.76點至3,569.54點，漲幅1.88％，終止連三周跌勢，主要由歐洲線、地中海線分別上漲11.59％、18.33％帶動，部分提前反映歐地線12月1日喊漲計劃，至於美西線、美東線分別續跌5.27％、5.86％。",
+      "publishedAt": "2026-11-26T18:02:00.000Z",
+      "timestamp": 1795716120000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "川普新關稅有七大重點 對各國有何影響",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIU1VvM1QwSDdISkQ1cnNkOFVpOFh5VWN0MGMzY3RzYS1qMGpjM3prNVVPVm5VRERqelRPOVVaSnZRVEFpSENjdnR1M2liT0pXcFZ2MDJfSGIzSkpyV2xTSlB30gFnQVVfeXFMTkNVTVVSbUhmUW5HWGdZbG42VmVaR1ZFNlotTHRrdGppdEtrQmZaZWNTZVJnRy1qOEJWdXItWjd1VHo4T3NqZzZrY0NHcDRHN2wydS02Nkh6SDY3Y042VGtadnd0UjBqNA?oc=5",
+      "source": "大紀元",
+      "sourceUrl": "https://www.epochtimes.com",
+      "summary": "",
+      "publishedAt": "2026-11-26T17:22:00.000Z",
+      "timestamp": 1795713720000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "1分鐘讀財經》台灣半導體躲過301關稅！232條款才是硬仗 下一波風暴怎麼防",
+      "link": "https://www.chinatimes.com/realtimenews/20261127001226-260410",
+      "source": "中時新聞網",
+      "sourceUrl": "",
+      "summary": "美國聯邦通訊委員會（FCC）於台灣時間26日有條件核准SpaceX「Starmind」計畫，允許部署最多100萬顆軌道運算衛星，為美國首張太空資料中心星系部署許可。隨低軌衛星應用從通訊延伸至AI運算，市場看好華通、台光電、昇達科及啟碁等台廠可望受惠於衛星及地面終端設備升級。",
+      "publishedAt": "2026-11-26T16:00:00.000Z",
+      "timestamp": 1795708800000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "《熱門族群》美國301關稅對IC設計衝擊有限！ 2027年AI受惠股出列",
+      "link": "https://www.ctee.com.tw/news/20261127700904-430201",
+      "source": "工商時報",
+      "sourceUrl": "",
+      "summary": "【時報記者王逸芯台北報導】美國301條款調查結果出爐，科技產品豁免範圍成為半導體產業關注焦點。法人指出，此次伺服器、手機、PC、儲存裝置、晶片及大部分半導體設備均列入關稅豁免清單，涵蓋台系IC設計業者營收占比最高的終端應用市場，預期整體衝擊有限。加上2027年AI伺服器需求持續成長，帶動高速傳輸、電 ...",
+      "publishedAt": "2026-11-26T16:00:00.000Z",
+      "timestamp": 1795708800000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "301台灣關稅15%不疊加！何時實施？ART是否重簽？關鍵5問一次看",
+      "link": "https://www.businessweekly.com.tw/international/blog/3023663",
+      "source": "商業周刊",
+      "sourceUrl": "",
+      "summary": "美國公布「結構性產能過剩301調查報告」，對台灣的建議稅率為15%不疊加最惠國（MFN）以及強迫勞動關稅，究竟301條款調查為何，以及台灣稅率是否具有優勢，行政院記者會關鍵問答一次看。 美國301調查是什麼？ 台美雙方今年初簽署對等貿易協定（ART）及投資合作備忘錄（MOU），取得對等關稅15%不疊加的相對優惠待遇。行政院副院長鄭麗君今天在記者會上說明，美國政府在對等關稅稅率法源失效後，改透過30 ...",
+      "publishedAt": "2026-11-26T15:54:00.000Z",
+      "timestamp": 1795708440000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "美301產能過剩關稅影響 中國實際稅率可能升至25%",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCX0M1RDF1aDFQOTVTMnk4ZF9mMWw5M0lLdUJJZUx5VnluMHJGSGRnR19Bc3JjSzVYTHEwVVhiWVFwVHMwT09VcngweXAzRnZhcjNtZXBocFQ0ampLY1E?oc=5",
+      "source": "中央社 CNA",
+      "sourceUrl": "https://www.cna.com.tw",
+      "summary": "中央社 CNA美國祭「301條款」擬對台課15%關稅 經濟部長：有信心與日韓一致 Yahoo股市總編推薦／川普新一輪 301 關稅 暗藏加稅伏筆 未來恐難重返自由貿易？ | 國際焦點 | 國際 經濟日報",
+      "publishedAt": "2026-11-26T14:20:00.000Z",
+      "timestamp": 1795702800000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "美301關稅瞄準14經濟體！中國最慘恐被課40% 還可疊加徵收",
+      "link": "https://news.tvbs.com.tw/world/4056830",
+      "source": "TVBS新聞網",
+      "sourceUrl": "",
+      "summary": "美國貿易代表署公布「結構性產能過剩」的301條款調查結果並公布擬議措施，業界評估中國的實際有效稅率預計由9月的19.9%升至24%–25%。 列入這次美方關稅提案的14個經濟體，每個面臨的情況都不同。對中國，擬徵收最高20%的關稅，如後續磋商未能取得令美方滿意的結果，可能進一步提高至40%。",
+      "publishedAt": "2026-11-26T12:35:00.000Z",
+      "timestamp": 1795696500000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "越南印度被美課高關稅恐衝擊蘋果鏈分析師：台廠隱形成本更難扛| 產經",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWYWlOVGFCM1lXUGFZM1hLV3oyOWQxYXYxdld5TThLVXF6aEEtYVpsT3dQeXZhUm83VHFYVld6OS1vQlNRR0Nsb0duUWJ1ZWEzN1AxN2tEaDNtODA2dmc?oc=5",
+      "source": "中央社 CNA",
+      "sourceUrl": "https://www.cna.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T11:43:00.000Z",
+      "timestamp": 1795693380000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "美再揮關稅大刀Fed立場恐更鷹- 國際",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5odlloc2stVC14T0dKbm9BNURqTUluYXZxNG1NN0dMUDgyUXNRdjhaZFFjejdlN1dtcHhTRURBTjdjZFZLYnhYRFFUMnhuT3M5OWhHcF9UbVNNUDViZGM0?oc=5",
+      "source": "工商時報",
+      "sourceUrl": "https://www.ctee.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T11:35:00.000Z",
+      "timestamp": 1795692900000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "美國 301 關稅調查，電源供應器呢？台達、光寶這樣看",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb2ZkWk9MdHFYS3l5bDM1NDhBeG40MHpXb29IcWVkcy1ldGNrTkJLZFA5LTZQRGxzRVVMWVl0YkM4bV9hWmpXVm5qZ0dZSWxXLWZ3a3NxTkNpSXVPRWtIXzVUYUtHLVkxc1Z4U0NLZXBURXdFTnRuT2ZsbFN2UUt3OERIZ1IwdF9QYy1ydk9Ub0FvLTg?oc=5",
+      "source": "TechNews 科技新報",
+      "sourceUrl": "https://technews.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T11:05:19.000Z",
+      "timestamp": 1795691119000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "川普祭出301關稅 通膨恐變得更難纏，促使聯準會加快升息步調？",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ka3JseTRETXRzOVVlNE5WMVVSMC03eURGOXlKdE95Z1pwTDNyWHVCWmdxTVdlYWpTcm1nM3o5ZlU2V0t5RjlRSmo1VjZjaXJZbXJZYXp6akZCV0tLRDhONk5VdGhMaUJhZ2YtVE5oQ3JjVV9DNXl4UlBxRQ?oc=5",
+      "source": "財訊",
+      "sourceUrl": "https://www.wealth.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T10:51:05.000Z",
+      "timestamp": 1795690265000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "台美關稅談判取得階段性進展，持續為台灣產業爭取公平競爭的有利條件。",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aX1ZJS0RLUEJxaWdGX19vRGh3Z1E4ekhUWnI4dHBiT3BhR2lTOFFoSXdIRzZhZlNwejJHU2l4eXByNXNhdVAzdlVCQ1l6Q3J1TkhrNm1MNVZoZw?oc=5",
+      "source": "民主進步黨",
+      "sourceUrl": "https://www.dpp.org.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T09:33:32.000Z",
+      "timestamp": 1795685612000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "話題》美301關稅攤牌 台灣15％待遇藏隱憂 誰是贏家、誰成輸家？",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0bmphemI2TnNlZW1fZVg1bmZPOUNnT3BCeUVhWVRmZnJWVEl5cGZicUxJVmp2d0J3SkZlWGptZExwRWZkemhlMVBoUkVXU000a1lUNmNDWDVWOXg5SGtF?oc=5",
+      "source": "工商時報",
+      "sourceUrl": "https://www.ctee.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T04:31:00.000Z",
+      "timestamp": 1795667460000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "title": "301台灣關稅15%不疊加何時實施？ART是否重簽？政院關鍵問答統整| 政治",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43aC1sd3ozems4QnY3NlMyM3BkVHhqbEZRNTk1MWJWelRESVVodFp2ZmtFX0l0VWs2RG9Pd3prdFpadms3YWplWk1XbW5mUDVUSzZzRTJ3eE1wOGRBRDI4?oc=5",
+      "source": "中央社 CNA",
+      "sourceUrl": "https://www.cna.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-26T04:08:00.000Z",
+      "timestamp": 1795666080000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    }
+  ]
+}

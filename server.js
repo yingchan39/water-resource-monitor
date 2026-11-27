@@ -4,7 +4,7 @@ const path = require('node:path');
 const { URL } = require('node:url');
 const {
   DEFAULT_KEYWORD,
-  normalizeKeywordString,
+  parseSearchExpression,
   fetchRealtimeNews,
   fetchLegislativeYuanUpdates,
 } = require('./lib/fetcher');
@@ -65,22 +65,22 @@ const server = http.createServer(async (req, res) => {
 
     if (pathname === '/api/news') {
       const rawKw = reqUrl.searchParams.get('q') || DEFAULT_KEYWORD;
-      const keyword = normalizeKeywordString(rawKw);
-      const mode = reqUrl.searchParams.get('mode') === 'and' ? 'and' : 'or';
+      const reqMode = reqUrl.searchParams.get('mode') === 'and' ? 'and' : 'or';
+      const { normalized, mode } = parseSearchExpression(rawKw, reqMode);
       const refresh = reqUrl.searchParams.get('refresh') === '1';
-      const data = await getCachedOrFetch(`news:${mode}:${keyword}`, refresh, CACHE_TTL_MS, () =>
-        fetchRealtimeNews(keyword, mode)
+      const data = await getCachedOrFetch(`news:${mode}:${normalized}`, refresh, CACHE_TTL_MS, () =>
+        fetchRealtimeNews(normalized, mode)
       );
       return sendJson(res, 200, data);
     }
 
     if (pathname === '/api/ly') {
       const rawKw = reqUrl.searchParams.get('q') || DEFAULT_KEYWORD;
-      const keyword = normalizeKeywordString(rawKw);
-      const mode = reqUrl.searchParams.get('mode') === 'and' ? 'and' : 'or';
+      const reqMode = reqUrl.searchParams.get('mode') === 'and' ? 'and' : 'or';
+      const { normalized, mode } = parseSearchExpression(rawKw, reqMode);
       const refresh = reqUrl.searchParams.get('refresh') === '1';
-      const data = await getCachedOrFetch(`ly:${mode}:${keyword}`, refresh, CACHE_TTL_MS, () =>
-        fetchLegislativeYuanUpdates(keyword, mode)
+      const data = await getCachedOrFetch(`ly:${mode}:${normalized}`, refresh, CACHE_TTL_MS, () =>
+        fetchLegislativeYuanUpdates(normalized, mode)
       );
       return sendJson(res, 200, data);
     }

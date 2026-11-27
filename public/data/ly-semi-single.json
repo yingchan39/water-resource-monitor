@@ -1,0 +1,1533 @@
+{
+  "keyword": "半導體",
+  "keywords": [
+    "半導體"
+  ],
+  "mode": "or",
+  "fetchedAt": "2026-11-27T09:03:20.414Z",
+  "total": 120,
+  "counts": {
+    "all": 120,
+    "official": 80,
+    "bill": 0,
+    "interpellation": 26,
+    "press": 14
+  },
+  "sources": [
+    {
+      "name": "立法院質詢發言與公報",
+      "count": 28
+    },
+    {
+      "name": "立法院官網與研究報告",
+      "count": 100
+    },
+    {
+      "name": "立法院新聞稿與國會動態",
+      "count": 17
+    }
+  ],
+  "errors": [],
+  "items": [
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "「開放中資投資我國IC 設計產業歷次會議、相關規劃，與對我國IC 設計產 業影響評估」報告",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QbXVsOWQyajAzUHBtVlFWMnZkR1dLUmtwV0VzMFNETjcwOG5uV0Rsa1JRTnI2OC1tU21HOFdPbU1zZUM4Z2NOSF9GQl9UOHdDUlpoSldPU2VxOHVQVHFTbHVTbDdvSG9a?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-26T18:32:38.000Z",
+      "timestamp": 1795717958000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "Untitled",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TeGVqM1hZWFhyVzV0Z29JRFYtbGMyV0NPbzNMbWk0blloT0l0WnZUT3J0T3JjQ3JvVUt2RXFpTklqNXBvM21sSTZRcXAtVTZBaW5ZSlN0UFZ6aU5IalF6ekVaZ0VfMF8yakE?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-26T13:58:53.000Z",
+      "timestamp": 1795701533000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "賴政府的兩難 AI半導體輸陸獲利創新高Vs禁止黃樂入境",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xMkFpLVRhS2xLSmFoVkhQUDlmcFF0dXo1Qi0yYjdkS2RrSUlTR0lnWGFaYnJBUWh1eGhsOEppb1pRcl9Oa01xdjFZSTNmUHE0SVE?oc=5",
+      "source": "國會動態・蕃新聞",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-26T11:46:00.000Z",
+      "timestamp": 1795693560000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "台美301關稅明年拍板 仍有不確定性及變數 | NOWNEWS今日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lYVJ2RDlMemVjRU4yejRRYkR1S3RQdElDMnpaTjdVb3RGc2ZDUDBHUVFYYUFtZndiRTNZZU5HaWM5dk9PUUE3bWFoZ2RXU1hqNXNhVE9n?oc=5",
+      "source": "國會動態・LINE TODAY",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-26T04:15:35.000Z",
+      "timestamp": 1795666535000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "美議員匡希恆撰文挺台 籲台美展現急迫感強化嚇阻",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91Sk5SUFc5S2hURGdndXJDNGtJckdyZ1V3VzJkdkFxa0tmVExFRERNblg5cUxjVEt1Rk51dU81RHREVjhoV2ZPVnFrOWtibjVG?oc=5",
+      "source": "國會動態・信吉衛視+",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-26T03:31:31.000Z",
+      "timestamp": 1795663891000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "川普再掀關稅戰？ 莊瑞雄：正面樂觀！在野指控風馬牛不相及",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lclN0eUw4ODJJVjh4V0g5SWcwM2JKcENMVUdaVFhIQXFFeUNfdVdDLWFGVjhrd3dzd1RwbHkzQzdkbGRESzViS0ZrMVp5WDFPSi1EQ0IwWDJrb2ZGVW15eDhqS2tNVUVMTnfSAW9BVV95cUxNaGJaOG9SSG5ob1V4ZmJsYWtqdHViOEhVYjFkMHl2NExtVFpFR0dNSzNTZ0JxTUZ2R09fdTlvTnptbm5wRnp1MXRuZWFqTEpPdFN0eU9WbG45VVo1V3lzQ1p1ZDFBRUlVeG5mV05sc3c?oc=5",
+      "source": "國會動態・自由時報",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-25T04:30:18.000Z",
+      "timestamp": 1795581018000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "美新關稅恐衝擊台灣 藍促賴清德別只顧選舉",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAteVM1ek83RkprMUZDVUExaTZ1Ty1oMzVvYjR4OUtxOFV4LUFnRHhtdkxhcTJWdmFMRFUwSmtqQnhadE1xVVk2dXZ6cGFKUFU5STRQYmNIVEw3dTBRcWo0Y2VkR2txelk?oc=5",
+      "source": "國會動態・中國評論新聞",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-25T03:54:01.000Z",
+      "timestamp": 1795578841000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "公聽會名稱",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdnV0cDBkRlZ4ZW9GX1Btc3RYN0VFbmd2N3hJTFNpdG9haEx0ME1MdklCcjRpWDZQdkx3UEM2WDBrYl9yWUxrNEV0TjU2UEozb1JzR2tFOGp1X1dWdXI2ZGVMV3ZKY2NtbkRqWVJZYzNKM0NVeHNHdkpBanZDa3JVaVgwUFk3eThEWWpHWjlaZTdGeUMxR29YaHkyVkNMY3RWa0pRcnlSYw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-23T16:04:52.000Z",
+      "timestamp": 1795449892000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院各委員會公聽會報告影像系統",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOblhCVkdMSEptLVFTZV9LeG04aUFKTDhWX0lHcGt1Q1VjZXpLRUdUUnlEQlhPZEVZMmdQRXBiSmZlOE82Mk54Z2x1QnJrdTZNNnh6RXJBQTZIWHp4MDgwU3Vqdzh3WjZoNU1yVHlsaG9rZG9KYUJXMXRCTVNmeGUzdkRIZWJsak9oNGJPRjBKMjFOcWNLSjNkbTdSZXE4MFZwMk9zdQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-23T14:41:42.000Z",
+      "timestamp": 1795444902000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院修憲委員會公聽會報告（第3場）",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSlEtOWFWN0YzSnQySzc3ZlY2TUtkM0V2OGNBZ1BJakFiTzdKa2ZJMDVpYmNvSFVnb0tNcHh1RUNtNDZrdjNvWFlibm5CM084aHFUbUc0UHZoYllXdV8tc3NFaUFzU09RU1hlaG5WN0RJdExEdTljdnF4NE5oN0hDT21fOThiRHVWWnZlcEVsWUxmMzdMck9uZzA4Vkk4ZGFi?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-23T14:41:15.000Z",
+      "timestamp": 1795444875000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院修憲委員會公聽會報告（第6場）",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY29pdFhGeXNLalUxb1FlaHF5QXU4T2w4TXRMVk9tUkNYWUc5WWRKVkNuUV9sZEgwenQ5ZlhEQ2ZoV05HY3FHMzdYMW44cjRNOEdvR1JkYVZmM2xWcDZLd1p6bjBIaVBDRmZYM1pSY3hBZkxkZG0wTFJaSFA2dVBNaG91alowYWVsVUVVd1RXV0h3V1NlQzZKMlBSTmVMeXFoS1lMdU5BWmM2NWRTeVBodGFWbw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-23T13:44:43.000Z",
+      "timestamp": 1795441483000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院修憲委員會公聽會報告（第2場）",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMFFuVElmeVNnWDZnbWdINXpqbTVmdEpoWjAwZXIwam03ZnFCbTUtTVpkaVVsS1FRT0NQOGJSa19fSFFtOHhrNHlKOU0zUVFRaUxBY3J3blRUWlBXRGlJV3ZCZE95Q2J0Y1N1QmYxNW9VVWhIOGEzMWlfYnR3Q19MNEM3N0dkbC1IUUtLeENjTjlxNVo1M0RiYWxTeVlrN282?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-23T05:44:00.000Z",
+      "timestamp": 1795412640000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "公聽會報告詳目（請點選目次內容調閱原文）",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeEk4RGFZNTI2aEpOeVRkUV9rcExrUjh0S3NsWExJT3dhb3pndFpXYlJfZlNuXzJDQ2w0TEI2LUVERGN0X29HcFpLclN1UWFKMGJUVDNNcmZoWWk4QndZNDZVUTU1bkpTOTRDQ2JDb3hmMHl0eXAydVR3ZnY1aUtjcHJBMVlTczNYbHBWT3NuOGV0WnJjRWVoc2dpRHRqSXVlbFE?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-23T04:14:16.000Z",
+      "timestamp": 1795407256000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "「AI主權時代：學門建構與應用、 研究應用倫理及數位透明度之配套措施」 書面報告",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHpBRDNPR2NrRU0tTFRIaGJtWHRzTHcwemM0MU94SXFacVNkSlJfWFdpVGRjR0ptMkRqSVJLUmduTmhFdUNOWmZ1cUtXNlJCUlhCcjZLWWdDb3VxYlZTV3pGQ2pQS2lnZUM4WEJkWllmdHlVd01LTlNndzVHYnlpYnVhRUdNaTltM2UtUE1HZEpSQQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-23T01:17:36.000Z",
+      "timestamp": 1795396656000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "院總第20 號",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeUVUV3BXcmYyS01MZVlIV3k0bDd1RDEzVVVSZFFSZ3RJQlRRcjE1MW1QR0tRaHEyTEFCcWlMRnZGUDU4aWhZTWxISHk2NE5ZQ2RPTWV5eEgteFY2bU91MHluRE5DYmNVZWRqVk5FeF84YlFUN2ZNdGdsU0xKT3FqSk9NZHpyUjRUNVFR?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-20T07:14:08.000Z",
+      "timestamp": 1795158848000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【劉書彬委員發言質詢】第11屆第6會期第8次會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172258",
+      "source": "立法院議事轉播 IVOD・院會／委員會",
+      "meta": "發言委員：劉書彬 · 時段：14:58:03 - 15:01:15",
+      "proposer": "劉書彬",
+      "summary": "發言提及：「…Clip…」 ｜ 第11屆第6會期第8次會議（事由：一、討論事項：本院教育及文化委員會報告併案審查委員范雲等16人、委員馬文君等17人、委員魯明哲等24人、委員王育敏等17人、委員洪孟楷等20人、委員黃健豪等20人分別擬具「學校供餐法草案」等案共2案。（11月20日）二、對行政院院長施政報告繼續質",
+      "publishedAt": "2026-11-20T01:00:00.000Z",
+      "timestamp": 1795136400000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "院總第31 號",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLUk1cFc5RUpZZXhJa2wwdlVqN2ppOUFPdkxQTi10OGhqS0dLVG1EQnJOcjhqU25VM3lKLWl3cFQwMVVFRUdMY1FfWUw0RWpIRDV2dU8zR3ZBY0lpWUdOd2w5QjFzQ2I1eUoxdllxU21yNXduUExxNU0wbWU0U3VwLVpqX1FXdGhLNFNn?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-18T10:49:04.000Z",
+      "timestamp": 1794998944000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【鍾佳濱委員發言質詢】第11屆第6會期財政委員會第6次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172226",
+      "source": "立法院議事轉播 IVOD・財政委員會",
+      "meta": "發言委員：鍾佳濱 · 時段：12:22:35 - 12:35:28",
+      "proposer": "鍾佳濱",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期財政委員會第6次全體委員會議（事由：一、邀請財政部莊部長翠雲、金融監督管理委員會、法務部廉政署、審計部就「台企銀創投公司投資曠世智能公司事前評估過程至投資後效益及管理之爭議與適法性」進行專題報告，並備質詢。 二、審查中華民國116年度中央政府總預算案有關財政",
+      "publishedAt": "2026-11-18T01:00:00.000Z",
+      "timestamp": 1794963600000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【林岱樺委員發言質詢】第11屆第6會期財政委員會第6次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172179",
+      "source": "立法院議事轉播 IVOD・財政委員會",
+      "meta": "發言委員：林岱樺 · 時段：10:11:46 - 10:24:26",
+      "proposer": "林岱樺",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期財政委員會第6次全體委員會議（事由：一、邀請財政部莊部長翠雲、金融監督管理委員會、法務部廉政署、審計部就「台企銀創投公司投資曠世智能公司事前評估過程至投資後效益及管理之爭議與適法性」進行專題報告，並備質詢。 二、審查中華民國116年度中央政府總預算案有關財政",
+      "publishedAt": "2026-11-18T01:00:00.000Z",
+      "timestamp": 1794963600000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【謝衣鳯委員發言質詢】第11屆第6會期經濟委員會第7次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172183",
+      "source": "立法院議事轉播 IVOD・經濟委員會",
+      "meta": "發言委員：謝衣鳯 · 時段：10:20:51 - 10:34:10",
+      "proposer": "謝衣鳯",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期經濟委員會第7次全體委員會議（事由：一、處理或審查115年度中央政府總預算有關農業部及所屬單位預算凍結案等23案。 二、併案審查：（一）行政院函請審議「專利法部分條文修正草案」案。（二）本院委員陳亭妃等17人擬具「專利法部分條文修正草案」案。 【以上各案如有",
+      "publishedAt": "2026-11-18T01:00:00.000Z",
+      "timestamp": 1794963600000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【李柏毅委員發言質詢】第11屆第6會期第7次會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172148",
+      "source": "立法院議事轉播 IVOD・院會／委員會",
+      "meta": "發言委員：李柏毅 · 時段：10:48:26 - 11:03:57",
+      "proposer": "李柏毅",
+      "summary": "發言提及：「…Clip…」 ｜ 第11屆第6會期第7次會議（事由：一、討論事項：本院社會福利及衛生環境委員會報告併案審查行政院函請審議「國民年金法部分條文修正草案」等案共4案。（11月13日）二、對行政院院長施政報告繼續質詢。（11月17日））",
+      "publishedAt": "2026-11-17T01:00:00.000Z",
+      "timestamp": 1794877200000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【徐欣瑩委員發言質詢】第11屆第6會期第7次會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172147",
+      "source": "立法院議事轉播 IVOD・院會／委員會",
+      "meta": "發言委員：徐欣瑩 · 時段：10:05:01 - 10:37:33",
+      "proposer": "徐欣瑩",
+      "summary": "發言提及：「…Clip…」 ｜ 第11屆第6會期第7次會議（事由：一、討論事項：本院社會福利及衛生環境委員會報告併案審查行政院函請審議「國民年金法部分條文修正草案」等案共4案。（11月13日）二、對行政院院長施政報告繼續質詢。（11月17日））",
+      "publishedAt": "2026-11-17T01:00:00.000Z",
+      "timestamp": 1794877200000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【鍾佳濱委員發言質詢】第11屆第6會期經濟委員會第7次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172104",
+      "source": "立法院議事轉播 IVOD・經濟委員會",
+      "meta": "發言委員：鍾佳濱 · 時段：09:53:11 - 10:03:53",
+      "proposer": "鍾佳濱",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期經濟委員會第7次全體委員會議（事由：一、 處理或審查115年度中央政府總預算有關經濟部及所屬主管預算凍結案等24案。 二、 審查116年度中央政府總預算案附屬單位預算營業部分關於經濟部主管：台灣電力股份有限公司、台灣糖業股份有限公司。 【所列預算提案於115",
+      "publishedAt": "2026-11-16T01:00:00.000Z",
+      "timestamp": 1794790800000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【邱志偉委員發言質詢】第11屆第6會期經濟委員會第7次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172109",
+      "source": "立法院議事轉播 IVOD・經濟委員會",
+      "meta": "發言委員：邱志偉 · 時段：10:14:45 - 10:26:37",
+      "proposer": "邱志偉",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期經濟委員會第7次全體委員會議（事由：一、 處理或審查115年度中央政府總預算有關經濟部及所屬主管預算凍結案等24案。 二、 審查116年度中央政府總預算案附屬單位預算營業部分關於經濟部主管：台灣電力股份有限公司、台灣糖業股份有限公司。 【所列預算提案於115",
+      "publishedAt": "2026-11-16T01:00:00.000Z",
+      "timestamp": 1794790800000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【劉書彬委員發言質詢】第11屆第6會期財政委員會第6次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172110",
+      "source": "立法院議事轉播 IVOD・財政委員會",
+      "meta": "發言委員：劉書彬 · 時段：10:25:25 - 10:36:00",
+      "proposer": "劉書彬",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期財政委員會第6次全體委員會議（事由：一、審查中華民國116年度中央政府總預算案行政院歲入預算有關中央銀行股息紅利繳庫部分。（僅詢答） 二、審查中華民國116年度中央政府總預算案附屬單位預算營業部分關於中央銀行（含中央造幣廠、中央印製廠）。（僅詢答） 【預算提",
+      "publishedAt": "2026-11-16T01:00:00.000Z",
+      "timestamp": 1794790800000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【葉元之委員發言質詢】第11屆第6會期財政委員會第6次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172137",
+      "source": "立法院議事轉播 IVOD・財政委員會",
+      "meta": "發言委員：葉元之 · 時段：11:51:18 - 11:59:43",
+      "proposer": "葉元之",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期財政委員會第6次全體委員會議（事由：一、審查中華民國116年度中央政府總預算案行政院歲入預算有關中央銀行股息紅利繳庫部分。（僅詢答） 二、審查中華民國116年度中央政府總預算案附屬單位預算營業部分關於中央銀行（含中央造幣廠、中央印製廠）。（僅詢答） 【預算提",
+      "publishedAt": "2026-11-16T01:00:00.000Z",
+      "timestamp": 1794790800000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【郭昱晴委員發言質詢】第11屆第6會期教育及文化委員會第9次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172078",
+      "source": "立法院議事轉播 IVOD・教育及文化委員會",
+      "meta": "發言委員：郭昱晴 · 時段：11:12:01 - 11:25:03",
+      "proposer": "郭昱晴",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期教育及文化委員會第9次全體委員會議（事由：一、審查116年度中央政府總預算案有關教育部及所屬單位預算案。 二、審查116年度中央政府總預算案有關直轄市及縣市政府一般性補助款教育部主管部分預算案。 三、審查116年度中央政府總預算案有關教育部主管47所國立大學",
+      "publishedAt": "2026-11-12T01:00:00.000Z",
+      "timestamp": 1794445200000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【黃建賓委員發言質詢】第11屆第6會期外交及國防委員會第13次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172059",
+      "source": "立法院議事轉播 IVOD・外交及國防委員會",
+      "meta": "發言委員：黃建賓 · 時段：10:05:02 - 10:15:15",
+      "proposer": "黃建賓",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期外交及國防委員會第13次全體委員會議（事由：邀請外交部政務次長陳明祺報告「我國參與國際組織近況與工作重點」，並備質詢。）",
+      "publishedAt": "2026-11-12T01:00:00.000Z",
+      "timestamp": 1794445200000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【許忠信委員發言質詢】第11屆第6會期經濟委員會第6次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172037",
+      "source": "立法院議事轉播 IVOD・經濟委員會",
+      "meta": "發言委員：許忠信 · 時段：12:07:23 - 12:15:15",
+      "proposer": "許忠信",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期經濟委員會第6次全體委員會議（事由：一、邀請國家發展委員會主任委員及法務部首長就「國家發展基金各項投資業務(含創業天使投資方案)執行成效、共同投資機制、投資審議及利益衝突迴避機制檢討」進行報告，並備質詢。 二、邀請國家發展委員會主任委員、財政部首長及金融監督",
+      "publishedAt": "2026-11-11T01:00:00.000Z",
+      "timestamp": 1794358800000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "經濟部所屬(產業發展署、國際貿易署)115 年度單位預 算評估報告",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSnRqYlU4NXJybXVrOXlEeTBwcVpPWHhGWTlPZVBCLUdEZGhNZHM2RW9oaTlENktNaHRqZ1FubkVhaDFVN1U2SlBuNWxiNlhGYXIxVkZPY3RyMXBXcXlCdzFVT0t6T3Brb2EyX1dIaVIzSnl0aTBLZndNNE5scmtzenRGYWNfVU5VekNDaGNjZE5UYjlf?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-10-25T12:02:42.000Z",
+      "timestamp": 1792929762000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "國家科學及技術委員會主管115年度單位預算評估報告",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc2wwSWRUX0pCSFZYRzg0UFFTd3hGNExadnd2V0J0djNLcVBWVVBkSnhndVZMMno0akVlTUhNbFpYWGRLN1BrblNKUjJuMkVoUDBzdC1QREdVSUw1RGVCUDFUbXZBNnlRR0t6UGludm1oc0xSaW5zemdwS0xuWHZZbUs2NWJ2RGZ6UGRpUkd0UkVwa0dI?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-10-04T04:13:38.000Z",
+      "timestamp": 1791087218000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "財政委員會第3次公聽會召開「面對K型經濟問題，行政部門如何引導經濟成果均衡分配於全體勞工，並維繫非半導體產業發展動能」公聽會",
+      "link": "https://ppg.ly.gov.tw/ppg/publications/official-gazettes/115/67/01/details",
+      "source": "立法院公報 第115卷第67期",
+      "meta": "第11屆 · 第5會期 · 公報編號 1156701",
+      "proposer": "",
+      "summary": "財政委員會第3次公聽會召開「面對K型經濟問題，行政部門如何引導經濟成果均衡分配於全體勞工，並維繫非半導體產業發展動能」公聽會",
+      "publishedAt": "2026-07-30T00:00:00.000Z",
+      "timestamp": 1785369600000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "波蘭前總理拜會立法院 讚台灣民主盼建立緊密關係",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZNHVRN3ZHcmtLdUNvU2pKQ204RGZvUWtObXRKT001akVTa214LWVfN2ZQWXRHVzFHbEtSeHN3UThqN01Xbjdkb2FydzNETmIzSzAzLTRrRQ?oc=5",
+      "source": "國會動態・Rti 中央廣播電臺",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-07-23T07:00:00.000Z",
+      "timestamp": 1784790000000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院第11屆第5會期財政委員會第3次公聽會",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYzZyalV1Tm5SX3dBM0V4QlNLWTM2bDhqQnQwQlozZlZsN0JNTGlQN2lKQVE0Rmt6MGt1Y2dNRG5OWFZzQi1jLWF1ZUhSSW53SU4yVWdTYmNwbGZiRXVfcjNMSUVMbktuYjIzY2JmaEozTnJRSzlUMS14NF9qLXdTWUxhSVBhZw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-07-21T07:00:00.000Z",
+      "timestamp": 1784617200000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "嘉義新港農場拚轉型產業園區 打造半導體供應鏈基地",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92VWtoSGdtbUpDTHhSWGg3RDFRUEozaFprY2IxLVE2NFhGTE9EeTk4ZlBSS1Rib0xSSFhLN3YzbXAwS01UV0N0WDhvcGtPdkRUZkNUYUJ0a3pMcmtsdDhj0gFkQVVfeXFMTXR2LXVfXzBBZW1UdHVvMmNZZ0Z6SGxCN0dHb1hkTXI3eWtkOEVkYS1FZUNpQTdab0FBVzJObGthdnQyNGFRWENfa1pKcDZSM1NMVWI3ZTNrS0ttYkI3Zk1YN3JWTQ?oc=5",
+      "source": "國會動態・自由財經",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-07-21T07:00:00.000Z",
+      "timestamp": 1784617200000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "立法院成立「國際投資台灣促進會」 盼以科技優勢和國際盟友「打團戰」",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02Q0JScFkyLW44VHhLU0NveUZLSnBUcXpKNHF4VzV3Zm9PMnRUbVJ5ZUdnaXF6Zl9sR3g2V3pwS0dGN05UTVgxV1c1QzBIQjVzT0xiZXAwVXRfR1FJRnBB0gFkQVVfeXFMTnZvV3NnU010YXA4eTU5THFJZW1MSzNxa3cydFVSME4zcnJDa3otTHd3d3FZOVpWUWVBNFVwd3J5TDJ1VU80blJBclZIT1phYlpzbldYdFY1MUNja21TZnNXNkdReQ?oc=5",
+      "source": "國會動態・自由財經",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-06-12T07:00:00.000Z",
+      "timestamp": 1781247600000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "有鑑於美國總統川普當選後為落實「美國製造」，不斷以課關稅脅迫台積電赴美投資，甚至傳言介入撮合其與英特爾建立合資企業。我國半導體產業面臨課稅危機之際，經濟部郭智輝部長卻僅派次長赴美溝通，在國會面對委員質詢川普政府作法合理性時，竟脫口「不一定不",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVAyZHZVRzk2X0t5NmNVVWE5QXJETjEtVXYwbVFGNzd4bmxYMUpPOFhibkVNdGp4YXNVOHpUTmFudXVjRl9ORFZ0ZUsyNjVCNzFnUmFqSm1UN1N3Ymg1cXRVN1A5OUM4Z0IyeWxuYVpadFRmRE80YzhKUEp3VGpjVWpFZUJSZw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-05-25T20:24:40.000Z",
+      "timestamp": 1779740680000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "雙方除了達成多項實質交易外，川普更於會後專訪明確表示「對台軍售是與中國談判籌碼」、「走向獨立是一件很危險的事",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOXzlCV1ZCN3ZqY1p5ZkszZDYxUFhDQXV2ZVNLTlJBMG5fNmhFYS1NWFdZSDVpWDlTeEEyYS1kMEUtUjdibTd1VWptdGxzOG5Tbkx0cjlDdzJSVkEtMldDZlZFNXM3WHZMVlY5bkY0T1RPM1V1Rlk1eWx1VndGaUFOQ2tYYw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-05-24T12:25:58.000Z",
+      "timestamp": 1779625558000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "本院台灣民眾黨黨團，建請院會作成如下決議：「一、外交部與國防部應公開呼籲美方恪守既有對臺政策基礎，包括『臺灣關係法』、『三個聯合公報』及『六項保證』…",
+      "link": "https://ppg.ly.gov.tw/ppg/publications/official-gazettes/115/41/01/details",
+      "source": "立法院公報 第115卷第41期",
+      "meta": "第11屆 · 第5會期 · 公報編號 1154101",
+      "proposer": "",
+      "summary": "二、我國長期作為美國重要經貿夥伴及軍購主要來源，不僅於國防採購上投入鉅額資源，亦在半導體供應鏈穩定與農產品採購等面向，對美方作出具體貢獻，另就我國於『對等貿易協定』（ART）所承諾之整體對美採購規模亦展現高度誠意",
+      "publishedAt": "2026-05-22T00:00:00.000Z",
+      "timestamp": 1779408000000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "美伊戰爭情勢發展對亞太戰略局勢及經濟安全之影響",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNam9pNVlQQnRtem1yRlhETFlGUXhKVGUyRTBfb2lKYTdrbTJzNUk5M1BZT0lGdkNnOGU3LU1aVUhCdDVwbENZMnJ0SHh5ck8xZkdDMzVja1dxNkRCdzlSOXU1aFlUeW5EZUpfaDl3dXg3REgtTWVtcS1rRnp6M2dRYVQ1X3NUT3d1YmVTNUI0TU95UQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-04-15T07:00:00.000Z",
+      "timestamp": 1776236400000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "雙北公車驚見中國晶片！林楚茵踢爆：欣欣、大南 82 輛公車恐淪間諜車",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YVWpXbWwyTHhYSlNmWExMSE1sZ1VZRGw2ZGJabTcwNlRJTmRiOEtGZnY1NjdPNTlWdWFLTVFqT1l6WTZaNkpuRUF2bEhkd3dELTdveG1KcU1pQmVCSWRyWWZfdDVhakFRWEo1dEhwRkI?oc=5",
+      "source": "立法院全球資訊網",
+      "meta": "立法院官方發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-04-09T07:00:00.000Z",
+      "timestamp": 1775718000000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "行政院長卓榮泰赴立法院進行「台美關稅談判結果及其影響」專案報告(行政院全球資訊網-本院一般新聞)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTDZGTC1WN2MxeWQ0ZVZmNVV0eENjRmtucGw1OFRScWhHTzR6SFNnS01GU0FhRTJmY2xZVHJiNTg2a1NRUjh1Z3c0RzRnb2gtUjk1VG1SOWxmdXhVT09tbUdqNFJmY0FwOUQwcTdkNTRZSEo4RGlidG9lTnktX09MZ1JkdHZUWXc?oc=5",
+      "source": "國會動態・行政院",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-03-03T05:04:41.000Z",
+      "timestamp": 1772514281000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "臺灣半導體生態系赴美投資評估",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRHF2WGJDaU54YWRfYUh4eDVyUTBHd3JTSWhpSlZERjNLdzhrR0FjNVhaNHNvWFVWYlpUeWZUZVRVR2JCLXlkdlItLURQVTF4SVNjUjhMd1NmZkNhSnIxUVoyRDRIVjY3SS1zMDJvdU9ray1WMVVlc3JYSUttWFN3eDZ0XzJmaXRvdFNQSGFtVGJRNjhGNVFaM0pLekREaDZJcFNj?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-02-09T19:54:59.000Z",
+      "timestamp": 1770666899000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "先進半導體研發基地建置中長程個案計畫（核定本）",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOallMS29YcUtVTEJmM1ZmdjhneTRmRTNnVmdEYUZ1dG9feUVValQ1OUVFa19lRGYtUVNSR2NLeW10UEVHLTRmNWthMzVONWZBV0Y4eGQ2QUROMjg2TERQZ2tRbjBsMEpPU3AyNk9QTHlQX3JVMkNudWxBa2w0dnZfc0ZZTFZOUEk0?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-02-06T03:51:43.000Z",
+      "timestamp": 1770349903000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "審查「國家安全法部分條文修正草案」 書面報告",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUm5DZl9yczczRV9Xd0s5bFJ1R09xQlNnSGRmbFBndWxVVDdjUnE5bEpNdlhIaU93RTFqdzBhQzlfeW1idnI1c3FUZmxTUktmaFNFXzZuWEg0MldNSTBqeFNYeFJqOWsyV2dpSEtjZVZ1cVV6QkNqZC1lbUFHd1lZcEE3VE9TeVdDWlFKS2lHaGQwUQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-01-07T08:00:00.000Z",
+      "timestamp": 1767772800000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院副院長江啟臣訪荷蘭，回顧四百年情誼 - 國會外交",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGQXV1dWNNSVNkWkVUU1pLMWJoVjNjQWJxRWdNekRDaTJCMGlrRmhPNHlSRmNzdkRwNmR3UFZPb0gwN2pNb1V4SVRuV1BYdnNPS2J1bUVCV0J6bjczNjVLcUxXSzRpMnowejBYc2N3?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-09-10T07:00:00.000Z",
+      "timestamp": 1757487600000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "二、政府規劃發展五大信賴產業，允宜具體說明推動策略，並審酌疫後製造業仍呈不均勻復甦，",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT2VzYlljNm1FeWxfelpRbWJmangtZml0M0UzT3IxY1prMUpqbEdWTE5WN1R2enRibDRmaW90WFNRejRCb1pDc3UyLWxybzJ1UzdkQVQ4a1dFSnRHNDd0Ry1XeUlFOE5sb21xTHNGQWQ4WGRDdjdUcG1mMHU1Uk1XU1M3bGplaE96MUZDVFpUWElISHRz?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-06-29T05:13:40.000Z",
+      "timestamp": 1751174020000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "一、為維持我國半導體產業競爭優勢，新增辦理「龍潭科學園區擴建計畫」，允宜妥為規劃辦理，並研謀提升計畫收益，以減輕基金營運負擔",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoZmpoRWVZcXAtbHllQ1NqMXlaeEdlTGMxQVBhRWNHcVhDcEplLVZFWE51dDhSNG5vQUxtcnJVUWRVMXFJVHhjRmJ2bHhFWW1pWWRsT2dtNGx6UTdCS1ROZGdmX3ZhM3lYQXFRd0o4bGk?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-06-09T03:01:55.000Z",
+      "timestamp": 1749438115000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "三、新增補助國研院辦理「打造台灣高階光學與半導體自主之精密光學系統研發基地計畫」，允宜如期完成大口徑光學鏡片研製，俾提升衛星計畫執行效益",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZOXFHVnNhT2UyS29wblBOekNKVGNQb0V0bDBZeGU0QWhDX2xTRkJaMjdhZVpNemdHeVFiVEFiUmlJeWRFTE03NG5yZXAzcjFIemcyNWJwUVI5dEJzbFVta2ZkcDZ0cGZQZW9NSG1TNXQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-05-14T14:24:42.000Z",
+      "timestamp": 1747232682000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "經濟部114 年度單位預算評估報告",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeTVTNExWYkRIWnk0d1FDTkE0TVlpVVZpN0l2WUdUYWtXZW5RZ2JudXdHdUg2Sll0ZV9DQzF6ZXJNZ1FZalZJSGktRG9tZzBBVzBRbVpwLUFKWUxLX3dKQ1N4WTQ4NW5QZzBUdVk4WGszYUhPSVRadnRHWG1mWk5lRF9uVW1uMmE2Wmt0X0ZxSkdYVlVM?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-05-10T19:40:34.000Z",
+      "timestamp": 1746906034000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "外交部主管114 年度單位預算評估報告",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVmd6c3VBRVNnR2JHaTZnQVM5NlBCQVlWQ0Z6dWFxa0dsa0lNSlFENW9XTTcwVmpLR2xoWHZJYnl4ZXdraUE2V0pzRjFMcUtic1YzM0MzVUM3WjNmYTdZUnlLazlVemVBdmFvRnA2clI5WThQR1ZobnRTLV9IamhxRVJQMV9hRlNMa3VUR2dtT2FySHFz?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-05-10T19:39:32.000Z",
+      "timestamp": 1746905972000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "一二、114年度賡續推動多項半導體關鍵技術及研發相關計畫，允宜檢討強化計畫間之整合，以提升執行綜效，俾維持我國在全球半導體市場中的競爭優勢",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82OEtWX253WHVrT3ZmUnlKWmZSWUpzVHU5Z0tWT2RNaWg1SHgzS1ZBMHdsU3hPd3RPRm1SajdBdkhIanhNS3k3V1dMRGhPd3ZZWnhJak0ycDU3d3g2cDRPR3pUbDIzbGtHX1RlSUx5Smo?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-05-10T19:10:05.000Z",
+      "timestamp": 1746904205000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "七、在推動與中東歐半導體相關合作計畫時，允宜密切關注該合作對我國關鍵技術及產業的潛在影響，俾兼顧本國利益",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBclVFNnZZYkZqQ0FuY19iLVFVV2FGbkpkd1NTM0F0dVFOUTdBSW14aVdIekdEc0VKdzYyeFJwV29BLTdrYnk0SDlBT3dLZW8yQ2YxczhUR3luWkM2cWdoamF5QkVaZEN1cV9GVEoxZnc?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-05-10T19:08:14.000Z",
+      "timestamp": 1746904094000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院全球資訊網-一三、新增辦理先進半導體研發基地建置計畫，惟計畫未及於114年度預算案送本院審議前完成核定，且與國科會相關公建計畫之區隔等尚待釐明，允宜賡續妥處",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RSjVvNzJva1VCMWdteWVHSlU5WmtVWWVJdEdSREY0RWxoTW9kTV9iNE1xMFZtVHV5eUwxUld1dDE0czNNR2dqcTFvMjRWQUhwV1VFWlhJMzJKXzc1NEEwYm1ZRURUZ25tNFdyTFBMV1E?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-05-10T19:05:56.000Z",
+      "timestamp": 1746903956000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "一、為因應我國IC設計等半導體產業專業人才需求，允宜積極培育及延攬所需重點領域相關人才，厚植產業人力資本",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LbHJ1XzM0dmtSd3RoWVpubG1acTA3WVpWbHViQU16QXlrbDg4MC04V0JpWml6VEFhZC1rdVZrVFRmcjVDYVdWQS01UHZ4MUFaQ0dKTVMyOUFrRXhPRkFxUFZqVUZxaHhfa1duSzFBZHo?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-05-07T03:12:19.000Z",
+      "timestamp": 1746587539000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "「因應美國川普政府對等關稅策略與我國被列入骯髒十五國名單，我國政 府財經相關單位因應策",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVA1c3NodHlmN0JpbFo2SVo1RFNZODVCVUNBUDFmTGdfSW54ZUxSMW9Lb0Rfd0lTb0dIalc2bUp4cmtZQ1hSSzBlTWItY0FMX3ZWanJSRUVYZ2hfdTFSYWV1Wk1VQmhjSnE1RExTa2dPazVaeF9paEx2N0o3cGE1SXpsaGN5ZFYyMUxUNnVUM1BCZw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-05-01T21:13:50.000Z",
+      "timestamp": 1746134030000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "- IVOD",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WVk5hcGVMQl9pUUc2OGFFMGFkNVhVNnVPN2tiS0ZERk83QndQZ1ZGT1VvYTFYeXJnVHZESGhvUFVTLVdXVVVVd3JiR2dKeU9ta2RNd2Nn?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-05-01T12:00:03.000Z",
+      "timestamp": 1746100803000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "經濟部就邱委員志偉、沈委員伯洋、 黃委員捷等提案之「國家安全法」修 正草案之說明",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb1ZYTGpvVWhIbFJybXNhTTl1UjVxU0kwRXRZdDNCMm9SR2p6UURYUXVRbnJ5ODRTVHR1S2Z3ZmJYOVVyZkhSdVh3RFg0YXA0cUtrN09kUGJNSGphc19lU2ZaVkZYZEJwZzVjX05lQmdfWG5ONGtUMU9CZFp1QzVadVhNcE1RRGM3aE1mdXdVUU1lM3cyVzFfdmltSEh1V2dNVUZJ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-05-01T07:00:00.000Z",
+      "timestamp": 1746082800000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "美國實施進口產品國安調查對我國產業之影響及因應之道",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN1p6RFZ0dlM5RHhwQ1d6WFg0Wm9TaW9KelpNNkx6T2p6eG9wSWl5STFDZ2c2bHFZdjBPM1c5U3pjdXJ1NHd4MGFubE9iVGhMS1ZzdGVyY2daQzBpYmduWGtXWHVhdy1sYU4zdW95Q25mX2hUb1FZX05Cek1ZVW9OSC13TjVKVVVuWjFmTVQwZDljQQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-04-23T07:00:00.000Z",
+      "timestamp": 1745391600000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "美國將宣布半導體關稅 經長赴立法院備詢",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9WdWFyUFBaQkdIMzg2czVzTno5dGVSZUJOSWJ1VjNCaWlpX1hxLUZEZ3pJQW9nOVdIOGhzUzN3dEM0UVhzOHc?oc=5",
+      "source": "國會動態・原住民族文化事業基金會",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-04-16T07:00:00.000Z",
+      "timestamp": 1744786800000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "有關葛如鈞立法委員國會辦公室請本會提供「晶片驅動臺灣產業創新方案」之計畫清單及114 年",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0w5NUgwSVZ5YTBsWERYT1BrVjl4S0lCcDFLYnhxU0dvLWFHWUxXcnEtWGZYcXY0QV80eGxzZEg1c0tlb3pFMVphYnpmVDFOTm9kZ3poWmFQaVFrV3Y5aG8tQ1c1bUV6ODNyRWM4VDhTNFVDQU1uR1BtdkxnWkxOQXpGa1lmbUNFLWNpUWw1dG0?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-10-31T12:11:02.000Z",
+      "timestamp": 1730376662000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "未來 5-10 年半導體自高雄機場出口之需求評估",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPREZPWEI4cVpvSTdBTnBnWkxoT3puN2xmVGQzRW5YalRzU0dncDdneG5GVG1YS2pWZ2xidnM1LVdHRElLeHJJak9OVV9UMXdzSEkzbkZXVldJSnM1VXAzaVJSdmo0Y1dvYnFERk1tZHY3bDloWHdxYXNKeGgzMGVJTTJtMmlyNHNkR0x6TUlBY190Zw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-09-04T22:38:49.000Z",
+      "timestamp": 1725489529000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "2024台日科學技術對話 綠委陳冠廷：共創經濟安全新局",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hSlR0TXFOTGYzZldKOEhTR293WW1BVkV6dmlZdUpkY3FEX0JIaUgySm5WMHFYeDEwTzhLbk9QN1hOWG8xZFBnLXlBY0VaWnlJY1JPdW9taDRaMldKeHk2dThKem11SGl5MHNIMXhna2Q?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-08-30T07:00:00.000Z",
+      "timestamp": 1725001200000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "「五加二產業創新計畫」執行成效之初探",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcUgwYUNmZi1oalNoVmhYb2pSTEkxYTY2RXVTUDVFd19QSl9QZmVQbHZZX0NxM19vNjFoNFFtYjFiZHd3eTRRbDIwV0xxZzhCNy1XVWM1aXZ4WTdXa3lrdmM3RWh6dVR2dklpZ1YwdVJiZkJhZk9xZkxCNmg3ZGZxT1BwOC1mVFhreDhXazJHQ2h3Zw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-08-24T19:03:43.000Z",
+      "timestamp": 1724526223000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院經濟委員會函",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNUdzeXBiYXF0cmNPSWM2dE5OODJsWkFDbmVnWlAxVXFLQnROSXNTXzdBQXJ1dXZDQ0ZYaGU0SDlUaDBJN29obDE1VU1lRmdOZDBlRUtKMVUwbWNCdFgzRzdqYmJPbW9iVnk1QThzRTlSWnFLaHZtMU9CT18tbWs0RUVoQk1qbzlhajJQRU9NQlI3RzA3THFiZUZ2dnJXSlRST0I0?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-07-08T07:00:00.000Z",
+      "timestamp": 1720422000000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "國發會如何協助打造五大信賴產業",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUEZDVUpqbjM4NUJ2c0w4RU8tTmlkZUNKVllwYXZYVlN3UUllNmJDZFU2VGtxaHBlYjNka3kwRzZqd2Zkd3lENzBYRzF4VkVtUkxQVU1FbHhkVTNiR0d2U2pFQndxNlhKa2w2MEtzVlhMZTkzWGVUZ1UybmRBZEZJTGVRb1Y1R3VYRkJNaDBma3l6Zw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-07-04T02:01:43.000Z",
+      "timestamp": 1720058503000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "議題研析 - 立法院全球資訊網",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObkx0QXl4aG4tYkZ1LS03TWhIdEI0SG5WeFJGQXo1eHpldVptbUZMODY3QTFiam54akZjUTExdVJHbzFNaldaRE9nZk11S25LUXo1cWZab2t6TWdmRmY5NmtKUW1xajZmWmlYX3gzWS0zX2prUEZUd2FTM0k4Ykx4NE1acEh6ZU1IcWlJREpmeEFFdUJk?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "議題研析 立法院全球資訊網",
+      "publishedAt": "2024-06-19T07:00:00.000Z",
+      "timestamp": 1718780400000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "函，為112年度中央政府總預算決議，檢送「台灣半導體研究中心提升貴重儀器使用率」書面報告，請查照案。",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wd05SdzNYLTBlMHIzeWl1S0ZZZk1xSlg3bnZoUEdOY2pvNGlpWngtaDNwZGxLMnFqckp6bXdGUDRWVlVFYldxcDA3SDdWdW1mOUxGdDAzWmdEeVVIdDQxSXlvYnpmQQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-05-10T10:54:55.000Z",
+      "timestamp": 1715338495000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "Legislative Yuan -1110704考察國家實驗研究院台灣半導體研究中心及國家同步輻射研究中心",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5aHhwWEZzVVYwV3BldnpRSktPQkpwUU9lT1NVVFRlbVZJMnJqQUFfcmJiSGxUakQyY0hfM01oZFRNZ3RYcEd1OHljaGpHeEp6aGVycDdoVnRWUEwyUDVzUlhNRQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-03-13T21:31:57.000Z",
+      "timestamp": 1710365517000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院全球資訊網-張裕榮副秘書長出席「亞東國會議員友好協會」",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TaU9TNlRBZ1lJZHQwSVE0MzM5MDYzTkpKV2IxNHotVUE4NGQ4TDI4YVVJVktxQlFIX2JRSWJzemh2RVdzNXVOQlJKQUwyaUxsdUpyUWZGSkFFVXpXbHBRaWlldDlvY2JNWnEtdmU1Zw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-03-11T00:49:05.000Z",
+      "timestamp": 1710118145000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "Legislative Yuan -半導體產業相關法制研析",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnekFtczlIaGFGUWxzSXB3LVdhNHB5QlNNSC00MEtMR0dmMm9hYWVIZlJyNUc2ZUI1SGNFUTRSODJmeG5WQnE1UmhVX3NHajY3dDg1SXhfSlpnZ0sxNzBGUndLWWJNTHN6VVNNcTVGX2VzTV9z?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-03-08T04:20:03.000Z",
+      "timestamp": 1709871603000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "台灣半導體戰略國會議員聯盟」、「臺灣與亞太國會新能源推動聯盟」及「台灣與帛琉國會聯誼會」共同成立大會",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CNlRvbmRBa2twUWxJT3NEWDVueUpzZ09lT2M0OEkzdUdsRno5eEFrbzZWNzBvVnBieDZVRG5aZlhVUXdSUUlHQm4wZFc2dm9ITkZoemMycmNIMlRWT2FBSllTSnNlTHBfS1QxOE13?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-03-01T08:59:25.000Z",
+      "timestamp": 1709283565000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "夯！ 立法院成立「半導體聯盟」 美日德等國皆派代表出席",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZZXlJTlhkRmZTcnRGNkJuRERtN0N5UlVua2FwVW1hOVlDZ2R6cnp6aVo3UlVWQ19hdmxfTHN5WEhHRVBRU29IeGpGY3FVbHNHdGhjaHc5ZkpJU1ZXM3ZR0gFkQVVfeXFMTmxjZWxNN2FfRnNmYmlrd0tnVnFjbE9mWFUzeDdQcGhJMG5pQmZkTTVUdlpob2JKTXlsMk1EV255Mk9kSXdUMWViaFpNQXFHenNhTkFwVmowVUNvSHJHVnZ3UW5pZA?oc=5",
+      "source": "國會動態・自由財經",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-03-01T08:00:00.000Z",
+      "timestamp": 1709280000000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "二、新增「半導體異質整合封裝設備產業自主化」等計畫，允宜加強盤整國內缺口及與技術領先國差距現況，妥善規劃計畫推動優先順序，以利拓展新興應用機會與市場",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51dUtra1VhemdTczVXZGZ1R293RktYNFJUOTN4TGlaa3ktcjRhVkI3YkRUdV9YNERKZWRyT0ZqREpOTWNxUHl5dzZadmRmaWI2czcxWGx2Nk0waW84Q1NXZ21HVWYxQmZleUpVVEw1dWY?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-01-28T18:19:23.000Z",
+      "timestamp": 1706465963000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "三、為協助IC設計產業發展，新增補助國內業者研發先進晶片與客製化精準攬才服務，允宜審慎規劃補助方式並強化成效控管，以善用政府資源",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FY1JvNWNnUzJKM1FweloyUzI2NXhucDM3dEdyRW1hOGdrY1lzWEZHTnV3RjJUdTBHck1Fd21WblN4NG1kR0w2THJSQWxnZE9jeGxFMzc2aEUzUms0blU1YS1kRS1XWjRPRkNNcko4QmE?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-01-28T18:19:06.000Z",
+      "timestamp": 1706465946000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "產業發展署、國際貿易署、標準檢驗局及所屬、智慧財 產局113 年度單位預算評估報告",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU1Y3bXoydmJsazRTWDZaNjhzVTBmQ0VzYkgtblRBSTFPWWdrN0plMVpmbGxjeGJOU3VoTDdKd0dhdUF1MlJSeHJVWjhhNFByUkVYcEdabFRRWmh2bVpjdGhzVGZtUV9BaldickFtbDJZdjV2U1JteXItb1FxbzVqWVNGZk1NOS03RkItb0Q3OG1QYzJa?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-01-28T17:10:51.000Z",
+      "timestamp": 1706461851000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "國家科學及技術委員會主管單位預算113 年度預算評 估報告",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV215LWt2Sjd5d1dBUkMweDFFSnBZUDJPUjFnQ2tDYVVCaXdzVFh5WmNPS25sbFFoN3dnNmFPdHBaV1BXamZaVUVSVlBQTk9xOXE0ZFZFaXE0RkN4a2x4SEZtbVFqMEdaV0tnaVgxWFdOeFJUQ2UxRXktNy01SlExSl80ZEdDOUxzQmtWUjFRVzlfZ3Bk?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-01-27T14:12:15.000Z",
+      "timestamp": 1706364735000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "一、為維持我國半導體領先地位，新增辦理「晶片驅動臺灣產業創新方案」科技計畫，允宜加速半導體關鍵技術之執行進程，並進行計畫整合，俾利科研資源有效利用",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPdnI3M2VSZnhGejdaWlVGNExmS25OcEhXVmFQVlFCcE1VV2NDV0lFV185N3RQcnRrUnRoMkQzT1J1S25uLWVhUHRGX1lVSHNaaGRvRklMbVU5Q21YQnhaOTJpVDZSellpWi1oY0R3ZHg?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-01-27T13:55:03.000Z",
+      "timestamp": 1706363703000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "國家科學及技術委員會主管單位預算113 年度預算評估報告目錄",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUzU0VEJyc052TEVHWU9DX3VFdVBsTXlvY0s1R2JBOW5yVElEOWJyZGlPLXJxaTdjaE5fOFNaZ1lWam1PeEVkSzlIWWlOVTY0RlowNUJJU2JpZGV4bUpycGtsT2tjZmYzWU1hZl9aY0N0ODE1d1hGZXB4N0Z3TVZlTm8zMTUxYUh3OGFCT1ZrSUZDYmd1?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-01-27T13:43:42.000Z",
+      "timestamp": 1706363022000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "立法院教文委員會考察半導體中心 鄭正鈐期許竹科護國神山成為「護國群山」",
+      "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxNWXEwTWR4bC1ibGJrc2xGUUhCRnpNVi1sZVlGTHYwU0F6QUtwY05ha1NnMF9oNk5wcS15N19KNHkzQmttd0NOQXlReFp6b0ZNa2dVYnZkNGszRm9iMTBLRkRYQkRoSElGaENybmhQRDRFUXlVUi0tWV91SGl0WlVnNGtrMHdFaXRTT01yaFZnN1BMOG56RnZZTlIzdEViaWtTajFybXQzTjBNOXh1YlVyRkEzLWRpOE11RlJQdmNMbUVSZXBibUdNUkY4V0JOQ2dWZ0JoQmdUbzluZlp3REJZTU5nVDdRaFVDVno5djVFTU1oMGZkalIxOGlVU3pYYS1NNWVqTV9kMHc0QnBNWU1pN2dKRHdnRVg3WUplQWkyN0ZYazJvem1ZLUk0VWdtUFhqODRDYXVKNnJiWkpTUkEzZnRYZ3NUbXlLamxHYUFHNWRZYUxsN0ItMThrYWN2Nmxza05LSm9Pa0pnYWV5Y0hHTVJEem1rMzBycnI5RUViVHRrYVZ0VVZGU01vQndsU3JtcS1NTFQ4cGtUYmktVkhiZ253WDQ5ODkyR1hQZmJPcTdMd1J0Tkt1SjZDdURsYXBZZTIzMkNyN19Vdm5HWEkzbTlVS0dKLVNGLU5WX1BSQzBvTmtCXzZKM1RR?oc=5",
+      "source": "國會動態・台灣好新聞",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2023-12-14T08:00:00.000Z",
+      "timestamp": 1702540800000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "國家科學及技術委員會函",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN243Z01oR1BXNkZtM1FPbHJ2Ujg4VU9uZTJoOUVMc3p1Tzd2N05qLXZQSU9MM3lvSjBMcTJtYmRxOVRFQW1Pck9oclZ3OVlMSkJQSjY2SjRXczhFWXlYTXU3d0VpR0gtWGpwVDVCMFkzMkJJa3ZuTlFHTlliN0JNdW9QM2pXNnFwT1Z4emU1S3JZZw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2023-12-03T10:25:35.000Z",
+      "timestamp": 1701599135000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "國立成功大學校務基金112 年度預算評估報告",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM0RJRlpMNmlRbzFwSjBZTHljZFBpQXotU1FndE94N2RSNFBWZDd4bHhxQnpleHlLeG1wWVpVQi1FNlFwUlhiSHQ3cThhOFZJczY2SFUwb0szQXVxZm54NmM5Nm9EdVJhbTlRU2Z6aFg3ZEpSNDc2Z1U5dTUzalNvZFpWQWtaZHE2cU9JYTVHTlowZGZr?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2023-07-08T18:12:22.000Z",
+      "timestamp": 1688839942000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "如何因應「紅色供應鏈」的各式滲透及衝擊我國產業",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcVFEaFJ2YXp4aW0wVWdNeEtoaExpUXVFb09oSElKX0FhUFR2MloweWNQbUFwUzhDYXRMS1ZmWENJU3BJV2Y0bFJkTkhKM0M2cWZXZ0NDX1hLVmh5LUc0ZG5WNTNaSF9iWXJVVE5ZTlB1Wm5IaG9MXzVVQkF5NVNqZjVUaEg4a2tLLVhZYlBLZVZvdGJROERiRVo5cGM0b2lwWWc?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2023-07-05T08:45:16.000Z",
+      "timestamp": 1688546716000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "院總第887 號",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNFN5SHNWbWN1NlA3WU9HQ2tmMlZxMDZMQzhtV184eV9SY1B0TDd5YWlDbFNITFdKNkdaSDg0M21ZRHRDcXpGM2MtcHNtZjZVd21peEtZUjZXQTF5RlNTcE54c1BGa3ZMRzFBdDBwM0REaGJwZzlIcVlPalBHbGRiVnJlNXYxMF9pTW5EbDlPaVBsQmRfSzdYSWo3el9lc3E3ZWZpX0NyN2lqRk9vU3dHenU1Tl9wMmNKZ2c?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2023-06-27T23:48:53.000Z",
+      "timestamp": 1687909733000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院第10屆第7會期教育及文化委員會第14次全體委員會議",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOWJNeS1Obng2VkpnT2h1U2t6V18tWlBuRTh1Qm5mQXItZEpPeHV4VktXVVFPb3J0TklnY0RvYkNmRlV4eU5vSllRb2ZyVVM1Vm95Q0ZxeWcwb0lmT0hfb3loWjR4MWFKUVVJQlFLcjR1Q0o3T1ZmOGk0MC1zT3dxeFh5d29EZw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2023-05-12T10:42:41.000Z",
+      "timestamp": 1683888161000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "「半導體科技人才培育」 專題報告",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOU1VX1N6WWlpeFJSTUdQZzNGbFdUUGNxUzBkMG9Wb2N4YU1rcWhod3paRlJMVXQ2Q1lHM0V3dkM0N044aDRJV2FhOHlGTlN5S3drUzhQT21zZWNmUnNRUzBnWm1mVkpRTm1YaVJKa2JwNmIzX0pvaFdQbEk1bENmcFk5WVg0NHktdHFGM0QzY2xtZw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2023-05-04T13:06:43.000Z",
+      "timestamp": 1683205603000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "「半導體科技人才培育」 專題報告經濟部中華民國112 年 5 月 4 日",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcE5Qa0dJZlRqazBvUFhLd3UxajNJUTdYT0J3Sks2RGxvaWI3aVVoZ1hqWGptMElQTFZNem5FTGRxWlVhR2ctMHNMSTZ4Zl9WUlRCRTA1a2dfYmFMMTBaLXNxS1lzRlJmS0tWWllSVWdtbElwcnYxS1o4Z0ZCNzVBR1pYUWRabnBONXE4TUdxaVlqZw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2023-05-04T07:00:00.000Z",
+      "timestamp": 1683183600000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "「半導體科技人才培育」 教育部書面報告",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ1o3MmlldlpmaW5ISWlSWGZ0dEQxbjZwd0F2NGhqSjZQVlhsOHZhX3JrWGgyYjltTU5xeDh4cmd1ajdtRkpzOEQ5QWVhWGlEbUM1WlhOSGdmU0ZvWWNqR25hVVB4bTJfVWtZM1RfeEtvYTVCODZmYWJhT1hDQ20xVERmR1RVcnc1M0VGSHV3cXM3UQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2023-05-04T07:00:00.000Z",
+      "timestamp": 1683183600000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "教育及文化委員會第14次會議一、審查112年度中央政府總預算有關行政院原子能委員會主管預算（公務預算）解凍案3案；二、審查112年度中央政府總預算有…",
+      "link": "https://ppg.ly.gov.tw/ppg/publications/official-gazettes/112/51/01/details",
+      "source": "立法院公報 第112卷第51期",
+      "meta": "第10屆 · 第7會期 · 公報編號 1125101",
+      "proposer": "",
+      "summary": "年度中央政府總預算有關行政院原子能委員會主管預算（公務預算）解凍案3案；二、審查112年度中央政府總預算有關國家科學及技術委員會主管預算（公務預算）解凍案6案；三、邀請國家科學及技術委員會主任委員吳政忠列席就「半導體科技人才培育",
+      "publishedAt": "2023-05-04T00:00:00.000Z",
+      "timestamp": 1683158400000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "國家科學及技術委員會",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeV96ZFNEMnZXOExhREMzVC1ZWVMzcmFfRm1IcDdGMDNBbjJ0YVExM2NhWFhORnNFYjRLMkdfSUFlTkYybVZBczJhclNOOV91QXE4Rk92MjZKR0ZhVmV0WVh6ZmNMQU9qcGhpclJyZFpiSEpLMGZQMGRyb1JsZFBGLUY0RXlxS014djBYdE1SUlJ0dw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2023-04-21T05:22:46.000Z",
+      "timestamp": 1682054566000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院第8 屆第8 會期經濟委員會第13 次全體委員會議紀錄邀請經濟部部長報告「擬開放中資投",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVg0MTdKenQyX3FBbUxwN0c2QkJHdzA2UmZSY0RwREhueU40VXdBM3pRZThpQjdyNnJDcjNjY29PX1hWMXNyTmdnNVVCWGRNSkFFSlFFMXh0QTZNaENOUC1EUlVjWF96RzBRa21YSXFpYkNBUkd0NjE5X2tGYnhvZjgwYjVIXzlQYzFxZnBQRTZEWWs5eG9nRVNJaGZ5UVp4UTdmTkM0THRVWW9yeGNLNg?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2023-04-18T21:32:35.000Z",
+      "timestamp": 1681853555000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "會議事由召集單位與會單位重 要事 項",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZWdUUkRYUHd5dURRQlg0eXBTNkE3Z1pNbE1NZGVOVFhXYnhyQUdEUGk2RUNWT1BVdTVzM2F4TzJLVU5ta3RkQzNIeFJRSTVLcU9OdFBVRlNxSU1jbTh0MDl0akc3NWdCOHRGV1IxbEFubGFqN0NZczZTQ2hlU0NkcjZtU2F0eHhnU0hvcFhmN2dkTUtUdnh3enZWQVJ5ek1OVXJB?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2023-04-08T11:59:39.000Z",
+      "timestamp": 1680955179000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院教育及文化委員會考察半導體產業人才培育辦理情形會議紀錄",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVHZFR3NoQzVMWEFkaFZ3Y0YwMWtDZFpfQUp4V2cwY3U4RU1DUTZHanJIdHVFUlNhRGxEZnJob3dSM0lFM004SHQtVGd0VnI0bjdzNnZVWnBYOFM1STdnYlhqYWVTbUs2cm4zU3gyS2FpLVFNUmVUTnlYQ2Zla3RSVjFxVV8wX0FDVHplMTAtVHUyNjZf?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2023-03-27T11:37:54.000Z",
+      "timestamp": 1679917074000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "秘書長出席本院「台灣與亞太國會新能源推動聯盟」及「台灣半導體戰略國會議員聯盟」成立大會",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qUXQ0cXRJQ0txNGFuRkszdlBrUTI2YXNkLVRzcTBFUXpNa1NkOFo5OUtRdWM2bU1SSVdfNDBPb2ZRRzlYdzM0RHFVcklJdEhzMUIzUmhLLWRsd1FqcXhTM0l0SzRnVkxHNWFURElSUQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2023-03-20T03:16:03.000Z",
+      "timestamp": 1679282163000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "三二、近年我國大專校院學生及畢業生修習與STEM 領域有關之人數占比均大幅低於以往，恐不利",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMU9mNDh2bm1kOThpbzNWdjFmUTlqR2R6ZGx1TFVqdzhHZ0xYdThsNENkUUQ5UXBKN2pJRXVWaF80aHlYUlJPSHBqWmFfWGFScy1BSmRXdGxLNmI0Q0FaSHk2NmhaaVJwN21GWG9xSGxybEJoekM0ZTlxNGx6MThFOWgtMVp0ZEJiUXlRRjFqX3dMYzRx?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2023-03-19T04:58:01.000Z",
+      "timestamp": 1679201881000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "二、地緣政治衝突及疫情導致全球產業供應鏈之變遷，各主要國家競 相建立自主晶片供應鏈，恐",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPanNVb2F0RXNTS3VjdzlfMzYxTjh1N2JmSzdoT2wza2lZZFBRVzYtRXBIV0ZhX2EyRTVlMzhPSmUxQTBMSi03dnFKQkxfVHRjcHFia1RSaHVES0kwSjJVdnhJVldURG80NWVyeUhpVE9maTFnbVNmdHJrY0YzMGYyWVhpWmJtNVZkdzBQV0JJOGpJQ3p1?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2023-02-27T14:36:52.000Z",
+      "timestamp": 1677508612000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "國立成功大學校務基金111 年度預算評估報告",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM0VfNy0teURPRVRnLVI2V0tpeFFCODlhN1FTblBWM2tGRUNWbk5wMWdGZGFLdVdYUXdLY1FnSDRfd2d1Q1Njak8tZG9GaVJXU0ZpOWt4WEc5SmdHYUM1WnNxckY2S3ZJWnVtQ0hwcE9iWW1xTmZkbkZRYWx3NThKcWhwbXBrS0xxQnJiaHJxOXp0Vm81?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2023-01-11T06:17:18.000Z",
+      "timestamp": 1673417838000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "歐洲晶片法的全球供應鏈與科技戰略趨勢之探究",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZEN0ZW5RT1RtdUZLR0hVbDFOZGFTV1hXZXNZbUdlYjNIX3RxSnFFOWd1cW4tU29TOGt3NHV2Uk5WQ2tJUzkyT0FwXzNvbVhqcjg4UVhRdC1IeXFDQmlJV3BZeGFCd1dYTGFydjFFbTBsenpoelV6dVQ2bG9aMHhxR3RVUGtGTFRJRWFSUmVqZmhDTlBW?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2022-12-20T08:00:00.000Z",
+      "timestamp": 1671523200000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "俄烏戰爭對我國經濟、產業及金融等衝擊之評析",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ2NJU1oxREdDYVFQU21mX2hjWV9qUl90aS04ZEtGWWFLc3Y0UmlqTWVVSk5nekNnbU53M3hKbDFuQ2JtaU1mZGlLOTZ2NkpPNXI1MkZfV1hUVlgwdGpkRWRrVHhHZjVFVkd0S3E2NXRSN2VPRjBzMWtRaTdCYlRVN0E2Z0tHaDQxdG9IU2hRNVlOdlM4?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2022-10-07T04:49:10.000Z",
+      "timestamp": 1665118150000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "美國晶片及科學法概要及可能影響之簡析.",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sdUlOazlxelktWGJ2VDNtcDhWNDRkMXNtWTBCXzM1T19VUHF5eVZnUkFtbm8xUUU4RGdQVjBGczVxS2NEVm1qZlp1SlZvVTlKQjVpenJaNVBJY3RqOHB2Z0ZranlTLWhiMkU1aGJPOA?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2022-10-03T11:43:48.000Z",
+      "timestamp": 1664797428000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    }
+  ]
+}

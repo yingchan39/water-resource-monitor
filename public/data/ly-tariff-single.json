@@ -1,0 +1,1533 @@
+{
+  "keyword": "關稅",
+  "keywords": [
+    "關稅"
+  ],
+  "mode": "or",
+  "fetchedAt": "2026-11-27T09:03:26.921Z",
+  "total": 120,
+  "counts": {
+    "all": 120,
+    "official": 59,
+    "bill": 0,
+    "interpellation": 24,
+    "press": 37
+  },
+  "sources": [
+    {
+      "name": "立法院質詢發言與公報",
+      "count": 25
+    },
+    {
+      "name": "立法院官網與研究報告",
+      "count": 60
+    },
+    {
+      "name": "立法院新聞稿與國會動態",
+      "count": 37
+    }
+  ],
+  "errors": [],
+  "items": [
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "ART送國會要等美方 生效後美車才能零關稅",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NaXQ2WC1nQkV1ekN0bk4tcEhIZExjRENmeTlTM0I1akhnUGZiV0lPY0pqWFdtWmdYRlp5OTh3V2RlbGt2dDVMZWJmYjdsY2NVRm5ZbWVVaw?oc=5",
+      "source": "國會動態・台灣醒報 Awakening News Network",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-26T04:17:46.000Z",
+      "timestamp": 1795666666000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "「因應對等關稅與淨零排碳，是 否應修改海關進口稅則，免除進 口車與進口汽車零組件關稅，並",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWDlVVmU0MlZWZDZNLXpvSHJPdkJ2RzZURXRuTDhaVG1KMVU5MTBBZ2tUY3hKTzU5Y18wa1ZfNGdZb0ZmeklRLWs3eHhnVmxUR01RX2ZkTW1tazc5bFJ6SUNZME44WTBobUs3YVBXbkhKWDRTR19IX0xISk9GZW54dHcyb01jYTNmNW9jb1JxODFOQQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-12T02:40:13.000Z",
+      "timestamp": 1794451213000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【王定宇委員發言質詢】第11屆第6會期外交及國防委員會第13次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/172063",
+      "source": "立法院議事轉播 IVOD・外交及國防委員會",
+      "meta": "發言委員：王定宇 · 時段：10:22:42 - 10:34:38",
+      "proposer": "王定宇",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期外交及國防委員會第13次全體委員會議（事由：邀請外交部政務次長陳明祺報告「我國參與國際組織近況與工作重點」，並備質詢。）",
+      "publishedAt": "2026-11-12T01:00:00.000Z",
+      "timestamp": 1794445200000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【顏寬恒委員發言質詢】立法院第11屆第6會期財政委員會第5次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/171987",
+      "source": "立法院議事轉播 IVOD・院會／委員會",
+      "meta": "發言委員：顏寬恒 · 時段：09:35:45 - 09:45:26",
+      "proposer": "顏寬恒",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期財政委員會第5次全體委員會議（事由：一、審查中華民國116年度中央政府總預算案有關關務署及所屬、國有財產署及所屬歲出預算部分暨融資財源調度。（僅詢答）二、審查中華民國116年度中央政府總預算案有關第41款直轄市及縣市政府第2項一般性補助款-財政部主管第1目財",
+      "publishedAt": "2026-11-11T01:00:00.000Z",
+      "timestamp": 1794358800000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【吳秉叡委員發言質詢】立法院第11屆第6會期財政委員會第5次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/171982",
+      "source": "立法院議事轉播 IVOD・院會／委員會",
+      "meta": "發言委員：吳秉叡 · 時段：09:12:03 - 09:22:24",
+      "proposer": "吳秉叡",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期財政委員會第5次全體委員會議（事由：一、審查中華民國116年度中央政府總預算案有關關務署及所屬、國有財產署及所屬歲出預算部分暨融資財源調度。（僅詢答）二、審查中華民國116年度中央政府總預算案有關第41款直轄市及縣市政府第2項一般性補助款-財政部主管第1目財",
+      "publishedAt": "2026-11-11T01:00:00.000Z",
+      "timestamp": 1794358800000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【林德福委員發言質詢】立法院第11屆第6會期財政委員會第5次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/171984",
+      "source": "立法院議事轉播 IVOD・院會／委員會",
+      "meta": "發言委員：林德福 · 時段：09:22:38 - 09:35:39",
+      "proposer": "林德福",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期財政委員會第5次全體委員會議（事由：一、審查中華民國116年度中央政府總預算案有關關務署及所屬、國有財產署及所屬歲出預算部分暨融資財源調度。（僅詢答）二、審查中華民國116年度中央政府總預算案有關第41款直轄市及縣市政府第2項一般性補助款-財政部主管第1目財",
+      "publishedAt": "2026-11-11T01:00:00.000Z",
+      "timestamp": 1794358800000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【劉書彬委員發言質詢】立法院第11屆第6會期財政委員會第5次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/171992",
+      "source": "立法院議事轉播 IVOD・院會／委員會",
+      "meta": "發言委員：劉書彬 · 時段：10:00:12 - 10:13:03",
+      "proposer": "劉書彬",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期財政委員會第5次全體委員會議（事由：一、審查中華民國116年度中央政府總預算案有關關務署及所屬、國有財產署及所屬歲出預算部分暨融資財源調度。（僅詢答）二、審查中華民國116年度中央政府總預算案有關第41款直轄市及縣市政府第2項一般性補助款-財政部主管第1目財",
+      "publishedAt": "2026-11-11T01:00:00.000Z",
+      "timestamp": 1794358800000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【賴惠員委員發言質詢】立法院第11屆第6會期財政委員會第5次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/171996",
+      "source": "立法院議事轉播 IVOD・院會／委員會",
+      "meta": "發言委員：賴惠員 · 時段：10:13:23 - 10:25:44",
+      "proposer": "賴惠員",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期財政委員會第5次全體委員會議（事由：一、審查中華民國116年度中央政府總預算案有關關務署及所屬、國有財產署及所屬歲出預算部分暨融資財源調度。（僅詢答）二、審查中華民國116年度中央政府總預算案有關第41款直轄市及縣市政府第2項一般性補助款-財政部主管第1目財",
+      "publishedAt": "2026-11-11T01:00:00.000Z",
+      "timestamp": 1794358800000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【鄭正鈐委員發言質詢】第11屆第6會期經濟委員會第5次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/171791",
+      "source": "立法院議事轉播 IVOD・經濟委員會",
+      "meta": "發言委員：鄭正鈐 · 時段：09:45:52 - 09:59:54",
+      "proposer": "鄭正鈐",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期經濟委員會第5次全體委員會議（事由：一、 審查116年度中央政府總預算案關於農業部及所屬單位預算部分。 二、 審查116年度中央政府總預算案直轄市及縣市政府一般性補助款—農業部主管部分預算。 三、 審查116年度中央政府總預算案附屬單位預算非營業部分關於農業",
+      "publishedAt": "2026-11-04T01:00:00.000Z",
+      "timestamp": 1793754000000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【楊瓊瓔委員發言質詢】第11屆第6會期經濟委員會第5次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/171813",
+      "source": "立法院議事轉播 IVOD・經濟委員會",
+      "meta": "發言委員：楊瓊瓔 · 時段：10:26:35 - 10:41:08",
+      "proposer": "楊瓊瓔",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期經濟委員會第5次全體委員會議（事由：一、 審查116年度中央政府總預算案關於農業部及所屬單位預算部分。 二、 審查116年度中央政府總預算案直轄市及縣市政府一般性補助款—農業部主管部分預算。 三、 審查116年度中央政府總預算案附屬單位預算非營業部分關於農業",
+      "publishedAt": "2026-11-04T01:00:00.000Z",
+      "timestamp": 1793754000000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【邱鎮軍委員發言質詢】第11屆第6會期社會福利及衛生環境委員會第5次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/171812",
+      "source": "立法院議事轉播 IVOD・社會福利及衛生環境委員會",
+      "meta": "發言委員：邱鎮軍 · 時段：10:20:21 - 10:37:15",
+      "proposer": "邱鎮軍",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期社會福利及衛生環境委員會第5次全體委員會議（事由：一、邀請勞動部部長列席報告業務概況，並備質詢。 二、審查中華民國116年度中央政府總預算案關於勞動部主管預算。(公務及非營業特種基金預算) 三、審查勞動部函送財團法人職業災害預防及重建中心116年度預算書案。",
+      "publishedAt": "2026-11-04T01:00:00.000Z",
+      "timestamp": 1793754000000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【陳超明委員發言質詢】第11屆第6會期經濟委員會第5次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/171828",
+      "source": "立法院議事轉播 IVOD・經濟委員會",
+      "meta": "發言委員：陳超明 · 時段：10:41:11 - 10:52:55",
+      "proposer": "陳超明",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期經濟委員會第5次全體委員會議（事由：一、 審查116年度中央政府總預算案關於農業部及所屬單位預算部分。 二、 審查116年度中央政府總預算案直轄市及縣市政府一般性補助款—農業部主管部分預算。 三、 審查116年度中央政府總預算案附屬單位預算非營業部分關於農業",
+      "publishedAt": "2026-11-04T01:00:00.000Z",
+      "timestamp": 1793754000000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【洪毓祥委員發言質詢】第11屆第6會期經濟委員會第5次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/171786",
+      "source": "立法院議事轉播 IVOD・經濟委員會",
+      "meta": "發言委員：洪毓祥 · 時段：09:33:32 - 09:45:44",
+      "proposer": "洪毓祥",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期經濟委員會第5次全體委員會議（事由：一、 審查116年度中央政府總預算案關於農業部及所屬單位預算部分。 二、 審查116年度中央政府總預算案直轄市及縣市政府一般性補助款—農業部主管部分預算。 三、 審查116年度中央政府總預算案附屬單位預算非營業部分關於農業",
+      "publishedAt": "2026-11-04T01:00:00.000Z",
+      "timestamp": 1793754000000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【鍾佳濱委員發言質詢】第11屆第6會期經濟委員會第5次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/171797",
+      "source": "立法院議事轉播 IVOD・經濟委員會",
+      "meta": "發言委員：鍾佳濱 · 時段：10:00:01 - 10:12:04",
+      "proposer": "鍾佳濱",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期經濟委員會第5次全體委員會議（事由：一、 審查116年度中央政府總預算案關於農業部及所屬單位預算部分。 二、 審查116年度中央政府總預算案直轄市及縣市政府一般性補助款—農業部主管部分預算。 三、 審查116年度中央政府總預算案附屬單位預算非營業部分關於農業",
+      "publishedAt": "2026-11-04T01:00:00.000Z",
+      "timestamp": 1793754000000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【呂玉玲委員發言質詢】第11屆第6會期經濟委員會第5次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/171849",
+      "source": "立法院議事轉播 IVOD・經濟委員會",
+      "meta": "發言委員：呂玉玲 · 時段：11:25:32 - 11:38:39",
+      "proposer": "呂玉玲",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期經濟委員會第5次全體委員會議（事由：一、 審查116年度中央政府總預算案關於農業部及所屬單位預算部分。 二、 審查116年度中央政府總預算案直轄市及縣市政府一般性補助款—農業部主管部分預算。 三、 審查116年度中央政府總預算案附屬單位預算非營業部分關於農業",
+      "publishedAt": "2026-11-04T01:00:00.000Z",
+      "timestamp": 1793754000000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "interpellation",
+      "categoryLabel": "質詢發言／公報",
+      "title": "【謝衣鳯委員發言質詢】第11屆第6會期經濟委員會第4次全體委員會議",
+      "link": "https://ivod.ly.gov.tw/Play/Clip/1M/171701",
+      "source": "立法院議事轉播 IVOD・經濟委員會",
+      "meta": "發言委員：謝衣鳯 · 時段：10:06:59 - 10:19:50",
+      "proposer": "謝衣鳯",
+      "summary": "發言提及：「…Clip…」 ｜ 立法院第11屆第6會期經濟委員會第4次全體委員會議（事由：邀請農業部部長就「國際航運成本、貿易保護措施及主要市場需求變化對我國農產品外銷、農漁業生產成本、產銷穩定及農民所得之影響暨近五年變化、統計分析、政策執行成效與因應策略」進行報告，並備質詢。 【10月28日及29日二天一次會",
+      "publishedAt": "2026-10-29T01:00:00.000Z",
+      "timestamp": 1793235600000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "台灣國產車產業美國關稅措施情形對我汽車產業之衝擊(三)台灣區車輛工業同業公會副秘書長吳",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KUFR4S05YaDJWUnNZb0dQMVJLSWMycTdrdURqOEhodFhxRFJpeW1vOEZmSHB6MnFlTFBjVW9mb2lNX1dzYUZzclg2NHgyMjUyNjV4Y3BXdzVLSVc2NllHVmpFcUQzRmtiOXVYY3Rn?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-10-25T06:31:08.000Z",
+      "timestamp": 1792909868000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "院總第20 號",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IUDh6dHhzanJ2WFEwMjA2UGVNRUs1T3ZWbUhEY011NVZkcGRmVDk5V0FKWmM5UGRfM0JjUm1IdGMtLVRzdHNCaE5QTFQzc3pieU1mcS1CdkdOQ1k0Zm9JSThqQ2FsRzhaWmtGZlZ4SjQyaFlfVloyNA?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-07-29T21:49:51.000Z",
+      "timestamp": 1785361791000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "李坤城：待台美對等貿易協定(ART)及MOU 送至立法院通過後，美製汽車及汽車零組件關稅都會降至零",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fb3RwQlhpRHpQeWU5ZnRlVmI3MWhHYk4xTFFFOFozTjZVdXZpMTlEZFlZTDl0SGpqM2h0SFkyOVFWeFdwQzd3aGFqb0FMLXhoRm9Ud2lvVmxsdEd6OVpSSVlqY0pXeFlSRnJPSzdOSlM?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-07-29T07:00:00.000Z",
+      "timestamp": 1785308400000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "七、美國關稅談判仍進行中，我國主要受影響產業與衝擊程度尚須持續觀察，允宜滾動檢討及適時調整相關因應措施，以避免造成大量失業",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzYzBrSVNOUm9RdUZ3V1lPbWhDWmlmYWk1SUNFbjdHSTdzTHpSc1pQNG9KRTdlenUwUVpIYllsRERLYU9KUzZqWHU0ekVkZC1KYVh5OWpRdVBfMk9IOG02dWNqd2wyV0duNjRuVkZCNnc?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-06-25T07:39:08.000Z",
+      "timestamp": 1782373148000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "有鑑於美國川普政府自今（114）年4月2日公布將陸續對各貿易國課徵對等關稅以來，我國經貿辦談判團隊與美方已歷經二輪實體會談後，政府對談判內容仍語焉不詳，無論談判進程、爭點與風險評估，國人與國會均一無所知，僅能獲得「會談坦誠且融洽」、「取得建設性進",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV05CNm8yX25QWGJONTdva2NraWlzUUJ6MmJGUVBGbTFYZ1ctY0FOTmhvMTNsZEo1bGRGTlEyTWJ0b211YWNXamFYLVVMYlBLejZ3VWV5TXBkWGZfN0R2X0xWRnBOSUpSeEVuZ0R6WXh3cnNOR1VqSTVzNmpFZ1BKNWRSLWt1dw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-05-25T20:23:39.000Z",
+      "timestamp": 1779740619000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "台美關稅何時會有結果？卓榮泰：預判7月能否得到結果",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CQWI0ck5FY0hUWFlod2dpSjhWN2JKRzlDeW5MRWJLWnZqa2RGSER3OHNrWW5nR1NuNTExV3lDTTItMGtLV1pNVlNqMWl5OEVWanptZzN3Yw?oc=5",
+      "source": "國會動態・Rti 中央廣播電臺",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-04-28T07:00:00.000Z",
+      "timestamp": 1777359600000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "台美關稅何時會有結果？卓榮泰：7月左右看能不能有最終結果",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LUWlIazVQMW1uUjRVaDItcnhsUURqMXpwRjJ0c2xOSTdjcjNtVl9OcWtJdS0za0U0SXRHd1dkdk5id3k3dmNlOWY1VjdnakZC0gFWQVVfeXFMT1ppeXBnRkxNYW1LbkhxUVV4ZXp2YWU0ckFVZGtBLXVyTXFacW1ESU9GUUVIdGRmbmNnbUJZSEF3WDg1MldYc0I4NTlEODVVaFFva01aVmc?oc=5",
+      "source": "國會動態・UDN",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-04-28T07:00:00.000Z",
+      "timestamp": 1777359600000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "台美關稅協定（ART）中關於擴大採購及購買（原油、天然氣、發電設備等） 項目評估、規劃及涉",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2NZSEdxNHBaVzZEZF9fOExpMk1xM2NOR01BdmpCZ1ZSYUNVQWM0anhZUmxNNlF3TDNhemhZSmVORGtCbHM4SENBTDBlTWdmakYxbGV1QnZDS0l5dnlzeXR0UnE2ZG83N0w2VVg4a3MxRjlteVFHY1NhTGZlaU9HQUduTHdmUWNFOUVxaGx2UzAtdw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-04-25T19:26:47.000Z",
+      "timestamp": 1777145207000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "出版品 - 立法院議事暨公報資訊網",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZGNlVzhDMzduQU1kNlVCYXMzd0hRT0lOQm5IaGcwY1gtQTA4d21tTE1HT0lwbXBWYnFJSDM3NFl2c2U3OGNFb0FSSF9jNDhNTjRlMGxRRzcyUGplYUtXOVl5WUdic2ZQRlZVei1nREthcTAtUnhPSmpKdXRUa1JSRkx1RGJOTmluOUE?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "出版品 立法院議事暨公報資訊網",
+      "publishedAt": "2026-04-07T14:07:21.000Z",
+      "timestamp": 1775570841000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "臺美關稅協定中關於「擴大採購及購買」 (原油、天然氣、發電設備等)項目之評 估、規劃及涉及",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOenNTenA1enNUMkQyU3BpbWFVUW4wa3RGZmx6SWRTYlozYTBFN2JWUG53US1YTGZnNmFKT0VvUnJZQ1U0SFZIQ3c3dmRwZjR1ZVlGRnB3emQyQlJZQVZHankwMHNPZXR3NVRkQW1MMGJMLVI2bVV4NDRoSzMwTktXS2ZGS2dHN1VRNG9fclJlMW0?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-04-02T07:00:00.000Z",
+      "timestamp": 1775113200000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院第11屆第5會期經濟委員會第7次全體委員會議",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaGJZaUpvUjh5SkFUQ2Y1VWstLW1hV2VrYUFyenFmb0JDdWRkclFYLTRjZmZWanZXRmI5a0RkWjJMeEJ2NVVsc25fVXdXWGViX3RMMlFYdExTaG5YX3IxLTk4d0NnQXVQZHg5TEFiY0xaU0FXQXFqTW1fbXBqa19acFZ3NU10dw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-04-02T07:00:00.000Z",
+      "timestamp": 1775113200000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "突破論壇》川普對等關稅台灣必須接受？外交學者：希望立法院可以有更多的聲音出來| 杜宗熹 | 新聞",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JRzI3VXBQRktBVFEtYXlwOFRTMHF4RWxRSjRDakxBN0VHNV9BTnhydjU3b2E5YUM1MTRNUlhyY1FwNUVKdG9aZS1obG5ydw?oc=5",
+      "source": "國會動態・風傳媒",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-03-29T07:00:00.000Z",
+      "timestamp": 1774767600000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院第11屆第5會期財政委員會第1次公聽會",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYkhKcTlsSGNzTFJIOG9PUy16djRKZE5uMExwTlFQdU1Xcm94X1F0dTdXRVRfXzBITHpWcHFNOXp1NjVvQmNoQ3NmdkV6NnN6QjdoWmdYT2d0bkJ6dV9Fa29TR0pfc28yRWdxQmF6bTg3VGRWbjRWcEhfNkNFTnVodXktY0xYZw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-03-23T07:00:00.000Z",
+      "timestamp": 1774249200000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "美製車零關稅 業界估首批車最快Q3抵台",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJMTI4SFdwb29JZktSZUdySnN2WUtFM3N1Y2J2WDZlQzAtV25yemZkNkFUS0hjYVlVU0hFRGcyTlJxM1NhbVFROGJDdDJkNkZ1cFNJRVFIUmc?oc=5",
+      "source": "國會動態・自由時報",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-03-08T08:00:00.000Z",
+      "timestamp": 1772956800000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "美製車零關稅1》何時可以撿便宜？業界估最快今年Q3",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9yYTZZXzRFZzFKMDRfaFl2b1N1ZUR0UmRaN0JoR3J2SW9zcy1CMURIQzNJeW1FSFBEVW9IRXJkdTl3VjRad3B3eVlTNlVkaDNuZUZ3cmVBekRSWG5EU3pN0gFkQVVfeXFMTlg5ekZ6aTE0cmlWdTllRlFDREtLNWVjVjNWUlNEQ2syYzd6ZmFycTNIYmJmeXh4c0J6em9MM0E2OWNJT2lveGRYY3MybERZT0ZUNUVzQVgzWnZjT2tZOEtDSy1rTw?oc=5",
+      "source": "國會動態・自由財經",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-03-07T08:00:00.000Z",
+      "timestamp": 1772870400000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "台美關稅協定不必限時送立院？ 行政院引《條約締結法》說明",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Vdjd6MVB6R3pGaTZHSV84OXk5NVB2aG1tTnloYXZkM3RoSFVUUk1tTnNBYmN6SUtPUVZfMnNUZEp6VFF6c2F2aDZ4M0dTT2pFVHhmY0tkVQ?oc=5",
+      "source": "國會動態・台視新聞網",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-03-05T08:00:00.000Z",
+      "timestamp": 1772697600000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "台美關稅協定不必限時送立院 行政院舉往例說明",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MLXkzTzRqTE1pTl9DVmFNZlh1NmFtOEp0aHZGYk43WW1NV0wxeWZOcl9CWHJZSzJLdHdzVjFBU0xscGJjZjI1Zkl3YWk0T19PMU84d0lmemtJVmhZU2dIbU8tZnNVRzNrM0HSAW9BVV95cUxNSWJxY1NkMFVyc3YwWFdKSVBxSEpwWFFPMGNQUWNiNkJhSUtwTGxlR2lhdVFUZzJ2ajFFdHYzeUZUZkJNelNwYVlUU1FTWm8zM19zeGx0OXk4RTBOY1ZHcTVCN3Y1Tzl4YmtPRnFHdXM?oc=5",
+      "source": "國會動態・自由時報",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-03-05T08:00:00.000Z",
+      "timestamp": 1772697600000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "臺美關稅談判結果及其影響專案報告",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84V2VXX09QcnhDR3BvaV9WQnhMMHBBVjl4dW5zQXVYaWtVcE9OQXVuc0lLZEEyTVdqUm00OTJxSGRXTXg0Tlc4SVFNMTlLeVFvX3J5T3JRNVJ0a0xFbHRSb3VUMUJva2Y3aXZ3?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-03-03T08:00:00.000Z",
+      "timestamp": 1772524800000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "龔明鑫：美國車進口零關稅已備方案因應",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkN3p3TzVIZHNNSnVmaU85U0Y4Uzc2M2RjTkFOUlRUQzZydVM3a3NrcXBpekJodXJZREtfVDhxaG4zSE5SZkVPX3ZiWVpoWXR1SnZLYzNKZDVTajR0Nk9R0gFkQVVfeXFMTXpaSWhZVXozUU9LNk9xRjZncGpIZTMxZ3ZseTRrdkZIYW1pNWoycnNROGxwNlk3ZTk3ajQ1ZG9HSW1IYWhYZkN6UXAwaG5Uc205OUxocFVaVm9RTzNZS0FTd2k5aA?oc=5",
+      "source": "國會動態・自由財經",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-03-03T08:00:00.000Z",
+      "timestamp": 1772524800000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "卓揆赴立法院做台美關稅談判報告 #中央社直播LIVE",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsTzQyODRjN3JUNDhBM2FKN3RkcW9vWkJwV085eHlMbVVpU3RyY3pEbVZaTWFQYVhpVGFBWTAtek04SVM1VDJhX3NmMGhxSFRGU2Zz?oc=5",
+      "source": "國會動態・中央社 CNA",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-03-03T08:00:00.000Z",
+      "timestamp": 1772524800000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "行政院長卓榮泰赴立法院進行「台美關稅談判結果及其影響」專案報告(行政院全球資訊網-本院一般新聞)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTDZGTC1WN2MxeWQ0ZVZmNVV0eENjRmtucGw1OFRScWhHTzR6SFNnS01GU0FhRTJmY2xZVHJiNTg2a1NRUjh1Z3c0RzRnb2gtUjk1VG1SOWxmdXhVT09tbUdqNFJmY0FwOUQwcTdkNTRZSEo4RGlidG9lTnktX09MZ1JkdHZUWXc?oc=5",
+      "source": "國會動態・行政院",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-03-03T05:04:41.000Z",
+      "timestamp": 1772514281000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "在野：台美協定送立院審議 會鬧笑話",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oUVRiYlZ6Tkdoc2pvVFBjT2tQNW4zZWN3NjcwSV9NTEJvU09ObFU4UUFWWE9BUG9wN3FXcjdxS0g0VDdNX1ZlOHYzRzUzYk84WjNF0gFYQVVfeXFMT0NMVWkxUDJCMjVTdHNmaGdYSzVfMV9PeGdFXzczdTROUS1wWGFiNy1FODF0WnZwd0pnQzI4YWhOek4xcjE0VkppNGRqaXViWWR4X2VrQUZScw?oc=5",
+      "source": "國會動態・UDN",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-02-23T08:00:00.000Z",
+      "timestamp": 1771833600000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "趙少康嗆台美關稅「誰敢通過就告誰」 遭翻舊帳打臉：去年還說32%",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pbEJhM3lwd3Q2bXhkbUh4Yk9pQTEyR0xaRXc2Mk5qeXlhV0FoRjZ1S29McEZYb091cHJHUkFGRVNaY1J6ZE41UkRpLXJFYk1oeFUtdHppM3h2ZjQ?oc=5",
+      "source": "國會動態・鏡週刊Mirror Media",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-02-21T08:00:00.000Z",
+      "timestamp": 1771660800000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "台美簽署ART》終於熬過低迷期 9大製造業盼朝野儘速成法",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jSW44WVR6SXNrTFl1TmtrTU53X2ZJZzFuVkkxQlJOQ2EzbDlZRWNRajEyamZEVl85bzF0MDJFOThnUmlzd3JqdTg4MTZRMHdlbXpuNVhDTU4?oc=5",
+      "source": "國會動態・自由時報",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-02-14T08:00:00.000Z",
+      "timestamp": 1771056000000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "美方信任台灣將先行降稅不須等台灣立法院完成審查| 政治",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fQlBGS25jNUdUNi0zYUdhTl9JLWVFbWJwTHJWUHJMdV9vQjlPMFJnRmw4emFVZGlyQTBrbWhnb3ZKMWlBbXhxX0FGd0xEdGxYTFZqRnNLckxHMU90SXk0?oc=5",
+      "source": "國會動態・中央社 CNA",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-02-13T08:00:00.000Z",
+      "timestamp": 1770969600000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "台美對等貿易協定簽署 行政院：依法交國會審議",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YZVhHMzJLUVlOWS0ycVZhMVJOeU1pbjBBR2xFMTdDVFFRVy14UXBkZ3l0elpqUnl1bVlOTUlJdmluTjJJSVBIdWhBSWFRdGRJbFdxRWw3ZDlWckUycnJr0gFkQVVfeXFMTUxLZ21FM3hFYUhIR3d2U3BOMTctbjNkNW9GeVY4YUNfWmdjd2ZFTXYwcklPbFhvV2tObnhuc3AzT0E4ekM0alltME5Oa29FSmRDWjB3VE9MMDN2OXRoQzM2NTZMSA?oc=5",
+      "source": "國會動態・自由財經",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-02-13T08:00:00.000Z",
+      "timestamp": 1770969600000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "關稅談定仍待立法院公告 和泰車：落實之前買氣一定急凍",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16VXpDa3NJcE0wdXRjY1Fnc1R2U012NVJjeUY2TFFmTEJudUdsaUZRNVhGVk11djFzVFZaQnQ4OW1qVkUxbHVZTEpDdFNoT2h2YVRRbmUtRTB5QdIBX0FVX3lxTE51azJneTlTSkhOeFVGYmpnNHJmUUVhV1d6QmNoU0Jha3h1eEcwaU5zZ2RSSEJxeEh0Um9kek1fa3UxSERGSVN3eEptTERTa1k4SjZmVFZITnRvVWltSUww?oc=5",
+      "source": "國會動態・經濟日報",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-02-13T08:00:00.000Z",
+      "timestamp": 1770969600000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "成功爭取美方同意先降關稅！信任台灣！不須等立法院完成審查｜美軍出動「最強航艦」福特號開赴中東！雙航艦施壓伊朗！川普嗆「一個月見真章」｜2026/02/13 中央社全球晚間新聞",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zOGp3eHdSRTBCVnhoQ3dLY1M0Z2hqUHY3UTY0bXROSUJoc1V3WFlWWW40bWJZOE93b0hXNmlETjZQUVhrcU1UNnl3MFNfbXpyYnBsci1MbWRWc0E?oc=5",
+      "source": "國會動態・中央社 CNA",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-02-13T08:00:00.000Z",
+      "timestamp": 1770969600000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "民進黨民調》74.1％民眾盼立法院速審關稅結果！藍白粉也逾5成以上贊成| 政治",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BY2dQWXp3di1KWE1hZkNuTnpTbi1RaTgwSnhPdjM0TXFlVlBHbFRLMUNRQ25sQzRmOEUyV0l6cFBLR1V5SExRRjAtYXh1TERQcE42d1hPbHBJQXc?oc=5",
+      "source": "國會動態・Newtalk新聞",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-02-12T08:00:00.000Z",
+      "timestamp": 1770883200000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "江啟臣曝台美關稅2月中簽署 行政院間接證實",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YYjRjS1hjYThybldTZzZ0N2lpUkpCRGxDbWlsZ1ZkVkFYeUZjR2h1azdmUXQyUVpxMl9ackN4dHI2VFllcXM2MUFBVUJpRk80R0d1RkF4TWphX2VFRi1J0gFkQVVfeXFMTlJ1Njc1S1duTGJVenkzb2xxaTdFLVBYZlpmQloxRlJrZ19QcXYxTThoQ28tNUVsMjJtbGd3ekRpdWhERk1pUDRtbTdwSmsxLWhRbGRMaE1jMkJLNFlJLW9STERvUQ?oc=5",
+      "source": "國會動態・自由財經",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-02-07T08:00:00.000Z",
+      "timestamp": 1770451200000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "江啟臣：台美關稅協議月中簽定 立法院會盡速批准",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpM1o4ZjRXUzBpTWR6SjR0UmJNNnBIMXowbzlKWWNGX3pfU1lDR2J2UTJTY0hFM2twN1hWb1BfRkxyU21zcFN3TWREYUZRQXRxQjhGaHR2WGM2UQ?oc=5",
+      "source": "國會動態・信傳媒",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-02-06T08:00:00.000Z",
+      "timestamp": 1770364800000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "賴總統：台美關稅談判成果得來不易盼立院依法審查| 政治",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LYTk4RVgtUkREVUdqeTRqVkJzMkJjSVI5V2ZhRXZkNWJrbzZDOE53TVhwV2lCUkRRT3ZES05UZndnTXFfWkpqd0VyeUhxbGxNUVJ1Y3lUcDBwVng2cjJJ?oc=5",
+      "source": "國會動態・中央社 CNA",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-02-03T08:00:00.000Z",
+      "timestamp": 1770105600000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "從15%關稅談起　立法院此刻承擔的不只是表決責任",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CbFhjTWwxU2xCUkpTdnJNb0xiZ2lCOWRuRFJzR1psT3dkQ3dEQnlnS1Y4cFNhYTNyUTJPcUNYblNCWHc0ajJjdkFOVVE1a2_SAU5BVV95cUxPRXZuUU5ZM1pZNDdhMEUtRE8tYWpBSkFiSEJTTVk2b09zLWxKZjB1WXlXSDVWTm9Pa3ljWTlzUmFYUUpreDFDSFVxYzNTb3c?oc=5",
+      "source": "國會動態・ETtoday新聞雲",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "從15%關稅談起 立法院此刻承擔的不只是表決責任 ETtoday新聞雲",
+      "publishedAt": "2026-02-02T08:00:00.000Z",
+      "timestamp": 1770019200000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "臺美對等關稅談判進度、預期成果、對我國可 能之衝擊及因應策略書面報告",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZFBiSWtJeUxPejNJUWY3ZW0weEotRTFmM3FXaGFRQzhKU2s5UF9kRU1FTi1EbjFISnFLQUkyVmc1MVQzbkZva0tTa2FXODU0LWpCY3pweFF6NjUwYl96cnp0TG9GMk42U240Uk9XMnBjVFExTEgteGo5TVZlLW9GeTVTRzFNUHFFb3FZNEJFazJoUQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-01-29T04:42:14.000Z",
+      "timestamp": 1769661734000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "藍白擋台美關稅協議？江啟臣無奈吐實情：立院並非不審而是「無案可審」 | 張庭維 | 新聞",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qUkhlN3IwamFLRlR6a0Q2WHdiX09WRERFWF9uOUdNdjRFVGZXNDNicDJCT2FzWkxmTlo3VEQxZFRONkc0VTFVNVNhMlo1dw?oc=5",
+      "source": "國會動態・風傳媒",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-01-28T08:00:00.000Z",
+      "timestamp": 1769587200000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "立院新會期2/24開議3/3邀卓榮泰專案報告台美關稅| 政治",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QaFJFSm9lN3ZORldaWkYyM0NPTkMtalB5QUpqZ1FjVlppQ204SzFjeGFVSXIzUFF6dHRLRkhvZUlWYTNXYkdLRXJEOHBLYjR2UW9kdWc4VmtDXzRrWC1F?oc=5",
+      "source": "國會動態・中央社 CNA",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-01-28T08:00:00.000Z",
+      "timestamp": 1769587200000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "藍白看好了！還要擋關稅協議嗎？😡",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsTXdqZWF4aURKaWxZRHF2T1Y2bldQam5tVzBxV0dnY2lCOER3QzJWbV9WU1Q2Ulp4X2NhQlVZNXgxV0R4R0JkRDlkZ0V3MFI3OE5NMDNFWE01WnVzLXVxemdYaURrQ1hNRGVYbUZBdFc?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-01-27T08:00:00.000Z",
+      "timestamp": 1769500800000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "台美關稅15%！若立院不通過 連賢明：川普會認為台灣政府沒有公信力",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03UVN2bGg3TktMSEFsX19VaFdNRW9BQnAyV3Y3eU96cDBXMHFXMGlHV0drSjlRQ1ZWZ0Y3NFFTQ0E5SFNTZHJfLUpiNA?oc=5",
+      "source": "國會動態・三立新聞",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-01-27T08:00:00.000Z",
+      "timestamp": 1769500800000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "關稅協議沒進立法院先喊「不要擋」 藍青年酸民進黨戲演太早",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmWTVwY0luSlh2cUcxYkFaRDg4SFkzTGVjTkR0VnJTSDgwa3NfaE13WUhzbUI0bGt1OXRqeWl0VDlKZ1NSZExCLVBkS1hYWGdkajdZ0gFYQVVfeXFMTkhBbEdDYjdPYjVDMWx6TlIyTTBlb3RhbjVVTnBaenZqMXFlTFM3aWx6V3JPQS12N2hSdW1PM3BROWViMlU1eC1ZcnBteUtTWnkwZzdaSUFpVg?oc=5",
+      "source": "國會動態・UDN",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-01-27T08:00:00.000Z",
+      "timestamp": 1769500800000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "前車之鑑？南韓惹怒川普「關稅15%→25%」 台灣想守住最惠國得看立法院",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IdldCTHo0bzRkSUVxUEM1UG5jWW1hSEk3LWd1bEVZaTlfOXp4dTZkYXFWMHNXSllHUEIxeFdBRU5sNUZXOHlUNXRVbTNVcjdYS2RHZllobzVrQVoxV0E?oc=5",
+      "source": "國會動態・民報",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-01-27T08:00:00.000Z",
+      "timestamp": 1769500800000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "國民黨要求關稅談判提產業衝擊評估 卓榮泰籲國會與政院真誠合作",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3bGdGTXhVYmZBb0R5WjY2T285U0ZDYTdPOENXTVlMVEFpbWVrenFLNW1wMlVzMVZTVXp1LVVpM2xYa2x1eG1za3YzYXhQem1tUm1EcDl3Z3htYWc4SzlnZDR5LXdTMklzNVHSAW9BVV95cUxPR05qWTdmR0Y1OWU2c2tud0xWczZKYkVJb0dpQU95VjRkWDBRX0VuTTF5R2U0SEpDZF9qTU1XQ1duUm5PMU1RVF92SV9XdVptcldqbzZpV01yeW1NQVZlVml0YzcxZl9Db296S2x1YTA?oc=5",
+      "source": "國會動態・自由時報",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-01-20T08:00:00.000Z",
+      "timestamp": 1768896000000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "台美關稅協議將送立院審議 藍要求政院提產業衝擊評估",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Db2c4M0hBSjRNMFFyMC02Wmd4TkhBVHBmampQWGVIU3NzdWx5TWFsYU85MmtzaEVfS1o5d0lmNGptcmlUeDZTei0xS085RTQ?oc=5",
+      "source": "國會動態・公視新聞",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-01-19T08:00:00.000Z",
+      "timestamp": 1768809600000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "台美關稅藍白恐立法院擋掉？她曝：擋不了",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uRWhOTUdDMDlEX1JWSV9NUE1pR19vLU4xeEx5ZmN2bnN6ZGROYjZZMVhfT0VfSTQzVENtdEp0RVdCTlk4Y1VjdmpuTzQ5dUEtSEZJTURzNlZCb1B5?oc=5",
+      "source": "國會動態・鏡週刊Mirror Media",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-01-19T08:00:00.000Z",
+      "timestamp": 1768809600000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "台美再突破！關稅15%封頂，謠言退散！",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mdllwQ3lwS0ltdlI2bDNSenU3TnJod2ZEV0RNYVNBQUtvMXJTSTlNcGV4T01MTENmZ1BhTE0tT0ZHdV9wVnVCTHZYQUdKSVFRWWZCSWl2UFZRTHNPWTc2QVhIVk9ZeWJZcUlCRXJoS2Y?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-01-16T08:00:00.000Z",
+      "timestamp": 1768550400000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "台美簽關稅協議將送立院 藍委：資訊未全透明必嚴審",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lOUZBLVdYYUdTVUh2QWlNVi1OY2M5NVdIcnJHMy02MWU0TFlkOWd4VlM4YVEzNUVhUVRhUmRpZDU0dmJmVjlYV0lLS2pPeUk?oc=5",
+      "source": "國會動態・公視新聞",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-01-16T08:00:00.000Z",
+      "timestamp": 1768550400000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "台美關稅15%快談完 黃國昌畢業旅行兼收割之旅",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sMUVRSExxNHFMbU9TeUFOZlF5QVVaUTNaZDlLWjV5eHlaSGlPbkJMQmNfT3YxaFJQQVJGanBiRy1BbG1EZkxKMVgxYjlDbnFKV2JmR1B0WGYzZDJDckduX0lxcTRRaF90YzFsSEExT0Q?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-01-13T08:00:00.000Z",
+      "timestamp": 1768291200000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "四、近年從價課徵之營業稅、關稅、貨物稅等稅收增加，部分原因係受物價上漲所致，且業者可",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb1d1RlNNb0N4cUg0VkxUVDZzRnVVZ3gzYUVfQUR5d2NmNjg5d0QxdDlrOHpubHVVTUR2VnYwY0lGajFnUEtCVjdmZ0ptVVhtYl9HYnhLVWlqeFA2bkU5QnRPUXpXYmI3SGZHOTJLSE1qTHplRGZhMzlieDA3U0VQNTVUR25GYlZxNWM2MmxKWWF6OWU4?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-11-18T16:10:05.000Z",
+      "timestamp": 1763482205000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "台灣導入美製進口車關稅即將明朗？經濟部長：會調降但「希望不是0」",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zenZjSGNoQ1FvSDlqWWxsZjNoVjAtZ0szMURUcUNpT19SMjVKWDNwbzkxdWNtLWc4Y05vampzcktNUTQ2NEVXVW1YUU0?oc=5",
+      "source": "國會動態・地球黃金線",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-10-23T07:00:00.000Z",
+      "timestamp": 1761202800000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "行政院主計總處函",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT2lXUGp3YXhMUktHZ1VBV1doZGczTzJjSUdjcm5WSzR2VmQ3MG1EZTVBVFZ4cWFGeWItSEp6T1RLeVhHb2Njc0hOZjBOMEl6aTRFV1poX2I2NklTYnI4ZFo1RWZrT2lYeG56bUY5eTV6SGxLaWNqbkd5NEVGWlRPai1KSXZWMFJFM252X0FWY2tybkRiQnRPcW1nWV8tVWcxWTY0?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-08-25T07:00:00.000Z",
+      "timestamp": 1756105200000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "「因應台美關稅及國際局勢變化台美關係互動情形，暨俄烏戰事與以哈衝突外交援 助概況」報告",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY1RXM1l0SzFlRG1Nd1BJN3lnNzgzSE9YbmR6eXBnTWtqR3dhTFNiTF9WTWRjN2djNDlhRmJ5b0Zhbngtbmt2aEdjUWRuRm1LN082S212TkZQX29yTlZweHhkR28xd0dfeXN2bWhpR2NKNU15dGNpOTZCM0tqaUFLeEt3emdFOXNJUldDencwMlk?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-08-20T18:38:38.000Z",
+      "timestamp": 1755715118000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "因應臺美關稅談判對臺灣食品安全相關影響報告",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWkZnczR4ekw0cEJkLTlkMVlzYVd5WTk1R3FfQWZNMFJJYWtvSTlGOGszWXlvNFlvMGpGS2hOdHdnV2dFVlluM3JLeFZJWW1RTXlFRmxRaVdQX0NLbWlVSlFjdlktRE41VVgxVkRPYUJtYUJWUmNfZEtDbENxS0lLZWRQM2tQRnhCV1oxQUM1MFpTQQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-08-07T17:26:16.000Z",
+      "timestamp": 1754587576000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "因應關稅影響，政府加強產業支持措施與跨部會整合",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbHpEd29TOUJlOXliaXE5TVhzRXJwRkFSMS1kUkFFNWtrQXNoY2RzaHhSVW5aT2tCYUF5VjVuUnNlR3ZKbkVrWVprQW9VTmhGaWFFbC1LZlZ5TWwxMnF4SkdrRDdRdGhEOWw2VWJ6X3ZqWXhrY0VsSlJlUU1EN3I1SGloUFZvUGQtOFhYRFZtVnY?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-08-07T07:00:00.000Z",
+      "timestamp": 1754550000000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "保密協議將公布？立法院邀外交部秘密會議談關稅 陳明祺：幾乎沒有先例 | 鍾秉哲 | 新聞",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oTWhZc3E1ZzIwTFNianpoS0MzcmxJT2E3eVZTXy1KRENXNDkxTlppQ05lcTRCWS1mbHpLenRmSDR5Q3hybFFyN3dmSHZudw?oc=5",
+      "source": "國會動態・風傳媒",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-08-07T07:00:00.000Z",
+      "timestamp": 1754550000000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "「美國對等關稅底定後，我國經濟未來之景氣情況及全球佈局新規劃」 專案報告",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcGtXYm4xTklZRDF4ZDBpV2xDYXpXVUxnRzd4cWp2aXdrTHJfM0pKSGd0MnVUdHVqekhZa1A2QnFTSzFYU2lzdmZSZC1ZOV9XZ1B5MFdOMXloVVlVZzIxb1RpOVptektiVzVYa0g5cnVPR185MGNZekRGMFBoTDdlRGloV3NOYWkxUC1kQjN2eEZIdw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-08-06T07:00:00.000Z",
+      "timestamp": 1754463600000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "先過我這關？傅崐萁：台美關稅締約「一定要經立法院同意」 憂三代根基被搬空",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAySHFYb1hVQmM1Tzh5RkQ4aFhicGJlU0ZUallyU2ctdWdaMVZFeWlLMkxkUWNLVEp2Um9LU0huX3pZa0tDTWNqYjZYWDIzbEVidzZnM0I1X081UEk?oc=5",
+      "source": "國會動態・鏡週刊Mirror Media",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-07-31T07:00:00.000Z",
+      "timestamp": 1753945200000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院第11 屆第3 會期財政委員會第6 次公聽會臺美政府對等關稅協商我國政府因應對策書面",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc0pDU1hoRTFsSklCT2hOMUVRNHlQZ1hKZ29NQ0NMVkJjLThTaURNS3BLVlo2Vzd1TnB4bWNEOTU3VGp6VHZGUzRYbHc1MmNtQkVWNnpKWlZLZ1Z5U19SaUtFbGdKZWhhZmlXMjlKWmVuUEZvQUN4aDhYZlVzazBHTzUzVE9GWVVNUTRtLVdCbw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-07-28T19:50:33.000Z",
+      "timestamp": 1753732233000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "「台美對等關稅談判進度、預期成果、對我國可能之衝擊及因應策略」報告",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLVRjenFFM3MwRXgtcDhDc1c3TThkQ2lJeFBBaExqd1haYXhhMjZwdnRERTBsaWtLZ0NjbjZHbHpuNDdwNGdReWFGbnBLcVR1eWJfdDNxd0ZiZnkxc1dxcWNTSmJKaTZ1UXpUV2s0WXpZam1XWEhSNzYyYm9WVEt5amFfQUNZYUQ0SF9uMnd3Z2g?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-07-18T23:03:49.000Z",
+      "timestamp": 1752879829000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "「臺美政府對等關稅協商我國政府因應對策」 公聽會報告",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdl90UWl2elYtWVN0V0o0Z1p6dHltU19FUzQwWnZJNW9NYkdJR1NISjc2ZTBZc1lRX0d6ZkptX0tBMUFwMkJtR1ltN3BCNXhqQkFFZjc3bTRnU1NEdnpXR2lYTTl5RkRLMUtrUURmd3BDMWV4LWM1cU14dkgwVnlsMmFnZjd2SWI1OTlYX2E5X3lRakhYM21DSGctYmpQN0RrdURJ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-07-11T07:00:00.000Z",
+      "timestamp": 1752217200000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院第11屆第3會期外交及國防委員會第22次全體委員會議",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRUp4TlBpYl9TMjVsa2hEeDQ5eFByeVpCc0Zod0hrd2N3bFU3RFM0UnVGeTFvYTlCZGhaMXdlMnh6aC0yZkRIYVhZUzd1N083RDVFX3Z2ZUowQWRKWk1KSndZUjgtYTRKNVAyejdxRkJoNkJGbjIwaXFHeV80V1R3MkdoMG5zdw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-07-10T07:00:00.000Z",
+      "timestamp": 1752130800000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "因應美國川普政府對等關稅策略與我國被列入骯髒十五國名單，我國政府財經相關單位因應策略",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSHdoTktJWGZ5VUdZNGoycVk0dUJFNU1CbGd4MjBBMkpBaW55Rk54TEJxMEc1emFCX1Y1YkhWVW1mcktRbXM4c0ZiMzVYVGZkQlg3YjZzU29ZVUFBX3U4eWp4Ukl3dWhReVM0cTNFTmxkV2lIeFV3cnNWWHZNR3RvMk8wNFE5M2JpT3NpTUxvNTFFZw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-05-30T10:43:03.000Z",
+      "timestamp": 1748601783000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院全球資訊網-三、從價課稅之營業稅、關稅、貨物稅等稅收將因物價上漲而增加，且業者可轉嫁予消費者，而所得稅係按名目所得課徵，在實質所得成長有限下，恐加重納稅者負擔",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xcDJLZGtVY0FVallsQWJvaG5yVWVPTXc2Z1RIT25XYlhfSG4wNWFhdWFRTEZWRjFZeHVaRWpzUUVuazVKeEVhX1VyRkh4eWNlTGlucHpoM1d6MDctamZ6RjgtMkZlTjlBalA4VnREd2M?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-05-13T03:53:14.000Z",
+      "timestamp": 1747108394000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "議題研析 - 立法院全球資訊網",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaU1hX1JZNFFHWDZRRVkzMW4xc3hfZ1FSLUxMQ2pFcDh6UDZuM2dNUzVkMnJMZlg3Y3NkelZycXpHQl9aM2otcUJBS1RxU0dLTTRHbHFiUHA3MEJhUGU5bXNkM05MRVpfLVppOTAyWWRsUDY3WFNaWnV6VklRYVJleWRQdG5lWk5GcEQ3U1E0Yy1jZGZw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "議題研析 立法院全球資訊網",
+      "publishedAt": "2025-05-11T09:37:07.000Z",
+      "timestamp": 1746956227000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "「因應美國川普政府對等關稅策略與我國被列入骯髒十五國名單，我國政 府財經相關單位因應策",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVA1c3NodHlmN0JpbFo2SVo1RFNZODVCVUNBUDFmTGdfSW54ZUxSMW9Lb0Rfd0lTb0dIalc2bUp4cmtZQ1hSSzBlTWItY0FMX3ZWanJSRUVYZ2hfdTFSYWV1Wk1VQmhjSnE1RExTa2dPazVaeF9paEx2N0o3cGE1SXpsaGN5ZFYyMUxUNnVUM1BCZw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-05-01T21:13:50.000Z",
+      "timestamp": 1746134030000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "美豬、美牛進口零關稅且如何保障國人食品安全及農民權益",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeFAwYlIzMVpKdWprMEFyWmNxamZuUnBYYVhLX0YybjltcU5kVVBvWVQzRXhjbi1RSlFwTHB5ZkNUMUt1M21sNGE4eU5lRk1GdDNOSVJydjRwRHVyUmlGVHlmZEh6QzlrYVc4dEI2RVlBYUhjTldFLUJFa3hYdTY4d1FpUmd1OExKTDlGLU5rTzc4Zw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-04-24T07:00:00.000Z",
+      "timestamp": 1745478000000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "美豬、美牛進口零關稅且如何保障國人食品安全及農民權益專題報告",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS050VjZCSnpyRTZLY2c0ZmpkZjN3NkJlWGM1bE9VcGFXRWdRNXg3WVFkcnhLcjY1LXl1NnVTeWQ2NlNOQzJkWktCdzV0cjFwa2tzV0Fxd19YZjhRRWNWa0VRZElwQWxhU3NySDVVUHFMVm84Qmdubm9uOUFjcFZDNjNuOWp1aGc2S29pcFNMdDNJQQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-04-24T07:00:00.000Z",
+      "timestamp": 1745478000000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "美國實施進口產品國安調查對我國產業之影響及因應之道",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN1p6RFZ0dlM5RHhwQ1d6WFg0Wm9TaW9KelpNNkx6T2p6eG9wSWl5STFDZ2c2bHFZdjBPM1c5U3pjdXJ1NHd4MGFubE9iVGhMS1ZzdGVyY2daQzBpYmduWGtXWHVhdy1sYU4zdW95Q25mX2hUb1FZX05Cek1ZVW9OSC13TjVKVVVuWjFmTVQwZDljQQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-04-23T07:00:00.000Z",
+      "timestamp": 1745391600000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "「因應美國退出巴黎氣候協定並提出對等關稅，對於國內產業淨零轉型造成衝擊」 專題報告",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQUtlSlZlMnlnS0FiNW1henJkMlZtLUN4WTZIR2x4V1ZoUXVTeTNQZWlHbmphXy0xdlF5VUdJbzZkNG51dXp0NXBZNHR2dGloRzdhSVpMeVplZEk2ZURxTUNjd1k1MVBvUzRVYnpMV245cWpqRXN3Y0Yza1hkT0UzR0xlRjJpNFYzeG5IV3gtc29jQQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-04-17T07:00:00.000Z",
+      "timestamp": 1744873200000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "「因應美國退出巴黎氣候協定並提出對等關 稅，對國內產業淨零轉型造成衝擊」 專題報告",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYS1lUXBGRXRBTGlTVUlSeTRURXNHSDdqSlNuVG9zVkpRQVRiajg0bUdjdkNoYUl5SnRfMG9nUGp0OUVqRnNVUmdhcDRyUTE4ZVlxLUZOX09fVUVOOWViOUdZX0xtdkpOeDNfSmFBc0hmdC1fQnkzM3UzU2lHemxscXE1ZEtRVDMxVFM1Mjl1VXBMUQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-04-17T07:00:00.000Z",
+      "timestamp": 1744873200000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "因應國際貿易情勢變化如何協助國內廠商擴大國際市場",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcnZEYTVQMmp2T0tqc2lSUlAyNWo5ZjRWYXl6NXZqeS1ibW10TkhiQUFNZTJUOUQ0TlN1T2dDSlVfXzB4WE5Sblp0Zm82WDN0RkhuYjV6UGtOMm9SU091NFYzazJuTW1WNlF1ZThGN2w5Zy1xVlBMamU3aDB3bGVEbmZwQ3FRUnpOUmlza0pMMTVsdw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-04-16T07:00:00.000Z",
+      "timestamp": 1744786800000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "防範中國大陸產品低價傾銷及透 過臺灣洗產地問題之因應策略",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUUNLTEFXN19uaUpqeHRWQkxMd1NmY2VQeVgyc2ZVRDZaazVUMTd3RVBpRld2N1FJNDdiVXRXRG5QQVRYRlpVZjhsQ1JjUS1ETldodUllOU52RmpHZEh0VHdvdmtZblFvQjlEbzJmZmFYNXhHUHNZQlV2NlBIQVdpOE41dmtDXzNmS2RmcndoMUZJdw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-04-16T07:00:00.000Z",
+      "timestamp": 1744786800000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "美國將宣布半導體關稅 經長赴立法院備詢",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9WdWFyUFBaQkdIMzg2czVzTno5dGVSZUJOSWJ1VjNCaWlpX1hxLUZEZ3pJQW9nOVdIOGhzUzN3dEM0UVhzOHc?oc=5",
+      "source": "國會動態・原住民族文化事業基金會",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-04-16T07:00:00.000Z",
+      "timestamp": 1744786800000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "Legislative Yuan -進口汽油關稅免稅立院初審通過",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xTWVEbm1MRUhDM2NyUG5aemNXVFZjRm40Z250eHBuSW1GVWJkY3VrdmFJUzY1NUhwRUxtcEVoYnhVM0hHMDE0WEhrcnprZlNtcXdnNzlXbzBielNEZWs0MkdVUnJQSlJQZ3YyQzJKVjNYUQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-04-14T16:11:22.000Z",
+      "timestamp": 1744647082000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "美關稅衝擊 立法院經濟委員會邀相關部會與中市府、產業界共同研商支持方案",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1aDJDSXROZ3RUUkpPY3JhQkZ0WWE5Q25zc1hpLUtwaXk4LUk5eTJtTWwxdDdBbHNIWG1iX1phNzNVdzJVZ3g2UGdwUjcxTDRodmVtT3hpS3NJcVlmVFkw?oc=5",
+      "source": "國會動態・臺中市政府全球資訊網",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-04-14T07:00:00.000Z",
+      "timestamp": 1744614000000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "因應美國退出巴黎氣候協定並提出對等關稅，對國內產業淨零轉型造成衝擊書面報告",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUUZWU3kwYk50bTZCdnU2aXRIeXVBbWdsOTZKdGprR0VhZHhFcGY1b0NwYnlyRFJXZXQ1dThTTjMxR01oeVl0UVZsSWwwQWdfNkpGYy1vRHFJS3RrM0VuMldmSDZRYURJdHJLQW1EWm9HSUJwWVdZNF9STFloRUFhT3dtT21kczRpT0EzYkdlNU1zQQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-04-11T07:00:00.000Z",
+      "timestamp": 1744354800000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "美國開啟全球貿易制裁及與中共競合下， 我外交經貿戰略佈局及因應書面報告",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY2tZT1ptOVFOY21KVjJGQy1fNlBpWnZUVEZ6WHRuakJ5dUxRYWVxbXhOS1hIQ01oY3VsV3pGSExxX1lDd3AtLVFtOFQ3UnduaE1HM0dkaXdfMFEyby1xU2hJUXJlZFNwY0R5TFFqRHRQMDUxTTE0ejZ5TS1Rb1lVY0tIT2JfSVJPcmU5VTVQaU9oUQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-04-10T07:00:00.000Z",
+      "timestamp": 1744268400000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "美國課徵對等關稅對我國交通公私部門之衝擊與因應專題報告",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY1VBM3QtOXFDWV9mNFQ4QUpyVU5mN3EzSnptVUhjMUlKcjB2SkNGWnUyLWc3dHlsbXRlVzZJcUxMOEhJVVVzQmJTR2lZLWN4T3ZHRnpSMXJGWFU4OGlMQ3c5S1hBR0xYX29wZnRmZnlNNHRleW9SaU93UGhUdUdfX24wLUpsXzM2Wm04Y1NleEh5dw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-04-10T07:00:00.000Z",
+      "timestamp": 1744268400000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "「川普對等關稅政策實施，對我國股匯市、經濟成長、物價、房市等項所造成之衝擊與因應措施",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa1NIYkRqbVZjdEE2NUNfUE5yeDEwZXQ3d0l4MG0xdER4d3ZHYjdqRVZCUzhuNUV5ZWp1ZFItVldqQ0x1OUtYUlFfUzlrSE03c0pROTgtYXM1bzlHTjNzQ1U2RkJyWXU4OHZaMHNEZkZKcnlLTkF3cmxfcURmNk9MdU00dDNFbGFIV3ZXMUl3dVBYdw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-04-10T07:00:00.000Z",
+      "timestamp": 1744268400000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "「國際經貿情勢變化，提出協助國內傳統產業及中小企業因應之對策」 專題報告",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMzRvVkdldUhYSXMtWUl4VHVrNGpQY1BHTHp6TURlT2sxcjk1WXljTVhHS295RGh3M0t1NWdWRkJ3QWpDTnI5RVVMS0Q2a291Y2hLelJIb2VjeUZPNjk1YlZOS3lVeDdPUUdpUENudnNlZDFTSmlMaVNBTFBrQjZrTmJIWWFYdzdnX3RoV1JqaTNGa1Jwa1dINUdkblV1NUhSbUVz?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-04-09T07:00:00.000Z",
+      "timestamp": 1744182000000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "「對等關稅對物價漲跌影響」書面報告",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOTRhLXZrWFpHeFBPXzZtOUNfTlMwczJ4QVh4NXVBczVmNndjeG1NdmtsV0pfVzdJMnE0UWFUc0tpanlTS3lnYWRUUWp6ZHRzNzBBX1NCZEdhdm5POWdORFNBdmxocEdZWkdHNWNxOEp0S2dKMUdUbnlYMHZEZ1p4WFFEeHFiSU13aVBkZjhDTnFMdw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-04-02T07:00:00.000Z",
+      "timestamp": 1743577200000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "「美國對等關稅政策對僑臺商全球布 局之挑戰，及我政府協助僑臺商之具 體策略與措施」報告",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYXk3RmJWY1BVNzBLampmbHQ5UThlalFmeUNRc2VyS05yVTNwQ3M2QTJiRkR3ODFWR1ctTGlZUmplSzR0bTgxWFd1WF9tRWFrRk9kaktKc0pucU1KVDdfY0lGNkljNnZ0ZGJxQ0ZnQmdUWWhDbGRMZW5wenU4bk9aT3otYVVVZklSUVIzLTRuTUIzQQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-04-02T07:00:00.000Z",
+      "timestamp": 1743577200000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "Legislative Yuan -飼料用黃豆、玉米、高粱等物資關稅及營業稅調降至零。",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jWm90UDJ6WTFPTDhCRFZyVV96M29RdGxXMWJhMWNLX1BXZzc2dXl5MzhUa0s4dWxXaWNPbTZnNm51aTZDTnlnMnJKRGZjMzlQQ29hTy00QkVqLXhIc1VmRjVSazI3dDhQeW5ISnRjX2V2QjZL?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-03-27T18:40:43.000Z",
+      "timestamp": 1743100843000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "114 年 4 月 10 日立法院財委會「川普對等關稅政策實施，對我國股匯市、經濟成長、物價、房市",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSVlNN09ZNHJtOHRxUGIwWURFbm5ITlV0T0IwQ28wUW5Wc1hTWU8yaS1menE1N0QzdE9TTzY1eERWWTljT0M2OEhZbHMzdTVSNnlEYVAxM1VfWWE5a1pwNnZabnFPT211OFNIRk5uSkpKdkNCZ2U2dnRia2lvSUJDeFRNV3ZJUldYR0VsWWNpaTVQQQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-03-20T07:00:00.000Z",
+      "timestamp": 1742454000000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "我國加入WTO 十年後，相關農業問題與因應對策之檢視農業問題與因應對策之檢視",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNGFyaXV3bGFWZktrSDNabHdacEtsVXBLaE1qcmZuREhUTXI3SGRRa0ViYmhRRExxa1ZLVmI5YXBfMEZQdGRaOS1kVFhqb09rSnJUQmxrd205RzlnVS01T0lFa2JPWlc1UVBpRHZfbUlsTUlJR1pzX2Jldk5UdzZkQnJvdkwyMnI3U1RuYUxEZnUtZw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-09-19T00:47:55.000Z",
+      "timestamp": 1726706875000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "三、各類農產品入會前後之進口關稅調降及放寬管制情形",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2UDhLVjNMa0cxUm4wclZra2ZSUkFWUGtuNlJxSmlQSE45dWlXbm16UGRLekRjQXJjSnUtelR1WXlYdlhtRW41T0hWeTBselZaaDJlZmpLVXdUNDZYdWFNSFlDYTQyT3Q5WVd6dm1wcw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-09-19T00:02:35.000Z",
+      "timestamp": 1726704155000,
+      "matchedKeywords": [
+        "關稅"
+      ]
+    }
+  ]
+}

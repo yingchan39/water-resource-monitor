@@ -1,0 +1,986 @@
+{
+  "keyword": "水資源+地熱+半導體",
+  "keywords": [
+    "水資源",
+    "地熱",
+    "半導體"
+  ],
+  "mode": "or",
+  "fetchedAt": "2026-11-27T09:03:14.453Z",
+  "total": 292,
+  "sources": [
+    {
+      "name": "Google 新聞 (台灣)",
+      "count": 358
+    },
+    {
+      "name": "Bing 新聞 (台灣)",
+      "count": 35
+    }
+  ],
+  "errors": [],
+  "items": [
+    {
+      "title": "證交所攜手兩大智庫推出創新板半導體、汽車及生醫產業洞察報告- 證券",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQTEkwRUs1TVUzMjdBaXhmRzBzQnNqcmw4U1pQb0dBVjhreW1odW5IVGNKN3hqMEhyemN5VjlkMlllSHVLbkdzZ2tvQ2tYNnpiV2lQQkN4X05FTTFYZUhz?oc=5",
+      "source": "工商時報",
+      "sourceUrl": "https://www.ctee.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T08:53:00.000Z",
+      "timestamp": 1795769580000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "半導體全球出口首超石油天然氣！德銀揭「晶片美元」時代來臨",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYc00wYUNyMUR2N3B6dXhOZFRrYWFXYjJ0ZHNQYkxuLWNxOE5uSUJvSUE4OXJ3ZmJCeVVMWlNZaXBHc0w5QTVLN0wzZGhVWFU?oc=5",
+      "source": "TVBS新聞",
+      "sourceUrl": "https://news.tvbs.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T08:51:00.000Z",
+      "timestamp": 1795769460000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "日經指數收漲2.11% 半導體板塊領漲大盤",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pcG8zdHczM05Fb0FKVzB0NUR6OTVIUk4xbDBfaTB5RFE3TmV6aUxnb2pyZXZhUVJwOURjaXlRMnk5NW1HUWE2TTN5aHRfUm5kaGNLNmFJenI?oc=5",
+      "source": "共同網",
+      "sourceUrl": "https://tchina.kyodonews.net",
+      "summary": "",
+      "publishedAt": "2026-11-27T08:46:19.000Z",
+      "timestamp": 1795769179000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "臺灣半導體紀錄片《造山者》聖保羅大學放映 促臺巴科技交流|臺灣出場",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92cDVldHRtdUxoRXh2SWlpbnBON3ZwNzN2NFVldjZ4Y1hSX2g2QVROTjREWWw5bkFPZVM5SWZodnB1TDlHeUxmQ1JOVQ?oc=5",
+      "source": "僑新聞",
+      "sourceUrl": "https://ocacnews.net",
+      "summary": "",
+      "publishedAt": "2026-11-27T08:30:00.000Z",
+      "timestamp": 1795768200000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "產業：侯永清談盧超群，是產業先驅、台半導體產業推手、支持台灣的領袖",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUFlUd3VpR0lTdm9rOGdmLVZIdVFDMTcyZE16bHhOU2h4N3ZWbWV1dVd0Nk82eXQxelpuZ2V3MTZicm5tOEVBdUNmNTNoTVA5VDFoZUJDTjJfUzFqalZFc29hTjVSRWUxWFVXSzVROFFrQ01aeHJwZUMycXVPeHFqNHVNR2FHZHdU?oc=5",
+      "source": "富聯網",
+      "sourceUrl": "https://ww2.money-link.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T08:30:00.000Z",
+      "timestamp": 1795768200000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "《半導體》力成12月3日受邀國泰證券法說會",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYnUzNGxrVXpoZDVSVE1sYzhwYmN1ZVZxRmJENFA2Rkl3WjEwclh1QU1XSWRTTmd5MFVfbWtRU3B4ektPd0syZUM2cGM0UjhubjFSeGVIM1lSSm9LRVBSajFPSzRWUHRwalNpZk9sUXhiMGxENEtudmktNkdfQlgxcldObGZnbFBE?oc=5",
+      "source": "富聯網",
+      "sourceUrl": "https://ww2.money-link.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T08:29:00.000Z",
+      "timestamp": 1795768140000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "楊沛為、M.V.拉瑪納／核能不是台灣AI和半導體產業用電需求成長的解方",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBMeFhXdEFwVFRHcjBnVlFZc29SekJNOG5iVkpRSzVWWjFJUkFNeXdGdDVKUE5FZjZGUl9nZTVzVWxUaWExVDh2MzY1bXF6UQ?oc=5",
+      "source": "環境資訊中心",
+      "sourceUrl": "https://www.e-info.org.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T08:19:47.000Z",
+      "timestamp": 1795767587000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "半導體產業鏈／汎銓10月營收年增近五成！自主研發設備搶攻矽光子商機",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YM2g1WWVveEZUcmM0b2xpZG5KUzI2VHhLUDlTN3BRNXF4eDk5b1Bhcy1tMjl5UHhrM3E0ZEhpX3dleG9OUjVaYkRmTnFEeUdYVmxCXzUxV2RYZF9ZRzVfWmpjTzZTcGdGUXc?oc=5",
+      "source": "科技島",
+      "sourceUrl": "https://www.technice.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T08:16:01.000Z",
+      "timestamp": 1795767361000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "ETF洞察|科創半導體設備ETF、科創半導體ETF、科創芯片ETF和能源化工ETF年內升幅居前",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VY0Y1QzFXUEkxdWVTcGZPQWJ5YTVoUXlKcjItclhkUmZLYjZNSmstVHJzUEdVQjBuZXpyaEFNVTh3b1VlVk5BMUtlY1lDdjM2QnQ0QTd6TTYwMHBDb2NWSnV5aXE2YXA1MkE?oc=5",
+      "source": "TradingView",
+      "sourceUrl": "https://tw.tradingview.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T08:09:11.000Z",
+      "timestamp": 1795766951000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "ETF洞察|科創半導體設備ETF、科創半導體ETF、科創芯片ETF和科創50ETF近20日升幅居前",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGSkx6RmRJZExQQVUxblFMOXdhbGN5SzIwM3ZleWcxeVlKVGtyaDBid0JRWVZHTEJodlo0STBQanQ5TlRubm82MjlmcmdrcnJMbldaMDQ4eEd1bUJsQk56UmVQbTQxMXZyWFE?oc=5",
+      "source": "TradingView",
+      "sourceUrl": "https://tw.tradingview.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T08:08:02.000Z",
+      "timestamp": 1795766882000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "哥倫比亞國會議員訪龍華科大 聚焦半導體、智慧製造與5G教育",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00SkZSWE5Ob1RQWk1QcUFuaTgyNjZGRmlIcEhTVDdNaUpacXlRd2VsZ0M5bWtLRGZGTXZsUmwwVGhlbUIwMmNxdjY4MXpxOEFvaXNoODI0a2tRYUl2dlVzd2ZNcGxhd1F6YkhvOC13?oc=5",
+      "source": "中時新聞網",
+      "sourceUrl": "https://www.chinatimes.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T08:01:32.000Z",
+      "timestamp": 1795766492000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "從「石油美元」到「晶片美元」 全球晶片出口額首度超越油氣",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTNDVTaC1JY0VoVENJc0EzcHlvaGhYbkpUTWI0ajlhSFphRFRVS1VDd29ITkcyNHNnYjhBem1JZHdWeEpRYkNTenhkUQ?oc=5",
+      "source": "鉅亨網",
+      "sourceUrl": "https://m.cnyes.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T08:00:06.000Z",
+      "timestamp": 1795766406000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "title": "9個駭客組織鎖定台灣 半導體、政府系統成攻擊目標",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9falI4a3VkbUJOdXNJMFVQZnU2S2ZKUTkweF9JMEozeGxqcHo4UXNoaEFpY0dtT0x0SFJpLV80RVBVSFRpbUNqU05kSnh2eWlvUjJEODhzM3luWXFUX2hwdkFR0gFnQVVfeXFMTjZXYlh5Y0NKSmI3dU5ZWDBKUE1WV05SX0ozZ3p1X0ZleTYzdFVGQW5vVmV5SW9fbEZ6VkpVdTNuRms3UWxRNmc3UktOX3dvbmdSS1lSMGFUVUFPbHlMcVY5YXk5YmxDOA?oc=5",
+      "source": "大紀元",
+      "sourceUrl": "https://www.epochtimes.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T07:58:00.000Z",
+      "timestamp": 1795766280000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "4923 力士 - 南韓半導體營業利益衝700兆韓元！專家點名009829雙引擎：卡位韓股重估行情- 股市爆料同學會",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14Q2pFdnhzZ3UxbHltN3h6VnBWN29OZUw2MjlZQUxtUVotR2M1NV85OW5NdWUxR1BZcG1CaGw1eFlpd0ljYUo0R1FwbTVEOGY4XzZjNGNabWY?oc=5",
+      "source": "CMoney",
+      "sourceUrl": "https://www.cmoney.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T07:57:31.000Z",
+      "timestamp": 1795766251000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "AI與半導體領軍，日經平均大漲1211點；鎧俠因指數納入調整急漲",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53d3doYlljamluODNhVDM0Z3Jmekl3bWZmVW90UU1QcUtUZ0owV1QweU05TVBQTy12THphU1paclJiQUlaNnlnRWhEOEZNanN0M01pamY5VXRsOUs1ZGx1ZlJQR2lETFAwNzNwMk4wVXBCTDlRZDhRbjN3?oc=5",
+      "source": "BigGo 財經",
+      "sourceUrl": "https://finance.biggo.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T07:55:00.000Z",
+      "timestamp": 1795766100000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "南韓半導體營業利益衝700兆韓元！專家點名009829雙引擎：卡位韓股重估行情| 存股族愛ETF | 股市",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50OXozYW1udHdyMXR2bDliMC02ZXpfUzRoOTFMTVpFcDFKdXNBOVRsQk1KUnU1bG1lWVFobHNMeW03dk9yOFROZ1VyZWotaktTT21v?oc=5",
+      "source": "UDN",
+      "sourceUrl": "https://udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T07:54:07.000Z",
+      "timestamp": 1795766047000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "全球半導體分散製造重鎮 日本晶片市場估明後年大增兩成",
+      "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOT05uN25xNnhsS3RkNjlCNGNZcWlYTmpTNEF3NkdzaUhiSVpjUVF0UWpXNlJGcXV0YlczZEJ5a2xMVmNNZW9wZEhiblFlRWRfWTFoZDJPVl8yQWtENERXWV82R3FVXzBUTS0tNVlQY29nRjd0bVFIR2d6R2FoVG1yTzlmNmpVRjVpV3ItNmJGMXlMWXVEUy16VU9DR0I3V2VlM08wVF83MmdjMHllRmZPXzVYNnNIS2VyaWpSZjJzYmY3VGZHSzlaRkpLT09lTmlIMjAyb0N3YVJPS3ZBODY4ZXRnUWY5SEJqTDZqclh5NkQ5Ti16ckdQUmdHa2d1M0c2cHBrMkplR0hWdXQ0NnUzUTN0R1RQcVVqblcyLUdmTmd2Y18zNWJoM2JycGVTT29hbmVPc1hSVFJiMmtVNmZSemFIMHlmSlJNTXVhQnMyV2ZheVRoc2VzSUVHYVJwamZQTW5vNjJyQzNrZnBaZVE1WnRtcUVheXJaNmFYaWRmaThObnhpZVB5X09jYWZGdHRVTmpJ?oc=5",
+      "source": "商傳媒",
+      "sourceUrl": "https://sunmedia.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T07:48:08.000Z",
+      "timestamp": 1795765688000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "日股收盤／日經漲2.11%、本週回升4%半導體股領漲",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tODFMODd3aWVTOGNHWlJBLVdYbDRhSUhfWEQ0QnB5REx2dDI3dzI1VXlkVE9VcWJrRnZqbzZDTGpDUXY3SVQ5RE1pYUFhWDQ?oc=5",
+      "source": "鉅亨網",
+      "sourceUrl": "https://news.cnyes.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T07:30:08.000Z",
+      "timestamp": 1795764608000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "不是賣鏟人是地基！ASML執行長：AI資料中心取決於我司擴產速度 用「代差槓桿」綁住陸半導體",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxUHNDRkY3RnBTNVlIejl2Ukd3X2ZDWDEwYjBIYXVBOWJzeGpWUUF2R3RYYnhOOEtsZG9MRXd3OVNzYjE3QURwSnN3bnpxY1U?oc=5",
+      "source": "鉅亨網",
+      "sourceUrl": "https://news.cnyes.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T07:20:08.000Z",
+      "timestamp": 1795764008000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "新加坡回應輝達晶片轉運疑雲：正與美磋商維護先進半導體供應",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hQ3h5OFFGZWhQbXdPT0daNWVJN3RSRGNvMTBmdGZoc3RKdnFtTnVxRDdma0dTLURNekhHTmRuOGhHXzlRUlZ2ZEFHbzl6Ykk?oc=5",
+      "source": "鉅亨網",
+      "sourceUrl": "https://news.cnyes.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T07:10:05.000Z",
+      "timestamp": 1795763405000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "半導體晶片成為新石油全球出口總值首度超越油氣| 產經",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ta3A0OUFwOE4xV05NV2ZwdnBYSFM1MzR6em5idXFKVVhDQXpFWUNBdkFKY2dzSFAzYkZVVjV1TTl6cjlkSVViQklteHVjazdURkNEVl9VRl9lNzI3WVE?oc=5",
+      "source": "中央社 CNA",
+      "sourceUrl": "https://www.cna.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T07:07:00.000Z",
+      "timestamp": 1795763220000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "半導體、AI搶才愈搶愈缺！學界點破人才斷層關鍵：產官學缺乏合作",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByZ2hBSWRrbGNHNXRxVXZ1V29ZOHRxQ3lpVll5OEVWX2RRVGRQNEZKTXUzUGxnZHIzZ0Y1TzBQZE1nV1hEaFFoaE8yWlZ3QUU0VHNOM2Y0QlFqdw?oc=5",
+      "source": "科技島",
+      "sourceUrl": "https://www.technice.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T07:00:04.000Z",
+      "timestamp": 1795762804000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "半導體磁吸效應擴大！理工人才荒 製程、設備工程師成搶才焦點",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOZWt6emFGVW1namp1YnBWaW5vdnp6Rk12SER0Ny1Rd3ZDOUMyX3RkYkJ2UFBzZFM0U2lFSVprNVhLSXZweUhxdFJJM21mXzNqa2ZRWGZseFQtVF9xWVotODhyM050V1B3R3ZjYWRqTldHR2RsdUR5bDFR?oc=5",
+      "source": "科技島",
+      "sourceUrl": "https://www.technice.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T06:52:30.000Z",
+      "timestamp": 1795762350000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "第3屆水滴永續藝起來繪畫比賽揭曉 76名學童得獎",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5seUw0aXliLS1vYUtTZ29jbHduVlhIcTdUb3c5ZW1fYkxyMUhmc1A5MmFtQnVuU2JKQ2tsS1Z1ckJyOUVWTWxreHBaWDZ6UTZTbnc?oc=5",
+      "source": "蕃新聞",
+      "sourceUrl": "https://n.yam.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T06:42:45.000Z",
+      "timestamp": 1795761765000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "哥倫比亞九議員訪龍華科大 聚焦半導體與五G基地",
+      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQd1JoN0pjMlpzZ29lR0RUR3R4UFpPb1FHMFFBaUVBRnB5Z29hNENJQm41MDlkaDRndEgyUVNjTVp3TWNkREJvVTNwTnk4MUNaVGRaLVRCM0s0OGRwWkZhZDM0anJwTDdVVkVwMFBOWXpLRm5UeWxfSWFzMl9vdHpFZGFPOThOb2NkajQ4UmhpdnhVMmJRNHpodUhhMTAxR196ekRKRDRkemVMdFE0OFJHYWJLbzFVOHlMUlRqSlhoZlBJS0tmM1BXZnpFRGJBM2xqN2QtWDZZLUtPX052UlZoS1lEZTBtZnBaTGlMcURhbjRkSjVnVHNEMGNPMnBmaVJuZFRPa1hKMk0xMzlqMF9tRnF5WTc3RU5uaHNJN18tck1aTE14Z21acnh2eVg3OG81XzFEMXRPN0k3Wm5ETWpKSTNEXzRMbTBZZG5hSUY5alJEZw?oc=5",
+      "source": "Yahoo新聞",
+      "sourceUrl": "https://tw.news.yahoo.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T06:37:11.000Z",
+      "timestamp": 1795761431000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "左營四通第三階段審議通過 15公頃土地活化助攻半導體S廊帶",
+      "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxNYWo5dkxzUlpJc2M5WFNUYUpIQ1pEOWcwcGdOQnowa1dkeDJ2T2Z0ODVLeUZBUVFwcGdWR01ibTRUSlZROU5OV2dnNU5qcWRuWlRNck9LMXhrOGhIWnQxeDJRZGpzR2IzbkxIVEVENW9WTlVrdVUzaXBhTmNaQTExT1hWWWY3TFFiNkN4LWpfRUk1dHczWnQwVlZmQ2Z2cVpWX0hrLVhUeU1NVFlNdUY4cElCTkRReXdFSU84WEpoWFhxVWhjaFVXUXRpdHMyNFV5LThpUE5pM2NpZGtLUDJ3VWhmczlpUFF5TkdYZFpHY0ZuZGV1WkZCRHdPTFJ4YUw3VE82TzVUbWRaTldyMm5MZGEyajIxbFVOZmZRNEN6UmEtUG4zRFpWQXZhV2hiU1hlYWlSQVNLa1BlelR2Y1BVWDhpWlRJcGxLMzhZb2NOZkpzVWtiQXhGV0ZCdEpUbkpXOGV1VUxKOG9XS2UwSmFLeWliZzduNkwtZXNOZmtsX1o2eXNP?oc=5",
+      "source": "Yahoo新聞",
+      "sourceUrl": "https://tw.news.yahoo.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T06:32:08.000Z",
+      "timestamp": 1795761128000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "美股夜盤AI鏈全線狂飆！三倍做多半導體ETF暴升超17%，閃迪升超10%，美光、邁威爾升超7%",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04ZjRkSmFONWItcUJvMlo1UnJzQmZ2X3VqMkx6X2hHdm9IYkxQa1VKdFdScDB0elNaejlIMTZYOFZINzBTT3diQ1Znek1nQXE3QXpQNzRzT1VLdmdBYkVsX0VvSWtYWkVhV3c?oc=5",
+      "source": "TradingView",
+      "sourceUrl": "https://tw.tradingview.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T06:31:56.000Z",
+      "timestamp": 1795761116000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "中韓半導體ETF華泰柏瑞(513310)成交額突破317億元 刷新歷史天量",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WZXRNMjFlTjNSbWpESUE1THdGbnFSUzV6d3g3TXZMLU5HNE5hWUo2Ykw4UVJpVXFyOVF5V01YcW1Fd1phQ3RMZE5QZDk0Y2hFeXJQWVdTNzV1aEJrYjFyVENzZUhkUk5BLWc?oc=5",
+      "source": "TradingView",
+      "sourceUrl": "https://tw.tradingview.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T06:29:27.000Z",
+      "timestamp": 1795760967000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "《上櫃類股資金流向2-1》半導體類股比重(63.63%)",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZmhHeWV5SVRzUGtIWDNjR1JQd3JJTTN5eU9mT3RSeFpwUkRxcURmVmQyODlycUZPMXp6OGRKWTFFTkFQeFdVTmlxMGo0ZF8ybmx4RkZBcGZBckpSWEZyMnU4VDZvR3Z2M0JkUkJ4dmZEZjdfT2dKN2lMdWFramNnTE5QY2hPdTI4?oc=5",
+      "source": "富聯網",
+      "sourceUrl": "https://ww2.money-link.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T06:21:00.000Z",
+      "timestamp": 1795760460000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "A股半導體板塊大漲，寒武紀漲超13%股價重回1000元關口",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zSllDcGdVYTRHWVFQMzJqYXp1M2c3UnRUSjV2RXFjbnZ5LU8zWjJENkZZbUN4VmNRZ0ZOcjRhb3p0dm9QZ01KYnZUSGJ3MnM?oc=5",
+      "source": "鉅亨網",
+      "sourceUrl": "https://news.cnyes.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T06:05:06.000Z",
+      "timestamp": 1795759506000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "A股半導體股大面積升停",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hRzczbFBCaDgtYnFKcEJCcl9aM3Y1cEFfZERwY2h1ZWw3SlVheVFmSVZaLW5Ec1FhbklOSGlwQWhjMGhIODc3MlMzUjJEbm5XVWtZX1BOLV9VWGhoQTdQN0tPWDNyR2tteFE?oc=5",
+      "source": "TradingView",
+      "sourceUrl": "https://tw.tradingview.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T06:01:15.000Z",
+      "timestamp": 1795759275000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "韓國出口首破1兆美元，近半成長靠價格效應；產業研究院籲以半導體超額稅收扶植非半導體產業",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XVGtYblZCUnl6eGx5VWxoUXI2YTF6UEpRYWRBWWpVdUpYcjZRcms3em1PeXdobWtMZGVDSmlkWks0ZUlNVDFJMm9JOUlxV19RZGdfWUNiTk81RXlKUDF1SDNQbWZrYjdVRmtSWGV5UlNxaC1IRlhsN3ln?oc=5",
+      "source": "BigGo 財經",
+      "sourceUrl": "https://finance.biggo.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T05:35:00.000Z",
+      "timestamp": 1795757700000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "美方點名光州半導體聚落 南韓關稅最高恐飆至25%",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBobEJaRThCY2JWRnpodVBBY2dtcHhYNjVRUWU5SjdjdlBSX0FZUWo2aVVZaVduQ1p5anRYR0cxbEx1T3NhYkZUYUNkd25SN182emVqYWtib0drYi1menBkdE1yUlN6R2lKU1d4MVZPaHlmYklEZnduSWtB?oc=5",
+      "source": "BigGo 財經",
+      "sourceUrl": "https://finance.biggo.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T05:25:00.000Z",
+      "timestamp": 1795757100000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "日本AI與半導體股買氣旺，日經平均盤中一度大漲逾1100點",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1SnZPODBodjhuN2xkc0VFcTVDRXhrU0JxYVEyVHBITFBRclk3aU9WZjNialEzMHlvM3g5eE9PbFBkMUhTM0pEWFd3VnFyYjZSUDZ5c0ZQenh0QUxBRzNnQldTU3c5QjZ0c3NzUjRLMm1WWUxYUmVVQ3lB?oc=5",
+      "source": "BigGo 財經",
+      "sourceUrl": "https://finance.biggo.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T05:25:00.000Z",
+      "timestamp": 1795757100000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "打起火山的主意？Google簽約採購熔岩地熱電力 為AI資料中心找電",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PTDkyQWhMVEFwVmxmb0FLTzBSOVNITHQ5RUx2VW50VE1WRENuRGxLcXh5MTdBRlllUWNJZnBBcjk4QVNncHVGN3hPUFpzS1JaTE1kS1hvTE9kVjVtU1JXMVl2MXrSAWRBVV95cUxOT0w5MkFoTFRBcFZsZm9BS08wUjlTSEx0OUVMdlVudFRNVkRDbkRsS3F4eTE3QUZZZVFjSWZwQXI5OEFTZ3B1Rjd4T1Bac0tSWkxNZEtYb0xPZFY1bVNSVzFZdjF6?oc=5",
+      "source": "倡議家",
+      "sourceUrl": "https://ubrand.udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T05:17:13.000Z",
+      "timestamp": 1795756633000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "title": "【話題開箱】美國301調查結果出爐 學者：履約、晶片關稅考驗待解",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NOVJNTGdfaW8yeDREOHQyblJnTWNrb0Q1VUlrZXdNUHVLTVdaR0IzNFB2NEdNYmRWdjhIQWpXTHp3dmxfRmJocFl1VEVjc2gxeVNDeEtPT3k?oc=5",
+      "source": "Rti 中央廣播電臺",
+      "sourceUrl": "https://www.rti.org.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T05:15:52.000Z",
+      "timestamp": 1795756552000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "南韓關稅恐升至25%！美點名「韓國版矽谷」半導體聚落 被指施壓擴大赴美投資",
+      "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPQlVXM3dQOHdtVUlINElRVXZRLVMtS2RjTUcxZFFlT0NPejJfcjVhZUhxREJxLWZRTHBpQ282SHVObEhQeEdSSVNjU0pzSG5mVkg3c2lWTmlGb3NxclRHLVFabmtPWmtNV1VEVjlSaUJBMXhTczRTNW5kNFhGNTJXZ2xxTWJNSHZwWWtZNUlMSzVENHNvQ3c5WV9hcy1BUXQxSDBsVlozSnRnWFNvMk9Cb3lXTlpxdUhkdDB6cll1aFlLdlBfLTJDb2l2dWRaQ05fV2steVJSNmp3MnpHSlllbEtfcER5ZTdWNXNhdWpwSVN6M2w1ckJVT3htVWM1SHc2TkdqQXpDcVpseUQ1bW1iY1NBM3RjRDMyU3dlWTJXVEhyOVQtXzdrNWVWYWlxRFlGRHdEb3RadVpBaWVfR0dtYkpoOW5qMFRVTV9LeWRnNFpQWEpXVG1MZXVNeEZDSmlJUlFzLWJoRVdZNnhFNzMwX1RpWnNubm1nbU9YNzJIckhBMUlhSXBOMVNsaWZLNzB6QWdER1RhUGc3eW84QXdjeUlMMHJlVWFLY29OUUx4TEZMZUtQSlhrZzhiWmI1X1k0amRwUkgwaWFBVDg?oc=5",
+      "source": "Yahoo股市",
+      "sourceUrl": "https://tw.stock.yahoo.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T04:58:30.000Z",
+      "timestamp": 1795755510000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "00913 兆豐台灣晶圓製造- 台股半導體ETF 人氣逆勢升溫10月來受益人數增41.7% - 股市爆料同學會",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iWE1rOFJZVlhMbzVvdzZXWHZnSFhUYW82WlE0a2p0SUpkaXhHM1BaeE4tNld1SW9MTHU2ZjJnSkZqaG9XcXVka3ctZUJ5aUhFSWF1V25zZFI?oc=5",
+      "source": "CMoney",
+      "sourceUrl": "https://www.cmoney.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T04:54:26.000Z",
+      "timestamp": 1795755266000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "美半導體股遭血洗 南韓散戶急撈底、狂買SOXL-新聞內容-基金",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObkZUQ1JPWjNycWJVVFhGQ3ZmRkFHcUhKRks4cnBvbll5WE9ybndhYjNPOWI4MGR1Z0FQeXVLdjgxcTlFNl8xckhHRDN3LUNPQnVPczBudkNGTUtseHVkM0tzWmE1NjBlX0VENXJfa2hoSS00NVhxam13OTcwRHRvM0dWeHYyZW4wcUtJRHVycGI?oc=5",
+      "source": "MoneyDJ",
+      "sourceUrl": "https://www.moneydj.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T04:51:00.000Z",
+      "timestamp": 1795755060000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "半導體ETF震盪中突圍 00891今年報酬率59%奪ETF績效王",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOYUlrbERBZmZhbHZORXM5bEZ2Q2VZcHctRndHQU5pN1Y2UmxPSDhNUVI3emU5TGRoR2tsV21WcFNEajVjWGh2WHd2UFM2eUVNcGU0Zm9KeXRtcmoza1dxQmgxb3ZsVFY3amxraTJpamNveGhJRVNoWjBLb2RxQUJFdmdLWTdpRjdvTlptZXVOVnV6TXhQdUdEUTJYWDNFczQ5dlVQVFJUN0w5NVRnY1ZMTWxzNWtaUHNLMGcxd2pLVkRrdW1wNFpURHp6aVNfQnNZTW5wOS05VmVFekVoWGVoc0lNNm0tR3B3VUVybUY2V0JwaVM2OE1mYjNWY1R0dFZCdFZzYzV2X3EtS25seU5RQmh5RDB1bThCZ1VVdGNuaUFfVmJlRVZFMm5QclBhMFlBTUtDYmFSV24tdmM?oc=5",
+      "source": "Yahoo股市",
+      "sourceUrl": "https://tw.stock.yahoo.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T04:49:24.000Z",
+      "timestamp": 1795754964000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "台美教育合作再拓展 聚焦半導體、AI、先進製造、能源領域",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mNVpJd1FOQmVnUnNiN2pPbmJWU3dPQ3RSeWFaZDVKaUhSN2E5b1NtaEt6aGlUQlJLVkhDbENiUEwzNzBqcGJzQTViM2tfdmo5RWN4N3ZaTVh6R2FkYU5VSkdiTmtGOGFmRTBKMmtWWWZvZXhaaGJZZ2FLT1PSAVZBVV95cUxNV29MUUYwbmR5TTJTem5nRC1HaVRTNEs2bzM4NGFSUnBuTDgyUGFPUW9TemhmTW1TVDdBenVwcWV5NHFzelNPYURGZmNucVR2ZzhCS3I0Zw?oc=5",
+      "source": "UDN",
+      "sourceUrl": "https://udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T04:39:06.000Z",
+      "timestamp": 1795754346000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "台股半導體 ETF 人氣逆勢升溫 10月來受益人數增41.7%",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TMGdoTUxRRlU1WE5WNDFqNXVaSXB3Wnd6TzFtWXQzdUNHd2k4ejFRc1RMbFI2bDdJWFNJYTg5YTc2OVQwaWxWNGllSFRlaXl0X2Fz0gFYQVVfeXFMTzlOQzhyU2VxRVpuaWhXUnM1a3l1ZS1KLTVXWGl5TUFTLTFsdmZ6MDRiRGw1MlNiMVotcHY2azRVOWxxYXBWQ2R0Nl9hQkJTV2pMZ2p5RlVaVQ?oc=5",
+      "source": "UDN",
+      "sourceUrl": "https://udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T04:36:11.000Z",
+      "timestamp": 1795754171000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "美半導體股遭血洗 南韓散戶急撈底、狂買SOXL",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQlZ5LUphbTJpT2tmajFhYTVYLW9paVI0QnhKTzRwdURwRUplY0tVUFdlajYtRVpYWGxZa3pNS3FrRkdOZ3FoYkxoZGVvaHRZY2QxTlZLWk1HVF9fTmliMUF6czlBS1RaM2pNV3Z3Qk9ZZTU1cnJXRWRJbE51SVVOUXZXRHU4d3VBSFNPc1YyRnVUZw?oc=5",
+      "source": "MoneyDJ",
+      "sourceUrl": "https://www.moneydj.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T04:25:00.000Z",
+      "timestamp": 1795753500000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "港股午評：恒科指大升3.25%，科網半導體股領銜大市上升",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TTHJnN1RqWjBjLXBqd2dxaGJNbFJoelJqWUJyNWN2M2Z3cmpNZ2oxcmVvYUlJRWxpX2RjdlBOdWhab0c4bmlKbkFGR1M1TnJzMU9PVlZBd2NpTlFhYkN0MmtUb2l1SmgyRWc?oc=5",
+      "source": "TradingView",
+      "sourceUrl": "https://tw.tradingview.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T04:16:10.000Z",
+      "timestamp": 1795752970000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "矽光子與CPO聚焦量產落地台灣半導體供應鏈展現整合優勢- 商情",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzdEFhREpXNkZ5QU9Za2FRT2NNUV9LMzJBeW5JRnNIeXFjeW9fWUI0bC00cjRSZzVhV2VtMXdQYjk4a3FnYzl2ZjI1STRwR3lyWWhZMmxOWTZaUkptS09B?oc=5",
+      "source": "工商時報",
+      "sourceUrl": "https://www.ctee.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T04:12:00.000Z",
+      "timestamp": 1795752720000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "中國股市：滬綜指早盤小幅收高半導體股飆升，能源和銀行板塊則逆市大跌",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45ampsaE9pbG9OUTBBRkN5anpaMVBRTlVvTl9RMUNaczQ3c2QwZF82MVZFZEM2NHVSMGJwOHRYMXdNRjJjZ0UxSVVKVnNJblhXdWNURFNSdHlFR3BzeURIbXp6azNEdWVfcExOdFZaWkJWcGt5TUtv?oc=5",
+      "source": "TradingView",
+      "sourceUrl": "https://tw.tradingview.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T04:01:23.000Z",
+      "timestamp": 1795752083000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "起步落後10年，反而追到世界最前沿？台灣半導體到底選對了什麼？| 思想實驗室Video Podcast ep121：ft.台大經濟系名譽教授、前國發會主委陳添枝",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XMG4wLVFfekV6TlFKdUZoQzhmZVh6VmNjdnQzY1ZFRzVEbkZwTGY3NzR2b0s1S0VhS3RQQ2I0b19KRUJlVTRHNE13MA?oc=5",
+      "source": "PanSci 泛科學",
+      "sourceUrl": "https://pansci.asia",
+      "summary": "",
+      "publishedAt": "2026-11-27T03:51:23.000Z",
+      "timestamp": 1795751483000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "AI蓬勃發展推動 半導體晶片成為「新石油」",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XX0hJVEdJTG40c1RqRTJIQkZlTFJwVWxERWkwYm9UVnczeU1fOTZsV05PbEJPM2s3dXhlbERZMnZXTGRJRzRGeWF4bTBaSjQwNnlpSWVWVmIwOER1ZTRV0gFkQVVfeXFMT20zd2h1SGplOTZmc1hyWnpaakxaTTFSWERyM0hVV2JkQzYzN0JucFhNeWJOWUJ0dmZocUgyaHZDSTMzMUkzZTl0Z2tBMFFfc3h5emdZZkpfN21YVzljOWVnczZ0Nw?oc=5",
+      "source": "自由財經",
+      "sourceUrl": "https://ec.ltn.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T03:51:12.000Z",
+      "timestamp": 1795751472000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "【11/27 產業即時新聞】半導體設備族群拉回修正，高價強勢股震盪、資金短線調節",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNV9SSVJfeTZhdUI2d0FrSUltX0xNVnZfYkQwcmpMMDhEM3cwdXVOb1MwNWh5dGhkSmNmYm9yMDVJNHZkWmpuWHVHY0hOZzlEbW0tRFVLRmY5aE9JLTJ5MFRhS202bkZWT0xfNDR0dlVydlBGbXBfRDZHLXpURkpuNmdUbTNrMmxvenlvTUp3?oc=5",
+      "source": "CMoney投資網誌",
+      "sourceUrl": "https://cmnews.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T03:51:09.000Z",
+      "timestamp": 1795751469000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "6803 崑鼎- 【11/27 產業即時新聞】水資源族群漲勢再起，高科技廢水處理需求強勁帶動類股走揚- 股市爆料同學會",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VSEgxSVIzUk1SRUt4NlJRLUlwVGozcjZJQUxXM0Y0X0Ztdy0wNzNjTzV2MlM2ckJMbFFNXzRBYXY1cnBLWXl3aDF1dVh3VHlNRWRPMS0wbG8?oc=5",
+      "source": "CMoney",
+      "sourceUrl": "https://www.cmoney.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T03:51:04.000Z",
+      "timestamp": 1795751464000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "【11/27 產業即時新聞】水資源族群漲勢再起，高科技廢水處理需求強勁帶動類股走揚",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeVZlZkczeUo4OEl2M2dPemZNbXl3aHoxVFFKaVE1dUExcUFvMFdfZUw5UlQzMTY1c0VUZC0xSnVndU1FME8wdkFHMndsS2ladEZ4d3FOMl9PWmdfVnJkd0NidzV0d0RBT1RMZUc3TF9aaG56V3MyN0pOeXJmODl3SXR2R0pZdmJmbm4wYlJB?oc=5",
+      "source": "CMoney投資網誌",
+      "sourceUrl": "https://cmnews.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T03:50:59.000Z",
+      "timestamp": 1795751459000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "2330 台積電 - 半導體 ETF 成震盪市場布局焦點這檔績效最強原因曝光- 股市爆料同學會",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90UlJfaXg1NWFuT19zT3Q4WnJia21nOEVTamV3STlhb3drVU1rVFFpSUdkNmhrZkJ6b0EtSFcycG1SWUhjUUUyVmtydjRHb1NBc2RaZU94SGY?oc=5",
+      "source": "CMoney",
+      "sourceUrl": "https://www.cmoney.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T03:39:21.000Z",
+      "timestamp": 1795750761000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "拚技術升級，桓達拓AI、半導體、高防爆應用",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQWtMeVdCM0R4Y19KejU0bVNUalc4aVdISFp1U3F5eVl6YlVwN0pITGlRUjV0ZzFrNXJXWHR2TjBHM2Rsa2dvYVNyQlpSNU5RR2xPVWJnaXdNWnFtd0dPSm9kRE9va0gyeVlOa09vNkptWlZoeTVYOVhtQWJvdmhfUXR1aXM1dFBYRlJmS3c1VlZmQQ?oc=5",
+      "source": "台視全球資訊網",
+      "sourceUrl": "https://www.ttv.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T03:32:02.000Z",
+      "timestamp": 1795750322000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "臺北自來水事業處公布繪畫比賽得獎名單 16名學童獲市長頒獎",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rdHZKTzQ3Z0xhU05odjJrTjVWckVJU3BhakZEYnkxb3ZORWxya0JWV3ZJVTc4NWpGWGt1c0VkTUJVZ1IxdVdzU2JDYlFyd21Jd3c?oc=5",
+      "source": "蕃新聞",
+      "sourceUrl": "https://n.yam.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T03:28:53.000Z",
+      "timestamp": 1795750133000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "【11:26 即時新聞】晟田(4541)盤中走強，市場聚焦航太與半導體雙主軸成長",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa0d4NjVuWElqQ2tCUWFIaGF2QnE1WlR6OTFvTkpkTWhCQU5nWG9ycjF3UHNTaEYyWmxPTzY3VU85U1pSZ2FEUkhJRFotQngwaUctZUhlZWpDTS1fNzRRbXFybkMyX0prV2tEay1NRFY1a2JUNkpNUzQ5Qks1UGpCRFIxLUxtemRKSnlGZ3N3?oc=5",
+      "source": "CMoney投資網誌",
+      "sourceUrl": "https://cmnews.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T03:26:31.000Z",
+      "timestamp": 1795749991000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "資金轉向防禦傳產，台積電擴廠題材帶動半導體設備 | 2026.11.26 語音直播摘要-春燕來了",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ud2k4S1BqamJGNHBXSWxBcWI1Zk1WRERYTXg5ZHhaTlV3ZTJBSDc5bkZGelhkUW5aZHd5dGpjQTBJcU5JU2xMS2hCV2lqZTg0a25yWVY1ZWluSl8td2dtNFl6RzRHUHFIeVNJTno5QlVRclVnV0lpejJLQlR1Zw?oc=5",
+      "source": "CMoney投資網誌",
+      "sourceUrl": "https://cmnews.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T03:19:15.000Z",
+      "timestamp": 1795749555000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "多隻雙創寬基ETF升超3% 多隻半導體設備ETF升超6%",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yZF84Z2lKMkp5cDlfeENBaW01VHYwSGt0bDhmV3Y2NTZRRnNFRmxyMTg1djhWdmpEOWN0M0FDRUc0S2JOeUdaZml5QkUwMkpNZnNQa2hGMWYxVUZ4U0haVmhjZUJmaFA3QlE?oc=5",
+      "source": "TradingView",
+      "sourceUrl": "https://tw.tradingview.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T03:11:25.000Z",
+      "timestamp": 1795749085000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "尚比亞水資源兒童倡議大使：邀台灣關注缺水地區兒童的健康與教育權益",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWXZWeUVndG9Jb0hEeENNSUV1dmc0Qm5nQmU3MFBPUml4MWw5cmM5MkdkYy1hQW5pR1N0TE1TeUR2cmpLd0wwTzFqQi1SblJtNFBYb21GREl1V3I4U1VLcVZtWkxqdi1nemx3LWJ0MzdxWXprTWhTbWZORGExTzRqbXFlVHBHSmQ0cG95QTg0T0thVGtpVEtFOHFqdVY?oc=5",
+      "source": "基督教今日報",
+      "sourceUrl": "https://cdn-news.org",
+      "summary": "",
+      "publishedAt": "2026-11-27T03:09:53.000Z",
+      "timestamp": 1795748993000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "title": "半導體 ETF 成震盪市場布局焦點 這檔績效最強原因曝光",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nMGxiZmtYZ0I4QXkwVWJPWm5QU0VaU3I3UXAyYUw3aFFIU3F0NkNhWWJlcktMLXFNemFUcEJ3VHVrM2xmalZMQU8yVDhpOW9qRVBV0gFYQVVfeXFMT1ByNTB6b29SRW1PWFJXdHRoa19tLU5KeTdzRWlSdEtNUktGa0JNbVNrUldaOG03MFdDczNGcWRpbGpWdUZMa2dSaklObkRORFlaczlQb0JNZg?oc=5",
+      "source": "UDN",
+      "sourceUrl": "https://udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T03:08:21.000Z",
+      "timestamp": 1795748901000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "「晶片美元」時代來了？AI 推半導體出口超越石油 牽動全球資金新流向",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jb29jT21mTFdra3ZXNGFXTjg1bm5DS0NMTXF3dmNtTXFOWG5tMDBBQ1dXSWhUV3A3VURZVkwzR0xFd2Vvc3BuSUQ5VDdNRE52WHh2RmQtbVhOUdIBX0FVX3lxTE1wVkMtaC1KaWJtOFVqaGI5WmdXUGhpRWpvcXdHVGZ6U2hwa2RaaFdmZ21PV1hWcjdkQ2ZfVy1pNEJ3Vy1zcWFJMDFaVzE0dnFTUnpaM1pOdDBzNWpkX2Rr?oc=5",
+      "source": "經濟日報",
+      "sourceUrl": "https://money.udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T03:06:37.000Z",
+      "timestamp": 1795748797000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "「晶片美元」時代來了？AI推半導體出口超越石油牽動全球資金新流向| 全球財經| 全球",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fU2NHS2lsVXVMSmJzbXRSLWl5Mm51MmtZcnRHd0lOUmt4QUFZcEhKRV9oODNQRWlCZkdMcWJsZ2c5MnZMNDdDUDJlTGUzLVBf?oc=5",
+      "source": "UDN",
+      "sourceUrl": "https://udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T03:06:09.000Z",
+      "timestamp": 1795748769000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "背後是上海科學院！台男月領10萬助搶半導體人才 檢痛批危害外交國安",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pU0tyblFZRmxTWmxpdVJSbWZseUNqTlNpUEVobGx5YlJXTjFMY09WYkppYjRVd3AyWGh6aURjV1BxaDBjWTJQRFpzNGEtR25obXVxSFdnQVp5UmZuanRvWkphSS0wdnd20gFuQVVfeXFMUGRfTkJweW9xTV85UmhrU2gtdU5fYXJlZ2UwVFVuOXBEZWRmQmVwVUFub0NwMi1MWUF3R3NSbEhVblV6RXdCTmhnTzRSRmVLXy1WX29ZdGV5QjZUb2tNS2dzWll0YXhwT1NjckJjb1E?oc=5",
+      "source": "自由時報",
+      "sourceUrl": "https://news.ltn.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T02:51:24.000Z",
+      "timestamp": 1795747884000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "關稅恐跳至25%！美點名韓光州-全羅半導體聚落 三星、海力士擴產踩雷",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56Rm03dnlPUTFYdmM3QmVMckZZdWZzOHYzV05GY2UwRFh3NVZjLVhYTUYxclA1VTdvRjZERzVOMjI4MTEyWlduSGRJVEh3OGM?oc=5",
+      "source": "鉅亨網",
+      "sourceUrl": "https://news.cnyes.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T02:45:34.000Z",
+      "timestamp": 1795747534000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "三星半導體成立專責機器人團隊！預計 2028 年進駐晶圓廠，全面降低產線人工依賴- 股市爆料同學會",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwbUF0Z2xnWkNiRE5uWlItMXJGeDRpOTdyR1JkbnBPTmlNZVdDcWtvY3lQTUJQNkZScWN0T1RoQzBNRGhNX2JGeE80b1ByTmQtUzRPSEMwTWw?oc=5",
+      "source": "CMoney",
+      "sourceUrl": "https://www.cmoney.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T02:40:50.000Z",
+      "timestamp": 1795747250000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "《日股早盤》半導體領軍、日經漲672點；商社嗨- 新聞",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb1daTFVDbW85c2I2X0t2MmpxVWJEUWZSTDByaXYtRW5yTFRlRWRjSlJNTU4ybVFOd2VWYXFvbTQ1N3FsTHBaSTFWX1FCNllIaHRoRktmcUJ5X19aU01ZZ3lsWWg2YXVMSm9TYl9JNHV2M1pmMmZ5NjVrZkhkSlhBU3Y3U3VZTnZIanQxSGkxeWhDZw?oc=5",
+      "source": "MoneyDJ",
+      "sourceUrl": "https://www.moneydj.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T02:37:00.000Z",
+      "timestamp": 1795747020000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "三星半導體成立專責機器人團隊！預計 2028 年進駐晶圓廠，全面降低產線人工依賴",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMk5BbVotM0s1cHVzR2dvRERsT2FzOU53TkI3aFZENTZHYXh0S0FpTk9LUi0zRWUxbTE1b1RqWWtzaEF2Y3Eyc2phbDlfSkZpWEZkNVFyY0VMTnRlbzFYMlVSbDd5OG0xQloxSGtMRURuTTFRRTMwM1JtT3hhckh1VGpoTjJlajJNUXEyZllKZXl6amxaRGJRN2NfMm1mRzZMUW1kMHhBQjVCcWFfcGdRaUlGVkdxbmJmRGtlMEtjaVVzWUZucm1tWlFtbDdqNk5YYzdBUmZWTVFTMGlkS2pURQ?oc=5",
+      "source": "TechNews 科技新報",
+      "sourceUrl": "https://technews.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T02:25:31.000Z",
+      "timestamp": 1795746331000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "三星電子半導體部門設機器人團隊 擬2028年開始實際部署",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1veUdId0ZzWTlqdjlaVFhjeGQ1a0l0czBTQVVCYlJXQkpVMkhUMUpfWjZWUlU1LXJIN3lzSS1aaC1Eenprc3JSR20wUjU1cHhDOE1GeExLRmhLd2dMN2ZuT3hMcF93bF8tcHc?oc=5",
+      "source": "TradingView",
+      "sourceUrl": "https://tw.tradingview.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T02:25:10.000Z",
+      "timestamp": 1795746310000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "台股選前39,000點拉鋸！川普曬半導體投資、台積電美廠活動倒數",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1bjVfMnlZWTByRlQ5dHpMR1RFZWY3SzFPNU9LWFpLaGVncUlZZ01ucndycU1uNV81VVZLMXZjcVZEVncwSGdmZE5PaTg0Tksz0gFWQVVfeXFMTlVpek9aUU5TRGlKWWRHdTdieTNyLUdmUFVZM2JjZHVzZ0tEc3dMTHhmWTVkMlpYcTFOQVBUNFl5VGlOb0xXRFZ2Um10UWh0SVhoZDZWMHc?oc=5",
+      "source": "UDN",
+      "sourceUrl": "https://udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T02:20:39.000Z",
+      "timestamp": 1795746039000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "《半導體》股王出手護盤也難擋賣壓！信驊庫藏股首日跌逾2％",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xMmI0Si1pM2hGQWhGbUdoS0M2LWN1YVpsTmh4UGZfZzRWTUNtRHRsZkhjWGZzcmtJR2NBcU5oNGdtNnIwSUxaZV9EYm1zcGdNR0hLUHFaZFduR0Rrd2JrQk4zSXRFNGhKd2c?oc=5",
+      "source": "旺得富理財網",
+      "sourceUrl": "https://wantrich.chinatimes.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T02:06:25.000Z",
+      "timestamp": 1795745185000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "陽明交大頒授鈺創董座盧超群名譽博士表彰半導體創新貢獻- 生活新聞",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYU5MczlmMFRWcGRCdU1XWUt3WlROMUZ4cWtWWG53MEVnZE1DRnZHVUJtajN1Y1ZfNzB2T0lGNlpGcmtDTURaWmo3b0llNGN1QWQtYzFCRHpMS090anJnT1F1R1VxSVB6TTlRM2V0YmhDYWZBUFE3U08tQVFvMEZqZ2FhcnlPVUlhQS1F?oc=5",
+      "source": "PChome Online 新聞",
+      "sourceUrl": "https://news.pchome.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T02:03:39.000Z",
+      "timestamp": 1795745019000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "《股市簡訊》A股半導體產業指數早盤勁揚4.1%，中國擬完善AI模型訓練制度保障",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13QmpaQXl6U0lUYmhVUzZoNXdnYlhXci1rLThOSHMyMjNDRmdzVDlHOWt3N1lmNm5YWkVGNURia0RmeEMyMWJtQTZ6bXEyR05JdE9PdU9Vd05rTUZlQzVzWHUxWTd4a05jQUlxWEU3UG9RdTRQNDlv?oc=5",
+      "source": "TradingView",
+      "sourceUrl": "https://tw.tradingview.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T02:03:32.000Z",
+      "timestamp": 1795745012000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "精進精密製造技術 和頌企業深化半導體材料應用價值 | 熱門亮點 | 商情",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lVVdNYzFxUHFVcEdMdlhDUlZ1Yl9ZYnBTRzlKMHIwWGRfSDh1Rk9oUVZSYWFvVXV4czJOTG82Y2wyYnJWeTk5TXNlLTR4ZUxDS19kaElLZUtCZw?oc=5",
+      "source": "經濟日報",
+      "sourceUrl": "https://money.udn.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T02:02:02.000Z",
+      "timestamp": 1795744922000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "鴻合科技(002955.SZ)：鴻合半導體註冊資本6億元，已按照設立方案及項目節奏完成部分實繳",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLaEhEQW9QMVVrbkJUWmNSaHFwUi0wdG54c1R6d3VzZnRLUXc4U0lfbUl2dUw0blQxUWZpbU42VU9GMmM4dGxLcmoycDRsZFBlYjltZmxSX2dtdmp0c3hRdmJkb2JoZm1VU3c?oc=5",
+      "source": "TradingView",
+      "sourceUrl": "https://tw.tradingview.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T01:58:23.000Z",
+      "timestamp": 1795744703000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "鴻合科技(002955.SZ)：半導體已納入公司三年戰略規劃",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sYmx5Q0hyblIxQXFnWC0wRXZ1UVFKZkYtWFpydnlBX0tQbVg4Ry05eUtRNlRTb2swTjgyNUJaZDF6QklraDgzdlduaEIzN3RGeklnODhJaHRoOWJqN090Zmc5YlJZNWt0QkE?oc=5",
+      "source": "TradingView",
+      "sourceUrl": "https://tw.tradingview.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T01:58:18.000Z",
+      "timestamp": 1795744698000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "粵芯半導體(301660.SZ)：第三工廠預計將於2027年第二季度投產",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55VFJ3ZnlkbjI4TW5lYzRWdTBYOFdueUYwbTlUaFNVUzE4eU43bTNwTHBTTm5iLTFZLUo0N3ExZnFvOVhOSGMycHJNaWJlbU5VUzJBT1FBTzNTbERlOHFPNVZFc0c1d2tTWWc?oc=5",
+      "source": "TradingView",
+      "sourceUrl": "https://tw.tradingview.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T01:43:36.000Z",
+      "timestamp": 1795743816000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "粵芯半導體(301660.SZ)：目前公司已形成MS、HV等工藝技術平台",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13Q3dmOG5YUk1WcXU2d2M3YzJ5VmVpQUIzc0xPNkNOdHlmdUR2LXE2b1hDbnN3R3o1eV85TmRvNzM1YTc0cjJqcU5mNlJDMUF4MGxqZ0Z6V08yX25SRURaVUEwSVZDb2g0ckE?oc=5",
+      "source": "TradingView",
+      "sourceUrl": "https://tw.tradingview.com",
+      "summary": "",
+      "publishedAt": "2026-11-27T01:38:29.000Z",
+      "timestamp": 1795743509000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "【11/27 產業即時新聞】微波通訊與射頻半導體族群走揚，龍頭穩懋獲買盤點火、類股互見拉鋸",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUzQ1d0h3MnF6eXVxZ1k0Y2RKNmduaUk1WFJIeXFNOVo4UWo3Q1E4N21UZjZYQ0VIUW1LeDFORmd0Z2I2cVdka05VM2lEMGJjZXNzRUtWWWZGNWxJU216NnJzeDJldFlLY1l2SS1yQlNydkk4THVLOHBzMnRZMm1xa3hHQ24yS1Z4djk4aXpn?oc=5",
+      "source": "CMoney投資網誌",
+      "sourceUrl": "https://cmnews.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T01:30:36.000Z",
+      "timestamp": 1795743036000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "【11/27 產業即時新聞】電子上游-半導體元件族群拉回修正，聯亞重挫拖累、防禦型個股相對抗跌",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdHBJOEVpRlF0UGRUeFFZUFF1SGhWUDVRQVp6d0dnUm51RHdmbjlNSmdjWFVQV3pqNkFrNFd6OGFkVHhDQ3Q5YWFTVVRpSHRtdlFacGpBSVJhbWM2VVM0Ui1zMWtSZmFlUUpVYXYxSDdidnFNN1FSSkRlM3JudWtRMmJncS1vTmdfYnFxRUdR?oc=5",
+      "source": "CMoney投資網誌",
+      "sourceUrl": "https://cmnews.com.tw",
+      "summary": "",
+      "publishedAt": "2026-11-27T01:30:26.000Z",
+      "timestamp": 1795743026000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "【新新聞】日本重金打造半導體國家隊 為何2奈米仍卡關？陳健邦用「廚房理論」揭開台積電護城河",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1QZHl5OUFLUEh2MXpsaFBKcXNQZ2JMMzhqX3VZY3JLeEQyN050eWFuMHlwNExSRFp5UnlJRnFJX3pKbTBiM3JBMnR3R2NZQQ?oc=5",
+      "source": "新新聞",
+      "sourceUrl": "https://new7.storm.mg",
+      "summary": "",
+      "publishedAt": "2026-11-27T01:10:01.000Z",
+      "timestamp": 1795741801000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "半導體S廊帶再擴張！高雄左營15公頃土地活化　可望承接台積電外溢住宅需求",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05RjNGWmRjeXY1dG9HbF9kWHJHcWlBbjVnMVVVbVhocWxITzNuWkFOS2EwWFlGQlRlQm51QmExU3cwSmRISUxHREVza3FQcG1FRGpBTTZ0ZzlyY3o4WnVxY1pkeEZuWmp3Skk40gFwQVVfeXFMT1RObVZhUFdyNGZzbHJPc002clVWaUV2RWVYbDROcGJoQzdVR2k4Z0hhTWEzd19CNGJ3ZWRnS0NJOXBzdFl2cXBsRzdsUFFHOGd3ZEUzN1V6YkFvbllNMjRhRWRZb1I2VV8tQnJ2eFVXLQ?oc=5",
+      "source": "好房網News",
+      "sourceUrl": "https://news.housefun.com.tw",
+      "summary": "半導體S廊帶再擴張！高雄左營15公頃土地活化 可望承接台積電外溢住宅需求 好房網News",
+      "publishedAt": "2026-11-27T00:55:00.000Z",
+      "timestamp": 1795740900000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    }
+  ]
+}

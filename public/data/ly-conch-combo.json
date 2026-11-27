@@ -1,0 +1,1605 @@
+{
+  "keyword": "水資源+地熱+半導體",
+  "keywords": [
+    "水資源",
+    "地熱",
+    "半導體"
+  ],
+  "mode": "or",
+  "fetchedAt": "2026-11-27T09:03:12.361Z",
+  "total": 147,
+  "counts": {
+    "all": 147,
+    "official": 47,
+    "bill": 19,
+    "interpellation": 10,
+    "press": 71
+  },
+  "sources": [
+    {
+      "name": "立法院議案／法案",
+      "count": 20
+    },
+    {
+      "name": "立法院質詢發言與公報",
+      "count": 10
+    },
+    {
+      "name": "立法院官網與研究報告",
+      "count": 55
+    },
+    {
+      "name": "立法院新聞稿與國會動態",
+      "count": 75
+    }
+  ],
+  "errors": [],
+  "items": [
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "函，為115年度中央政府總預算決議，檢送數位產業署保留本部分新增決議（九）半導體供應鏈資安創新應用發展計畫與相似計畫之資源整合、相關辦理量能規劃及推動輔導策略書面報告，請查照案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/311110249930000/details",
+      "source": "立法院・預(決) 算決議案、定期報告",
+      "meta": "第11屆 · 第6會期 · 排入院會",
+      "proposer": "數位發展部",
+      "summary": "提案：數位發展部 ｜ 進度：排入院會 ｜ 摘要：數位發展部函，為115年度中央政府總預算決議，檢送數位產業署保留本部分新增決議（九）半導體供應鏈資安創新應用發展計畫與相似計畫之資源整合、相關辦理量能規劃及推動輔導策略書面報告，請查照案。",
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "timestamp": 1796083200000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "「產業創新條例第四十三條及第四十九條條文修正草案」，請審議案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/202110252380000/details",
+      "source": "立法院・法律案",
+      "meta": "第11屆 · 第6會期 · 排入院會",
+      "proposer": "本院委員鍾佳濱等21人",
+      "summary": "提案：本院委員鍾佳濱等21人 ｜ 進度：排入院會 ｜ 摘要：另為使高產值之半導體與AI產業能有效帶動國內其餘產業轉型升級，爰擬具「產業創新條例第四十三條及第四十九條條文修正草案」。是否有當？敬請公決。",
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "timestamp": 1796083200000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "「科學園區設置管理條例第七條條文修正草案」，請審議案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/202110252370000/details",
+      "source": "立法院・法律案",
+      "meta": "第11屆 · 第6會期 · 排入院會",
+      "proposer": "本院委員鍾佳濱等21人",
+      "summary": "提案：本院委員鍾佳濱等21人 ｜ 進度：排入院會 ｜ 摘要：本院委員鍾佳濱等21人，鑒於我國半導體與AI產業在全球占據領先地位，高科技產業的成功，奠基於政府長期提供水、電、土地等單一窗口的政策支持，前述公共資源背後是全民的付出，惟每一個人感受到經濟成長的速度，並不完全相同",
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "timestamp": 1796083200000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "「全民共享經濟成果及穩定民生特別條例草案」，請審議案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/202110236990000/details",
+      "source": "立法院・法律案",
+      "meta": "第11屆 · 第6會期 · 三讀",
+      "proposer": "本院國民黨黨團",
+      "summary": "提案：本院國民黨黨團 ｜ 進度：三讀 ｜ 摘要：本院國民黨黨團，鑑於我國115年度經濟成長強勁，受惠人工智慧（AI）、半導體及資通訊產業快速發展，經濟成長率大幅超越原先預期，國家歲入亦隨之增加。",
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "timestamp": 1796083200000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "水資源作業基金116年度預算評估報告",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45Yk5VNWJEWWYwZ1FQX21QRTVRTTlaMWVwSHVLQkp4WVRUd1pFYzBPSV9FRjRsalNSSF9iZk1VampmQUVXUkNZM0RrQ1hSQ2VvUEU4VXU1bC0yRkVVeFY0?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-21T21:13:08.000Z",
+      "timestamp": 1795295588000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "一０、撥補中油公司辦理「地熱減碳旗艦行動計畫-深層地熱示範計畫」，允宜審酌相關計畫之執行經驗，妥善規劃探勘井鑽進期程，以利達成計畫目標",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lY2U5SGVPZjlXX0RpR2p0d05ZY0FJVW1CNHVwbTc3amtlX05naVh1Z0xaNUZWMGJxbWRyMjMtb0hGVWQzZl9hSEt2cWhvWklSQ0N5YmVPaW9zQXlNcFpSbHA4ZnZpdGZNaUxaeG5ndkU?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-15T06:00:20.000Z",
+      "timestamp": 1794722420000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "蔡易餘立法院總質詢全力爭取嘉義黃金十年！力推嘉科三期、新港新能源園區 打造科技觀光雙引擎",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9Ya2RHdG5CRm5KQmhNTUlma3JzN2tRVjYtd2tKUks1TzVNdjhXbi1ta2QxX25ZdU16RXg3czhmNnV0Mk9UTmo4?oc=5",
+      "source": "國會動態・台灣新聞雲",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-10T08:00:00.000Z",
+      "timestamp": 1794297600000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "台股血崩 綠委：可檢討產業過度集中半導體",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XX0ZLYkRpZ190WWQ2MFJGTE91S0hrcU5QQklBQWJ5ZzBxRlk3MGdzWWI1d2ZUd2N0MkxWSUpBYm50V1JOaFpZQ0NCQXE1aEZwRUdIa1lmbVpKWklKSzVhTVUzN1JoVFNlMVFQZF9n?oc=5",
+      "source": "國會動態・中國評論新聞",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-11-06T03:47:32.000Z",
+      "timestamp": 1793936852000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "台握半導體能避戰？莊瑞雄：仍須強化軍事",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UZktSMkllSXkxT3U2eHBNbUt0bjBPbEpYTnl1eWM5ck85bVJyQlN4VlhTMms1QWpFZjAyZG1OU0NEY0VxMkdRUGVvZl9MWnh5d0pGMnN4U0M?oc=5",
+      "source": "國會動態・中國評論新聞",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-10-19T07:00:00.000Z",
+      "timestamp": 1792393200000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "自由共和國》施信民／剖析立法院「廢除非核家園」公民投票提案",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YdW0wamZiMnZYUXBzVURUTEZtR1I2YTl4TWJoZXhJRk1ZYXNxbkZTcER5MU1sdnpqWDF0THV2c0ltNThubVp1cDRIRWRSdXZhNnI0MmgyMG_SAV5BVV95cUxNXzZ3SkdTUU94TUFNNjB2Z255cDVLRVpGdGJDbXQ0X2ljOHhEeWY2RXNxRGlkTTBPTDJ2Z3l5OFBGbDQwUDlrLXV3WjhFLWtHejAxdkR6c21oYzNrdEZB?oc=5",
+      "source": "國會動態・自由評論網",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-09-28T07:00:00.000Z",
+      "timestamp": 1790578800000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "外賓密集訪台聚焦半導體 郭國文：要把「人來了」變成「合作制度化」",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HdHpfc2ZWQnVDYUhScGhRRUxBR3FGZy03VjBMT0tUXzVxdHM5d3haRXNjYnMxOFgzcEpMQnhfM3Q2T1F0QzJOYkZfakxlcHVEMFg2amRWU3ZDcHZMbmxfc3oxc1ZBc3BpZ3fSAW9BVV95cUxPY0tHcmNGMzkydlR4Q0JCLXM0Vm51MXF4YzBRT28wTks4YlFxUWtoZDlBajUtQUNCQWJHV1B5eVh5RWFWQXNmblNtTElBTEJWUnVFOGV1TWUwMi1IbEdzMlEtZXZsOXdwbWNGV0RlUkU?oc=5",
+      "source": "國會動態・自由時報",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-09-13T07:00:00.000Z",
+      "timestamp": 1789282800000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "台美半導體再寫新篇章！亞利桑那州百人團來台 盼成赴美「神隊友」",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0VTF1RkgyY3hlVUgyaUFSYW8wNjZrSXI4MjhKOEQxVDhDUWtPMUhoSm13SmRpWVRueHFLVWhzWXlRMmhyeUYyWkMwZW5XZw?oc=5",
+      "source": "國會動態・TVBS新聞網",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-09-01T07:00:00.000Z",
+      "timestamp": 1788246000000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "自由廣場》最長延會成績如何？立法院要有譜",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NNUNQMVlpVlRwVkd3YjRLbWotSmpNRU1FT1FiVjBWZG1nTkl3TWpHd0s4SzlVNDNnbllWb2J4cnhXamZPUUZIQUV6QkFkeEE4ZXVnNGs2R3DSAV5BVV95cUxQQlhVdmJZWlczRmJhYjRnU0E5TXpBVmgwVFVRZkprZkQtNVUtUnRXUFJjanlPLWl4YUNESUU1UGZmZGV6REhKTmxvSHRUNkFWcEVhdTFVN2tDZHg5S2ln?oc=5",
+      "source": "國會動態・自由評論網",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-09-01T07:00:00.000Z",
+      "timestamp": 1788246000000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "我國近年水資源建設計畫推動及執行成效之探討",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDa090aTV1R1gyNVFndmwtbThqaDctYldDT1hvMGU3UUZRZU5YWnhueXltUFZPb3FYTk5PSkRkNVNjSVNwa2RYeFVwWkNzZ2hoS090NEFYVFV4c290akRv?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-08-31T13:21:32.000Z",
+      "timestamp": 1788182492000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "盧秀燕：半導體是護國神山盼無人機成台灣下一座護國神山| 2026九合一選舉",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1THJhN1pIU25vb0s0MUFpam0wQXFuV1I5ajN2OWI2QldDQllJSThPRmhUOFNmS3BtdGItQVI3amdKNjZaM2ZuaDJwNjZGT0FQSjBpQ2pR?oc=5",
+      "source": "國會動態・UDN",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-08-29T07:00:00.000Z",
+      "timestamp": 1787986800000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "無人機條例三讀通過 國民黨團：打造繼半導體後第二座護國神山",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JWFRKbEVfcHpUekZFQ2t1SGc5eU84RC1rem1NQ1FVNHY4Y2FhdFJRMnp0LUJVMFFqNlowR2ZIaGkycVB5R3gtN1o2bnR3Z1YyLWxj0gFYQVVfeXFMTk5Xcnp6cVFYQWprNXRBSVVfeTRXbHFhMFJVSGNpZE1sSHkzRzYtQXZKR0gtVmRkeHRfZXVac0pZUmdsd0NmNm9kMk9qNXdMdEZSanFzc0JlLQ?oc=5",
+      "source": "國會動態・UDN",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-08-27T07:00:00.000Z",
+      "timestamp": 1787814000000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "自由開講》把財政盈餘綁成現金支票，立法院正在越過行政權的界線",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84b2lLejdwaGFDbHAtU0ZvOGN5RVN2b3NxSkpjUlZ1REpMZDEwemtocWRkbVg0XzYzc2FwMWV5eUZPTGxrQjRHS1ZteXJoZWE1NE5wSmhXNWtweGR6R2lGbF9R0gFnQVVfeXFMTkk0SFBzTzMtd0gtNEI2bGpvY3N5dG1JWEdjZmlyRDQ4dXI2QXdnRThoVmxNRm8wYXJuX2pVWUFGTmhzTGRBcktiWHRSVFZjQUdEclRnZjRCWHRQVXNESll5U21OVmY5RQ?oc=5",
+      "source": "國會動態・自由評論網",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-08-24T07:00:00.000Z",
+      "timestamp": 1787554800000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "自由開講》台灣的嚇阻力量，立法院也需承擔責任",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aWlY4SWdFN1phUW9ZUXVmc3VCRnpTVUVrbDdJci1aY01RXzJSWTBicUo3ejBjLUZLem9jb05tTkhDT1o2cHd3SUptaWlIVHBTRWU5d2ZVRzNyYnlxSDFXeUNR0gFnQVVfeXFMT21kT2F0R3E3SjRUdUYzX0pRUmZ1Znh6dVY5YldWTk53NU02WjM5LTlFNUtkTktQQ0JRbUhwS0hBZnpYckRZaUdPSTlvQ2hZbFhzaTJteUFYdzRIbzVnS05KRWtDQ0RHcw?oc=5",
+      "source": "國會動態・自由評論網",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-08-23T07:00:00.000Z",
+      "timestamp": 1787468400000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "名家分享～陳杉榮》饒穎奇與立法院副院長三度結緣",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nbmhCRDBfMEZFUDR4NXh5Z2FIRi1GOWlmOW9ra09ZSjJPbEplNFBWQl9ubzhDamRlbTlWX2dmSXkzM2Fza0pRRERCV0JndHh6TFVLUUFHSlNrWDNqNFRDNUZ30gFnQVVfeXFMUFkzcnhtLVFoc3dIWjZRUEFwZGlfTTljOEY3NFlwQ19lVGJ6cjRLS2VDbzVlcjRoTzRoVHA2ZTBrcjlDOUY0Y25Tdl9rYk9uTF92YmNHQ18yRU8ycFdhS0dpSl9MZy1nNA?oc=5",
+      "source": "國會動態・自由評論網",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-08-22T07:00:00.000Z",
+      "timestamp": 1787382000000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "「能源管理法第二條條文修正草案」，請審議案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/202110215780000/details",
+      "source": "立法院・法律案",
+      "meta": "第11屆 · 第5會期 · 審查完畢",
+      "proposer": "本院委員鄭天財Sra Kacaw等16人",
+      "summary": "提案：本院委員鄭天財Sra Kacaw等16人 ｜ 進度：審查完畢 ｜ 摘要：復依《再生能源發展條例》第三條規定，再生能源定義為：指太陽能、生質能、地熱能、海洋能、風力、非抽蓄式水力、國內一般廢棄物與一般事業廢棄物等直接利用或經處理所產生之能源，或其他經中央主管機關認定可永續利用之能源",
+      "publishedAt": "2026-08-19T00:00:00.000Z",
+      "timestamp": 1787097600000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "廢除非核公投出立院 葛如鈞：正視沒電力就沒算力",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MTnJsMk95cEdWOHZYT3Z0MmxKeHpNSGk2UFlFUlpvWlJwMTF6TVk0aTVJUjNNYS1UWWRhUTd1YVAxdld6c1lYV0ozMDhsajhi0gFWQVVfeXFMUG14NFdNRFUxeWVvQUdaVlNnZjFyWjVtWWRmRlhxRjBFMVhlZkU0RGpjeUEwS2JmS1NRRnNqRDFPMUdWMEstc1Y3d1NlMmV6S1dPTHRhNUE?oc=5",
+      "source": "國會動態・UDN",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-08-14T07:00:00.000Z",
+      "timestamp": 1786690800000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "「水土保持法第二十三條、第三十二條及第三十三條條文修正草案」，請審議案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/202110204020000/details",
+      "source": "立法院・法律案",
+      "meta": "第11屆 · 第5會期 · 審查完畢",
+      "proposer": "本院台灣民眾黨黨團",
+      "summary": "提案：本院台灣民眾黨黨團 ｜ 進度：審查完畢 ｜ 摘要：本院台灣民眾黨黨團，有鑑於近年國內山坡地非法開發與土石方亂象日益猖獗，特別是高雄大樹、美濃等重要水源保護區域，頻遭不法分子擅自墾殖與傾倒棄土，嚴重威脅國土保安、農地品質、水資源安全及生態韌性。",
+      "publishedAt": "2026-08-11T00:00:00.000Z",
+      "timestamp": 1786406400000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "「國防自主無人載具採購暨產業創建特別條例草案」，請審議案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/202110225960000/details",
+      "source": "立法院・法律案",
+      "meta": "第11屆 · 第5會期 · 審查完畢",
+      "proposer": "本院委員王定宇等17人",
+      "summary": "提案：本院委員王定宇等17人 ｜ 進度：審查完畢 ｜ 摘要：復考量我國之半導體研發、製造優勢，與創建無人載具相關零組件非紅供應鏈之潛力，有望同時嘉惠高科技晶片產業，並帶動中小微傳統製造業轉型升級；顯示無人載具之發展，對於我國厚實國防、產業轉型與民生經濟發展有多重裨益",
+      "publishedAt": "2026-07-28T00:00:00.000Z",
+      "timestamp": 1785196800000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "「國防自主無人載具科技發展及採購條例草案」，請審議案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/202110223690000/details",
+      "source": "立法院・法律案",
+      "meta": "第11屆 · 第5會期 · 審查完畢",
+      "proposer": "本院國民黨黨團",
+      "summary": "提案：本院國民黨黨團 ｜ 進度：審查完畢 ｜ 摘要：穩定且制度化之無人載具發展機制，逐步建構「量大、價廉、智慧化、分布式」之反介入／區域拒止防衛體系，提升整體防衛韌性及持續作戰能力；為配合全球民主供應鏈重組趨勢，深化台美及理念相近國家之無人載具產業合作，引導國內資通訊、人工智慧、半導體",
+      "publishedAt": "2026-07-28T00:00:00.000Z",
+      "timestamp": 1785196800000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "「強化國防自主暨無人機產業發展條例草案」，請審議案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/202110223670000/details",
+      "source": "立法院・法律案",
+      "meta": "第11屆 · 第5會期 · 審查完畢",
+      "proposer": "本院台灣民眾黨黨團",
+      "summary": "提案：本院台灣民眾黨黨團 ｜ 進度：審查完畢 ｜ 摘要：我國既具備全球領先之半導體、資通訊、精密機械及產業聚落優勢，若能透過制度整合既有供應鏈與產業聚落，建立長期且穩定之制度環境，並結合國防自主及先進空中運輸發展需求，必可建立具國際競爭力之無人機產業體系，進一步銜接全球可信任供應鏈",
+      "publishedAt": "2026-07-28T00:00:00.000Z",
+      "timestamp": 1785196800000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "無人載具拚產業國防齊強化 半導體傳產打入供應鏈",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VSEZLSzkxZkJoYVQyYWphczVGc2lyWUpJV0czRXFzR2QyVnRrVDgxVnhBUDIzVW94UGx2MWZ3NUp2clFrdExzQjBMc0ZfZWUyQUVN?oc=5",
+      "source": "國會動態・中央社 CNA",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-07-23T07:00:00.000Z",
+      "timestamp": 1784790000000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "「貿易法部分條文修正草案」，請審議案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/202110224860000/details",
+      "source": "立法院・法律案",
+      "meta": "第11屆 · 第5會期 · 交付審查",
+      "proposer": "本院委員鍾佳濱等17人",
+      "summary": "提案：本院委員鍾佳濱等17人 ｜ 進度：交付審查 ｜ 摘要：然查我國貿易法第13條授權主管機關公告之「戰略性高科技貨品種類、特定戰略性高科技貨品種類及輸出管制地區」，大陸地區雖被列為「輸出管制地區」，卻將該地區之輸出管制，限制於化學機械研磨機等十二類半導體晶圓製造設備",
+      "publishedAt": "2026-07-21T00:00:00.000Z",
+      "timestamp": 1784592000000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "經濟部修法　「用電大戶條款2.0」影響400家",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MelRTV3R0d3U3SXUxcmx3VF80SmVtaXE5Y2QzUldlZHR5eVVlWnZrSEd1cTdJQzhEVXVYLVEwcVRWZUgzU0hVM3lfbk5URHdVNkpGdjdyM3c4VEhLaG5xa0hkMHNid1lKYVlz0gFwQVVfeXFMTnFmNVBDd3JGMVY4U0ZKSEVNOUNUQkIzOHB3TFhSdHVDay1CMTFUcl9vN0RlQWZJS0toTjY0cnJXR2RpckxlSmk5M0NOR0ZBcVYzNm9FTWV5N1FpU2NCT044akJpNG92elJMcVVtU0Z5Rw?oc=5",
+      "source": "國會動態・好房網News",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "經濟部修法 「用電大戶條款2.0」影響400家 好房網News",
+      "publishedAt": "2026-07-20T07:00:00.000Z",
+      "timestamp": 1784530800000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "「電信管理法第三十六條條文修正草案」，請審議案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/202110209580000/details",
+      "source": "立法院・法律案",
+      "meta": "第11屆 · 第5會期 · 審查完畢",
+      "proposer": "本院委員林倩綺等19人",
+      "summary": "提案：本院委員林倩綺等19人 ｜ 進度：審查完畢 ｜ 摘要：我國目前主要透過海底電纜與全球網路連結，一旦發生長時間中斷，不僅可能造成重大經濟損失，亦可能對全球半導體供應鏈造成連鎖影響，對國家安全及民主盟邦供應鏈穩定均具重大影響。",
+      "publishedAt": "2026-07-15T00:00:00.000Z",
+      "timestamp": 1784073600000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "「所得稅法第十七條條文修正草案」，請審議案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/202110223790000/details",
+      "source": "立法院・法律案",
+      "meta": "第11屆 · 第5會期 · 交付審查",
+      "proposer": "本院委員賴惠員等17人",
+      "summary": "提案：本院委員賴惠員等17人 ｜ 進度：交付審查 ｜ 摘要：二、尤其，近年台灣科技產業聚落快速發展，以台南市為例，半導體與智慧製造產業帶來大量受薪階級移入，然而，高通膨與城鄉生活成本攀升問題也隨之而來，使中產階級家庭面臨沉重的育兒壓力。",
+      "publishedAt": "2026-07-14T00:00:00.000Z",
+      "timestamp": 1783987200000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "「土石採取法第三條及第十四條條文修正草案」，請審議案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/202110213850000/details",
+      "source": "立法院・法律案",
+      "meta": "第11屆 · 第5會期 · 審查完畢",
+      "proposer": "本院委員鄭天財Sra Kacaw等16人",
+      "summary": "提案：本院委員鄭天財Sra Kacaw等16人 ｜ 進度：審查完畢 ｜ 摘要：四、利用水資源。",
+      "publishedAt": "2026-07-03T00:00:00.000Z",
+      "timestamp": 1783036800000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "「產業創新條例第十九條之一條文修正草案」，請審議案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/202110204150000/details",
+      "source": "立法院・法律案",
+      "meta": "第11屆 · 第5會期 · 審查完畢",
+      "proposer": "本院委員邱志偉等19人",
+      "summary": "提案：本院委員邱志偉等19人 ｜ 進度：審查完畢 ｜ 摘要：隨著資本市場規模擴大、薪資結構提升及產業發展變遷，原有限額已難符合產業實務需求，對於半導體、人工智慧等高科技產業之關鍵人才而言，其激勵效果有限。爰建議取消緩課金額上限，以提升制度之彈性與實質誘因。",
+      "publishedAt": "2026-07-03T00:00:00.000Z",
+      "timestamp": 1783036800000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "函，為114年度中央政府總預算附屬單位預算決議，檢送農業科技園區管理中心水資源處理場第3、4期擴建工程作業基金補辦預算檢討改善書面報告，請查照案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/311110202750000/details",
+      "source": "立法院・預(決) 算決議案、定期報告",
+      "meta": "第11屆 · 第5會期 · 交付查照",
+      "proposer": "農業部",
+      "summary": "提案：農業部 ｜ 進度：交付查照 ｜ 摘要：農業部函，為114年度中央政府總預算附屬單位預算決議，檢送農業科技園區管理中心水資源處理場第3、4期擴建工程作業基金補辦預算檢討改善書面報告，請查照案。",
+      "publishedAt": "2026-06-23T00:00:00.000Z",
+      "timestamp": 1782172800000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "「電子競技運動發展基本法草案」，請審議案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/202110220040000/details",
+      "source": "立法院・法律案",
+      "meta": "第11屆 · 第5會期 · 交付審查",
+      "proposer": "本院委員廖偉翔等20人",
+      "summary": "提案：本院委員廖偉翔等20人 ｜ 進度：交付審查 ｜ 摘要：本院委員廖偉翔、邱鎮軍、陳菁徽、林倩綺、洪孟楷等20人，鑑於電子競技已突破傳統體育框架，發展為全球數位經濟、晶片半導體應用、AI視訊技術與青年文化輸出的關鍵戰略新星，涉及前沿科技研發、運動科學導入、專業人才梯隊孵化",
+      "publishedAt": "2026-06-23T00:00:00.000Z",
+      "timestamp": 1782172800000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "立法院成立「國際投資台灣促進會」 盼以科技優勢和國際盟友「打團戰」",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkLVNmZjlPRnNVZmFEdGE1VWllME5mbEdLZ0w3VU9aUTNFTkFVT25NNVA5UWVRQWpMSjhqZ2lJa3UyeXoxZkVJRUFQaTE5cWFQN2MwNXd2XzY?oc=5",
+      "source": "國會動態・自由時報",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-06-12T07:00:00.000Z",
+      "timestamp": 1781247600000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "函，為114年度中央政府總預算附屬單位預算決議，檢送台水公司「強化水資源自主性與水庫蓄水效能策略」書面報告，請查照案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/311110210610000/details",
+      "source": "立法院・預(決) 算決議案、定期報告",
+      "meta": "第11屆 · 第5會期 · 交付查照",
+      "proposer": "經濟部",
+      "summary": "提案：經濟部 ｜ 進度：交付查照 ｜ 摘要：經濟部函，為114年度中央政府總預算附屬單位預算決議，檢送台水公司「強化水資源自主性與水庫蓄水效能策略」書面報告，請查照案。",
+      "publishedAt": "2026-06-09T00:00:00.000Z",
+      "timestamp": 1780963200000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "函，為114年度中央政府總預算附屬單位預算決議，檢送水資源作業基金決議第9項、第16項及新增決議第3項書面報告，請查照案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/311110210780000/details",
+      "source": "立法院・預(決) 算決議案、定期報告",
+      "meta": "第11屆 · 第5會期 · 交付查照",
+      "proposer": "經濟部",
+      "summary": "提案：經濟部 ｜ 進度：交付查照 ｜ 摘要：經濟部函，為114年度中央政府總預算附屬單位預算決議，檢送水資源作業基金決議第9項、第16項及新增決議第3項書面報告，請查照案。",
+      "publishedAt": "2026-06-09T00:00:00.000Z",
+      "timestamp": 1780963200000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "bill",
+      "categoryLabel": "議案／法案",
+      "title": "函，為114年度中央政府總預算附屬單位預算決議，檢送「重大水資源規劃作業計畫與未來水資源經營之展望」書面報告，請查照案。",
+      "link": "https://ppg.ly.gov.tw/ppg/bills/311110210820000/details",
+      "source": "立法院・預(決) 算決議案、定期報告",
+      "meta": "第11屆 · 第5會期 · 交付查照",
+      "proposer": "經濟部",
+      "summary": "提案：經濟部 ｜ 進度：交付查照 ｜ 摘要：經濟部函，為114年度中央政府總預算附屬單位預算決議，檢送「重大水資源規劃作業計畫與未來水資源經營之展望」書面報告，請查照案。",
+      "publishedAt": "2026-06-09T00:00:00.000Z",
+      "timestamp": 1780963200000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "黑暗流浪者》為什麼立法院要一直延會？",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GcGdTOERpcFY1S0lyY09mV0dmYkZ4WHVNSU1ZdHBsZ3U5d3F3VU1TS01RQWxKUjFHMzlPUzlXeHFzLXlTZmxRRlBuME5NcmpwdkFYVFNEWnZXSEVTeUpXNkdB0gFnQVVfeXFMTWEzbWo2a0dma0ZhOEZCV0NXRmVwNngwZWtta0RlMlVnVEJMWmtDRVpWR2N1QzY1WGVPR0c1bkhIaEhyU1JobzNPd25ybU50aUxic2pYQlZTSU1rb29Mc0pUUGNydzhFQQ?oc=5",
+      "source": "國會動態・自由評論網",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-06-05T07:00:00.000Z",
+      "timestamp": 1780642800000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "台捷共享民主價值 韓國瑜：半導體與AI合作前景可期",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qM0tpdV9Hc2NPdy1oU1B3RXZqTFpfUUVUSVJwenF0Z3c5NjhnODdoWDF6T3duZ2M0UTVOT0pudHVsaEJWcFg5aUctdDYxVW5SeWZUdEpkbkc4aTlqenNuUVlST2gtNlJncEHSAW9BVV95cUxNNTdHdmFtT09ZNDVMUFJTTDVIaWNPT0xTSjhiLXZlcmFxZlRxUjdidURPbEhrVk9OdTdBZ0JYNTNZNi0yVEdPMF9pRzRZOExNNjRWR040TmRlZ1JmZ3M5LUZxSGNTQzRnUGpKdGZfems?oc=5",
+      "source": "國會動態・自由時報",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-06-04T07:00:00.000Z",
+      "timestamp": 1780556400000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "川普頻喊台灣偷走美國半導體潘孟安：這當然不是事實- 政治",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ubU9MRVRuYlF1b0FldDRpMHFHSWRVVXVQSVBnUU5JY3VtUkRmazdERlBNQzE1ajYtQlZ5SXVvS2ZOejBDNV9lRHhIN2s1THpRaVVLRkNqY2dmRkJRbjV1c09DMG1kUnNJU0E?oc=5",
+      "source": "國會動態・自由時報",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-05-21T07:00:00.000Z",
+      "timestamp": 1779346800000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "川賴通話駁「台灣偷走晶片、半導體」？ 潘孟安：這當然不是事實",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Td0ZldUpfY0xmSkpxQThJcW85RnZpbGlIWUM5N3NBSW1vRzhodHQ0cW9vMkI1MWpsdlpha293Y1ZDMXFDZ1FSdXZyYXBmS3N3Qk1GYjB1UFV0d9IBX0FVX3lxTE9RanlIQVA1WXBQSlJob3lybEZHd0QzRnNyZ0VVNkt6TTIyVGJkenMyVlliV1Y1R1VaRm45cXNBX0tROVdxTFNfWWJxbFpqNDU3WVJJTTBFQXo2cEl2LUtz?oc=5",
+      "source": "國會動態・經濟日報",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-05-21T07:00:00.000Z",
+      "timestamp": 1779346800000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "對蔡委員易餘口頭質詢之答復蔡委員就「嘉義中埔溫泉是否發展地熱發電潛力」之問題所提質 詢",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPanpMNWJqZVFISGZSNEZ1NlFTYmtHRkdBQXlaakpfd2YwTDA3YmhLVUhMc1dJcUVua3dTOXJmczhuSTg2dzFZa2t6aXFCVFVHZzh6Z1FmM0RUa0NQRkVqdHZXLUowQnhXWll0ZzBSTHVVN3BHempYQ2F4cVZqTUp2TXhycmduQWVtSU1fLUtIMEJ2UQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-05-20T15:25:52.000Z",
+      "timestamp": 1779290752000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "水資源作業基金114 年度預算評估報告目錄",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYk95bzdZbmZpV0plejZ6THZJd2FqNFNmSnpBeXFMYXpSU0R2aTF3bUV1OFVCS1dxNXNYaWVqa2Nkb0hOZmpKN3plTTliV1dyMThnMEhzSGhwbnZEMU8tSFJfVS01NWVGaFUwSW0yTzF5SGpEak91eTZ2SUhFekJ6RlE3a0h2TnFKdzlYUDlHeGktZzg5?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-05-17T10:20:09.000Z",
+      "timestamp": 1779013209000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "自由開講》別只看鄭習會 真正的戰場已轉進立法院",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VQzBwYlZZdm54MjUxdGlNVHhGV2czX0pvQnB5MFo3RTE4XzNqc2g5MFIydUJaemM3YUNmS09FX21hRU15SWpLRlNWcUtiOTAzMWp5dDNZM2JQOERTQVQ0UW130gFnQVVfeXFMT0JlcXhORDNfWUZRODNhZHlXNE15c3A1eV9qOGM0MDRuUVNRbm1QY0F1UkFLaE4tNE5OY3VnYlFjUVhiNzU1a0RDcHBNRk1CZUltTXA5M2Z6WUF5ajF0bEFQQTFlRnpOVQ?oc=5",
+      "source": "國會動態・自由評論網",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-04-28T07:00:00.000Z",
+      "timestamp": 1777359600000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "縮水六倍！ 經濟部2030地熱目標從1.2GW下修至200MW 業界：被潑冷水",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84LWx5SERreWpUOVM5aVFZU0x3QThfc18wLXlzWnRMd2VVODktYTJmWVQwRzRNZ3F6Z0JEbXd5b3pvTHhkN3Z5X2VBVTlPZw?oc=5",
+      "source": "國會動態・環境資訊中心",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-04-16T07:00:00.000Z",
+      "timestamp": 1776322800000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "這樣能源規劃你敢信？ 國發會跟經濟部地熱目標竟差6倍",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Nbkg0WWV3SXZlVjE0WUZqcGVPY3BxbndNLXl4RXk4ZU01dEx4WE5wUTdueEUxY0lkbnVNSzU0OGxrLV95dUJ0SEpldTN0VHJrdVhoNzlnalRWbVE3Zzlr?oc=5",
+      "source": "國會動態・工商時報",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-04-16T07:00:00.000Z",
+      "timestamp": 1776322800000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "台灣國安局：中國正引誘、挖角台灣半導體人才",
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQdTlqT3RaYkFubEQ2MmlOTXd6ajA1LW5IOVZEeVlGay1wYmllSUhydk5pNFhqY0ZFLXdOQWUyRzhFekJhVzhyYVJsZlk5X2lDTGd5alJsVHA3UmZoTU1VUlJCUE9RbUYzUFlZRWFzZ3duRlpDQXhJVmRlUV85b1FpZHQ4aXpyMEgxekM2SXFVVWxRRmR4MlppQTkzZWx3Q2UxdV95MkdKbElSOGxETVk1d0kybFVyVDR6RkxXZDhSQlZYOXBvcVVmZllQWWNfYWlwVHpxMDdDUU5pbmRUMWRZeld3LWt6WXVWUzRkRVVweENHVEFnd2diSS10ejNnRUlxSGx6TmdBOFpoWk1FRTRRdlhzSUR3WFNvNjZIcloxQ25HT2Y5YjdnckpFZHlGSlFpVmVz0gGzAkFVX3lxTFBLNjhpRjlEY3BaWE5GVVR2WHp5eXZOTURMMG0tTTliQ0RZemxyQ09GdUZPMEt3NkUxNklJVVRtTkNpcWFybkNoNl85TWJDbXFGSzNNbFVjbTBRdC1oYklxWDh2QjAwVkhNclBEWFRZLXowZzhmNm9KZ0ZRU3BVbUgtU2NIOE9zUy11UXlucnZwS0NjOGp4eFBQUUNQb0JITlBNa3hxUDFFOTdHaGlpaThQZms3RkxwUldQUlFpTE5VZFdsYWpfVzZ4OXBpeURaNGZtZUU3WEVreHB4djB6RGg5QkZrZTFrWWUxWlBRQ05SelMtZGZrUGVzOEM5ZTZWS05NRWJCZ3h4ZFpBMzBTTXpPVkkwdUhnNEg0d0h6LUZjLTRiODJsOU51Nm5pZUNHWFVtaHM?oc=5",
+      "source": "國會動態・DW.com",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-04-07T07:00:00.000Z",
+      "timestamp": 1775545200000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "中市長選戰2／對手正式出爐 何欣純4月強化組織戰",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XWXl3SGIyT1hGak9lSFdiTnp6QVRLTXZRd1dUMnNyLTM2X3A0UXYyaFlvRGtGdXN4SlJtclBaM0J0MEpGVU5hSlBYUQ?oc=5",
+      "source": "國會動態・FTNN 新聞網",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-04-02T07:00:00.000Z",
+      "timestamp": 1775113200000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "水資源作業基金113 年度預算評估報告",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV2dnTjB1RUdhSFhJdmkwMk42VFhFSmxrcmJuMVB6SHNXZGx5QWVIVWlzbk9sNTBjQmJCN2hyY3hBdVpNSloydGtDUkl5WW5mNTJTVDFPc3pud05tY2pWRnhCaDMwZkoyc0lORTFqZ2kwOFUxbEJ3RWdWbXJDU0JXaGhWeV82c054UEFzRFZyZDBvdk15?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-03-22T07:03:01.000Z",
+      "timestamp": 1774162981000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "前藍委許毓仁赴美國會作證 籲立法院儘快通過國防預算",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSUElDMXotLVZDM1NlSUVJV2NKNjV4d1JvQjNJbDA3eGJCOGZrMzBwbkZiTUZrNjBDckU1YlVCdFZBRmtpMlg5aVZ1bkFSUWdQejlUR3FxS3RobnJuOG9OcUtVbDhIdmlHMHfSAW9BVV95cUxPeWxCdzNxdThuajZCUF9pUVlxaURlekt0a3B0R3plLTJkemVJbWxZc2g2Z3AxTEg4Q1dER1A0VHFRQ25vRmhCblVPZ0gwQlZFR1NNZ0lRdV9SbzBlSzZMNHl6TDU3TFBnMGRoOW45X1k?oc=5",
+      "source": "國會動態・自由時報",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-03-03T08:00:00.000Z",
+      "timestamp": 1772524800000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "卓揆：13項戰略產業重點發展 半導體、AI等入列",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IRlZ2YkRodmFNYkNocnBYcGZUbmotdW1IODlHaHZiRXp4N2kxX3RkQkNoMUxzX29vVnljR2VUcFRaWHVvSm90akN6eG83R2pN0gFWQVVfeXFMTjF1NVBFRHlEMWkwLWNFTEl5Q0VLRWNXeFhGYzh3LW1vODhOajBMYklpT3ZGX1d3VC0za2RPVGxVbkhEZks5U25lV2RyNGtPZE4zYWtraVE?oc=5",
+      "source": "國會動態・UDN",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-02-25T08:00:00.000Z",
+      "timestamp": 1772006400000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "自由開講》中華民國立法院悲哀 當國家忠誠成可閃避問題",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yaXM3Wmx1TW9PanBGVTRkQTYwZ204VzdadjFJY1dEMTJEY3doRkZLakUyS3ZXSjl6SXdtLXludDdWZTNPNnlMbDgxX0NOVFNicU9UYW9wT2d6RV9tTDI1dWV30gFnQVVfeXFMT0tCOWhlb19LMVNJRzRXdmdDTnFiTnE5cGNFTy1lcFJxSmpGWUExT29HYWl0MXVBR0dLVHBpRWoweEF3bGY0WmtOTEVXN0E4YmRvNVI3UEVoZVl6dlRFS2M4Q3NLQ3FIMA?oc=5",
+      "source": "國會動態・自由評論網",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-02-15T08:00:00.000Z",
+      "timestamp": 1771142400000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "臺灣半導體生態系赴美投資評估",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRHF2WGJDaU54YWRfYUh4eDVyUTBHd3JTSWhpSlZERjNLdzhrR0FjNVhaNHNvWFVWYlpUeWZUZVRVR2JCLXlkdlItLURQVTF4SVNjUjhMd1NmZkNhSnIxUVoyRDRIVjY3SS1zMDJvdU9ray1WMVVlc3JYSUttWFN3eDZ0XzJmaXRvdFNQSGFtVGJRNjhGNVFaM0pLekREaDZJcFNj?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-02-09T19:54:59.000Z",
+      "timestamp": 1770666899000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "先進半導體研發基地建置中長程個案計畫（核定本）",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOallMS29YcUtVTEJmM1ZmdjhneTRmRTNnVmdEYUZ1dG9feUVValQ1OUVFa19lRGYtUVNSR2NLeW10UEVHLTRmNWthMzVONWZBV0Y4eGQ2QUROMjg2TERQZ2tRbjBsMEpPU3AyNk9QTHlQX3JVMkNudWxBa2w0dnZfc0ZZTFZOUEk0?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-02-06T03:51:43.000Z",
+      "timestamp": 1770349903000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "CK楊罕見露面 勉藍委對美議題硬起來",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53VWlLd1RUN2kxMWc5TUJCZjhIZU1PZ0hJanQ4MF9NSklRbVlFOUs0TEJwRHJ6Mzhia05DR3lmU0xEbjI1U2VmNThiWlZ0Snd6REJGVEE0T2dmYlk?oc=5",
+      "source": "國會動態・鏡週刊Mirror Media",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-01-23T08:00:00.000Z",
+      "timestamp": 1769155200000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "台美關稅藍白恐立法院擋掉？她曝：擋不了",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uRWhOTUdDMDlEX1JWSV9NUE1pR19vLU4xeEx5ZmN2bnN6ZGROYjZZMVhfT0VfSTQzVENtdEp0RVdCTlk4Y1VjdmpuTzQ5dUEtSEZJTURzNlZCb1B5?oc=5",
+      "source": "國會動態・鏡週刊Mirror Media",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-01-19T08:00:00.000Z",
+      "timestamp": 1768809600000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "台美談定「對等關稅」條件 國民黨立院黨團：2500億美元信用擔保錢從哪來？",
+      "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxQVUpfUGRvNUsySUdxTmhVNGdpX0ZBZERhWU9ra0xiVWZyVGl4UzBoaVdfdTRqanpGUXRoWXF2cmxYMk5ia3dXRlhjV3AtS0w4bDlkZUNqeHRZMDZjY0YzZVlfTmh2S2RuUDc0SmJETS1zalUtQXZDcGxWdF9qeTFJNjY2TUNYbmlxSk90RjFxNmZGRW5mQ2lHNnBoNzhaVUgtY0FwV21qSDhwaVhKcmk5NTJKa3JsVnNfSGVjTzBEbTBfbnJjdGRGcmQ1b0llQ2JQYkJZNVlfcEJiMTc5U2FmVEVYTmtIZG9CQ1RGV0t4VWtDM1BvV2ZSanlSTm1IVDFVaVIwQml6QnpoSENsRTU1elZocG1aRTlNYXVYYU5raVB3bDF2RUN3MU82ZjB6ZlhtZjhodGVxTm5zWjJHV0RhZUluNWprRGlaWDVsZ2tnOXNmRUliajQtTmNMSUxOeWNLTm9lUTBFRktmUUlZR2JXUXAzU2d1RXJOdUp1NnhpY3ZVMVZ3c051dW0ySDd0VHMwZkYyenJkUlJnTnZFMTk3RjlsTTQ4dVg3bzF1X1BERVJaMFI4UnlFNnlLRmIwX0tpTU5uWmdyWjUycDc4YXZ3LW1n?oc=5",
+      "source": "國會動態・台灣好新聞",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-01-19T08:00:00.000Z",
+      "timestamp": 1768809600000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "自由開講》「代理孕母」草案中疑慮甚多 立法院不宜貿然通過",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KaFloSHZrYUVWSTEweFdtNVJScjJ2TFRNUkZ1WlNnVkJGbXpraTFFeWt6X3RFbTZwUGhLX2ZDajNfZVZrRUNEN1VBNlFTLWptRUV0bEZ1eVVPVXNQWnc2bl9R0gFnQVVfeXFMUEVZR2VKdzVkUE0zNzVYNjdScTVQQ1RxQzJXQ1hQTDhLZ3dXZ0Y3eHBSaHpGNmdfdGUwY3RNUU9jaktOMUpmcGZfV21DRko4N2d6NEdONkpfb2N0U2N0blBtN0pfOUV6UQ?oc=5",
+      "source": "國會動態・自由評論網",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-01-11T08:00:00.000Z",
+      "timestamp": 1768118400000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "總預算未審！政院：TPASS斷炊影響百萬人 也不利「半導體研發」",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kS3lXZE1OMEVQM01iTjNJUXJfYnY5V3hESTNlN3V4T1FybEpJOWtIalhac1dXMkRoVU5FOFhCTElwaDlITTItSmh4a3BHSTctRDhz?oc=5",
+      "source": "國會動態・TVBS新聞網",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-01-08T08:00:00.000Z",
+      "timestamp": 1767859200000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "自由開講》立法院「通過」總統彈劾案是「假消息」",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yVzNCQ296blQ2MTk4VW40Zi1JM0RiV0tQb0FJcWZZV3N5c2hycVowVjZwS2RxWHVjbjJYQ0d3Qy1HS2RWM2NrOXlUOVpPc2R5eWFYZkZKaDFPTEdQMHhNTXZ30gFnQVVfeXFMUGZsNnJGYWR6T25weS1uWldwa1dJaWcxRUoxeXJaZnlROXE1VXVXTE4yR1c1OVB3alVKek9wZG1QVFpMcG9WQjVYUXNFRXJJbTZLWW1aSlJCSWtiYy0tbzExMllRQkRUZw?oc=5",
+      "source": "國會動態・自由評論網",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2026-01-02T08:00:00.000Z",
+      "timestamp": 1767340800000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "林志潔評評理》藍白立委正在將立法院人大常委化",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WSU9mQXJSeEVLS29YUWF6NFJwbnV3R3VveFcxVlVLaUJMQ0tIeHZlVEJBWjk3RmhLYUtUMGJzc2dYZ01pdW9FRUhVVy1PNnRLYXJVeEFDNWJfd1JnNmwxVjRn0gFnQVVfeXFMTWRIN0ViWUNuRzlKWUJOeS14TGlEZkUyU2FYNFdXMUdCZFFTaUZ2dkpCdV9ydi0zbEg3SUFkOG9Fam1aMVFOMzg2ZkRzX1dVanZ3cGtJamJiVjhOX2hxMmJTVjJINjNISQ?oc=5",
+      "source": "國會動態・自由評論網",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-12-24T08:00:00.000Z",
+      "timestamp": 1766563200000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "自由廣場》立法不能凌駕憲法：當立法院成為憲政危機的製造者",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PZ2o4SWstcWlxczFTR1ozUjN4TFBkSGptSXdzd3dHckpSTm1wczFvc3BhZW05Q3F1OXFiZi1yRGU1NDkyUVB4U0tRd3BrYXZmWEE2S3NPdlrSAV5BVV95cUxPeDBldy1oS2lWY1BoZTBwN0MzN2kycEpDdDY0S2dyaEF3Wm5XZTN6V3BXQjlXMVA5U3AyeEc2QTVnY3g0U1R4RGxDRTgzeGlSTDhRWE5lOENnYTFlUGxB?oc=5",
+      "source": "國會動態・自由評論網",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-12-20T08:00:00.000Z",
+      "timestamp": 1766217600000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "幫美國訓練半導體勞工換降關稅？楊珍妮：不在談判條件中",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YN0ZYLWVDbDJHV0lNdHRGUnV2bDQxTWpEOVQwWUdjbmttamNOQllLS0x1cDk1V2Q4ZXlycVRSZ3k5NmRsX1JJS2E2UmvSAVJBVV95cUxOVUJKX0N6SmRMYks1R2ZCMHh6Q1dWVGJES2xFOFJYV1l0Y2I0aEVDMmdkUEllLXNTSFd3N05zX2pBZWRSMlRaRGdlVnBVdVI0YTBB?oc=5",
+      "source": "國會動態・NOWnews今日新聞",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-12-01T08:00:00.000Z",
+      "timestamp": 1764576000000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "不理會環團呼籲立法院強渡關山 光電產業被迫吞下修法惡果陷入黑暗期",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81cldpNTlPYl9hVHdSRWJIaEEweFhrSzhXaFJiMGNOckEtbmVTbWsxTnFJNG90X1ZKUUpmRHFzQ2dYdGN6NTRBTlhxOXFxUVAxWHlrcHlkU0dMT3c?oc=5",
+      "source": "國會動態・鏡週刊Mirror Media",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-11-14T08:00:00.000Z",
+      "timestamp": 1763107200000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "水資源作業基金115年度預算評估報告",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9janFtcG9MSVJRYmRjcEpQWVpXZFA0M3NHYTV5SDMwclVXcWFZeUVQRXZMX1FOaE95ckxpTGhmNXh2bFhqWGNSLU1lS2ZVbXlwamUtMG00V0dlSE9WSUZ3?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-11-12T13:57:41.000Z",
+      "timestamp": 1762955861000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "封殺地面型光電，等於斷了半導體業綠電來源！民眾黨提案修「環評法」盯光電，綠委：個案式立法像亂拆屋",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYWhfUUNFNnZsR1BuQzBDSURaQkczSmlXYjBMVngxSDg3SkY3ZFFfODVLdjQ1aUozak1ibHQ1WmRUS3JiSTBDWVpkMmJ4ZjZGRFczNE12dW9McXNqTngzY3JranJQQjNqOWMtZVJMeDdrTHRzUk04bXhjdTE3MFF2VQ?oc=5",
+      "source": "國會動態・今周刊",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-11-12T08:00:00.000Z",
+      "timestamp": 1762934400000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "中國管制稀土出口衝擊台半導體？經濟部：不在管制範圍內",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYUm1zSjdCZ29BTkVjVE1Mb1ZZS1Jad0swbjBxMjVEdVllYXcxYnRxazdZLUw3U1dLUkhRYlFxVzhYUUdNcURoa2NjTFV0X1N3SkhiR192VnJ4VlItU0pF0gFkQVVfeXFMT0NiRjlZeExMdzlXbU5pMVU5bUF4cFk0N0EzUGZQTThTYmk1eHY5LU9sVmF2ekdROTc0WElsSjNaSUwxV0lUZGJ0WE1SVjRUbUtsdmpsWURMcXVTTFFxaTh1M3pFUQ?oc=5",
+      "source": "國會動態・自由財經",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-10-14T07:00:00.000Z",
+      "timestamp": 1760425200000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "新聞線上》誰來光復立法院",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PTnlXZWpqbDJMUi1NNjFqT0xtazliYl82QjRSOFMtaVVUWTBUWnBHSi05V1NPa3RHWTBOR2VldnVkdDR1SzhUN2dBS2hObEtaYUdzSmtYU2vSAV5BVV95cUxNTzBSU2xHaXNuaUZQZjBGRXBTM1R0SWdSNF9rWFVRQlN4c3BBbjVWb1dPX2o3cFFiNENIcXZwM2pMWk9rZFRfdjVVTUJIaS04VmdyTEFTVEoxTzRGdTR3?oc=5",
+      "source": "國會動態・自由評論網",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-10-02T07:00:00.000Z",
+      "timestamp": 1759388400000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "民主之盾》立法院不能成為睥睨憲法解釋的太上府",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KSTk5Vm1GUDF4VEhrdHpoLUJnY3JVTDBndENHVkpLWVBadEgzZHZ3Q0w3ZjAyYldjUXlHR242Rlc0cU9pb1NyWWdIeWM0NHdwTjd6Z3RBbkpTV0QwaHhSNE130gFnQVVfeXFMTnpaa2ZGNm9ESF9XRWdzT0VoZWZLLXJTOGI0XzFjQmx0WFh5U0VFeFpTNGpDejhZNGNiaEljMXk0NlY4QVRVaUE3T0dMUVg0V1V2amMzU2JtVEQ5Wkt4TXI3ZE5aVDVQbw?oc=5",
+      "source": "國會動態・自由評論網",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-08-14T07:00:00.000Z",
+      "timestamp": 1755154800000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "川普爆「台積電投資3000億美元」　經長郭智輝：假訊息",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tVmhfQU9FTEwwVEVWOUR0c3VqWTdCelVHSmhTcXY2OXZKZlU3TkVrVnEydUVnS0d4UmhyM3FhWmVNcHZkZktKcTB4TzVucHJQOFHSAVBBVV95cUxOUTJJVTNSZDVIYnljVGlsVGhweGN2cGhvTGhoLXY2MUtNWWFUOEdBVi1YdmZOS21UMkV2Tk9xMUpYS3J4TC1yWnhzTnlYc2U2Yg?oc=5",
+      "source": "國會動態・ETtoday財經雲",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "川普爆「台積電投資3000億美元」 經長郭智輝：假訊息 ETtoday財經雲",
+      "publishedAt": "2025-08-06T07:00:00.000Z",
+      "timestamp": 1754463600000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "二、近年我國降雨及水資源運用實況",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LQ2VMTkN4NUlUcUpMN2RLejZaMWRreXRiM0l5RkhheHlTTWNaZlk0SG1relVMS3pMaHV0eEI5bVVKdUR4eFpVdWtkbnVZWGNMZzZXWG1jOW44YXpjanpwMThhUndKS2xsTHFub3M1QkM?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-07-13T19:30:39.000Z",
+      "timestamp": 1752435039000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "新聞線上》別讓立法院變成立法會",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpRVRqS2ZOSnJfRVhIR0lZcnJ1d0pFT3NMa0t3LXZmMTBlQVFnOElTTzJObzlVSHM0M0xIYUVoVjdGWDlRamtNNmRqVXNmaVJtczJrbDlhckzSAV5BVV95cUxQXzdoZnQ4RXdvX3l0Uml2Q0w3S0Q0UG9UM0xKb0xsbmhEREwzaXVnRkJlNE56cDJid2tGWjAtbk90clpSRy0wU0pPMXY0NWpDS091QVZuWGRzZjdGVENR?oc=5",
+      "source": "國會動態・自由評論網",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-07-10T07:00:00.000Z",
+      "timestamp": 1752130800000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "立院「氣候韌性與能源永續發展促進會」成立 關注地熱、碳匯與公正轉型",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE82S2ZHNjdlcm1XX24za2VWMVB4dS1fQUZYVjM4b1NOUE9jSTdDY2lydFRUek9UNFNFM29tU1UtWGI1eVEyWTZQTDktZXFjQQ?oc=5",
+      "source": "國會動態・環境資訊中心",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-05-26T07:00:00.000Z",
+      "timestamp": 1748242800000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "七、在推動與中東歐半導體相關合作計畫時，允宜密切關注該合作對我國關鍵技術及產業的潛在影響，俾兼顧本國利益",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBclVFNnZZYkZqQ0FuY19iLVFVV2FGbkpkd1NTM0F0dVFOUTdBSW14aVdIekdEc0VKdzYyeFJwV29BLTdrYnk0SDlBT3dLZW8yQ2YxczhUR3luWkM2cWdoamF5QkVaZEN1cV9GVEoxZnc?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-05-10T19:08:14.000Z",
+      "timestamp": 1746904094000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院全球資訊網-一三、新增辦理先進半導體研發基地建置計畫，惟計畫未及於114年度預算案送本院審議前完成核定，且與國科會相關公建計畫之區隔等尚待釐明，允宜賡續妥處",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RSjVvNzJva1VCMWdteWVHSlU5WmtVWWVJdEdSREY0RWxoTW9kTV9iNE1xMFZtVHV5eUwxUld1dDE0czNNR2dqcTFvMjRWQUhwV1VFWlhJMzJKXzc1NEEwYm1ZRURUZ25tNFdyTFBMV1E?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-05-10T19:05:56.000Z",
+      "timestamp": 1746903956000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "一、為因應我國IC設計等半導體產業專業人才需求，允宜積極培育及延攬所需重點領域相關人才，厚植產業人力資本",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LbHJ1XzM0dmtSd3RoWVpubG1acTA3WVpWbHViQU16QXlrbDg4MC04V0JpWml6VEFhZC1rdVZrVFRmcjVDYVdWQS01UHZ4MUFaQ0dKTVMyOUFrRXhPRkFxUFZqVUZxaHhfa1duSzFBZHo?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-05-07T03:12:19.000Z",
+      "timestamp": 1746587539000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "《再生能源發展條例》修正草案 立委聚焦地熱開發",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Xa3JDalBfUEczNXE5ZEFFcHpxUW4zU0xDSTF2Sk5EakNXenpHalhlTGxpWGF1b05vTnhVTlY1YUd3RVc3ZkE?oc=5",
+      "source": "國會動態・原住民族文化事業基金會",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-05-01T07:00:00.000Z",
+      "timestamp": 1746082800000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "經濟部所屬(中小及新創企業署、產業園區管理局及所 屬、地質調查及礦業管理中心、能源署)114",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLWhmRnNFdml2UUZzWWlDWVl6SllIQUk1VF9QX2l6aWh4RXdFMXhGdHFfMm9zS1lHSWN2azJmR1NKMG1wS2hJVHk5RWZKMk5LY1JhbDBsRV9mTjZwMldiSFpLUVNwdnNad1ZacFc2THdxTUYwWTlUZHZZVkhPQXpkR3VPQ2ZWTy13VENuZEpOWU53bU1I?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-04-26T20:44:32.000Z",
+      "timestamp": 1745700272000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "八、「地熱能發電系統示範獎勵計畫」因補助案件之鑽探結果未如預期，近3年預算均未執行，允宜依補助規範控管期程，並審酌補助案件之執行進度，核實估列預算需求",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwbndpVW9FUDVOQ3BROVZRb01HNjFOZTV5VWZGLXRBVnlETUUteS1RYjcxbHduT1BsdFVRb0ZhSTJKMzZCbnllV3NvcHVEZ2M1ejZQa1pSZ1NtcDNtU3k5clRNTHc1X1hYQUhpYkNvOUU?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-04-24T09:03:54.000Z",
+      "timestamp": 1745485434000,
+      "matchedKeywords": [
+        "地熱"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "美關稅貿易衝擊 學者呼籲建立長期抗戰準備 守住半導體主體性",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lN2FkZmVMS3l2Y1F2TmxkRXkwUWhQbkVxNmVTblFSMDJra0JESVB5SmhzWS14d3A0cEVoNTA1WnRWdzhRUWMwQnhLX3FKaHFEcXRPTkd2RQ?oc=5",
+      "source": "國會動態・Rti 中央廣播電臺",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-04-22T07:00:00.000Z",
+      "timestamp": 1745305200000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "美國將宣布半導體關稅 經長赴立法院備詢",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9WdWFyUFBaQkdIMzg2czVzTno5dGVSZUJOSWJ1VjNCaWlpX1hxLUZEZ3pJQW9nOVdIOGhzUzN3dEM0UVhzOHc?oc=5",
+      "source": "國會動態・原住民族文化事業基金會",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-04-16T07:00:00.000Z",
+      "timestamp": 1744786800000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "立法院教文委員會考察竹市科研機構 鄭正鈐籲政府強化AI算力與能源建設",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DS3BSVWhUY1ZzakZ1dDMxWU9Zcklncko4QXJVblhfbDRkVS1MZzhwVHY5aWFRRXNPb2pMMEpqcFRETTR3QXFBYkhfYjdjUmRBOS1WajM5RE8xVWl6Q2hkYg?oc=5",
+      "source": "國會動態・勁報",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-04-02T07:00:00.000Z",
+      "timestamp": 1743577200000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "立法院考察新竹市科研機構鄭正鈐籲政府強化AI算力與能源建設– 資訊總分類",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyMkpDYVVWc25BZjRZQ0ZlN0RGLXdzakc4WHFTb0txejQ5czlVWV8ybU9Bd0REOTJ3ZlhiMjB5VzB2eGhqU29VY1RQamROSXR2?oc=5",
+      "source": "國會動態・taidaily.com",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-04-02T07:00:00.000Z",
+      "timestamp": 1743577200000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "水價調整與建構水資源永續利用相關法制之研析",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54OGhqWEVxU3ZmMW1LMFA5d2pPSFRqNHRwM2gwbDBSNVlqdFhUcG51TkVjNDc1UVZEX1VQU1NaSzN3Q0g3YkE5dTVqU0NhYnFvNU5KbTV3SS16QWhXSXEyZFAtSFFYcXBmMEFwQjV6TQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-02-24T01:05:17.000Z",
+      "timestamp": 1740359117000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "自由廣場》漫畫：立法院的暗棋",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tWUdWNTNrWmlLTndMSlFlMV9yWkhoeGQxVkItSEFWVWpCamFPalFWLXlqOTEwUENuODlwekd3Njc4UXE1R2dZNnA2SWlYSy1wMEtzZTljN1LSAV5BVV95cUxPejd4WEJTVUp0ME54N0hLZlVKVkpmM1lmTGhIdDNONklxeTVJME43dVF0UmJCNW9NODI1SFlndEpYYk9Sb1IxVGQzbGRHME5wYTh4U0dzWEpWNmI5ZWdR?oc=5",
+      "source": "國會動態・自由評論網",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-01-17T08:00:00.000Z",
+      "timestamp": 1737100800000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "立院刪中央預算 國科會：晶創、AI及半導體大受影響",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkTmdWVmJCV096R05HaW16NkZDNzJVc0lEckhVZjI3ZUlrdEpHZm5mcmcxa0F4RnRudDA4THRmRzhHVG00YUc0eFEwcDE5NXcyUktmU1M1dm1ZTGdQWjVr0gFkQVVfeXFMT21kbzhPNmxNZ2lNQXgtT0lZejY5QjZlNFNhUk1ORFNZb1hTN1lUMDRyT2gyNlFfZEtGRDNiMWhxeXpuWFZLUkE3UTRIckZNWWJTajVpb2lOa2dxVUF5R29oT0szVw?oc=5",
+      "source": "國會動態・自由財經",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2025-01-16T08:00:00.000Z",
+      "timestamp": 1737014400000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "水資源作業基金114年度預算評估報告",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96MllOZy15MFpDbVlHQTdhd3NrNHRxeUVYUThVdnZiOEpiUjE0RDhfbkpGdDdkREVnUlZOdUZ4Zkt0R1JmeFRreTZZT2dqXy1MazBZUUlVRllTVGRkWHVJ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-11-14T09:17:16.000Z",
+      "timestamp": 1731575836000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "台義國會議員聯誼會成立 義國盼共享半導體技術與成果",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WTDlab216eGVwdncwN0dad1ZycGx3RkxZR0k4LWFXYklmMHdCOHM3eEFJTjRnZ1U0TmxfVlBnZXBMU1o0MkVfMXYyVmM4RElIMlNEQlk2YTJKM1N5cHlXTGRrWXNaVmJucXfSAW9BVV95cUxOZGNiQ1hyME85THFPWkUtUmpXRXJjR19YSFRraUoycXhSRmMxOTRQRjR6cHdBVzRmUFhrdW96elVGZEdtWEVKQVFoMHpGaEpvbVEyREs3aUEySHdxU2NrSS1SX1QzOTBBbUVablVpSms?oc=5",
+      "source": "國會動態・自由時報",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-10-01T07:00:00.000Z",
+      "timestamp": 1727766000000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "「五大信賴產業」明年預算增！半導體達122億元、AI產業倍增",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YSE1PTDB2Yi1VZk5SR2dXa3JOZFFpV1J2RkRmNVNrTk5IUmJhLUEtTjhnMHY0VDRtVURfMXM5bkpGMTZjak1mVUVKajZRZw?oc=5",
+      "source": "國會動態・遠見雜誌",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-09-24T07:00:00.000Z",
+      "timestamp": 1727161200000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "社論》立法院不如台北市議會",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhQUV6eVVZeUNZQ09Wa3l2Y1BXMnZ3TUo1Q25ON1BmMFlkYWNGR29EaWEwZHBpbFU0NjkzZXJDZTJYRzVQZkRXYTRPOWRQZWhTRW9ma3g3LTHSAV5BVV95cUxNNGl5eS1ZODg0bVNIUm5ZSkdZQ2lfaTN6dmRIRHpYbWMta1ZUM29YZnEwSVEyWS1DWFRIbXYyVkpwX2prdWpQT3VRZ2tDaXpmVFdhUXhKTjI2Uko0MHh3?oc=5",
+      "source": "國會動態・自由評論網",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-09-19T07:00:00.000Z",
+      "timestamp": 1726729200000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "未來 5-10 年半導體自高雄機場出口之需求評估",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPREZPWEI4cVpvSTdBTnBnWkxoT3puN2xmVGQzRW5YalRzU0dncDdneG5GVG1YS2pWZ2xidnM1LVdHRElLeHJJak9OVV9UMXdzSEkzbkZXVldJSnM1VXAzaVJSdmo0Y1dvYnFERk1tZHY3bDloWHdxYXNKeGgzMGVJTTJtMmlyNHNkR0x6TUlBY190Zw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-09-04T22:38:49.000Z",
+      "timestamp": 1725489529000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "我國水資源開發、利用與調度之探討",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ1hZVzJSMDl1MW92N3oycllFSnFpREpISjJtcHlfeU5vc2xXdjFHbWhYZHpidGJ6ZlZKejhSQWxocU5GV0sxUDF6Z2dOaUc4RTd6b2dNR1Q1VDNiMVIxVm1QQVlMTFRYSVlWNWdZSzYwUlBRZGp0OFR1UTBza0QwSUp4UmhzQ3hRT1ZuU3pYLUt2dw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-08-25T08:49:41.000Z",
+      "timestamp": 1724575781000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "一、水資源現況與趨勢",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1US291T2dUbVNDUzJ1cXdoUkhKTmQyOUt1TWJ5R1BmQXVTYmFPdnoyLUlodGNNRVJDMnQ1RjdZdURXdHBXVzRMRk93YU9iODV4bTJSTVlKdFhNN1FVLTA0a0ppVmVSNUUzWEhvNTBBLTQ?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-08-25T08:25:06.000Z",
+      "timestamp": 1724574306000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "一、水資源經營現況",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15OXN6enpqODg2djR2azF2RlozallJY1hTUkRSR0tsRmVRdjI1V0twenNDUzBWbmRyY3RpUWxnMS11bW82SlY4Z3V4eE1GcDJaY21DcnY1OU51WmRPNEJKMFVqcFB1SlN6VDRzQk1kQ1k?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-08-25T08:20:33.000Z",
+      "timestamp": 1724574033000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "二、水資源開發經費編列情形及執行概況",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtMXZPd2c3WUExSHd1WHFKd1lVOHY5STB5emJTdVNscXIyOU5KdFdsc0o2dUtBRXd5UjlwUDF2UGFGUTBMemVWS2V0QzNtV3UteGsxcmhnNUJaN1VKaFlYSnV5MERRcHlOS1EyenJUVi0?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-08-25T08:18:48.000Z",
+      "timestamp": 1724573928000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "二、推動河川治理及水資源開發之主要計畫",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XR1lKRWF0WkZhY2tpeWxQOGxYdEFNVFBub29FNHRZTUtoSkFVVGtJZ1h4azVPMi1CRmpDTEN1eU1DMjM2ZG1OcXdZVGgyXzdSYV9WdkIxbEJuTldOVGtzMS1Ga19KcTB4aUJqYnRUNEw?oc=5",
+      "source": "立法院全球資訊網 (ly.gov.tw)",
+      "meta": "立法院官方網站發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-08-13T16:53:17.000Z",
+      "timestamp": 1723567997000,
+      "matchedKeywords": [
+        "水資源"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "一個律師的筆記本》「立法院」在憲法法庭最多只能有三個律師不公平？",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1abDEwZGpMVElVQ3BsVjJrcnZ4XzFhVTBoLXJUbmg4X3VBcDVVN19OX2dWeXdSQU5tai1Ddk5aZjNhbWtMV0hlS2k3NXF3SHdaWmJjZG40SkxWQlBCaWdFU1l30gFnQVVfeXFMUHdidFdhd09mcDdhZmo5TTdFUW9MbGVSdmNUVlU5ZHBpQ0VBOWdOaXdDS29XY19qQ254dzhOVWV6c2s4SW5Kc05hR2M5VUpTZTA1U0wyU0RFZnRhZm9ZSUFlRk1GNnJCNA?oc=5",
+      "source": "國會動態・自由評論網",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-07-14T07:00:00.000Z",
+      "timestamp": 1720940400000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "傳洪孟楷索半導體業務機密 分析師：台股恐慌賣壓重挫439點",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tVzNNQTBadDhVSUJQTGdmeXVGZFJnd1BXaHFhTm8wSWFYZ0RHRjVtaktfRm5PVmQyRG5ibVNBTUdHSEtKSTlUbkRhcWducGtRcFJhNUhhdXRRdw?oc=5",
+      "source": "國會動態・Newtalk新聞",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-06-24T07:00:00.000Z",
+      "timestamp": 1719212400000,
+      "matchedKeywords": [
+        "半導體"
+      ]
+    },
+    {
+      "category": "official",
+      "categoryLabel": "官網／研究報告",
+      "title": "立法院全球資訊網-張裕榮副秘書長出席「亞東國會議員友好協會」",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TaU9TNlRBZ1lJZHQwSVE0MzM5MDYzTkpKV2IxNHotVUE4NGQ4TDI4YVVJVktxQlFIX2JRSWJzemh2RVdzNXVOQlJKQUwyaUxsdUpyUWZGSkFFVXpXbHBRaWlldDlvY2JNWnEtdmU1Zw?oc=5",
+      "source": "立法院全球資訊網",
+      "meta": "立法院官方發布",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-03-11T00:49:05.000Z",
+      "timestamp": 1710118145000,
+      "matchedKeywords": [
+        "水資源",
+        "地熱",
+        "半導體"
+      ]
+    }
+  ]
+}

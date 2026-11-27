@@ -21,14 +21,14 @@
     newsFilter: '',
     lyFilter: '',
 
-    // Zone 3: Government Agencies (100% official websites + editable focus keywords)
+    // Zone 3: Government Agencies
     govItems: [],
     govAgencies: [],
     selectedGovGroup: 'all',
     selectedGovAgency: 'all',
     editingAgencyId: '3-1',
-    customGovKeywords: savedCustomGovKw, // { [agencyId]: string[] }
-    govKwMode: 'preset', // 'preset' | 'global' | 'all'
+    customGovKeywords: savedCustomGovKw,
+    govKwMode: 'preset',
     govFilter: '',
 
     countdown: AUTO_REFRESH_SECONDS,
@@ -109,20 +109,52 @@
     return (tmp.textContent || tmp.innerText || '').replace(/\s+/g, ' ').trim();
   }
 
-  function parseKeywordList(raw = '水資源') {
-    const parts = String(raw || '')
-      .split(/[+＋]+/)
+  /**
+   * Smart Boolean Search Parser:
+   * Supports '+' / '＋' / '、' / ',' AND inline 'OR' / '|' / 'AND' / '&'
+   */
+  function parseSearchExpression(raw = '水資源', fallbackMode = 'or') {
+    let detectedMode = fallbackMode === 'and' ? 'and' : 'or';
+    let s = String(raw || '').trim();
+    if (!s) {
+      return { keywords: ['水資源'], mode: detectedMode, normalized: '水資源' };
+    }
+
+    if (/\s+OR\s+|\s*\|\s*|\s*｜\s*/i.test(s)) {
+      detectedMode = 'or';
+      s = s.replace(/\s+OR\s+|\s*\|\s*|\s*｜\s*/gi, '+');
+    } else if (/\s+AND\s+|\s*&\s*/i.test(s)) {
+      detectedMode = 'and';
+      s = s.replace(/\s+AND\s+|\s*&\s*/gi, '+');
+    }
+
+    const parts = s
+      .split(/[+＋、,，]+/)
       .map((t) => t.replace(/"/g, '').trim())
       .filter(Boolean);
+
     const unique = [...new Set(parts)];
-    return unique.length > 0 ? unique.slice(0, 8) : ['水資源'];
+    const keywords = unique.length > 0 ? unique.slice(0, 8) : ['水資源'];
+    return {
+      keywords,
+      mode: detectedMode,
+      normalized: keywords.join('+'),
+    };
   }
 
   /**
-   * Parse flexible editable government agency focus keywords
-   * Supports separating by 、 , ， + ＋ ; ； / or whitespace!
-   * Empty string returns [] (meaning show all announcements of that agency).
+   * Build LYAPI v2 Elasticsearch simple_query_string boolean query:
+   * - OR:  "A" | "B"
+   * - AND: +"A" +"B" (required because space alone in LYAPI defaults to OR!)
    */
+  function buildLyApiBooleanQuery(keywords, mode = 'or') {
+    if (keywords.length === 1) return `"${keywords[0]}"`;
+    if (mode === 'and') {
+      return keywords.map((k) => `+"${k}"`).join(' ');
+    }
+    return keywords.map((k) => `"${k}"`).join(' | ');
+  }
+
   function parseGovFocusInput(raw = '') {
     const parts = String(raw || '')
       .split(/[、,，+＋;；/\s]+/)
@@ -156,11 +188,6 @@
     toastTimer = setTimeout(() => {
       govSaveToast.textContent = '';
     }, 2800);
-  }
-
-  function buildExactPhraseQuery(keywords) {
-    const list = Array.isArray(keywords) ? keywords : parseKeywordList(keywords);
-    return list.map((t) => `"${t}"`).join(' ');
   }
 
   function computeMatchedKeywords(item, keywords, fallbackKw = '') {
@@ -198,9 +225,9 @@
 
   function highlightKeyword(text = '', keywords = state.keywords) {
     const escaped = escapeHtml(text);
-    const list = Array.isArray(keywords) ? keywords : parseKeywordList(keywords);
+    const list = Array.isArray(keywords) ? keywords : [keywords];
     const tokens = list
-      .map((t) => t.trim())
+      .map((t) => String(t || '').trim())
       .filter(Boolean)
       .sort((a, b) => b.length - a.length)
       .map((t) => escapeHtml(t).replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
@@ -211,11 +238,12 @@
 
   function updateKeywordBadgesUI() {
     const kws = state.keywords;
-    const modeLabel = kws.length > 1 ? (state.mode === 'and' ? '（且）' : '（或）') : '';
+    const modeLabel = kws.length > 1 ? (state.mode === 'and' ? '（AND 皆須包含）' : '（OR 任一符合）') : '';
+    const sepSymbol = state.mode === 'and' ? 'AND' : 'OR';
 
     activeKeywordBadge.innerHTML = kws
       .map((k) => `<strong class="active-keyword-pill">【${escapeHtml(k)}】</strong>`)
-      .join(`<span class="kw-plus-sep">＋</span>`);
+      .join(`<span class="kw-plus-sep">${sepSymbol}</span>`);
 
     const inlineText = kws.map((k) => `【${k}】`).join('＋') + modeLabel;
     kwInlines.forEach((el) => {
@@ -235,9 +263,9 @@
   }
 
   function formatDateDisplay(isoStr) {
-    if (!isoStr) return '近期官網公告';
+    if (!isoStr) return '近期發布';
     const d = new Date(isoStr);
-    if (Number.isNaN(d.getTime())) return '近期官網公告';
+    if (Number.isNaN(d.getTime())) return '近期發布';
 
     const now = Date.now();
     const diffSec = Math.floor((now - d.getTime()) / 1000);
@@ -290,73 +318,79 @@
     return state.manifest;
   }
 
-  function parseBrowserRssXml(xmlText, fallbackSource = '台灣新聞') {
-    const doc = new DOMParser().parseFromString(xmlText, 'text/xml');
-    const nodes = Array.from(doc.querySelectorAll('item'));
-    return nodes
-      .map((node) => {
-        let rawTitle = (node.querySelector('title')?.textContent || '').trim();
-        let link = (node.querySelector('link')?.textContent || '').trim();
-        const pubDateRaw = (node.querySelector('pubDate')?.textContent || '').trim();
-        let source = (node.querySelector('source')?.textContent || '').trim();
+  /**
+   * Browser-native CORS Live Taiwan News Fetcher (via verified rss2json + Bing News Taiwan RSS)
+   * Works directly on https://yingchan39.github.io with HTTP 200 & Access-Control-Allow-Origin!
+   */
+  async function fetchLiveNewsViaRss2Json(queryStr, allKeywords, tagKw = '') {
+    const bingRssUrl = `https://www.bing.com/news/search?q=${encodeURIComponent(queryStr)}&format=rss&mkt=zh-TW`;
+    const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(bingRssUrl)}`;
 
-        if (rawTitle) {
-          const dashIdx = rawTitle.lastIndexOf(' - ');
-          if (dashIdx > 4) {
-            const suffix = rawTitle.slice(dashIdx + 3).trim();
-            if (suffix && suffix.length <= 30) {
-              if (!source) source = suffix;
-              rawTitle = rawTitle.slice(0, dashIdx).trim();
+    try {
+      const res = await fetch(apiUrl, { signal: AbortSignal.timeout(8500) });
+      if (!res.ok) return [];
+      const data = await res.json();
+      if (data.status !== 'ok' || !Array.isArray(data.items)) return [];
+
+      return data.items
+        .map((it) => {
+          let rawTitle = (it.title || '').trim();
+          let link = (it.link || '').trim();
+          try {
+            if (link.includes('bing.com/news/apiclick.aspx')) {
+              const u = new URL(link);
+              const realUrl = u.searchParams.get('url');
+              if (realUrl) link = realUrl;
+            }
+          } catch (_) {}
+
+          let source = (it.author || '').trim();
+          if (rawTitle) {
+            const dashIdx = rawTitle.lastIndexOf(' - ');
+            if (dashIdx > 4) {
+              const suffix = rawTitle.slice(dashIdx + 3).trim();
+              if (suffix && suffix.length <= 30) {
+                if (!source) source = suffix;
+                rawTitle = rawTitle.slice(0, dashIdx).trim();
+              }
             }
           }
-        }
+          if (!rawTitle) return null;
 
-        let summary = stripHtmlText(node.querySelector('description')?.textContent || '');
-        if (summary && rawTitle && summary.startsWith(rawTitle)) {
-          summary = summary.slice(rawTitle.length).replace(/^[\s\-—·|]+/, '').trim();
-        }
-        if (source && summary === source) summary = '';
+          // rss2json returns pubDate in UTC "YYYY-MM-DD HH:MM:SS"
+          const pubRaw = it.pubDate ? `${it.pubDate.replace(' ', 'T')}Z` : '';
+          const dt = pubRaw ? new Date(pubRaw) : null;
+          const validDt = dt && !Number.isNaN(dt.getTime()) ? dt : null;
+          const summary = stripHtmlText(it.description || '').slice(0, 220);
 
-        const dt = pubDateRaw ? new Date(pubDateRaw) : null;
-        const validDt = dt && !Number.isNaN(dt.getTime()) ? dt : null;
-        if (!rawTitle) return null;
-
-        return {
-          title: rawTitle,
-          link: link || '#',
-          source: source || fallbackSource,
-          summary: summary.slice(0, 220),
-          publishedAt: validDt ? validDt.toISOString() : null,
-          timestamp: validDt ? validDt.getTime() : 0,
-        };
-      })
-      .filter(Boolean);
-  }
-
-  async function fetchBrowserLiveRss(rssUrl) {
-    const proxies = [
-      `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(rssUrl)}`,
-      `https://corsproxy.io/?url=${encodeURIComponent(rssUrl)}`,
-    ];
-    for (const p of proxies) {
-      try {
-        const res = await fetch(p, { signal: AbortSignal.timeout(7000) });
-        if (res.ok) {
-          const txt = await res.text();
-          if (txt.includes('<item>')) return parseBrowserRssXml(txt);
-        }
-      } catch (_) {}
+          const obj = {
+            title: rawTitle,
+            link: link || '#',
+            source: source || '即時新聞',
+            summary,
+            publishedAt: validDt ? validDt.toISOString() : null,
+            timestamp: validDt ? validDt.getTime() : 0,
+          };
+          obj.matchedKeywords = computeMatchedKeywords(obj, allKeywords, tagKw);
+          return obj;
+        })
+        .filter(Boolean);
+    } catch (_) {
+      return [];
     }
-    return [];
   }
 
+  /**
+   * Static Mode Zone 1: Combines GitHub Actions Google News snapshots + Live Browser rss2json Bing News!
+   */
   async function fetchStaticNews(keywords, mode, forceRefresh) {
     const normalized = keywords.join('+');
     const manifest = await loadManifest();
 
+    // Fast path for exact preset in OR mode when not forcing refresh
     if (!forceRefresh && (mode === 'or' || keywords.length === 1)) {
       const exactPreset = manifest?.presets?.[normalized];
-      if (exactPreset?.newsFile) {
+      if (exactPreset?.newsFile && exactPreset.newsCount > 0) {
         try {
           const res = await fetch(`${exactPreset.newsFile}?t=${Date.now()}`, { cache: 'no-store' });
           if (res.ok) return await res.json();
@@ -364,61 +398,67 @@
       }
     }
 
+    // 1) Load all pre-built snapshots from manifest to form a rich local Google News pool
     const snapshotPool = [];
     if (manifest?.presets) {
-      const candidateKeys = new Set([...keywords, '水資源', '水資源+水庫', '水資源+再生水', '水資源+海水淡化']);
-      const fetches = [...candidateKeys]
-        .filter((k) => manifest.presets[k]?.newsFile)
-        .map(async (k) => {
+      const presetEntries = Object.values(manifest.presets);
+      const chunks = await Promise.all(
+        presetEntries.map(async (entry) => {
+          if (!entry?.newsFile) return [];
           try {
-            const r = await fetch(`${manifest.presets[k].newsFile}?t=${Date.now()}`);
+            const r = await fetch(`${entry.newsFile}?t=${Date.now()}`);
             if (r.ok) {
               const j = await r.json();
-              return (j.items || []).map((it) => ({
-                ...it,
-                matchedKeywords: computeMatchedKeywords(it, keywords),
-              }));
+              return j.items || [];
             }
           } catch (_) {}
           return [];
-        });
-      const chunks = await Promise.all(fetches);
-      chunks.forEach((c) => snapshotPool.push(...c));
-    }
-
-    let liveItems = [];
-    if (keywords.length === 1 || mode === 'and') {
-      const exactQuery = buildExactPhraseQuery(keywords);
-      const url = `https://news.google.com/rss/search?q=${encodeURIComponent(exactQuery)}&hl=zh-TW&gl=TW&ceid=TW:zh-Hant`;
-      const fetched = await fetchBrowserLiveRss(url);
-      liveItems = fetched.map((it) => ({
-        ...it,
-        matchedKeywords: computeMatchedKeywords(it, keywords, keywords.length === 1 ? keywords[0] : ''),
-      }));
-    } else {
-      const perKw = await Promise.all(
-        keywords.map(async (kw) => {
-          const url = `https://news.google.com/rss/search?q=${encodeURIComponent(`"${kw}"`)}&hl=zh-TW&gl=TW&ceid=TW:zh-Hant`;
-          const list = await fetchBrowserLiveRss(url);
-          return list.map((it) => ({
-            ...it,
-            matchedKeywords: computeMatchedKeywords(it, keywords, kw),
-          }));
         })
       );
-      perKw.forEach((arr) => liveItems.push(...arr));
+      chunks.forEach((arr) => snapshotPool.push(...arr));
     }
 
-    const filteredPool = snapshotPool.filter((it) => {
-      const hay = `${it.title || ''} ${it.summary || ''} ${it.source || ''}`.toLowerCase();
-      return mode === 'and'
-        ? keywords.every((k) => hay.includes(k.toLowerCase()))
-        : keywords.some((k) => hay.includes(k.toLowerCase()));
-    });
+    const matchedFromSnapshots = snapshotPool
+      .filter((it) => {
+        const hay = `${it.title || ''} ${it.summary || ''} ${it.source || ''}`.toLowerCase();
+        return mode === 'and'
+          ? keywords.every((k) => hay.includes(k.toLowerCase()))
+          : keywords.some((k) => hay.includes(k.toLowerCase()));
+      })
+      .map((it) => ({
+        ...it,
+        matchedKeywords: computeMatchedKeywords(it, keywords),
+      }));
 
-    const merged = deduplicateItems([...liveItems, ...filteredPool]).sort(
+    // 2) Live Browser Real-Time Search via rss2json + Bing News Taiwan RSS (supports ANY keyword!)
+    const liveItems = [];
+    if (mode === 'and') {
+      const andItems = await fetchLiveNewsViaRss2Json(keywords.join(' '), keywords, '');
+      liveItems.push(...andItems);
+    } else {
+      // OR mode: query each keyword in parallel so every keyword gets live results!
+      const perKwArrays = await Promise.all(
+        keywords.map((kw) => fetchLiveNewsViaRss2Json(kw, keywords, kw))
+      );
+      perKwArrays.forEach((arr) => liveItems.push(...arr));
+    }
+
+    let merged = deduplicateItems([...liveItems, ...matchedFromSnapshots]).sort(
       (a, b) => (b.timestamp || 0) - (a.timestamp || 0)
     );
+
+    if (mode === 'and' && keywords.length > 1) {
+      const strictAnd = merged.filter((it) => {
+        const hay = `${it.title || ''} ${it.summary || ''}`.toLowerCase();
+        return keywords.every((k) => hay.includes(k.toLowerCase()));
+      });
+      if (strictAnd.length > 0) merged = strictAnd;
+    }
+
+    const activeSources = [];
+    if (liveItems.length > 0) activeSources.push({ name: '即時新聞檢索 (台灣)', count: liveItems.length });
+    if (matchedFromSnapshots.length > 0)
+      activeSources.push({ name: 'Google 新聞同步庫', count: matchedFromSnapshots.length });
 
     return {
       keyword: normalized,
@@ -426,12 +466,7 @@
       mode,
       fetchedAt: new Date().toISOString(),
       total: merged.length,
-      sources: [
-        {
-          name: liveItems.length > 0 ? 'Google 新聞即時多關鍵字檢索' : 'GitHub Pages 多關鍵字同步資料庫',
-          count: merged.length,
-        },
-      ],
+      sources: activeSources,
       items: merged.slice(0, 80),
     };
   }
@@ -446,12 +481,12 @@
     return '';
   }
 
-  async function fetchLiveLySingleExact(exactQueryStr, allKeywords, fallbackKw = '') {
-    const exact = encodeURIComponent(exactQueryStr);
+  async function fetchLiveLyByBooleanQuery(lyQueryStr, allKeywords, fallbackKw = '') {
+    const enc = encodeURIComponent(lyQueryStr);
     const settled = await Promise.allSettled([
-      fetch(`https://v2.ly.govapi.tw/bills?q=${exact}&limit=20`).then((r) => r.json()),
-      fetch(`https://v2.ly.govapi.tw/ivods?q=${exact}&%E5%BD%B1%E7%89%87%E7%A8%AE%E9%A1%9E=Clip&limit=15`).then((r) => r.json()),
-      fetch(`https://v2.ly.govapi.tw/gazette_agendas?q=${exact}&limit=12`).then((r) => r.json()),
+      fetch(`https://v2.ly.govapi.tw/bills?q=${enc}&limit=20`).then((r) => r.json()),
+      fetch(`https://v2.ly.govapi.tw/ivods?q=${enc}&%E5%BD%B1%E7%89%87%E7%A8%AE%E9%A1%9E=Clip&limit=15`).then((r) => r.json()),
+      fetch(`https://v2.ly.govapi.tw/gazette_agendas?q=${enc}&limit=12`).then((r) => r.json()),
     ]);
 
     const items = [];
@@ -555,7 +590,7 @@
 
     if (!forceRefresh && (mode === 'or' || keywords.length === 1)) {
       const exactPreset = manifest?.presets?.[normalized];
-      if (exactPreset?.lyFile) {
+      if (exactPreset?.lyFile && exactPreset.lyCount > 0) {
         try {
           const res = await fetch(`${exactPreset.lyFile}?t=${Date.now()}`, { cache: 'no-store' });
           if (res.ok) return await res.json();
@@ -565,20 +600,20 @@
 
     const snapshotPool = [];
     if (manifest?.presets) {
-      const candidateKeys = new Set([...keywords, '水資源', '水資源+水庫', '水資源+再生水', '水資源+海水淡化']);
-      const fetches = [...candidateKeys]
-        .filter((k) => manifest.presets[k]?.lyFile)
-        .map(async (k) => {
+      const presetEntries = Object.values(manifest.presets);
+      const chunks = await Promise.all(
+        presetEntries.map(async (entry) => {
+          if (!entry?.lyFile) return [];
           try {
-            const r = await fetch(`${manifest.presets[k].lyFile}?t=${Date.now()}`);
+            const r = await fetch(`${entry.lyFile}?t=${Date.now()}`);
             if (r.ok) {
               const j = await r.json();
               return j.items || [];
             }
           } catch (_) {}
           return [];
-        });
-      const chunks = await Promise.all(fetches);
+        })
+      );
       chunks.forEach((c) => snapshotPool.push(...c));
     }
 
@@ -594,16 +629,17 @@
         matchedKeywords: computeMatchedKeywords(it, keywords),
       }));
 
+    // Live LYAPI v2 with verified +"A" +"B" (AND) vs "A" | "B" (OR) syntax!
     let liveLyItems = [];
     if (keywords.length === 1 || mode === 'and') {
-      liveLyItems = await fetchLiveLySingleExact(
-        buildExactPhraseQuery(keywords),
+      liveLyItems = await fetchLiveLyByBooleanQuery(
+        buildLyApiBooleanQuery(keywords, mode),
         keywords,
         keywords.length === 1 ? keywords[0] : ''
       );
     } else {
       const perKw = await Promise.all(
-        keywords.map((kw) => fetchLiveLySingleExact(`"${kw}"`, keywords, kw))
+        keywords.map((kw) => fetchLiveLyByBooleanQuery(`"${kw}"`, keywords, kw))
       );
       perKw.forEach((arr) => liveLyItems.push(...arr));
     }
@@ -627,7 +663,7 @@
       fetchedAt: new Date().toISOString(),
       total: merged.length,
       counts,
-      sources: [{ name: '立法院開放資料多關鍵字即時 API ＋ 官網同步快取', count: merged.length }],
+      sources: [{ name: '立法院開放資料即時 API ＋ 官網同步快取', count: merged.length }],
       items: merged.slice(0, 100),
     };
   }
@@ -765,9 +801,6 @@
     catCountEls.press.textContent = c.press ?? 0;
   }
 
-  /**
-   * Zone 3 dynamic evaluation using editable per-agency focus keywords!
-   */
   function getGovItemHits(item) {
     const hay = `${item.title || ''} ${item.summary || ''} ${item.channelLabel || ''}`.toLowerCase();
     if (state.govKwMode === 'all') {
@@ -779,10 +812,8 @@
       const matched = state.mode === 'and' ? hits.length === state.keywords.length : hits.length > 0;
       return { matched, hits };
     }
-    // 'preset' mode: dynamically evaluate against editable getActiveAgencyKeywords(agencyId)!
     const agKws = getActiveAgencyKeywords(item.agencyId);
     if (!agKws || agKws.length === 0) {
-      // User cleared keywords -> show all official announcements of this agency
       return { matched: true, hits: [] };
     }
     const hits = agKws.filter((k) => hay.includes(k.toLowerCase()));
@@ -1035,9 +1066,6 @@
     state.loading = true;
     refreshBtn.classList.add('loading');
 
-    state.keywords = parseKeywordList(state.keyword);
-    state.keyword = state.keywords.join('+');
-    keywordInput.value = state.keyword;
     updateKeywordBadgesUI();
 
     if (state.newsItems.length === 0) showSkeletons(newsList, 4);
@@ -1045,8 +1073,8 @@
     const shouldFetchGov = !skipGovIfLoaded || state.govItems.length === 0;
     if (shouldFetchGov && state.govItems.length === 0) showSkeletons(govList, 6);
 
-    const kwLabel = state.keywords.map((k) => `【${k}】`).join('＋');
-    lastSyncText.textContent = `正在同步 ${kwLabel} 新聞、立法院與政府官網最新訊息…`;
+    const kwLabel = state.keywords.map((k) => `【${k}】`).join(state.mode === 'and' ? ' AND ' : ' OR ');
+    lastSyncText.textContent = `正在搜尋 ${kwLabel} 最新新聞與國會資料…`;
 
     const hasApi = await detectBackendMode();
     const qs = `q=${encodeURIComponent(state.keyword)}&mode=${encodeURIComponent(state.mode)}${
@@ -1115,8 +1143,7 @@
         ? new Date(newsRes.value.fetchedAt)
         : new Date();
     const timeFormatted = syncDate.toLocaleTimeString('zh-TW', { hour12: false });
-    const modeDesc = state.keywords.length > 1 ? (state.mode === 'and' ? '｜皆須包含' : '｜任一符合') : '';
-    lastSyncText.textContent = `最後更新：${timeFormatted}（${kwLabel}${modeDesc}）`;
+    lastSyncText.textContent = `最後更新：${timeFormatted}（${kwLabel}）`;
 
     state.countdown = AUTO_REFRESH_SECONDS;
     state.loading = false;
@@ -1124,10 +1151,14 @@
   }
 
   function applyNewKeywordSearch(rawVal, forceRefresh = true) {
-    const parsed = parseKeywordList(rawVal);
-    state.keywords = parsed;
-    state.keyword = parsed.join('+');
-    state.mode = matchModeSelect.value === 'and' ? 'and' : 'or';
+    const uiMode = matchModeSelect.value === 'and' ? 'and' : 'or';
+    const parsed = parseSearchExpression(rawVal, uiMode);
+    state.keywords = parsed.keywords;
+    state.keyword = parsed.normalized;
+    state.mode = parsed.mode;
+
+    // Sync input & dropdown UI if user typed inline OR / AND
+    matchModeSelect.value = state.mode;
     keywordInput.value = state.keyword;
 
     quickChips.forEach((chip) => {
@@ -1152,7 +1183,15 @@
   });
 
   matchModeSelect.addEventListener('change', () => {
+    // Re-parse using current input text (stripping any old inline OR/AND by using state.keywords.join('+'))
     state.mode = matchModeSelect.value === 'and' ? 'and' : 'or';
+    const currentInput = parseSearchExpression(keywordInput.value, state.mode);
+    state.keywords = currentInput.keywords;
+    state.keyword = currentInput.normalized;
+    // Respect explicit dropdown selection
+    state.mode = matchModeSelect.value === 'and' ? 'and' : 'or';
+    keywordInput.value = state.keyword;
+
     if (state.keywords.length > 1) {
       state.newsItems = [];
       state.lyItems = [];
@@ -1190,7 +1229,6 @@
     renderLyList();
   });
 
-  // Zone 3 Group & Agency Selection (syncs with Editor dropdown!)
   govGroupTabs.addEventListener('click', (e) => {
     const btn = e.target.closest('.gov-group-tab');
     if (!btn) return;
@@ -1216,7 +1254,6 @@
     renderGovList();
   });
 
-  // Zone 3 Editable Focus Keywords Events
   editAgencySelect.addEventListener('change', () => {
     state.editingAgencyId = editAgencySelect.value;
     syncGovEditorBannerUI();
@@ -1230,7 +1267,6 @@
     state.customGovKeywords[targetId] = parsedKws;
     persistCustomGovKeywords();
 
-    // Ensure radio is on 'preset' so user immediately sees their applied custom focus!
     if (state.govKwMode !== 'preset') {
       state.govKwMode = 'preset';
       govKwRadios.forEach((r) => {
@@ -1264,7 +1300,6 @@
     flashGovToast('↺ 已將全部 20 個機關還原為預設值');
   });
 
-  // Batch edit apply buttons inside the 20-agency directory grid
   govDirectoryGrid.addEventListener('click', (e) => {
     const btn = e.target.closest('.dir-apply-btn');
     if (!btn) return;
