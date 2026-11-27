@@ -1,11 +1,18 @@
 (() => {
   const AUTO_REFRESH_SECONDS = 300; // 5 minutes
+  const STORAGE_KEY_GOV_KW = 'magicConch_govCustomKeywords_v2';
+
+  let savedCustomGovKw = {};
+  try {
+    const rawSaved = localStorage.getItem(STORAGE_KEY_GOV_KW);
+    if (rawSaved) savedCustomGovKw = JSON.parse(rawSaved) || {};
+  } catch (_) {}
 
   const state = {
     keyword: '水資源',
     keywords: ['水資源'],
     mode: 'or',
-    viewZone: 'all', // 'all' | 'zone1' | 'zone2' | 'zone3'
+    viewZone: 'all',
 
     newsItems: [],
     lyItems: [],
@@ -14,11 +21,13 @@
     newsFilter: '',
     lyFilter: '',
 
-    // Zone 3: Government Agencies
+    // Zone 3: Government Agencies (100% official websites + editable focus keywords)
     govItems: [],
     govAgencies: [],
     selectedGovGroup: 'all',
     selectedGovAgency: 'all',
+    editingAgencyId: '3-1',
+    customGovKeywords: savedCustomGovKw, // { [agencyId]: string[] }
     govKwMode: 'preset', // 'preset' | 'global' | 'all'
     govFilter: '',
 
@@ -71,7 +80,13 @@
   const govCountPill = document.getElementById('govCountPill');
   const govGroupTabs = document.getElementById('govGroupTabs');
   const govAgencyStrip = document.getElementById('govAgencyStrip');
-  const govFocusText = document.getElementById('govFocusText');
+  const editAgencySelect = document.getElementById('editAgencySelect');
+  const govMemoHint = document.getElementById('govMemoHint');
+  const govKwEditorForm = document.getElementById('govKwEditorForm');
+  const agencyKwInput = document.getElementById('agencyKwInput');
+  const resetAgencyKwBtn = document.getElementById('resetAgencyKwBtn');
+  const resetAllGovKwBtn = document.getElementById('resetAllGovKwBtn');
+  const govSaveToast = document.getElementById('govSaveToast');
   const govChannelLinks = document.getElementById('govChannelLinks');
   const govDirectoryGrid = document.getElementById('govDirectoryGrid');
   const govFilterInput = document.getElementById('govFilterInput');
@@ -101,6 +116,46 @@
       .filter(Boolean);
     const unique = [...new Set(parts)];
     return unique.length > 0 ? unique.slice(0, 8) : ['水資源'];
+  }
+
+  /**
+   * Parse flexible editable government agency focus keywords
+   * Supports separating by 、 , ， + ＋ ; ； / or whitespace!
+   * Empty string returns [] (meaning show all announcements of that agency).
+   */
+  function parseGovFocusInput(raw = '') {
+    const parts = String(raw || '')
+      .split(/[、,，+＋;；/\s]+/)
+      .map((s) => s.replace(/"/g, '').trim())
+      .filter(Boolean);
+    return [...new Set(parts)];
+  }
+
+  function getActiveAgencyKeywords(agencyId) {
+    if (Object.prototype.hasOwnProperty.call(state.customGovKeywords, agencyId)) {
+      return state.customGovKeywords[agencyId];
+    }
+    const ag = state.govAgencies.find((a) => a.id === agencyId);
+    return ag ? ag.defaultKeywords || [] : [];
+  }
+
+  function isAgencyCustomized(agencyId) {
+    return Object.prototype.hasOwnProperty.call(state.customGovKeywords, agencyId);
+  }
+
+  function persistCustomGovKeywords() {
+    try {
+      localStorage.setItem(STORAGE_KEY_GOV_KW, JSON.stringify(state.customGovKeywords));
+    } catch (_) {}
+  }
+
+  let toastTimer = null;
+  function flashGovToast(msg) {
+    govSaveToast.textContent = msg;
+    if (toastTimer) clearTimeout(toastTimer);
+    toastTimer = setTimeout(() => {
+      govSaveToast.textContent = '';
+    }, 2800);
   }
 
   function buildExactPhraseQuery(keywords) {
@@ -710,21 +765,78 @@
     catCountEls.press.textContent = c.press ?? 0;
   }
 
-  // Zone 3 Filtering Helper
-  function doesGovItemMatchMode(item) {
-    if (state.govKwMode === 'all') return true;
-    if (state.govKwMode === 'preset') return Boolean(item.isDefaultMatch);
-    // 'global' mode: use state.keywords & state.mode
-    const hay = `${item.title || ''} ${item.summary || ''} ${item.agencyName || ''} ${item.channelLabel || ''}`.toLowerCase();
-    return state.mode === 'and'
-      ? state.keywords.every((k) => hay.includes(k.toLowerCase()))
-      : state.keywords.some((k) => hay.includes(k.toLowerCase()));
+  /**
+   * Zone 3 dynamic evaluation using editable per-agency focus keywords!
+   */
+  function getGovItemHits(item) {
+    const hay = `${item.title || ''} ${item.summary || ''} ${item.channelLabel || ''}`.toLowerCase();
+    if (state.govKwMode === 'all') {
+      const agKws = getActiveAgencyKeywords(item.agencyId);
+      return { matched: true, hits: agKws.filter((k) => hay.includes(k.toLowerCase())) };
+    }
+    if (state.govKwMode === 'global') {
+      const hits = state.keywords.filter((k) => hay.includes(k.toLowerCase()));
+      const matched = state.mode === 'and' ? hits.length === state.keywords.length : hits.length > 0;
+      return { matched, hits };
+    }
+    // 'preset' mode: dynamically evaluate against editable getActiveAgencyKeywords(agencyId)!
+    const agKws = getActiveAgencyKeywords(item.agencyId);
+    if (!agKws || agKws.length === 0) {
+      // User cleared keywords -> show all official announcements of this agency
+      return { matched: true, hits: [] };
+    }
+    const hits = agKws.filter((k) => hay.includes(k.toLowerCase()));
+    return { matched: hits.length > 0, hits };
   }
 
-  function renderGovDirectoryOnce() {
-    if (!state.govAgencies.length || govDirectoryGrid.dataset.rendered === '1') return;
+  function populateGovEditorSelect() {
+    if (!state.govAgencies.length) return;
+    editAgencySelect.innerHTML = state.govAgencies
+      .map((ag) => {
+        const customMark = isAgencyCustomized(ag.id) ? ' ✎(已自訂)' : '';
+        return `<option value="${escapeHtml(ag.id)}" ${
+          ag.id === state.editingAgencyId ? 'selected' : ''
+        }>${escapeHtml(ag.code)} ${escapeHtml(ag.name)}${customMark}</option>`;
+      })
+      .join('');
+  }
+
+  function syncGovEditorBannerUI() {
+    if (!state.govAgencies.length) return;
+    populateGovEditorSelect();
+
+    const ag = state.govAgencies.find((a) => a.id === state.editingAgencyId) || state.govAgencies[0];
+    if (!ag) return;
+
+    const activeKws = getActiveAgencyKeywords(ag.id);
+    agencyKwInput.value = activeKws.join('、');
+    govMemoHint.textContent = `原始備註：${ag.focusDesc}`;
+
+    const chHtml = (ag.channels || [])
+      .map(
+        (ch) =>
+          `<a class="gov-portal-btn" href="${escapeHtml(ch.url)}" target="_blank" rel="noopener noreferrer">官網：${escapeHtml(
+            ch.label
+          )} ↗</a>`
+      )
+      .join('');
+    const exHtml = (ag.extraLinks || [])
+      .map(
+        (ex) =>
+          `<a class="gov-portal-btn extra" href="${escapeHtml(ex.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(
+            ex.label
+          )} ↗</a>`
+      )
+      .join('');
+    govChannelLinks.innerHTML = chHtml + exHtml;
+  }
+
+  function renderGovDirectoryGrid() {
+    if (!state.govAgencies.length) return;
     govDirectoryGrid.innerHTML = state.govAgencies
       .map((ag) => {
+        const activeKws = getActiveAgencyKeywords(ag.id).join('、');
+        const customTag = isAgencyCustomized(ag.id) ? ' <small style="color:#0d9488;">(已自訂)</small>' : '';
         const chLinks = (ag.channels || [])
           .map(
             (ch) =>
@@ -743,28 +855,37 @@
           .join('');
         return `
           <div class="dir-card">
-            <div class="dir-card-head">${escapeHtml(ag.code)} ${escapeHtml(ag.name)}</div>
-            <div class="dir-card-kw">預設重點：${escapeHtml(ag.focusDesc)}</div>
+            <div class="dir-card-head">
+              <span>${escapeHtml(ag.code)} ${escapeHtml(ag.name)}${customTag}</span>
+            </div>
+            <div class="dir-card-memo">說明：${escapeHtml(ag.focusDesc)}</div>
+            <div class="dir-edit-row">
+              <input
+                type="text"
+                class="dir-kw-input"
+                data-ag="${escapeHtml(ag.id)}"
+                value="${escapeHtml(activeKws)}"
+                placeholder="輸入關鍵字（以 、 或 + 隔開，留空顯示全部）"
+              />
+              <button type="button" class="dir-apply-btn" data-apply-ag="${escapeHtml(ag.id)}">套用</button>
+            </div>
             <div class="dir-card-links">${chLinks}${extraLinks}</div>
           </div>
         `;
       })
       .join('');
-    govDirectoryGrid.dataset.rendered = '1';
   }
 
   function renderGovSubControls() {
     const group = state.selectedGovGroup;
     const agenciesInGroup =
-      group === 'all'
-        ? state.govAgencies
-        : state.govAgencies.filter((a) => a.groupId === group);
+      group === 'all' ? state.govAgencies : state.govAgencies.filter((a) => a.groupId === group);
 
-    // Count items per agency under current govKwMode
     const countsByAg = {};
     let groupTotal = 0;
     for (const item of state.govItems) {
-      if (!doesGovItemMatchMode(item)) continue;
+      const { matched } = getGovItemHits(item);
+      if (!matched) continue;
       countsByAg[item.agencyId] = (countsByAg[item.agencyId] || 0) + 1;
       if (group === 'all' || item.groupId === group) groupTotal++;
     }
@@ -780,7 +901,8 @@
         .map((ag) => {
           const cnt = countsByAg[ag.id] || 0;
           const isAct = state.selectedGovAgency === ag.id ? 'active' : '';
-          return `<button type="button" class="gov-agency-chip ${isAct}" data-agency="${escapeHtml(
+          const isCust = isAgencyCustomized(ag.id) ? 'is-customized' : '';
+          return `<button type="button" class="gov-agency-chip ${isAct} ${isCust}" data-agency="${escapeHtml(
             ag.id
           )}">${escapeHtml(ag.code)} ${escapeHtml(ag.name)} <span class="chip-num">${cnt}</span></button>`;
         })
@@ -789,94 +911,62 @@
       govAgencyStrip.innerHTML = allBtn + chips;
     }
 
-    // Update Focus Banner & Official Direct Portal Buttons
-    let activeAgencyObj = null;
-    if (state.selectedGovAgency !== 'all') {
-      activeAgencyObj = state.govAgencies.find((a) => a.id === state.selectedGovAgency);
-    } else if (agenciesInGroup.length === 1) {
-      activeAgencyObj = agenciesInGroup[0];
-    }
-
-    if (activeAgencyObj) {
-      govFocusText.innerHTML = `<strong>${escapeHtml(activeAgencyObj.code)} ${escapeHtml(
-        activeAgencyObj.name
-      )}</strong>｜預設監測重點：${escapeHtml(activeAgencyObj.focusDesc)}`;
-
-      const chHtml = (activeAgencyObj.channels || [])
-        .map(
-          (ch) =>
-            `<a class="gov-portal-btn" href="${escapeHtml(ch.url)}" target="_blank" rel="noopener noreferrer">官方頁面：${escapeHtml(
-              ch.label
-            )} ↗</a>`
-        )
-        .join('');
-      const exHtml = (activeAgencyObj.extraLinks || [])
-        .map(
-          (ex) =>
-            `<a class="gov-portal-btn extra" href="${escapeHtml(ex.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(
-              ex.label
-            )} ↗</a>`
-        )
-        .join('');
-      govChannelLinks.innerHTML = chHtml + exHtml;
-    } else {
-      const groupTitle =
-        group === 'all'
-          ? '全部 20 個政府機關總覽'
-          : `${group} 部會體系總覽（共 ${agenciesInGroup.length} 個單位）`;
-      govFocusText.innerHTML = `<strong>${escapeHtml(
-        groupTitle
-      )}</strong>｜點選上方任一子機關可檢視其專屬預設關鍵字與官方原始網頁直達按鈕。`;
-      govChannelLinks.innerHTML = `
-        <a class="gov-portal-btn extra" href="https://water.taiwanstat.com/" target="_blank" rel="noopener noreferrer">💧 台灣水庫即時水情 ↗</a>
-      `;
-    }
+    syncGovEditorBannerUI();
   }
 
   function renderGovList() {
-    renderGovDirectoryOnce();
+    renderGovDirectoryGrid();
     renderGovSubControls();
 
     const textFilter = state.govFilter.toLowerCase().trim();
-    const filtered = state.govItems.filter((item) => {
-      if (state.selectedGovGroup !== 'all' && item.groupId !== state.selectedGovGroup) return false;
-      if (state.selectedGovAgency !== 'all' && item.agencyId !== state.selectedGovAgency) return false;
-      if (!doesGovItemMatchMode(item)) return false;
+    const evaluated = [];
+
+    for (const item of state.govItems) {
+      if (state.selectedGovGroup !== 'all' && item.groupId !== state.selectedGovGroup) continue;
+      if (state.selectedGovAgency !== 'all' && item.agencyId !== state.selectedGovAgency) continue;
+
+      const { matched, hits } = getGovItemHits(item);
+      if (!matched) continue;
+
       if (textFilter) {
-        const hay = `${item.agencyName} ${item.code} ${item.channelLabel} ${item.title} ${item.summary || ''} ${(
-          item.matchedKeywords || []
-        ).join(' ')}`.toLowerCase();
-        if (!hay.includes(textFilter)) return false;
+        const hay = `${item.agencyName} ${item.code} ${item.channelLabel} ${item.officialHost || ''} ${item.title} ${
+          item.summary || ''
+        } ${hits.join(' ')}`.toLowerCase();
+        if (!hay.includes(textFilter)) continue;
       }
-      return true;
-    });
 
-    govCountPill.textContent = `${filtered.length} 則政府訊息`;
+      evaluated.push({ item, hits });
+    }
 
-    if (filtered.length === 0) {
+    govCountPill.textContent = `${evaluated.length} 則官網公告`;
+
+    if (evaluated.length === 0) {
       govList.innerHTML = `
         <div class="state-box">
-          <h3>目前篩選條件下暫無符合的政府機關訊息</h3>
-          <p>您可以點選「📋 顯示擷取之全部最新公告」檢視該機關所有近期公告，或直接點擊上方「官方頁面 ↗」按鈕前往原始網站。</p>
+          <h3>目前篩選條件下暫無符合的官網訊息</h3>
+          <p>該機關近期最新官網公告可能尚未出現上述關鍵字。您可以直接在上方編輯框修改監測關鍵字並點擊「套用並儲存」，或切換至「📋 顯示全部官網最新公告」檢視該機關所有最新發布內容。</p>
         </div>
       `;
       return;
     }
 
-    govList.innerHTML = filtered
-      .slice(0, 120)
-      .map((item) => {
+    govList.innerHTML = evaluated
+      .slice(0, 140)
+      .map(({ item, hits }) => {
         const safeLink = escapeHtml(item.link || item.channelUrl || '#');
         const agencyLabel = `${escapeHtml(item.code)} ${escapeHtml(item.agencyName)}`;
-        const channelLabel = escapeHtml(item.channelLabel || '官方公告');
+        const channelLabel = escapeHtml(item.channelLabel || '官網公告');
+        const hostBadge = item.officialHost
+          ? `<span class="gov-host-badge" title="官方網站網域">${escapeHtml(item.officialHost)}</span>`
+          : '';
         const timeStr = escapeHtml(formatDateDisplay(item.publishedAt));
 
         const highlightTerms =
           state.govKwMode === 'global'
             ? state.keywords
-            : item.matchedKeywords?.length
-            ? item.matchedKeywords
-            : state.keywords;
+            : hits.length > 0
+            ? hits
+            : getActiveAgencyKeywords(item.agencyId);
 
         const highlightedTitle = highlightKeyword(item.title, highlightTerms);
         const highlightedSummary = item.summary ? highlightKeyword(item.summary, highlightTerms) : '';
@@ -887,8 +977,8 @@
           specialHtml = `<span class="special-badge ${cls}">${escapeHtml(item.specialBadge.label)}</span>`;
         }
 
-        const kwChips = (item.matchedKeywords || [])
-          .slice(0, 5)
+        const kwChips = hits
+          .slice(0, 6)
           .map((k) => `<span class="kw-hit-chip">#${escapeHtml(k)}</span>`)
           .join('');
 
@@ -898,6 +988,7 @@
               <div class="badge-group">
                 <span class="gov-agency-badge">${agencyLabel}</span>
                 <span class="meta-sub">${channelLabel}</span>
+                ${hostBadge}
                 ${specialHtml}
               </div>
               <time class="time-text">${timeStr}</time>
@@ -908,10 +999,10 @@
             ${highlightedSummary ? `<p class="card-summary">${highlightedSummary}</p>` : ''}
             <div class="card-footer">
               <div class="kw-hit-badges">
-                ${kwChips || `<span class="meta-sub">近期公告</span>`}
+                ${kwChips || `<span class="meta-sub">官網最新公告</span>`}
               </div>
               <a class="read-more" href="${safeLink}" target="_blank" rel="noopener noreferrer">
-                檢視公告 ↗
+                前往官網原文 ↗
               </a>
             </div>
           </article>
@@ -955,7 +1046,7 @@
     if (shouldFetchGov && state.govItems.length === 0) showSkeletons(govList, 6);
 
     const kwLabel = state.keywords.map((k) => `【${k}】`).join('＋');
-    lastSyncText.textContent = `正在同步 ${kwLabel} 新聞、立法院與政府機關最新訊息…`;
+    lastSyncText.textContent = `正在同步 ${kwLabel} 新聞、立法院與政府官網最新訊息…`;
 
     const hasApi = await detectBackendMode();
     const qs = `q=${encodeURIComponent(state.keyword)}&mode=${encodeURIComponent(state.mode)}${
@@ -978,7 +1069,6 @@
     const settled = await Promise.allSettled(tasks);
     const [newsRes, lyRes, govRes] = settled;
 
-    // Zone 1
     if (newsRes.status === 'fulfilled' && !newsRes.value.error) {
       const data = newsRes.value;
       state.newsItems = data.items || [];
@@ -989,7 +1079,6 @@
       newsList.innerHTML = `<div class="state-box"><h3>即時新聞抓取失敗</h3><p>請稍後點擊右上角重新整理。</p></div>`;
     }
 
-    // Zone 2
     if (lyRes.status === 'fulfilled' && !lyRes.value.error) {
       const data = lyRes.value;
       state.lyItems = data.items || [];
@@ -1004,15 +1093,15 @@
       lyList.innerHTML = `<div class="state-box"><h3>立法院資料抓取失敗</h3><p>請稍後點擊右上角重新整理。</p></div>`;
     }
 
-    // Zone 3
     if (shouldFetchGov && govRes) {
       if (govRes.status === 'fulfilled' && !govRes.value.error) {
         const gData = govRes.value;
         state.govAgencies = gData.agencies || [];
         state.govItems = gData.items || [];
-        govSourcesSummary.textContent = `已同步 ${state.govAgencies.length} 個政府機關（精選 ${gData.totalMatched || 0} 則／總計 ${
-          gData.totalAll || state.govItems.length
-        } 則）`;
+        if (!state.govAgencies.some((a) => a.id === state.editingAgencyId) && state.govAgencies[0]) {
+          state.editingAgencyId = state.govAgencies[0].id;
+        }
+        govSourcesSummary.textContent = `100% 官網直連｜共收錄 ${state.govAgencies.length} 個機關、${state.govItems.length} 則最新官方公告`;
         renderGovList();
       } else {
         govList.innerHTML = `<div class="state-box"><h3>政府機關專區載入失敗</h3><p>請稍後再試。</p></div>`;
@@ -1101,12 +1190,17 @@
     renderLyList();
   });
 
-  // Zone 3 Listeners
+  // Zone 3 Group & Agency Selection (syncs with Editor dropdown!)
   govGroupTabs.addEventListener('click', (e) => {
     const btn = e.target.closest('.gov-group-tab');
     if (!btn) return;
-    state.selectedGovGroup = btn.dataset.group || 'all';
+    const grp = btn.dataset.group || 'all';
+    state.selectedGovGroup = grp;
     state.selectedGovAgency = 'all';
+    if (grp !== 'all') {
+      const firstInGroup = state.govAgencies.find((a) => a.groupId === grp);
+      if (firstInGroup) state.editingAgencyId = firstInGroup.id;
+    }
     govGroupTabs.querySelectorAll('.gov-group-tab').forEach((t) => t.classList.toggle('active', t === btn));
     renderGovList();
   });
@@ -1114,8 +1208,84 @@
   govAgencyStrip.addEventListener('click', (e) => {
     const btn = e.target.closest('.gov-agency-chip');
     if (!btn) return;
-    state.selectedGovAgency = btn.dataset.agency || 'all';
+    const agId = btn.dataset.agency || 'all';
+    state.selectedGovAgency = agId;
+    if (agId !== 'all') {
+      state.editingAgencyId = agId;
+    }
     renderGovList();
+  });
+
+  // Zone 3 Editable Focus Keywords Events
+  editAgencySelect.addEventListener('change', () => {
+    state.editingAgencyId = editAgencySelect.value;
+    syncGovEditorBannerUI();
+  });
+
+  govKwEditorForm.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const targetId = editAgencySelect.value || state.editingAgencyId;
+    if (!targetId) return;
+    const parsedKws = parseGovFocusInput(agencyKwInput.value);
+    state.customGovKeywords[targetId] = parsedKws;
+    persistCustomGovKeywords();
+
+    // Ensure radio is on 'preset' so user immediately sees their applied custom focus!
+    if (state.govKwMode !== 'preset') {
+      state.govKwMode = 'preset';
+      govKwRadios.forEach((r) => {
+        r.checked = r.value === 'preset';
+      });
+    }
+
+    renderGovList();
+    flashGovToast(
+      parsedKws.length > 0
+        ? `✓ 已套用並儲存（共 ${parsedKws.length} 個關鍵字）`
+        : '✓ 已套用（未設限關鍵字，顯示該機關全部公告）'
+    );
+  });
+
+  resetAgencyKwBtn.addEventListener('click', () => {
+    const targetId = editAgencySelect.value || state.editingAgencyId;
+    if (!targetId) return;
+    delete state.customGovKeywords[targetId];
+    persistCustomGovKeywords();
+    renderGovList();
+    flashGovToast('↺ 已還原為預設監測關鍵字');
+  });
+
+  resetAllGovKwBtn.addEventListener('click', (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    state.customGovKeywords = {};
+    persistCustomGovKeywords();
+    renderGovList();
+    flashGovToast('↺ 已將全部 20 個機關還原為預設值');
+  });
+
+  // Batch edit apply buttons inside the 20-agency directory grid
+  govDirectoryGrid.addEventListener('click', (e) => {
+    const btn = e.target.closest('.dir-apply-btn');
+    if (!btn) return;
+    const agId = btn.dataset.applyAg;
+    const input = govDirectoryGrid.querySelector(`.dir-kw-input[data-ag="${CSS.escape(agId)}"]`);
+    if (!agId || !input) return;
+
+    const parsedKws = parseGovFocusInput(input.value);
+    state.customGovKeywords[agId] = parsedKws;
+    state.editingAgencyId = agId;
+    persistCustomGovKeywords();
+
+    if (state.govKwMode !== 'preset') {
+      state.govKwMode = 'preset';
+      govKwRadios.forEach((r) => {
+        r.checked = r.value === 'preset';
+      });
+    }
+
+    renderGovList();
+    flashGovToast(`✓ 已套用 ${agId} 監測關鍵字`);
   });
 
   govKwRadios.forEach((radio) => {

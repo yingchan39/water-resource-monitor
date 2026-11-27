@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T02:37:31.026Z",
+  "generatedAt": "2026-11-27T08:20:36.452Z",
   "govFile": "./data/gov.json",
   "presets": {
     "水資源": {
@@ -7,16 +7,16 @@
       "mode": "or",
       "newsFile": "./data/news-default.json",
       "lyFile": "./data/ly-default.json",
-      "newsCount": 41,
-      "lyCount": 112
+      "newsCount": 46,
+      "lyCount": 106
     },
     "水庫": {
       "slug": "reservoir-single",
       "mode": "or",
       "newsFile": "./data/news-reservoir-single.json",
       "lyFile": "./data/ly-reservoir-single.json",
-      "newsCount": 103,
-      "lyCount": 138
+      "newsCount": 102,
+      "lyCount": 142
     },
     "再生水": {
       "slug": "recycled-single",
@@ -24,41 +24,41 @@
       "newsFile": "./data/news-recycled-single.json",
       "lyFile": "./data/ly-recycled-single.json",
       "newsCount": 99,
-      "lyCount": 111
+      "lyCount": 109
     },
     "海水淡化": {
       "slug": "desalination-single",
       "mode": "or",
       "newsFile": "./data/news-desalination-single.json",
       "lyFile": "./data/ly-desalination-single.json",
-      "newsCount": 110,
-      "lyCount": 87
+      "newsCount": 55,
+      "lyCount": 113
     },
     "水資源+水庫": {
       "slug": "reservoir",
       "mode": "or",
       "newsFile": "./data/news-reservoir.json",
       "lyFile": "./data/ly-reservoir.json",
-      "newsCount": 145,
-      "lyCount": 146
+      "newsCount": 150,
+      "lyCount": 193
     },
     "水資源+再生水": {
       "slug": "recycled",
       "mode": "or",
       "newsFile": "./data/news-recycled.json",
       "lyFile": "./data/ly-recycled.json",
-      "newsCount": 140,
-      "lyCount": 113
+      "newsCount": 144,
+      "lyCount": 136
     },
     "水資源+海水淡化": {
       "slug": "desalination",
       "mode": "or",
       "newsFile": "./data/news-desalination.json",
       "lyFile": "./data/ly-desalination.json",
-      "newsCount": 151,
-      "lyCount": 121
+      "newsCount": 100,
+      "lyCount": 150
     }
   },
-  "govMatchedCount": 360,
-  "govTotalCount": 490
+  "govMatchedCount": 188,
+  "govTotalCount": 539
 }

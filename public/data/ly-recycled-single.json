@@ -4,14 +4,14 @@
     "再生水"
   ],
   "mode": "or",
-  "fetchedAt": "2026-11-27T02:37:34.946Z",
-  "total": 111,
+  "fetchedAt": "2026-11-27T08:20:44.767Z",
+  "total": 109,
   "counts": {
-    "all": 111,
+    "all": 109,
     "official": 53,
     "bill": 17,
     "interpellation": 27,
-    "press": 14
+    "press": 12
   },
   "sources": [
     {
@@ -28,7 +28,7 @@
     },
     {
       "name": "立法院新聞稿與國會動態",
-      "count": 17
+      "count": 16
     }
   ],
   "errors": [],
@@ -36,9 +36,9 @@
     {
       "category": "press",
       "categoryLabel": "國會新聞動態",
-      "title": "中市福田再生水工程正式通水打造城市小水庫穩定產業供水- 政府消息新聞",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMjBSbEh3MFh0aURZR3Q5ZnIxUXlTekw1Zy1iV3JHdXJxRjhEU3cyVVh5Y2VXZ0QzY0VYSXRxMFVXQlRmU2IteGU0dFVubU9sUURWTG4xUU9ZM3lIdDlxaXFRU3lhZS1YVW1oV1hYZzZzTEdjVnFrYVh2cTIyZTg2Z0tQcGpiaW1pcVB3?oc=5",
-      "source": "國會動態・PChome Online 新聞",
+      "title": "中市福田再生水工程正式通水 打造城市小水庫穩定產業供水",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5JWlJvZjJCcHVaQnBYUzRnTUlnQS1VczR3cmhjb2hscVRKTlFGSXYzQlF2NmE3SllZRjBsTWR5STNDdw?oc=5",
+      "source": "國會動態・墨新聞-MORE News",
       "meta": "立法院新聞稿與相關報導",
       "proposer": "",
       "summary": "",
@@ -59,21 +59,6 @@
       "summary": "台中市福田水資源回收中心放流水再利用工程耗時41.2億元，歷經5年施工，今天通水，將台中市的民生用水重製成再生水，送往台中港工業區，每天可送出5.8萬公噸再生水。市府表示，未來會繼續擴充輸送量，希望將台中打造成不淹水也不缺水的韌性城市。",
       "publishedAt": "2026-11-13T03:59:00.000Z",
       "timestamp": 1794542340000,
-      "matchedKeywords": [
-        "再生水"
-      ]
-    },
-    {
-      "category": "press",
-      "categoryLabel": "國會新聞動態",
-      "title": "中市福田再生水工程正式通水 打造城市小水庫穩定產業供水",
-      "link": "https://more-news.tw/767666/",
-      "source": "國會動態・more-news",
-      "meta": "立法院新聞稿與相關報導",
-      "proposer": "",
-      "summary": "台中市政府積極推動水資源循環再利用，斥資約41.2億元辦理「福田水資源回收中心放流水回收再利用統包工程」，歷經五年施工，完成全長28.4公里的再生水輸水管線，並於今(13)日舉行通水典禮，正式將福田水資源回收中心處理後的放流水進一步淨化為再生水，輸送至台中港工業專區供產業使用。透過再生水替代部分工業用水需求，讓原供工業使用的自來水得以調度供應民生，不僅提升產業供水穩定性，更為城市打造一座永續循環的 ...",
-      "publishedAt": "2026-11-12T16:00:00.000Z",
-      "timestamp": 1794499200000,
       "matchedKeywords": [
         "再生水"
       ]
@@ -764,6 +749,21 @@
       "summary": "",
       "publishedAt": "2024-01-18T13:09:19.000Z",
       "timestamp": 1705583359000,
+      "matchedKeywords": [
+        "再生水"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "中部限水「供5停2」 王美花:5月底前不變",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SMVMtencyb0xlTFVxQTNsSGF0dW1wbVo3cHVLaWx3Vno4MTl4LXFKTGVIaHVMNlV5emhUYkNmbmhPWkZfUldFNjlyZlYzMzhDRk5mVGZLSkhCUXpRdjNqcHpSbkltUQ?oc=5",
+      "source": "國會動態・客家電視台",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2024-01-09T23:00:38.000Z",
+      "timestamp": 1704841238000,
       "matchedKeywords": [
         "再生水"
       ]
@@ -1504,21 +1504,6 @@
       ]
     },
     {
-      "category": "press",
-      "categoryLabel": "國會新聞動態",
-      "title": "再生水效益初探：水質優於RO、成本更少30%",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBhRHRHcmg2SFoyck5OWVgweVAyRU1zQThDN1kzOGxyVGFoc1VkN1NKdFRLbElvRDZSb191aThMNkUwRjMtYlZvcQ?oc=5",
-      "source": "國會動態・環境資訊中心",
-      "meta": "立法院新聞稿與相關報導",
-      "proposer": "",
-      "summary": "",
-      "publishedAt": "2016-06-24T07:00:00.000Z",
-      "timestamp": 1466751600000,
-      "matchedKeywords": [
-        "再生水"
-      ]
-    },
-    {
       "category": "interpellation",
       "categoryLabel": "質詢發言／公報",
       "title": "【許淑華委員書面質詢】本院許委員淑華，鑒於水資源匱乏已是個全球性的議題，台灣雨量雖多，但因地形等因素導致集水不易，反而是個容易缺水的島嶼。建請行政…",
@@ -1529,6 +1514,21 @@
       "summary": "立法院繼三讀通 過《再生水資源發展條例》、《自來水法》修正案之後，日前再初審通過《水利法》修正 草案，節水三法只剩最後一哩路。",
       "publishedAt": "2016-04-27T00:00:00.000Z",
       "timestamp": 1461715200000,
+      "matchedKeywords": [
+        "再生水"
+      ]
+    },
+    {
+      "category": "press",
+      "categoryLabel": "國會新聞動態",
+      "title": "立法院今日三讀通過《再生水資源發展條例》",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4xMmwyT2FXRXZvckJlZjZ4S29jUHFCcmFma1djTDY3OWItd21UdW1WeDkzRkZKNVNyaFZvcHR0bGdOUQ?oc=5",
+      "source": "國會動態・CSRone 永續智庫",
+      "meta": "立法院新聞稿與相關報導",
+      "proposer": "",
+      "summary": "",
+      "publishedAt": "2015-12-15T08:00:00.000Z",
+      "timestamp": 1450166400000,
       "matchedKeywords": [
         "再生水"
       ]

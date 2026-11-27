@@ -171,15 +171,15 @@
       </div>
     </section>
 
-    <!-- 第三區域：政府機關專區 -->
+    <!-- 第三區域：政府機關專區（純官網來源 + 可編輯監測重點） -->
     <section id="zone3Panel" class="zone-panel zone-gov zone-full-span" aria-labelledby="zone3Title">
       <div class="zone-header zone-header-gov">
         <div class="zone-title-wrap">
           <span class="zone-step-badge zone-badge-teal">第三區域</span>
           <div>
-            <h2 id="zone3Title" class="zone-title">政府機關訊息監測專區</h2>
+            <h2 id="zone3Title" class="zone-title">政府機關訊息監測專區（100% 官網發布來源）</h2>
             <p class="zone-desc">
-              涵蓋總統府、行政院、經濟部及所屬（水利署／能源署／台水／中油等 10 機關）、國科會與三大科管局、國發會、環境部及所屬共 20 個機關單位
+              嚴格鎖定總統府、行政院、經濟部及所屬、國科會與三大科管局、國發會、環境部及所屬共 20 個機關官方網站公告，不含外部新聞媒體
             </p>
           </div>
         </div>
@@ -197,7 +197,7 @@
         </div>
       </div>
 
-      <!-- 部會層級選單與關鍵字過濾模式 -->
+      <!-- 部會層級選單與可編輯監測重點 -->
       <div class="zone-toolbar zone-toolbar-gov">
         <div class="gov-group-tabs" id="govGroupTabs" role="tablist" aria-label="政府部會體系分類">
           <button type="button" class="gov-group-tab active" data-group="all">全部機關</button>
@@ -212,17 +212,36 @@
         <!-- 子機關膠囊選單 -->
         <div class="gov-agency-strip" id="govAgencyStrip" aria-label="子機關篩選"></div>
 
-        <!-- 所選機關監測重點與官方網頁直達捷徑 -->
+        <!-- 可編輯之預設監測重點與官方網頁捷徑面板 -->
         <div class="gov-focus-banner" id="govFocusBanner">
-          <div class="gov-focus-text" id="govFocusText">
-            正在載入 20 個政府機關之預設關鍵字與最新公告…
+          <div class="gov-editor-main">
+            <div class="gov-editor-header">
+              <label for="editAgencySelect" class="gov-editor-label">✏️ 編輯機關預設監測重點（關鍵字）：</label>
+              <select id="editAgencySelect" class="gov-agency-select" aria-label="選擇要編輯監測重點的政府機關"></select>
+              <span class="gov-memo-hint" id="govMemoHint"></span>
+            </div>
+            <form id="govKwEditorForm" class="gov-editor-form">
+              <input
+                type="text"
+                id="agencyKwInput"
+                class="gov-kw-input"
+                placeholder="輸入監測關鍵字，以 、 或 + 或逗號隔開（留空則顯示該機關全部官網公告）"
+                autocomplete="off"
+              />
+              <button type="submit" class="btn-gov-apply">套用並儲存</button>
+              <button type="button" id="resetAgencyKwBtn" class="btn-gov-reset" title="還原此機關的預設監測關鍵字">還原預設</button>
+              <span id="govSaveToast" class="gov-save-toast" aria-live="polite"></span>
+            </form>
           </div>
           <div class="gov-channel-links" id="govChannelLinks"></div>
         </div>
 
-        <!-- 全部 20 機關官方原始頁面總覽摺疊面板 -->
-        <details class="gov-directory-details">
-          <summary>📂 檢視全部 20 個政府機關監測頻道與預設關鍵字清單（共 36 個官方原始網址直達）</summary>
+        <!-- 全部 20 機關預設監測重點批次編輯與官方網址總表 -->
+        <details class="gov-directory-details" id="govDirectoryDetails">
+          <summary>
+            <span>📂 展開全部 20 個政府機關「預設監測重點」批次編輯總表 ＆ 36 個官方原始網址直達</span>
+            <button type="button" id="resetAllGovKwBtn" class="btn-gov-reset-all">全部機關還原預設值</button>
+          </summary>
           <div id="govDirectoryGrid" class="gov-directory-grid"></div>
         </details>
 
@@ -231,15 +250,15 @@
           <div class="gov-mode-radios">
             <label class="gov-mode-option">
               <input type="radio" name="govKwMode" value="preset" checked />
-              <span>🎯 依各機關專屬預設關鍵字精選</span>
+              <span>🎯 依各機關監測重點篩選（支援上方自訂修改）</span>
             </label>
             <label class="gov-mode-option">
               <input type="radio" name="govKwMode" value="global" />
-              <span>🔗 套用右上角多關鍵字搜尋</span>
+              <span>🔗 改用右上角多關鍵字搜尋</span>
             </label>
             <label class="gov-mode-option">
               <input type="radio" name="govKwMode" value="all" />
-              <span>📋 顯示擷取之全部最新公告</span>
+              <span>📋 顯示全部官網最新公告（不限關鍵字）</span>
             </label>
           </div>
 
@@ -248,9 +267,9 @@
               type="search"
               id="govFilterInput"
               class="local-filter"
-              placeholder="篩選機關名稱、法規、投資案或關鍵字…"
+              placeholder="二次篩選機關、法規、投資案或標題…"
             />
-            <span class="source-summary" id="govSourcesSummary">正在同步政府機關資料…</span>
+            <span class="source-summary" id="govSourcesSummary">正在同步政府官網資料…</span>
           </div>
         </div>
       </div>
@@ -266,7 +285,7 @@
 
   <footer class="footer">
     <p>
-      🐚 <strong>神奇海螺輿情與國會訊息即時監測網</strong>（Magic Conch Public Opinion &amp; Parliament Monitor）｜涵蓋台灣即時新聞、立法院公開資料庫（<code>ly.gov.tw</code>）及 20 個中央政府部會與科學園區管理局公開訊息。
+      🐚 <strong>神奇海螺輿情與國會訊息即時監測網</strong>（Magic Conch Public Opinion &amp; Parliament Monitor）｜第一區：即時新聞｜第二區：立法院公開資料｜第三區：20 個中央政府部會與科管局官方網站公告。
     </p>
   </footer>
 
