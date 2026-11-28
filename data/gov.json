@@ -1,0 +1,5219 @@
+{
+  "fetchedAt": "2026-11-28T07:41:58.110Z",
+  "officialOnly": true,
+  "groups": [
+    {
+      "id": "all",
+      "label": "全部機關"
+    },
+    {
+      "id": "3-1",
+      "label": "3-1 總統府"
+    },
+    {
+      "id": "3-2",
+      "label": "3-2 行政院"
+    },
+    {
+      "id": "3-3",
+      "label": "3-3 經濟部及所屬"
+    },
+    {
+      "id": "3-4",
+      "label": "3-4 國科會與科管局"
+    },
+    {
+      "id": "3-5",
+      "label": "3-5 國發會"
+    },
+    {
+      "id": "3-6",
+      "label": "3-6 環境部及所屬"
+    }
+  ],
+  "agencies": [
+    {
+      "id": "3-1",
+      "groupId": "3-1",
+      "code": "3-1",
+      "name": "總統府",
+      "focusDesc": "總統對於水、能源（地熱或核電）相關發言，或出席科學園區活動等",
+      "defaultKeywords": [
+        "水",
+        "能源",
+        "地熱",
+        "核電",
+        "科學園區",
+        "竹科",
+        "中科",
+        "南科",
+        "半導體"
+      ],
+      "channels": [
+        {
+          "label": "新聞與活動",
+          "url": "https://www.president.gov.tw/Page/35"
+        }
+      ],
+      "extraLinks": [],
+      "matchedCount": 0,
+      "totalCount": 0
+    },
+    {
+      "id": "3-2",
+      "groupId": "3-2",
+      "code": "3-2",
+      "name": "行政院",
+      "focusDesc": "AI、半導體、科學園區、水、水務、能源、關稅、行政院會後記者會、院會決議",
+      "defaultKeywords": [
+        "AI",
+        "人工智慧",
+        "半導體",
+        "科學園區",
+        "水",
+        "水務",
+        "能源",
+        "關稅",
+        "行政院會後記者會",
+        "院會決議",
+        "院會"
+      ],
+      "channels": [
+        {
+          "label": "本院新聞",
+          "url": "https://www.ey.gov.tw/Page/6485009ABEC1CB9C"
+        },
+        {
+          "label": "即時新聞澄清",
+          "url": "https://www.ey.gov.tw/Page/5519E969E8931E4E"
+        },
+        {
+          "label": "部會新聞",
+          "url": "https://www.ey.gov.tw/Page/B31C61707D4FEEEF"
+        },
+        {
+          "label": "行政院會議／院會決議",
+          "url": "https://www.ey.gov.tw/Page/AE4885326ADF43DD"
+        }
+      ],
+      "extraLinks": [],
+      "matchedCount": 22,
+      "totalCount": 28
+    },
+    {
+      "id": "3-3-1",
+      "groupId": "3-3",
+      "code": "3-3-1",
+      "name": "經濟部（本部）",
+      "focusDesc": "水、缺水、能源、地熱；訊息公告關注新增／廢除／修正法規",
+      "defaultKeywords": [
+        "水",
+        "缺水",
+        "能源",
+        "地熱",
+        "修正",
+        "廢止",
+        "訂定",
+        "法規",
+        "辦法",
+        "條例",
+        "標準"
+      ],
+      "channels": [
+        {
+          "label": "本部新聞",
+          "url": "https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40"
+        },
+        {
+          "label": "即時新聞澄清",
+          "url": "https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=9&menu_id=22333"
+        },
+        {
+          "label": "訊息公告（法規異動）",
+          "url": "https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=2&menu_id=41"
+        }
+      ],
+      "extraLinks": [],
+      "matchedCount": 0,
+      "totalCount": 0
+    },
+    {
+      "id": "3-3-2",
+      "groupId": "3-3",
+      "code": "3-3-2",
+      "name": "經濟部水利署",
+      "focusDesc": "水利、水資源、供水、缺水、水務、科學園區／半導體用水",
+      "defaultKeywords": [
+        "水利",
+        "水資源",
+        "供水",
+        "缺水",
+        "水務",
+        "科學園區",
+        "半導體",
+        "水庫",
+        "再生水",
+        "海淡"
+      ],
+      "channels": [
+        {
+          "label": "焦點",
+          "url": "https://www.wra.gov.tw/News.aspx?n=6430&sms=9122"
+        },
+        {
+          "label": "新聞",
+          "url": "https://www.wra.gov.tw/News.aspx?n=6431&sms=9122"
+        },
+        {
+          "label": "政策",
+          "url": "https://www.wra.gov.tw/News.aspx?n=6432&sms=9122"
+        }
+      ],
+      "extraLinks": [
+        {
+          "label": "💧 台灣水庫即時水情",
+          "url": "https://water.taiwanstat.com/"
+        }
+      ],
+      "matchedCount": 0,
+      "totalCount": 0
+    },
+    {
+      "id": "3-3-3",
+      "groupId": "3-3",
+      "code": "3-3-3",
+      "name": "經濟部投資促進司",
+      "focusDesc": "AI、半導體、科學園區、水務",
+      "defaultKeywords": [
+        "AI",
+        "人工智慧",
+        "半導體",
+        "科學園區",
+        "水務",
+        "水資源",
+        "投資"
+      ],
+      "channels": [
+        {
+          "label": "最新消息",
+          "url": "https://investtaiwan.nat.gov.tw/newsPageList?lang=cht"
+        },
+        {
+          "label": "產業情報",
+          "url": "https://investtaiwan.nat.gov.tw/intelNewsPageList?lang=cht"
+        }
+      ],
+      "extraLinks": [],
+      "matchedCount": 0,
+      "totalCount": 0
+    },
+    {
+      "id": "3-3-4",
+      "groupId": "3-3",
+      "code": "3-3-4",
+      "name": "經濟部產業發展署",
+      "focusDesc": "新聞發布與產業大小事（可自訂關鍵字篩選，預設顯示半導體／AI／水／能源／產業動態）",
+      "defaultKeywords": [
+        "產業",
+        "AI",
+        "人工智慧",
+        "半導體",
+        "水",
+        "能源",
+        "淨零",
+        "製造",
+        "轉型",
+        "補助"
+      ],
+      "channels": [
+        {
+          "label": "新聞發布",
+          "url": "https://www.ida.gov.tw/ctlr?PRO=news.NewsList"
+        },
+        {
+          "label": "產業大小事",
+          "url": "https://www.ida.gov.tw/ctlr?PRO=news.NewsList&type=Insights"
+        }
+      ],
+      "extraLinks": [],
+      "matchedCount": 15,
+      "totalCount": 20
+    },
+    {
+      "id": "3-3-5",
+      "groupId": "3-3",
+      "code": "3-3-5",
+      "name": "經濟部能源署",
+      "focusDesc": "地熱、水利／水力、油氣、核電",
+      "defaultKeywords": [
+        "地熱",
+        "水利",
+        "水力",
+        "水庫",
+        "油氣",
+        "天然氣",
+        "石油",
+        "核電",
+        "核能"
+      ],
+      "channels": [
+        {
+          "label": "新聞",
+          "url": "https://www.moeaea.gov.tw/ECW/populace/news/News.aspx?kind=1&menu_id=41"
+        },
+        {
+          "label": "新聞澄清",
+          "url": "https://www.moeaea.gov.tw/ECW/populace/news/News.aspx?kind=9&menu_id=4360"
+        },
+        {
+          "label": "公佈欄（重要公告）",
+          "url": "https://www.moeaea.gov.tw/ECW/populace/news/Board.aspx?kind=3&menu_id=57"
+        }
+      ],
+      "extraLinks": [],
+      "matchedCount": 0,
+      "totalCount": 0
+    },
+    {
+      "id": "3-3-6",
+      "groupId": "3-3",
+      "code": "3-3-6",
+      "name": "經濟部產業園區管理局",
+      "focusDesc": "AI、半導體、水務",
+      "defaultKeywords": [
+        "AI",
+        "人工智慧",
+        "半導體",
+        "水務",
+        "水資源",
+        "供水",
+        "污水",
+        "再生水"
+      ],
+      "channels": [
+        {
+          "label": "本局新聞",
+          "url": "https://www.bip.gov.tw/News/5488"
+        }
+      ],
+      "extraLinks": [],
+      "matchedCount": 0,
+      "totalCount": 0
+    },
+    {
+      "id": "3-3-7",
+      "groupId": "3-3",
+      "code": "3-3-7",
+      "name": "台灣自來水公司（台水）",
+      "focusDesc": "水價、供水、水利、水資源、缺水",
+      "defaultKeywords": [
+        "水價",
+        "供水",
+        "水利",
+        "水資源",
+        "缺水",
+        "停水",
+        "減壓",
+        "水質",
+        "送水"
+      ],
+      "channels": [
+        {
+          "label": "訊息公佈欄",
+          "url": "https://www.water.gov.tw/ch/Subject?nodeId=711"
+        },
+        {
+          "label": "區域 hot 新聞",
+          "url": "https://www.water.gov.tw/ch/Subject?nodeId=712"
+        }
+      ],
+      "extraLinks": [],
+      "matchedCount": 0,
+      "totalCount": 0
+    },
+    {
+      "id": "3-3-8",
+      "groupId": "3-3",
+      "code": "3-3-8",
+      "name": "台灣中油（中油）",
+      "focusDesc": "地熱、油氣",
+      "defaultKeywords": [
+        "地熱",
+        "油氣",
+        "天然氣",
+        "油價",
+        "汽、柴油",
+        "探勘",
+        "液化天然氣"
+      ],
+      "channels": [
+        {
+          "label": "新聞稿",
+          "url": "https://www.cpc.com.tw/News2.aspx?n=28&sms=8920"
+        },
+        {
+          "label": "最新訊息",
+          "url": "https://www.cpc.com.tw/News.aspx?n=30&sms=8967"
+        }
+      ],
+      "extraLinks": [],
+      "matchedCount": 0,
+      "totalCount": 0
+    },
+    {
+      "id": "3-3-9",
+      "groupId": "3-3",
+      "code": "3-3-9",
+      "name": "經濟部標準檢驗局",
+      "focusDesc": "化工商品",
+      "defaultKeywords": [
+        "化工",
+        "化學",
+        "商品",
+        "檢驗",
+        "標準",
+        "塑膠",
+        "塗料"
+      ],
+      "channels": [
+        {
+          "label": "本局新聞",
+          "url": "https://www.bsmi.gov.tw/wSite/lp?ctNode=8321&CtUnit=963&BaseDSD=7"
+        }
+      ],
+      "extraLinks": [],
+      "matchedCount": 7,
+      "totalCount": 19
+    },
+    {
+      "id": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "name": "地熱發電單一服務窗口",
+      "focusDesc": "地熱",
+      "defaultKeywords": [
+        "地熱",
+        "發電",
+        "探勘",
+        "案場",
+        "法規",
+        "永續"
+      ],
+      "channels": [
+        {
+          "label": "近期活動",
+          "url": "https://ea01.moeaea.gov.tw/b0403/News/Index/A013"
+        },
+        {
+          "label": "政策法規",
+          "url": "https://ea01.moeaea.gov.tw/b0403/News/Index/A012"
+        },
+        {
+          "label": "新聞推動",
+          "url": "https://ea01.moeaea.gov.tw/b0403/News/Index/A011"
+        }
+      ],
+      "extraLinks": [],
+      "matchedCount": 21,
+      "totalCount": 30
+    },
+    {
+      "id": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "name": "國科會（本部）",
+      "focusDesc": "水資源、營收、核准投資案（關注水務相關廠商）、AI／半導體",
+      "defaultKeywords": [
+        "水資源",
+        "水務",
+        "再生水",
+        "營收",
+        "營業額",
+        "核准投資",
+        "投資案",
+        "園區審議",
+        "AI",
+        "人工智慧",
+        "半導體"
+      ],
+      "channels": [
+        {
+          "label": "一般公告",
+          "url": "https://www.nstc.gov.tw/folksonomy/list/d3c30297-bb63-44c5-ad30-38a65b203288?l=ch"
+        },
+        {
+          "label": "新聞資料",
+          "url": "https://www.nstc.gov.tw/folksonomy/list/9aa56881-8df0-4eb6-a5a7-32a2f72826ff?l=ch"
+        }
+      ],
+      "extraLinks": [],
+      "matchedCount": 4,
+      "totalCount": 33
+    },
+    {
+      "id": "3-4-2",
+      "groupId": "3-4",
+      "code": "3-4-2",
+      "name": "新竹科學園區管理局（竹科）",
+      "focusDesc": "水資源、營收、核准投資案（關注水務相關廠商）",
+      "defaultKeywords": [
+        "水資源",
+        "水務",
+        "再生水",
+        "營收",
+        "營業額",
+        "核准投資",
+        "投資案",
+        "入區",
+        "用水"
+      ],
+      "channels": [
+        {
+          "label": "最新消息",
+          "url": "https://www.sipa.gov.tw/home.jsp?serno=201001210002&mserno=201001210001&menudata=ChineseMenu&contlink=ap/information_1.jsp&level2=Y"
+        }
+      ],
+      "extraLinks": [],
+      "matchedCount": 1,
+      "totalCount": 15
+    },
+    {
+      "id": "3-4-3",
+      "groupId": "3-4",
+      "code": "3-4-3",
+      "name": "中部科學園區管理局（中科）",
+      "focusDesc": "水資源、營收、核准投資案（關注水務相關廠商）",
+      "defaultKeywords": [
+        "水資源",
+        "水務",
+        "再生水",
+        "營收",
+        "營業額",
+        "核准投資",
+        "投資案",
+        "入區",
+        "用水"
+      ],
+      "channels": [
+        {
+          "label": "最新公告",
+          "url": "https://www.ctsp.gov.tw/chinese/01-News/01-online.aspx?v=1&fr=1000&no=1001"
+        },
+        {
+          "label": "即時新聞澄清",
+          "url": "https://www.ctsp.gov.tw/chinese/01-News/03-custom.aspx?v=1&fr=1000&no=1003"
+        }
+      ],
+      "extraLinks": [],
+      "matchedCount": 1,
+      "totalCount": 20
+    },
+    {
+      "id": "3-4-4",
+      "groupId": "3-4",
+      "code": "3-4-4",
+      "name": "南部科學園區管理局（南科）",
+      "focusDesc": "水資源、營收、核准投資案（關注水務相關廠商）、沙崙園區",
+      "defaultKeywords": [
+        "水資源",
+        "水務",
+        "水境",
+        "再生水",
+        "營收",
+        "營業額",
+        "核准投資",
+        "投資案",
+        "沙崙"
+      ],
+      "channels": [
+        {
+          "label": "最新消息及活動",
+          "url": "https://www.stsp.gov.tw/guide/public_info/report/rt_list.jsp"
+        },
+        {
+          "label": "新聞資料專區",
+          "url": "https://www.stsp.gov.tw/guide/public_info/press/ps_list.jsp"
+        }
+      ],
+      "extraLinks": [],
+      "matchedCount": 0,
+      "totalCount": 0
+    },
+    {
+      "id": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "name": "國家發展委員會（國發會）",
+      "focusDesc": "接受商會建言、科學園區發展、缺水、半導體／AI發展、國家發展計畫（半導體／AI、能源）、委員會議新聞稿",
+      "defaultKeywords": [
+        "商會",
+        "建言",
+        "科學園區",
+        "缺水",
+        "水資源",
+        "半導體",
+        "AI",
+        "人工智慧",
+        "國家發展計畫",
+        "能源",
+        "委員會議"
+      ],
+      "channels": [
+        {
+          "label": "本會動態",
+          "url": "https://www.ndc.gov.tw/News12_1.aspx?n=3E6699ADB0BE3855&sms=C7BF44606A5BF73F"
+        },
+        {
+          "label": "新聞稿",
+          "url": "https://www.ndc.gov.tw/News9.aspx?n=114AAE178CD95D4C&sms=DF717169EA26F1A3"
+        },
+        {
+          "label": "最新消息",
+          "url": "https://www.ndc.gov.tw/News_TopNews.aspx?n=1CE324F4C0BA40AC"
+        }
+      ],
+      "extraLinks": [],
+      "matchedCount": 26,
+      "totalCount": 40
+    },
+    {
+      "id": "3-6",
+      "groupId": "3-6",
+      "code": "3-6",
+      "name": "環境部（本部／氣候變遷署）",
+      "focusDesc": "循環經濟、南科沙崙園區（環評）",
+      "defaultKeywords": [
+        "循環經濟",
+        "沙崙",
+        "南科",
+        "環評",
+        "環境影響評估",
+        "水質",
+        "淨水",
+        "減碳"
+      ],
+      "channels": [
+        {
+          "label": "新聞發布",
+          "url": "https://www.cca.gov.tw/news-and-releases/press-releases/1544.html"
+        },
+        {
+          "label": "即時新聞澄清",
+          "url": "https://enews.moenv.gov.tw/News/List?key=12&Lang=zh-tw"
+        }
+      ],
+      "extraLinks": [],
+      "matchedCount": 5,
+      "totalCount": 15
+    },
+    {
+      "id": "3-6-1",
+      "groupId": "3-6",
+      "code": "3-6-1",
+      "name": "環境部資源循環署",
+      "focusDesc": "資源循環",
+      "defaultKeywords": [
+        "資源循環",
+        "循環經濟",
+        "回收",
+        "再利用",
+        "廢棄物",
+        "再生"
+      ],
+      "channels": [
+        {
+          "label": "新聞發布",
+          "url": "https://www.reca.gov.tw/more/news"
+        },
+        {
+          "label": "即時新聞澄清",
+          "url": "https://www.reca.gov.tw/InstantNews"
+        }
+      ],
+      "extraLinks": [],
+      "matchedCount": 0,
+      "totalCount": 0
+    },
+    {
+      "id": "3-6-2",
+      "groupId": "3-6",
+      "code": "3-6-2",
+      "name": "環境部化學物質管理署",
+      "focusDesc": "水資源、半導體、鼠害",
+      "defaultKeywords": [
+        "水資源",
+        "水質",
+        "飲用水",
+        "全氟",
+        "PFAS",
+        "半導體",
+        "鼠害",
+        "滅鼠",
+        "殺鼠劑",
+        "化學"
+      ],
+      "channels": [
+        {
+          "label": "新聞發布",
+          "url": "https://www.cha.gov.tw/lp-23-1.html"
+        }
+      ],
+      "extraLinks": [],
+      "matchedCount": 20,
+      "totalCount": 20
+    }
+  ],
+  "reservoirLink": {
+    "label": "台灣水庫即時水情",
+    "url": "https://water.taiwanstat.com/"
+  },
+  "totalMatched": 122,
+  "totalAll": 240,
+  "items": [
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "本會動態",
+      "channelUrl": "https://www.ndc.gov.tw/News12_1.aspx?n=3E6699ADB0BE3855&sms=C7BF44606A5BF73F",
+      "officialHost": "ndc.gov.tw",
+      "title": "【115年10月景氣燈號】續呈紅燈🔴",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=3E6699ADB0BE3855&s=DBB3ADBE81716117",
+      "summary": "【115年10月景氣燈號】續呈紅燈🔴 💡115年10月景氣對策信號綜合判斷分數為40分，較上月減少1分，燈號續呈紅燈；其中，國際政經局勢影響部分業者對未來景氣看法，製造業營業氣候測驗點由黃紅燈轉呈綠燈；另領先及同時指標均續呈上升，顯示國內經濟維持穩健。 💡主要機構表示全球經貿持續擴張，加上AI應用深化及國際雲端大廠資本支出續增，將挹注我國相關供應鏈出口；投資方面，國內科技大廠因應國際AI需求積極擴產，並深耕研發以鞏固競爭力，加上政",
+      "publishedAt": "2026-11-27T08:03:00.000Z",
+      "timestamp": 1795766580000,
+      "matchedKeywords": [
+        "AI"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-4",
+      "groupId": "3-3",
+      "code": "3-3-4",
+      "agencyName": "經濟部產業發展署",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.ida.gov.tw/ctlr?PRO=news.NewsList",
+      "officialHost": "ida.gov.tw",
+      "title": "2026金點設計獎揭曉！29件年度大獎台灣囊括16件 華碩、中華汽車、春池玻璃與高雄車站脫穎而出",
+      "link": "https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43457",
+      "summary": "到由經濟部主辦、台灣設計研究院執行的「2026金點設計獎頒獎典禮」，昨（26）日晚間於臺北表演藝術中心球劇場舉行。今年共有26個國家及地區、2,367件作品參賽，經由來自14個國家及地區、83位國內外設...",
+      "publishedAt": "2026-11-27T00:00:00.000Z",
+      "timestamp": 1795737600000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-4",
+      "groupId": "3-3",
+      "code": "3-3-4",
+      "agencyName": "經濟部產業發展署",
+      "channelLabel": "產業大小事",
+      "channelUrl": "https://www.ida.gov.tw/ctlr?PRO=news.NewsList&type=Insights",
+      "officialHost": "ida.gov.tw",
+      "title": "▍臺灣抱走 16 件年度大獎！2026 金點設計獎揭曉",
+      "link": "https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43459&type=Insights",
+      "summary": "到好設計究竟能為生活與產業帶來多少驚喜？從貼心升級的資源回收車，到半開放的循環玻璃工廠，今年金點設計獎給出了最亮眼的答案！ ​ ​ ​ ​ 由經濟部主辦、台灣設計研究院執行的「2026 金點設計...",
+      "publishedAt": "2026-11-27T00:00:00.000Z",
+      "timestamp": 1795737600000,
+      "matchedKeywords": [
+        "產業"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-2",
+      "groupId": "3-4",
+      "code": "3-4-2",
+      "agencyName": "新竹科學園區管理局（竹科）",
+      "channelLabel": "最新消息",
+      "channelUrl": "https://www.sipa.gov.tw/home.jsp?serno=201001210002&mserno=201001210001&menudata=ChineseMenu&contlink=ap/information_1.jsp&level2=Y",
+      "officialHost": "sipa.gov.tw",
+      "title": "新竹科學園區(寶山用地)第2期擴建-再生水輸水管線工程",
+      "link": "https://www.sipa.gov.tw/home.jsp?mserno=201001210001&serno=201001210002&menudata=ChineseMenu&contlink=ap/facilities_5_view.jsp&dataserno=202611270001",
+      "summary": "",
+      "publishedAt": "2026-11-27T00:00:00.000Z",
+      "timestamp": 1795737600000,
+      "matchedKeywords": [
+        "再生水"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": {
+        "type": "park",
+        "label": "園區投資／營運"
+      }
+    },
+    {
+      "agencyId": "3-4-3",
+      "groupId": "3-4",
+      "code": "3-4-3",
+      "agencyName": "中部科學園區管理局（中科）",
+      "channelLabel": "最新公告",
+      "channelUrl": "https://www.ctsp.gov.tw/chinese/01-News/01-online.aspx?v=1&fr=1000&no=1001",
+      "officialHost": "ctsp.gov.tw",
+      "title": "[協助停電通知]115年11月30日（星期一）09:00-09:30，虎尾園區全園區路口交通號誌停電，請用路人小心駕駛。",
+      "link": "https://www.ctsp.gov.tw/chinese/01-News/01-online_view.aspx?v=1&fr=1000&no=1001&sn=16760",
+      "summary": "",
+      "publishedAt": "2026-11-27T00:00:00.000Z",
+      "timestamp": 1795737600000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-6",
+      "groupId": "3-6",
+      "code": "3-6",
+      "agencyName": "環境部（本部／氣候變遷署）",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cca.gov.tw/news-and-releases/press-releases/1544.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "40℃高溫即時調適行動四部曲完成 環境部攜中央地方檢討成果",
+      "link": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14602",
+      "summary": "",
+      "publishedAt": "2026-11-27T00:00:00.000Z",
+      "timestamp": 1795737600000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-6",
+      "groupId": "3-6",
+      "code": "3-6",
+      "agencyName": "環境部（本部／氣候變遷署）",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cca.gov.tw/news-and-releases/press-releases/1544.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "全國景觀園藝產學界連署力挺國土綠蔭政策 環境部攜手專業打造氣候韌性城市",
+      "link": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14596",
+      "summary": "",
+      "publishedAt": "2026-11-27T00:00:00.000Z",
+      "timestamp": 1795737600000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-2",
+      "groupId": "3-2",
+      "code": "3-2",
+      "agencyName": "行政院",
+      "channelLabel": "本院新聞",
+      "channelUrl": "https://www.ey.gov.tw/Page/6485009ABEC1CB9C",
+      "officialHost": "ey.gov.tw",
+      "title": "落實總統「台灣人口對策新戰略」 行政院推動公務人員請假規則及公務人員留職停薪辦法修正 擴大育兒照顧支持措施",
+      "link": "https://www.ey.gov.tw/Page/9277F759E41CCD91/a9416b6d-8e62-4367-8ad3-af34edf07613",
+      "summary": "行政院為落實賴清德總統「台灣人口對策新戰略—家庭支持篇」政策，營造友善生養及支持育兒的職場環境，遂提出《性別平等工作法》部分條文修正案，並於立法院115年11月13日三讀通過後，積極推動《公務人員請假規則》及《公務......",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "timestamp": 1795651200000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-2",
+      "groupId": "3-2",
+      "code": "3-2",
+      "agencyName": "行政院",
+      "channelLabel": "本院新聞",
+      "channelUrl": "https://www.ey.gov.tw/Page/6485009ABEC1CB9C",
+      "officialHost": "ey.gov.tw",
+      "title": "選舉期間境外拜票來電頻傳 行政院打擊詐欺指揮中心提醒防範境外詐騙來電",
+      "link": "https://www.ey.gov.tw/Page/9277F759E41CCD91/fd4c1a7c-7653-41be-8d47-7beb64acb730",
+      "summary": "有關近期民眾反映接獲顯示為境外號碼之拜票來電一事，行政院打擊詐欺指揮中心（下稱打詐中心）今（26）日表示，來電顯示為境外號碼的原因，可能是話務委外轉包至海外業者，才會透過國際電話撥打至國內。打詐中心提醒，無論成因為......",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "timestamp": 1795651200000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-2",
+      "groupId": "3-2",
+      "code": "3-2",
+      "agencyName": "行政院",
+      "channelLabel": "本院新聞",
+      "channelUrl": "https://www.ey.gov.tw/Page/6485009ABEC1CB9C",
+      "officialHost": "ey.gov.tw",
+      "title": "九合一選舉將至 卓揆促全面檢視選務工作 確保選舉順利、深化民主政治",
+      "link": "https://www.ey.gov.tw/Page/9277F759E41CCD91/6bd247b7-44ee-4345-9b9a-4a964b98f01f",
+      "summary": "行政院長卓榮泰今（26）日於行政院會表示，九合一選舉（115年地方公職人員選舉及全國性公民投票案第22案）將於後（28）日舉行，請中央選舉委員會及各縣市選舉委員會在投票前最後兩天，全面檢視選務工作及其相關因應措施。......",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "timestamp": 1795651200000,
+      "matchedKeywords": [
+        "院會"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-2",
+      "groupId": "3-2",
+      "code": "3-2",
+      "agencyName": "行政院",
+      "channelLabel": "本院新聞",
+      "channelUrl": "https://www.ey.gov.tw/Page/6485009ABEC1CB9C",
+      "officialHost": "ey.gov.tw",
+      "title": "「駐英國台北代表處與英國在台辦事處科學、創新暨技術合作協議」准予備查 首波合作聚焦衛星通訊、矽光子及半導體培力",
+      "link": "https://www.ey.gov.tw/Page/9277F759E41CCD91/f090e490-de25-4757-be93-079241f6d2f8",
+      "summary": "為促進臺、英科學、創新及技術合作與交流，行政院會今（26）日針對國家科學及技術委員會函送之「駐英國台北代表處與英國在台辦事處科學、創新暨技術合作協議」，決定由院復准備查，並函請總統府秘書長查照轉陳。 行政......",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "timestamp": 1795651200000,
+      "matchedKeywords": [
+        "半導體",
+        "院會"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-2",
+      "groupId": "3-2",
+      "code": "3-2",
+      "agencyName": "行政院",
+      "channelLabel": "本院新聞",
+      "channelUrl": "https://www.ey.gov.tw/Page/6485009ABEC1CB9C",
+      "officialHost": "ey.gov.tw",
+      "title": "卓揆：擴大推動「優化全民運動與賽會環境計畫」三大重點項目 提升運動場館使用效益、增進國民健康",
+      "link": "https://www.ey.gov.tw/Page/9277F759E41CCD91/87f058c5-39cc-438f-81aa-2a5b3e4b31dc",
+      "summary": "行政院長卓榮泰今（26）日在行政院會聽取運動部「優化全民運動與賽會環境計畫辦理情形」報告後表示，為落實「推展全民運動」及「競技運動全民化」的總統政見，運動部修正「優化全民運動與賽會環境計畫」，將原定期程113年至1......",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "timestamp": 1795651200000,
+      "matchedKeywords": [
+        "院會"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-2",
+      "groupId": "3-2",
+      "code": "3-2",
+      "agencyName": "行政院",
+      "channelLabel": "本院新聞",
+      "channelUrl": "https://www.ey.gov.tw/Page/6485009ABEC1CB9C",
+      "officialHost": "ey.gov.tw",
+      "title": "美國「結構性產能過剩」301調查對我國建議稅率「15%不疊加」 鄭副院長：有信心鞏固臺美協議談判結果",
+      "link": "https://www.ey.gov.tw/Page/9277F759E41CCD91/3b33eac7-b7d8-4c68-b064-5897f7380c83",
+      "summary": "美國貿易代表署（USTR）於美東時間11月25日公布「結構性產能過剩」301調查報告，提出對全球14個經濟體的建議關稅，其中對臺灣的建議稅率是「最高15%不疊加最惠國待遇（MFN），且不再疊加『強迫勞動產品進口禁令......",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "timestamp": 1795651200000,
+      "matchedKeywords": [
+        "關稅"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-2",
+      "groupId": "3-2",
+      "code": "3-2",
+      "agencyName": "行政院",
+      "channelLabel": "本院新聞",
+      "channelUrl": "https://www.ey.gov.tw/Page/6485009ABEC1CB9C",
+      "officialHost": "ey.gov.tw",
+      "title": "「中華民國（臺灣）外交部與貝里斯外交暨外貿部外交人員訓練及交流合作協定」准予備查 深化雙邊友好關係",
+      "link": "https://www.ey.gov.tw/Page/9277F759E41CCD91/fd54bc6e-763e-4faa-9142-07082cec9be4",
+      "summary": "為持續推動臺貝兩國外交人員合作及交流，並深化臺貝雙邊關係，行政院會今（26）日針對外交部函送之「中華民國（臺灣）外交部與貝里斯外交暨外貿部外交人員訓練及交流合作協定」，決定由院復准備查，並函請總統府秘書長查照轉陳。......",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "timestamp": 1795651200000,
+      "matchedKeywords": [
+        "院會"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-2",
+      "groupId": "3-2",
+      "code": "3-2",
+      "agencyName": "行政院",
+      "channelLabel": "本院新聞",
+      "channelUrl": "https://www.ey.gov.tw/Page/6485009ABEC1CB9C",
+      "officialHost": "ey.gov.tw",
+      "title": "美方公布14國「結構性產能過剩」301調查報告 我301關稅建議稅率為最低級別「15%不疊加」",
+      "link": "https://www.ey.gov.tw/Page/9277F759E41CCD91/97a9d396-29cb-4da9-920f-832331d1e8f6",
+      "summary": "美國貿易代表署（USTR）於美東時間11月25日公布「結構性產能過剩」301調查報告，提出對全球14個經濟體的建議關稅，其中對臺灣、日本、韓國、歐盟、瑞士等國的建議稅率為「15%不疊加MFN，且不再疊加強迫勞動30......",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "timestamp": 1795651200000,
+      "matchedKeywords": [
+        "關稅"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-4",
+      "groupId": "3-3",
+      "code": "3-3-4",
+      "agencyName": "經濟部產業發展署",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.ida.gov.tw/ctlr?PRO=news.NewsList",
+      "officialHost": "ida.gov.tw",
+      "title": "美國301結構性產能過剩調查 台灣列最低稅率級別 經濟部：協助產業爭取公平立足點，維持產業競爭力",
+      "link": "https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43455",
+      "summary": "到美國貿易代表署(USTR)依《1974年貿易法》第301條款於美東時間11月25日宣布「結構性產能過剩」301調查報告，提出對全球14個經濟體的建議關稅，其中對台灣、日本、韓國、歐盟、瑞士等國的建議稅...",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "timestamp": 1795651200000,
+      "matchedKeywords": [
+        "產業"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "新聞資料",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/9aa56881-8df0-4eb6-a5a7-32a2f72826ff?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "臺法科技獎邁入第 28 屆 彰顯雙邊科研夥伴堅實情誼",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/f2c475a4-be1e-440c-86f8-bebbf61b8b97?l=ch",
+      "summary": "",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "timestamp": 1795651200000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-2",
+      "groupId": "3-4",
+      "code": "3-4-2",
+      "agencyName": "新竹科學園區管理局（竹科）",
+      "channelLabel": "最新消息",
+      "channelUrl": "https://www.sipa.gov.tw/home.jsp?serno=201001210002&mserno=201001210001&menudata=ChineseMenu&contlink=ap/information_1.jsp&level2=Y",
+      "officialHost": "sipa.gov.tw",
+      "title": "【現場會議】「工廠危險物品申報與安全管理」研討會",
+      "link": "https://www.sipa.gov.tw/home.jsp?mserno=201001210001&serno=201001210002&menudata=ChineseMenu&contlink=ap/information_2_view.jsp&dataserno=202611170002",
+      "summary": "",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "timestamp": 1795651200000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-2",
+      "groupId": "3-4",
+      "code": "3-4-2",
+      "agencyName": "新竹科學園區管理局（竹科）",
+      "channelLabel": "最新消息",
+      "channelUrl": "https://www.sipa.gov.tw/home.jsp?serno=201001210002&mserno=201001210001&menudata=ChineseMenu&contlink=ap/information_1.jsp&level2=Y",
+      "officialHost": "sipa.gov.tw",
+      "title": "【Teams 線上會議】「工廠危險物品申報與安全管理」研討會",
+      "link": "https://www.sipa.gov.tw/home.jsp?mserno=201001210001&serno=201001210002&menudata=ChineseMenu&contlink=ap/information_2_view.jsp&dataserno=202611170001",
+      "summary": "",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "timestamp": 1795651200000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-2",
+      "groupId": "3-4",
+      "code": "3-4-2",
+      "agencyName": "新竹科學園區管理局（竹科）",
+      "channelLabel": "最新消息",
+      "channelUrl": "https://www.sipa.gov.tw/home.jsp?serno=201001210002&mserno=201001210001&menudata=ChineseMenu&contlink=ap/information_1.jsp&level2=Y",
+      "officialHost": "sipa.gov.tw",
+      "title": "115年FITI計畫第2梯次決選 竹科輔導新創囊括多項大獎",
+      "link": "https://www.sipa.gov.tw/home.jsp?mserno=201001210001&serno=201001210002&menudata=ChineseMenu&contlink=ap/information_1_view.jsp&dataserno=202611260002",
+      "summary": "",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "timestamp": 1795651200000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-2",
+      "groupId": "3-4",
+      "code": "3-4-2",
+      "agencyName": "新竹科學園區管理局（竹科）",
+      "channelLabel": "最新消息",
+      "channelUrl": "https://www.sipa.gov.tw/home.jsp?serno=201001210002&mserno=201001210001&menudata=ChineseMenu&contlink=ap/information_1.jsp&level2=Y",
+      "officialHost": "sipa.gov.tw",
+      "title": "本局環安組誠徵聘用檢查員及聘用查察員各1名",
+      "link": "https://www.sipa.gov.tw/home.jsp?mserno=201001210001&serno=201001210002&menudata=ChineseMenu&contlink=ap/information_1_view.jsp&dataserno=202611260001",
+      "summary": "",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "timestamp": 1795651200000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-3",
+      "groupId": "3-4",
+      "code": "3-4-3",
+      "agencyName": "中部科學園區管理局（中科）",
+      "channelLabel": "最新公告",
+      "channelUrl": "https://www.ctsp.gov.tw/chinese/01-News/01-online.aspx?v=1&fr=1000&no=1001",
+      "officialHost": "ctsp.gov.tw",
+      "title": "中科啟動新創跨域次世代 智慧醫療、資安、綠能齊發光",
+      "link": "https://www.ctsp.gov.tw/chinese/01-News/01-online_view.aspx?v=1&fr=1000&no=1001&sn=16770",
+      "summary": "",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "timestamp": 1795651200000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "新聞稿",
+      "channelUrl": "https://www.ndc.gov.tw/News9.aspx?n=114AAE178CD95D4C&sms=DF717169EA26F1A3",
+      "officialHost": "ndc.gov.tw",
+      "title": "國家檔案館常設展勇奪《羅馬設計獎》金獎 展示設計實力獲國際肯定",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=114AAE178CD95D4C&s=260D1283CAA9E147",
+      "summary": "國家檔案館再傳得獎捷報！2026年義大利「羅馬設計獎」（Rome Design Awards）近日公布得獎名單，國家檔案館《島讀：我們的故事》常設展榮獲金獎，在國際設計舞台獲得肯定。這項殊榮不僅展現國家檔案館在展示設計上的專業成果，也彰顯檔案館透過創新設計，成功地將珍貴國家檔案轉化為多元豐富的展示體驗，吸引民眾親近和探索臺灣歷史。 「羅馬設計獎」由International Awards Associate（IAA）主辦，是涵蓋建築、室",
+      "publishedAt": "2026-11-25T07:32:00.000Z",
+      "timestamp": 1795591920000,
+      "matchedKeywords": [
+        "AI"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "新聞稿",
+      "channelUrl": "https://www.ndc.gov.tw/News9.aspx?n=114AAE178CD95D4C&sms=DF717169EA26F1A3",
+      "officialHost": "ndc.gov.tw",
+      "title": "工藝美學綻放中興新村！國發會協力文化部打造「中興國際工藝村」",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=114AAE178CD95D4C&s=49F625A1B41648CE",
+      "summary": "中興新村具備獨特的花園城市格局與歷史紋理，為深化中興新村活化與文化創生效益，國發會（以下稱本會）移撥原臺灣銀行舊宿舍群，協力文化部臺灣工藝研究發展中心（簡稱工藝中心）打造「中興國際工藝村」，預定今（2026）年12月精彩登場！由工藝中心進行專業文資整修與駐村計畫，本會協助整備周邊環境及對接地方創生資源。雙方將共同推動從文化交流、人才育成至商業營運之完整生態系，開啟公有資產活化與地方創生新篇章。 歷史場域風華再現：活化文資保存建物，形塑國",
+      "publishedAt": "2026-11-25T07:28:00.000Z",
+      "timestamp": 1795591680000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-2",
+      "groupId": "3-2",
+      "code": "3-2",
+      "agencyName": "行政院",
+      "channelLabel": "本院新聞",
+      "channelUrl": "https://www.ey.gov.tw/Page/6485009ABEC1CB9C",
+      "officialHost": "ey.gov.tw",
+      "title": "參拜臺中樂成宮 卓揆：打造中部精密智慧新核心、擴大臺中機場規模 全力促進地方發展",
+      "link": "https://www.ey.gov.tw/Page/9277F759E41CCD91/e94df8c0-61f2-4fed-8864-c789d0749caf",
+      "summary": "行政院長卓榮泰今（25）日前往臺中市樂成宮參拜祈福，祈求國泰民安、風調雨順及我國產業與經濟持續穩定發展。卓院長表示，中央與地方正加倍合作，除了將中彰投雲四縣市打造為「中部精密智慧新核心」外，他也提出「南北雙空港，臺......",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "timestamp": 1795564800000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-2",
+      "groupId": "3-2",
+      "code": "3-2",
+      "agencyName": "行政院",
+      "channelLabel": "本院新聞",
+      "channelUrl": "https://www.ey.gov.tw/Page/6485009ABEC1CB9C",
+      "officialHost": "ey.gov.tw",
+      "title": "表揚全國績優志工 卓揆：為社會注入更多愛與信任 形成善的循環",
+      "link": "https://www.ey.gov.tw/Page/9277F759E41CCD91/e682d316-b46d-4167-8fc2-57dd01bca7bc",
+      "summary": "行政院長卓榮泰今（25）日出席「115年全國績優志工表揚典禮」，頒獎表揚績優志工團隊及金牌獎得主。卓院長表示，志工夥伴不論在日常生活或關鍵時刻，都為國人與這塊土地全心付出，特別是在花蓮馬太鞍溪堰塞湖事件中，多達50......",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "timestamp": 1795564800000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-4",
+      "groupId": "3-3",
+      "code": "3-3-4",
+      "agencyName": "經濟部產業發展署",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.ida.gov.tw/ctlr?PRO=news.NewsList",
+      "officialHost": "ida.gov.tw",
+      "title": "2026產業淨零成果發表登場 389廠取得碳費優惠資格、產創條例投抵力挺AI減碳",
+      "link": "https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43454",
+      "summary": "到經濟部產業發展署今（25）日舉辦「2026產業淨零轉型成果發表暨研討會」，邁入第20屆的重要里程碑。面對國內碳費制度上路與國際綠色供應鏈要求，產發署展現具體轉型成績單：近10年製造業二氧化碳排放量已下...",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "timestamp": 1795564800000,
+      "matchedKeywords": [
+        "產業",
+        "AI",
+        "淨零",
+        "製造",
+        "轉型"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-3-4",
+      "groupId": "3-3",
+      "code": "3-3-4",
+      "agencyName": "經濟部產業發展署",
+      "channelLabel": "產業大小事",
+      "channelUrl": "https://www.ida.gov.tw/ctlr?PRO=news.NewsList&type=Insights",
+      "officialHost": "ida.gov.tw",
+      "title": "▍雙邊貿易巨幅成長！新南向產業合作10週年交出亮眼成績單",
+      "link": "https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43452&type=Insights",
+      "summary": "到臺灣產業如何跨越語言與法規門檻，成功打入超過 20 億人口的新南向大市場？ ​ ​ ​ ​ 經濟部今（24）日與全國工業總會共同舉辦「亞太產業合作推動委員會暨新南向 10 週年成果交流」，由經...",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "timestamp": 1795564800000,
+      "matchedKeywords": [
+        "產業"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "agencyName": "地熱發電單一服務窗口",
+      "channelLabel": "新聞推動",
+      "channelUrl": "https://ea01.moeaea.gov.tw/b0403/News/Index/A011",
+      "officialHost": "ea01.moeaea.gov.tw",
+      "title": "【最新消息】掌握綠色競爭力！經濟部「永續發展專區」網站全新上線",
+      "link": "https://ea01.moeaea.gov.tw/b0403/News/Show?id=4342",
+      "summary": "",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "timestamp": 1795564800000,
+      "matchedKeywords": [
+        "永續"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "新聞資料",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/9aa56881-8df0-4eb6-a5a7-32a2f72826ff?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "突破生成式AI高耗能瓶頸 學研團隊打造高能效學習晶片",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/5302c3c4-e418-44eb-a352-9b329d0b8019?l=ch",
+      "summary": "",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "timestamp": 1795564800000,
+      "matchedKeywords": [
+        "AI"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-2",
+      "groupId": "3-4",
+      "code": "3-4-2",
+      "agencyName": "新竹科學園區管理局（竹科）",
+      "channelLabel": "最新消息",
+      "channelUrl": "https://www.sipa.gov.tw/home.jsp?serno=201001210002&mserno=201001210001&menudata=ChineseMenu&contlink=ap/information_1.jsp&level2=Y",
+      "officialHost": "sipa.gov.tw",
+      "title": "本局營建組土木工程職系技士錄取公告",
+      "link": "https://www.sipa.gov.tw/home.jsp?mserno=201001210001&serno=201001210002&menudata=ChineseMenu&contlink=ap/information_1_view.jsp&dataserno=202611250003",
+      "summary": "",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "timestamp": 1795564800000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-2",
+      "groupId": "3-4",
+      "code": "3-4-2",
+      "agencyName": "新竹科學園區管理局（竹科）",
+      "channelLabel": "最新消息",
+      "channelUrl": "https://www.sipa.gov.tw/home.jsp?serno=201001210002&mserno=201001210001&menudata=ChineseMenu&contlink=ap/information_1.jsp&level2=Y",
+      "officialHost": "sipa.gov.tw",
+      "title": "115年職業安全衛生優良單位及優良人員獲獎名單",
+      "link": "https://www.sipa.gov.tw/home.jsp?mserno=201001210001&serno=201001210002&menudata=ChineseMenu&contlink=ap/information_1_view.jsp&dataserno=202611250001",
+      "summary": "",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "timestamp": 1795564800000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-2",
+      "groupId": "3-4",
+      "code": "3-4-2",
+      "agencyName": "新竹科學園區管理局（竹科）",
+      "channelLabel": "最新消息",
+      "channelUrl": "https://www.sipa.gov.tw/home.jsp?serno=201001210002&mserno=201001210001&menudata=ChineseMenu&contlink=ap/information_1.jsp&level2=Y",
+      "officialHost": "sipa.gov.tw",
+      "title": "轉知新竹縣政府辦理「青創點睛 竹夢成金 2026新創成果博覽...",
+      "link": "https://www.sipa.gov.tw/home.jsp?mserno=201001210001&serno=201001210002&menudata=ChineseMenu&contlink=ap/information_1_view.jsp&dataserno=202611230002",
+      "summary": "",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "timestamp": 1795564800000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "本會動態",
+      "channelUrl": "https://www.ndc.gov.tw/News12_1.aspx?n=3E6699ADB0BE3855&sms=C7BF44606A5BF73F",
+      "officialHost": "ndc.gov.tw",
+      "title": "【行政院地方創生會報】最新通過案件",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=3E6699ADB0BE3855&s=5BC3DCDCC1AD4B88",
+      "summary": "⭐行政院地方創生會報⭐最新通過案件✅ 國發會11/23召開第59次 #行政院地方創生會報，會中通過新北市、臺中市、苗栗縣、南投縣、嘉義縣及臺南市等5件地方創生及多元徵案計畫👏 🌱新北市瑞芳區「水金九『文化煉金』地方創生計畫」(多元徵案) 由臺灣類博物館發展協會等多個單位共同提案，以新北市瑞芳區九份、金瓜石及水湳洞（水金九）為主要發展範圍，整合地方文化、工藝、觀光體驗與青年人才培育資源。 🌱臺中市梧棲區「臺中港梧棲老街地域振興計畫」",
+      "publishedAt": "2026-11-24T02:00:00.000Z",
+      "timestamp": 1795485600000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-2",
+      "groupId": "3-2",
+      "code": "3-2",
+      "agencyName": "行政院",
+      "channelLabel": "本院新聞",
+      "channelUrl": "https://www.ey.gov.tw/Page/6485009ABEC1CB9C",
+      "officialHost": "ey.gov.tw",
+      "title": "參拜新北市八里開台天后宮 卓揆：積極推動新北交通路網建設與產業發展 全力帶動地方繁榮發展",
+      "link": "https://www.ey.gov.tw/Page/9277F759E41CCD91/44bb27e2-b925-4707-ae9a-8a4ef83f270b",
+      "summary": "行政院長卓榮泰今（24）日前往新北市八里開台天后宮參拜祈福時表示，中央高度重視新北市交通路網建設與產業發展，不論從淡江大橋工程、臺北港物流倉儲區開發，到「首都圈黃金廊帶」及「AI新基地・淡海智慧科技城」計畫等，各項......",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "timestamp": 1795478400000,
+      "matchedKeywords": [
+        "AI"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-4",
+      "groupId": "3-3",
+      "code": "3-3-4",
+      "agencyName": "經濟部產業發展署",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.ida.gov.tw/ctlr?PRO=news.NewsList",
+      "officialHost": "ida.gov.tw",
+      "title": "新南向產業合作十年有成 六國論壇促成298項MOU 以優勢產業帶動傳產轉型 攜手夥伴國開創下一個十年",
+      "link": "https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43451",
+      "summary": "到經濟部今（24）日與全國工業總會於臺北晶華酒店共同舉辦「亞太產業合作推動委員會暨新南向10週年成果交流」，由經濟部龔明鑫部長與工總侯傑騰副理事長共同主持，亞太委員會六國分組及企業、公協會與法人代表約1...",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "timestamp": 1795478400000,
+      "matchedKeywords": [
+        "產業",
+        "轉型"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-3",
+      "groupId": "3-4",
+      "code": "3-4-3",
+      "agencyName": "中部科學園區管理局（中科）",
+      "channelLabel": "最新公告",
+      "channelUrl": "https://www.ctsp.gov.tw/chinese/01-News/01-online.aspx?v=1&fr=1000&no=1001",
+      "officialHost": "ctsp.gov.tw",
+      "title": "台中園區道路挖掘案件",
+      "link": "https://www.ctsp.gov.tw/chinese/01-News/01-online_view.aspx?v=1&fr=1000&no=1001&sn=16769",
+      "summary": "",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "timestamp": 1795478400000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-3",
+      "groupId": "3-4",
+      "code": "3-4-3",
+      "agencyName": "中部科學園區管理局（中科）",
+      "channelLabel": "最新公告",
+      "channelUrl": "https://www.ctsp.gov.tw/chinese/01-News/01-online.aspx?v=1&fr=1000&no=1001",
+      "officialHost": "ctsp.gov.tw",
+      "title": "后里園區道路挖掘案件",
+      "link": "https://www.ctsp.gov.tw/chinese/01-News/01-online_view.aspx?v=1&fr=1000&no=1001&sn=16768",
+      "summary": "",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "timestamp": 1795478400000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-6",
+      "groupId": "3-6",
+      "code": "3-6",
+      "agencyName": "環境部（本部／氣候變遷署）",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cca.gov.tw/news-and-releases/press-releases/1544.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "SBTi亞洲區主管訪台交流 攜手台灣打造AI供應鏈減碳標準、接軌NDC目標",
+      "link": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14573",
+      "summary": "",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "timestamp": 1795478400000,
+      "matchedKeywords": [
+        "減碳"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-6",
+      "groupId": "3-6",
+      "code": "3-6",
+      "agencyName": "環境部（本部／氣候變遷署）",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cca.gov.tw/news-and-releases/press-releases/1544.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "環境部與BSI深化交流 推動臺灣產業接軌國際減碳標準",
+      "link": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14572",
+      "summary": "",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "timestamp": 1795478400000,
+      "matchedKeywords": [
+        "減碳"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "本會動態",
+      "channelUrl": "https://www.ndc.gov.tw/News12_1.aspx?n=3E6699ADB0BE3855&sms=C7BF44606A5BF73F",
+      "officialHost": "ndc.gov.tw",
+      "title": "【116年度地方創生青年培力工作站】徵件至115/12/24(四)下午3時截止 國發會歡迎您一起加入地方創生的行列",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=3E6699ADB0BE3855&s=E5D1C21FFA45E516",
+      "summary": "✨116年度地方創生青年培力工作站徵件開跑📣 📣 本年度新增開放合作社來申請、並依照團隊深耕領域設計組別 把你的在地專長，化為陪伴青年扎根的力量！ 🌱三大組別，擇一申請 📌文化社會組 📌經濟創生組 📌農業發展組 📅申請時間： 115年11月23日(一)中午12時起至115年12月24日(四)下午3時止。 👉申請資格 依我國法令登記有案之公司(不含外國公司設立之子公司、分公司及辦事處)、行號(商號)、社團法人或合作社。 其",
+      "publishedAt": "2026-11-23T07:47:00.000Z",
+      "timestamp": 1795420020000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "新聞稿",
+      "channelUrl": "https://www.ndc.gov.tw/News9.aspx?n=114AAE178CD95D4C&sms=DF717169EA26F1A3",
+      "officialHost": "ndc.gov.tw",
+      "title": "跨部會推動重大醫療建設 完善全齡照護體系 落實健康臺灣、均衡臺灣",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=114AAE178CD95D4C&s=E27CB5289E710F6E",
+      "summary": "為落實賴總統「健康臺灣」與「均衡臺灣」政策理念，因應後疫情時代醫療照護需求轉變，以及少子女化、超高齡社會等挑戰，政府積極推動醫療基礎設施升級，強化全國醫療照護體系韌性。國發會盤點教育部、衛生福利部、國軍退除役官兵輔導會及國防部等部會推動之重大醫療新建及擴建工程，截至今（115）年11月中旬統計資料顯示，今（115）年將投入約136億元，預計至122年將陸續增加逾6,000床位，以優化兒童及高齡照護、強化偏鄉及急重症醫療量能、促進生醫產業",
+      "publishedAt": "2026-11-23T06:38:00.000Z",
+      "timestamp": 1795415880000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-2",
+      "groupId": "3-2",
+      "code": "3-2",
+      "agencyName": "行政院",
+      "channelLabel": "本院新聞",
+      "channelUrl": "https://www.ey.gov.tw/Page/6485009ABEC1CB9C",
+      "officialHost": "ey.gov.tw",
+      "title": "政院召開產業及金融業界座談會 卓揆：落實「穩定局勢、安定市場、延續優勢」目標 全力安定資本市場及投資人信心",
+      "link": "https://www.ey.gov.tw/Page/9277F759E41CCD91/d0fe0aab-499a-4477-8f19-2e00989d144d",
+      "summary": "為應近期國際情勢變化及國內市場波動，行政院長卓榮泰今（23）日邀集國內金融業、科技及工商產業公協會代表會面，充分傾聽業界意見。卓院長強調，臺灣經濟體質及基本面十分健全，產業界對於臺灣未來前景也極具信心。而政府有責任......",
+      "publishedAt": "2026-11-23T00:00:00.000Z",
+      "timestamp": 1795392000000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-2",
+      "groupId": "3-2",
+      "code": "3-2",
+      "agencyName": "行政院",
+      "channelLabel": "本院新聞",
+      "channelUrl": "https://www.ey.gov.tw/Page/6485009ABEC1CB9C",
+      "officialHost": "ey.gov.tw",
+      "title": "接見第64屆十大傑出青年 卓院長：持續推動「青年主流化」與「青年百億海外圓夢基金」 助臺灣青年站上世界舞臺",
+      "link": "https://www.ey.gov.tw/Page/9277F759E41CCD91/a81bc456-233f-4a7a-8574-c4fece7ddd48",
+      "summary": "行政院長卓榮泰今（23）日接見國國際青年商會中華民國總會「第64屆十大傑出青年當選人」一行時，除恭喜得獎者外並表示，今日各個獎項代表不同面向、不同領域，落實了政府正在全力推動且非常重視的「青年主流化」，即以青年為中......",
+      "publishedAt": "2026-11-23T00:00:00.000Z",
+      "timestamp": 1795392000000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-4",
+      "groupId": "3-3",
+      "code": "3-3-4",
+      "agencyName": "經濟部產業發展署",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.ida.gov.tw/ctlr?PRO=news.NewsList",
+      "officialHost": "ida.gov.tw",
+      "title": "全球股市受國際政經因素影響震盪 經濟部：臺灣經濟基本面穩健，呼籲各界保持信心",
+      "link": "https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43447",
+      "summary": "到行政院卓榮泰院長今(23)日下午邀集國內金融業、科技業及工商產業公協會代表，與相關部會首長召開財經會議，就近期國際政經情勢及國內金融市場發展交換意見，共同研商穩定市場信心的作法。經濟部長龔明鑫於會中報...",
+      "publishedAt": "2026-11-23T00:00:00.000Z",
+      "timestamp": 1795392000000,
+      "matchedKeywords": [
+        "產業"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "一般公告",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/d3c30297-bb63-44c5-ad30-38a65b203288?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "本會工程處徵求【助理研究員(二)】1名",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/03e80840-242f-495b-992d-7d3c5314bfeb?l=ch",
+      "summary": "",
+      "publishedAt": "2026-11-23T00:00:00.000Z",
+      "timestamp": 1795392000000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-2",
+      "groupId": "3-4",
+      "code": "3-4-2",
+      "agencyName": "新竹科學園區管理局（竹科）",
+      "channelLabel": "最新消息",
+      "channelUrl": "https://www.sipa.gov.tw/home.jsp?serno=201001210002&mserno=201001210001&menudata=ChineseMenu&contlink=ap/information_1.jsp&level2=Y",
+      "officialHost": "sipa.gov.tw",
+      "title": "轉知勞動部公告辦理就業保險促進就業實施辦法及因應國際情勢支持...",
+      "link": "https://www.sipa.gov.tw/home.jsp?mserno=201001210001&serno=201001210002&menudata=ChineseMenu&contlink=ap/information_1_view.jsp&dataserno=202611230001",
+      "summary": "",
+      "publishedAt": "2026-11-23T00:00:00.000Z",
+      "timestamp": 1795392000000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-4-3",
+      "groupId": "3-4",
+      "code": "3-4-3",
+      "agencyName": "中部科學園區管理局（中科）",
+      "channelLabel": "最新公告",
+      "channelUrl": "https://www.ctsp.gov.tw/chinese/01-News/01-online.aspx?v=1&fr=1000&no=1001",
+      "officialHost": "ctsp.gov.tw",
+      "title": "轉知: 國立中央大學訂於115年12月4日（五）舉辦「智慧無人載具影像辨識應用技術媒合會」，敬請踴躍報名參加。",
+      "link": "https://www.ctsp.gov.tw/chinese/01-News/01-online_view.aspx?v=1&fr=1000&no=1001&sn=16762",
+      "summary": "",
+      "publishedAt": "2026-11-23T00:00:00.000Z",
+      "timestamp": 1795392000000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-3",
+      "groupId": "3-4",
+      "code": "3-4-3",
+      "agencyName": "中部科學園區管理局（中科）",
+      "channelLabel": "最新公告",
+      "channelUrl": "https://www.ctsp.gov.tw/chinese/01-News/01-online.aspx?v=1&fr=1000&no=1001",
+      "officialHost": "ctsp.gov.tw",
+      "title": "二林園區道路挖掘案件",
+      "link": "https://www.ctsp.gov.tw/chinese/01-News/01-online_view.aspx?v=1&fr=1000&no=1001&sn=16761",
+      "summary": "",
+      "publishedAt": "2026-11-23T00:00:00.000Z",
+      "timestamp": 1795392000000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-6",
+      "groupId": "3-6",
+      "code": "3-6",
+      "agencyName": "環境部（本部／氣候變遷署）",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cca.gov.tw/news-and-releases/press-releases/1544.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "環境部表揚空品淨化區優良認養單位，凝聚公私協力，共同推動國土綠蔭！",
+      "link": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14564",
+      "summary": "",
+      "publishedAt": "2026-11-23T00:00:00.000Z",
+      "timestamp": 1795392000000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-6",
+      "groupId": "3-6",
+      "code": "3-6",
+      "agencyName": "環境部（本部／氣候變遷署）",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cca.gov.tw/news-and-releases/press-releases/1544.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "COP31 未達共識 臺灣不等待、加速落實 攜手國際推動碳市場、循環經濟與 AI 減碳韌性",
+      "link": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14541",
+      "summary": "",
+      "publishedAt": "2026-11-22T00:00:00.000Z",
+      "timestamp": 1795305600000,
+      "matchedKeywords": [
+        "循環經濟",
+        "減碳"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "新聞稿",
+      "channelUrl": "https://www.ndc.gov.tw/News9.aspx?n=114AAE178CD95D4C&sms=DF717169EA26F1A3",
+      "officialHost": "ndc.gov.tw",
+      "title": "2026中區地方創生節彰化登場，從風土產業到跨域共創，展現中臺灣地方創生多元能量",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=114AAE178CD95D4C&s=FA4A27BD564BCF15",
+      "summary": "國家發展委員會於今（115）年11月21日至22日在彰化孔子廟及N型未來學院舉辦「2026島心相聚・中區地方創生節」，集結苗栗、臺中、彰化、南投及雲林五縣市地方創生團隊與青年職人，透過成果展覽、特色市集、手作體驗及交流活動，展現中臺灣從山城工藝、文化創新、平原農業到山林產業及農村食農實踐的多元成果，呈現青年串聯人、土地與產業的創生能量。 本次活動以「扛得住的日常，聚起地方的韌性」為策展精神，成果展覽規劃「紮根、避風、轉向、放晴」四大展區",
+      "publishedAt": "2026-11-21T08:00:00.000Z",
+      "timestamp": 1795248000000,
+      "matchedKeywords": [
+        "AI"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-4",
+      "groupId": "3-3",
+      "code": "3-3-4",
+      "agencyName": "經濟部產業發展署",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.ida.gov.tw/ctlr?PRO=news.NewsList",
+      "officialHost": "ida.gov.tw",
+      "title": "我國經濟表現優異、動能強勁未受短期波動影響 經濟部呼籲對產業發展保持信心",
+      "link": "https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43446",
+      "summary": "到 針對近期台股受美國費城半導體指數及國際科技大廠股價重挫影響下跌，經濟部今(21)日表示，AI基礎建設長期趨勢不變，近期台灣經濟成長、工業生產、外銷訂單及進出口等主要指標均展現成長動能，顯示我國經濟...",
+      "publishedAt": "2026-11-21T00:00:00.000Z",
+      "timestamp": 1795219200000,
+      "matchedKeywords": [
+        "產業",
+        "AI",
+        "半導體"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-4",
+      "groupId": "3-3",
+      "code": "3-3-4",
+      "agencyName": "經濟部產業發展署",
+      "channelLabel": "產業大小事",
+      "channelUrl": "https://www.ida.gov.tw/ctlr?PRO=news.NewsList&type=Insights",
+      "officialHost": "ida.gov.tw",
+      "title": "▍企業創投 × 新創交流，CVC聯誼會專場揭幕！",
+      "link": "https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43445&type=Insights",
+      "summary": "到新創有技術，企業有資金，大企業怎麼找對新創合作，讓好技術真正走進市場？ ​ ​ ​ ​ 經濟部產發署今年攜手國發會成立「CVC聯誼會」，今（19）日在2026 Meet Taipei「明日舞台...",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "timestamp": 1795132800000,
+      "matchedKeywords": [
+        "AI"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-6",
+      "groupId": "3-6",
+      "code": "3-6",
+      "agencyName": "環境部（本部／氣候變遷署）",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cca.gov.tw/news-and-releases/press-releases/1544.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "呼應《安塔利亞 AI承諾》臺灣願以全球 AI 供應鏈核心之力，打造 AI 與氣候共生的未來",
+      "link": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14537",
+      "summary": "",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "timestamp": 1795132800000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-6",
+      "groupId": "3-6",
+      "code": "3-6",
+      "agencyName": "環境部（本部／氣候變遷署）",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cca.gov.tw/news-and-releases/press-releases/1544.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "掌握《巴黎協定》第六條國際新局！環境部舉辦 COP31 國際論壇，完善國外碳權認可機制促進實質氣候合作",
+      "link": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14536",
+      "summary": "",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "timestamp": 1795132800000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "新聞稿",
+      "channelUrl": "https://www.ndc.gov.tw/News9.aspx?n=114AAE178CD95D4C&sms=DF717169EA26F1A3",
+      "officialHost": "ndc.gov.tw",
+      "title": "檔案管理局攜手故宮—串聯檔案文物推動教育平權",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=114AAE178CD95D4C&s=E91F783AD1152D91",
+      "summary": "當國家檔案遇上故宮文物，會碰撞出什麼樣的火花？國家發展委員會檔案管理局、國立故宮博物院於今（19）日下午在國家檔案館簽署合作備忘錄（MOU），由檔案局局長莊明芬與故宮院長蕭宗煌代表簽署，並由檔案局副局長陳海雄、故宮副院長黃永泰及雙方主管團隊共同見證。雙方藉此建立長期且穩定的教育夥伴關係，未來將從展覽合作、教育推廣、專業課程、數位學術資源共享及視覺資訊授權運用等展開多元合作及交流，活化國家檔案與故宮典藏，轉化為豐富的教育學習資源。 檔案局",
+      "publishedAt": "2026-11-19T07:22:00.000Z",
+      "timestamp": 1795072920000,
+      "matchedKeywords": [
+        "AI"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "新聞稿",
+      "channelUrl": "https://www.ndc.gov.tw/News9.aspx?n=114AAE178CD95D4C&sms=DF717169EA26F1A3",
+      "officialHost": "ndc.gov.tw",
+      "title": "國發會第147次委員會議新聞稿",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=114AAE178CD95D4C&s=84B0C3FEF95D8077",
+      "summary": "國家發展委員會今(19)日召開第147次委員會議，會中聽取國發會「115年度整體公共建設計畫推動情形(截至115年10月底)」及「打造永續共好地方創生計畫推動情形」報告，並通過行政院交議，經濟部陳報「嘉義海水淡化廠工程計畫」草案。 一、公共建設執行較去年同期提升 交通、能源及醫療建設成果陸續展現 國發會針對今(115)年度整體公共建設計畫執行情形進行委員會議專案報告。截至今年10月底，整體公共建設計畫累計執行金額達5,446億元，經費達",
+      "publishedAt": "2026-11-19T01:59:00.000Z",
+      "timestamp": 1795053540000,
+      "matchedKeywords": [
+        "缺水",
+        "水資源",
+        "能源",
+        "委員會議"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-2",
+      "groupId": "3-2",
+      "code": "3-2",
+      "agencyName": "行政院",
+      "channelLabel": "行政院會議／院會決議",
+      "channelUrl": "https://www.ey.gov.tw/Page/AE4885326ADF43DD",
+      "officialHost": "ey.gov.tw",
+      "title": "行政院第4030次院會決議",
+      "link": "https://www.ey.gov.tw/Page/4EC2394BE4EE9DD0/0a8abf2c-c64d-49ef-851c-6e2d1bd15211",
+      "summary": "院長提示： 民國115年11月19日第4030次會議 一、立法院將在本週就115年度中央政府總預算追加預算案進行重要的協商。行政院向立法院提出追加預算案都是基於政務推動所需，因此希望立法院能大力支持。在......",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "timestamp": 1795046400000,
+      "matchedKeywords": [
+        "院會決議",
+        "院會"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "一般公告",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/d3c30297-bb63-44c5-ad30-38a65b203288?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "國家科學及技術委員會人事處約用行政管理師甄選公告",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/0c37e0c8-5110-4604-b424-f465946e6354?l=ch",
+      "summary": "",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "timestamp": 1795046400000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-6",
+      "groupId": "3-6",
+      "code": "3-6",
+      "agencyName": "環境部（本部／氣候變遷署）",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cca.gov.tw/news-and-releases/press-releases/1544.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "環境部舉辦 COP31 青年論壇 串聯國小雨水花園、高中淨零對話到大專海外圓夢 許下 2050 世代約定",
+      "link": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14529",
+      "summary": "",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "timestamp": 1795046400000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "本會動態",
+      "channelUrl": "https://www.ndc.gov.tw/News12_1.aspx?n=3E6699ADB0BE3855&sms=C7BF44606A5BF73F",
+      "officialHost": "ndc.gov.tw",
+      "title": "【國發會接受歐洲商會2027建議書】",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=3E6699ADB0BE3855&s=C3EC5211079000C9",
+      "summary": "⭐️國發會接受歐洲商會2027建議書⭐️ 💡國發會葉俊顯主委今(11/18)代表政府接受歐洲在臺商務協會（ECCT）遞交《2027建議書》。葉主委致詞時表示，面對全球供應鏈重組，臺歐夥伴關係更趨緊密🤝 💡上(10)月歐洲經貿辦事處發布的商業信心調查顯示，超過7成在臺歐商肯定臺灣的經商環境。在此良好基礎上，政府將持續推進： ✅各領域法規與國際接軌，優化投資環境；為因應AI發展趨勢，積極推動「AI新十大建設」及建立風險分類框架，以全面",
+      "publishedAt": "2026-11-18T09:42:00.000Z",
+      "timestamp": 1794994920000,
+      "matchedKeywords": [
+        "商會",
+        "建言",
+        "AI"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "新聞稿",
+      "channelUrl": "https://www.ndc.gov.tw/News9.aspx?n=114AAE178CD95D4C&sms=DF717169EA26F1A3",
+      "officialHost": "ndc.gov.tw",
+      "title": "StartupBlink發布2026年企業新創活躍指數 臺灣入選全球第19名、25家企業入選 展現強勁創新動能",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=114AAE178CD95D4C&s=2D121DDFF9CC3475",
+      "summary": "國際知名創新研究機構StartupBlink今(115)年11月17日發布「2026 年企業新創活躍指數」(Corporate Startup Activity Index 2026)，評估全球企業透過新創投資、併購等與新創互動的強度，並首度推出國家排名。臺灣在全球82個經濟體中，一舉躋身全球第19名，並有25家臺灣企業入選該指數排名，充分展現臺灣企業重視外部創新，挹注資源帶動臺灣新創生態系發展。 產業硬實力深厚，硬體企業高度支持新創，",
+      "publishedAt": "2026-11-18T09:23:00.000Z",
+      "timestamp": 1794993780000,
+      "matchedKeywords": [
+        "AI"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "新聞稿",
+      "channelUrl": "https://www.ndc.gov.tw/News9.aspx?n=114AAE178CD95D4C&sms=DF717169EA26F1A3",
+      "officialHost": "ndc.gov.tw",
+      "title": "歐商發表2027建議書 國發會：持續打造我國優質經商環境，力促臺歐經貿夥伴關係深化發展",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=114AAE178CD95D4C&s=F96AC894916C2682",
+      "summary": "歐洲在臺商務協會今（18）日發表「2027建議書」，國發會葉俊顯主委受邀出席並代表政府接受。葉主委致詞時表示，歐洲商會每年的建言是政府優化經商環境的重要指引。葉主委強調，隨著全球供應鏈重組，臺歐關係已從傳統經貿，全面拓展至半導體、AI與綠能轉型等前瞻戰略合作；去（2025）年臺歐雙邊貿易額已近750億美元，過去10年臺商赴歐投資金額更大幅成長650%，加上去年「華沙臺灣貿易投資中心」揭牌，以及今（2026）年於波蘭舉辦「歐洲臺灣形象展」",
+      "publishedAt": "2026-11-18T06:59:00.000Z",
+      "timestamp": 1794985140000,
+      "matchedKeywords": [
+        "商會",
+        "建言",
+        "半導體",
+        "AI",
+        "人工智慧",
+        "能源"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-4",
+      "groupId": "3-3",
+      "code": "3-3-4",
+      "agencyName": "經濟部產業發展署",
+      "channelLabel": "產業大小事",
+      "channelUrl": "https://www.ida.gov.tw/ctlr?PRO=news.NewsList&type=Insights",
+      "officialHost": "ida.gov.tw",
+      "title": "▍匯聚 16 國頂尖創意！2026 金點設計展松菸開展",
+      "link": "https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43443&type=Insights",
+      "summary": "到當科技遇上生活美學，設計如何改變我們的日常？全臺年度設計盛事「2026 金點設計展」昨（17）日在臺北松山文創園區盛大登場，由經濟部產發署李純孝主任秘書親臨揭幕！ ​ ​ ​ ​ 產發署長期推...",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "timestamp": 1794960000000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-9",
+      "groupId": "3-3",
+      "code": "3-3-9",
+      "agencyName": "經濟部標準檢驗局",
+      "channelLabel": "本局新聞",
+      "channelUrl": "https://www.bsmi.gov.tw/wSite/lp?ctNode=8321&CtUnit=963&BaseDSD=7",
+      "officialHost": "bsmi.gov.tw",
+      "title": "設計從真實需求出發 標準局輔具產品通用設計競賽得獎名單出爐",
+      "link": "https://www.bsmi.gov.tw/wSite/ct?xItem=130558&ctNode=8321&mp=1",
+      "summary": "",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "timestamp": 1794960000000,
+      "matchedKeywords": [
+        "標準"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "一般公告",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/d3c30297-bb63-44c5-ad30-38a65b203288?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "轉知農業部訂定「土石流潛勢溪流資料標準（第2版）」、「山坡地範圍資料標準（第2版）」及「特定水土保持區資料標準（第2版）」等3份資料各1份，請查照。",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/67620e41-1ca0-46d0-a4c9-4c9d16acda3e?l=ch",
+      "summary": "",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "timestamp": 1794960000000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "一般公告",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/d3c30297-bb63-44c5-ad30-38a65b203288?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "國家科學及技術委員會徵才公告：約僱助理員1名",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/ca1e8b6d-73fb-4330-bfbb-8e1b5d0e2571?l=ch",
+      "summary": "",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "timestamp": 1794960000000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "新聞資料",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/9aa56881-8df0-4eb6-a5a7-32a2f72826ff?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "《人文沙龍系列》 多識廬山真面目：喬叟的大觀園",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/e4e78677-3423-4835-9b2f-2000667f1102?l=ch",
+      "summary": "",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "timestamp": 1794960000000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-2",
+      "groupId": "3-4",
+      "code": "3-4-2",
+      "agencyName": "新竹科學園區管理局（竹科）",
+      "channelLabel": "最新消息",
+      "channelUrl": "https://www.sipa.gov.tw/home.jsp?serno=201001210002&mserno=201001210001&menudata=ChineseMenu&contlink=ap/information_1.jsp&level2=Y",
+      "officialHost": "sipa.gov.tw",
+      "title": "轉知「人工智慧醫療全球論壇」(AIMed Global Fo...",
+      "link": "https://www.sipa.gov.tw/home.jsp?mserno=201001210001&serno=201001210002&menudata=ChineseMenu&contlink=ap/information_1_view.jsp&dataserno=202611180001",
+      "summary": "",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "timestamp": 1794960000000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-6",
+      "groupId": "3-6",
+      "code": "3-6",
+      "agencyName": "環境部（本部／氣候變遷署）",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cca.gov.tw/news-and-releases/press-releases/1544.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "呼應COP31「以人為本」行動 環境部辦公正轉型論壇 串聯智庫、原鄉與青年實踐開放治理",
+      "link": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14526",
+      "summary": "",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "timestamp": 1794960000000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-4",
+      "groupId": "3-3",
+      "code": "3-3-4",
+      "agencyName": "經濟部產業發展署",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.ida.gov.tw/ctlr?PRO=news.NewsList",
+      "officialHost": "ida.gov.tw",
+      "title": "2026金點設計展11月17日松菸登場 匯聚16國家地區143件作品 以「設計之間」串連生活與產業創新",
+      "link": "https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43441",
+      "summary": "到 由經濟部產業發展署主辦、台灣設計研究院執行的「2026金點設計展」今（17）日於臺北松山文創園區台灣設計館舉辦開展記者會。本屆以「設計之間 Design in the Spaces Between...",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "timestamp": 1794873600000,
+      "matchedKeywords": [
+        "產業"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "新聞資料",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/9aa56881-8df0-4eb6-a5a7-32a2f72826ff?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "災防科技中心國際防災研習營 13國人士交流全災害預警與行動",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/1df9adf0-5fd6-44a9-a5ed-959171876e8b?l=ch",
+      "summary": "",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "timestamp": 1794873600000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-2",
+      "groupId": "3-4",
+      "code": "3-4-2",
+      "agencyName": "新竹科學園區管理局（竹科）",
+      "channelLabel": "最新消息",
+      "channelUrl": "https://www.sipa.gov.tw/home.jsp?serno=201001210002&mserno=201001210001&menudata=ChineseMenu&contlink=ap/information_1.jsp&level2=Y",
+      "officialHost": "sipa.gov.tw",
+      "title": "轉知勞動部修正「工作規則參考手冊」",
+      "link": "https://www.sipa.gov.tw/home.jsp?mserno=201001210001&serno=201001210002&menudata=ChineseMenu&contlink=ap/information_1_view.jsp&dataserno=202611170003",
+      "summary": "",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "timestamp": 1794873600000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-4-2",
+      "groupId": "3-4",
+      "code": "3-4-2",
+      "agencyName": "新竹科學園區管理局（竹科）",
+      "channelLabel": "最新消息",
+      "channelUrl": "https://www.sipa.gov.tw/home.jsp?serno=201001210002&mserno=201001210001&menudata=ChineseMenu&contlink=ap/information_1.jsp&level2=Y",
+      "officialHost": "sipa.gov.tw",
+      "title": "本局環安組誠徵工業工程職系技士1名",
+      "link": "https://www.sipa.gov.tw/home.jsp?mserno=201001210001&serno=201001210002&menudata=ChineseMenu&contlink=ap/information_1_view.jsp&dataserno=202611170002",
+      "summary": "",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "timestamp": 1794873600000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-2",
+      "groupId": "3-4",
+      "code": "3-4-2",
+      "agencyName": "新竹科學園區管理局（竹科）",
+      "channelLabel": "最新消息",
+      "channelUrl": "https://www.sipa.gov.tw/home.jsp?serno=201001210002&mserno=201001210001&menudata=ChineseMenu&contlink=ap/information_1.jsp&level2=Y",
+      "officialHost": "sipa.gov.tw",
+      "title": "竹科領軍拓銷歐洲!連續五年參加德國MEDICA展",
+      "link": "https://www.sipa.gov.tw/home.jsp?mserno=201001210001&serno=201001210002&menudata=ChineseMenu&contlink=ap/information_1_view.jsp&dataserno=202611170001",
+      "summary": "",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "timestamp": 1794873600000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-6",
+      "groupId": "3-6",
+      "code": "3-6",
+      "agencyName": "環境部（本部／氣候變遷署）",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cca.gov.tw/news-and-releases/press-releases/1544.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "串聯歐亞碳移除經驗 環境部COP31系列論壇探討臺灣生物炭循環新價值",
+      "link": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14521",
+      "summary": "",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "timestamp": 1794873600000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "本會動態",
+      "channelUrl": "https://www.ndc.gov.tw/News12_1.aspx?n=3E6699ADB0BE3855&sms=C7BF44606A5BF73F",
+      "officialHost": "ndc.gov.tw",
+      "title": "【精采影片】青年扎根地方，公私協力挺創生 一起開箱地方成果，共創永續共好的新可能",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=3E6699ADB0BE3855&s=1C3B9713B7C5377D",
+      "summary": "🌱青年扎根地方，公私協力挺創生🤝 一起開箱地方成果，共創永續共好的新可能✨ ✨國發會於10/31至11/1舉辦115年「獎勵青年投入地方創生行動計畫」成果發表會暨市集，集結全臺65組青年團隊，透過成果分享與市集交流，展現在地實踐的創意與行動力！ ✨本次活動特別舉辦「公私協力挺創生」共好行動，邀集中華開發資本、台灣經濟研究院、臺灣證券交易所、JTB台灣、KKday、奧美廣告、樂家康、三商餐飲、鴻梅文創、新東陽及新光三越等11家企業與跨",
+      "publishedAt": "2026-11-16T02:00:00.000Z",
+      "timestamp": 1794794400000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-4",
+      "groupId": "3-3",
+      "code": "3-3-4",
+      "agencyName": "經濟部產業發展署",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.ida.gov.tw/ctlr?PRO=news.NewsList",
+      "officialHost": "ida.gov.tw",
+      "title": "經濟部強化農曆年前沙拉油供應 公私協力穩定沙拉油市場秩序",
+      "link": "https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43440",
+      "summary": "到為因應中聯油脂停工對國內沙拉油供應造成的影響，經濟部今（16）日宣布，除持續以增加產量、擴大進口及供需媒合三大方向積極因應外，自上週起啟動新專案，本部針對商圈、夜市及市場自治會進行高度合作，每日中午1...",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "timestamp": 1794787200000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-4",
+      "groupId": "3-3",
+      "code": "3-3-4",
+      "agencyName": "經濟部產業發展署",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.ida.gov.tw/ctlr?PRO=news.NewsList",
+      "officialHost": "ida.gov.tw",
+      "title": "經濟部因應美國關稅4大措施 截至11月12日辦理情形",
+      "link": "https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43439",
+      "summary": "到為即時協助產業及國人因應美國關稅衝擊，增進我國經濟發展動力及國際競爭力，經濟部編列約460億元相關特別預算辦理支持產業的4大措施，以協助產業解決資金周轉困境、提升技術能量並加強海外市場布局，並已自11...",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "timestamp": 1794787200000,
+      "matchedKeywords": [
+        "產業"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "一般公告",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/d3c30297-bb63-44c5-ad30-38a65b203288?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "國家科學及技術委員會資訊處約用人員甄選公告",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/ec096ce9-acc9-45b0-aa7f-693431a1ef94?l=ch",
+      "summary": "",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "timestamp": 1794787200000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "新聞資料",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/9aa56881-8df0-4eb6-a5a7-32a2f72826ff?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "國科會第24次委員會議聚焦AI產業化、智慧防救災及擘劃116-119年國家科技施政藍圖",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/27017634-1807-44b7-b299-d795dab6f372?l=ch",
+      "summary": "",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "timestamp": 1794787200000,
+      "matchedKeywords": [
+        "AI"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-2",
+      "groupId": "3-4",
+      "code": "3-4-2",
+      "agencyName": "新竹科學園區管理局（竹科）",
+      "channelLabel": "最新消息",
+      "channelUrl": "https://www.sipa.gov.tw/home.jsp?serno=201001210002&mserno=201001210001&menudata=ChineseMenu&contlink=ap/information_1.jsp&level2=Y",
+      "officialHost": "sipa.gov.tw",
+      "title": "新竹科學園區新三期標準廠房便利商店、餐飲等工商服務事業廠商駐...",
+      "link": "https://www.sipa.gov.tw/home.jsp?mserno=201001210001&serno=201001210002&menudata=ChineseMenu&contlink=ap/information_1_view.jsp&dataserno=202611040004",
+      "summary": "",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "timestamp": 1794787200000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-4-2",
+      "groupId": "3-4",
+      "code": "3-4-2",
+      "agencyName": "新竹科學園區管理局（竹科）",
+      "channelLabel": "最新消息",
+      "channelUrl": "https://www.sipa.gov.tw/home.jsp?serno=201001210002&mserno=201001210001&menudata=ChineseMenu&contlink=ap/information_1.jsp&level2=Y",
+      "officialHost": "sipa.gov.tw",
+      "title": "轉知行政院新聞傳播處製作「建置智能韌性設施農業及農機輔導體系...",
+      "link": "https://www.sipa.gov.tw/home.jsp?mserno=201001210001&serno=201001210002&menudata=ChineseMenu&contlink=ap/information_1_view.jsp&dataserno=202611160001",
+      "summary": "",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "timestamp": 1794787200000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-3",
+      "groupId": "3-4",
+      "code": "3-4-3",
+      "agencyName": "中部科學園區管理局（中科）",
+      "channelLabel": "最新公告",
+      "channelUrl": "https://www.ctsp.gov.tw/chinese/01-News/01-online.aspx?v=1&fr=1000&no=1001",
+      "officialHost": "ctsp.gov.tw",
+      "title": "116年度國家科學及技術委員會中部科學園區管理局「加速產業智能升級及數位優化計畫」自即日起至116年1月28日(四)17：00前受理申請，歡迎踴躍提出申請。",
+      "link": "https://www.ctsp.gov.tw/chinese/01-News/01-online_view.aspx?v=1&fr=1000&no=1001&sn=16758",
+      "summary": "",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "timestamp": 1794787200000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-3",
+      "groupId": "3-4",
+      "code": "3-4-3",
+      "agencyName": "中部科學園區管理局（中科）",
+      "channelLabel": "即時新聞澄清",
+      "channelUrl": "https://www.ctsp.gov.tw/chinese/01-News/03-custom.aspx?v=1&fr=1000&no=1003",
+      "officialHost": "ctsp.gov.tw",
+      "title": "中科園區科技廠發生重大職災 管理局勒令停工並強化工程安全管理",
+      "link": "https://www.ctsp.gov.tw/chinese/01-News/03-custom_view.aspx?v=1&fr=1000&no=1003&sn=843",
+      "summary": "",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "timestamp": 1794787200000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": {
+        "type": "clarify",
+        "label": "新聞澄清"
+      }
+    },
+    {
+      "agencyId": "3-6",
+      "groupId": "3-6",
+      "code": "3-6",
+      "agencyName": "環境部（本部／氣候變遷署）",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cca.gov.tw/news-and-releases/press-releases/1544.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "環境部COP31「綠色算力與氣候數位科技」論壇 彭啓明部長：臺灣的減碳，就是全球AI的減碳",
+      "link": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14518",
+      "summary": "",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "timestamp": 1794787200000,
+      "matchedKeywords": [
+        "減碳"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "新聞稿",
+      "channelUrl": "https://www.ndc.gov.tw/News9.aspx?n=114AAE178CD95D4C&sms=DF717169EA26F1A3",
+      "officialHost": "ndc.gov.tw",
+      "title": "倒帶那些年，我們一起走過的臺灣—《致1987，臺灣》重現時代記憶",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=114AAE178CD95D4C&s=6259DFD59F6CD048",
+      "summary": "國家發展委員會檔案管理局今（14）日在國家檔案館舉辦《致1987，臺灣》新書發表會。活動特別邀請國立東華大學歷史學系系主任陳進金教授，與本書作者、檔案局約用研究員蔡昇璋展開精彩的對談，兩人分別從歷史研究與檔案的視角出發，帶領現場民眾回到1987年這個關鍵年代，一同回顧臺灣解除戒嚴前後的社會劇變，並思考民主化一路走來的艱辛歷程。 檔案局表示《致1987，臺灣》如同按下時光「倒帶鍵」，記錄解嚴前臺灣衝破戒嚴藩籬的努力，如1979年「美麗島事",
+      "publishedAt": "2026-11-14T08:25:00.000Z",
+      "timestamp": 1794644700000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "新聞資料",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/9aa56881-8df0-4eb6-a5a7-32a2f72826ff?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "第25屆臺拉立年會於立陶宛舉行 持續深化科技合作",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/b943082d-e1c0-4940-b988-fea37e59a3e1?l=ch",
+      "summary": "",
+      "publishedAt": "2026-11-14T00:00:00.000Z",
+      "timestamp": 1794614400000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "新聞稿",
+      "channelUrl": "https://www.ndc.gov.tw/News9.aspx?n=114AAE178CD95D4C&sms=DF717169EA26F1A3",
+      "officialHost": "ndc.gov.tw",
+      "title": "智慧近用—每個人的檔案館 國家檔案館榮獲115年標竿學習案例優良獎",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=114AAE178CD95D4C&s=93FD4B95FF39875F",
+      "summary": "國家發展委員會檔案管理局以「智慧近用的首座國家檔案館」案例，獲選行政院人事行政總處公務人力發展學院115年度標竿學習中央機關優良獎，今（13）日於該學院臺北院區舉辦本年度「標竿學習獲選案例發表會」，由檔案局莊明芬局長代表領獎，並透過發表會分享首座國家檔案館從籌建、開館到推動智慧治理及創新服務的實務經驗。 檔案局以「國家記憶、檔案故事、人文休憩」為核心，打造我國首座國家檔案館。建館過程面臨營建成本上升、缺工缺料及疫情等諸多挑戰，透過跨機關",
+      "publishedAt": "2026-11-13T08:26:00.000Z",
+      "timestamp": 1794558360000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "本會動態",
+      "channelUrl": "https://www.ndc.gov.tw/News12_1.aspx?n=3E6699ADB0BE3855&sms=C7BF44606A5BF73F",
+      "officialHost": "ndc.gov.tw",
+      "title": "【AI走入產業與生活 國發會於資訊月展示智慧應用成果】",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=3E6699ADB0BE3855&s=26A59DDB10EBAC2B",
+      "summary": "💡AI走入產業與生活💡國發會資訊月展示智慧應用成果✨ 國發會葉俊顯主委昨(11/12)出席「2026資訊月暨臺灣教育科技展」開幕典禮，葉主委表示，AI不僅是科技的突破，更是帶動產業轉型與經濟發展的重要動能，透過跨部會協作與公私協力，整合產官學研資源，讓創新AI技術加速落地。 葉主委指出，國發會自110年起推動AI結合次世代通訊之創新應用，鼓勵業者結合技術與場域需求，迄今已累積31案遍及全臺的智慧應用實證成果。本次主題館展示內容呼應「",
+      "publishedAt": "2026-11-13T07:15:00.000Z",
+      "timestamp": 1794554100000,
+      "matchedKeywords": [
+        "AI",
+        "能源"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-6",
+      "groupId": "3-6",
+      "code": "3-6",
+      "agencyName": "環境部（本部／氣候變遷署）",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cca.gov.tw/news-and-releases/press-releases/1544.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "呼應 COP31「金融與貿易」主題日 環境部論壇聚焦氣候資金 引導金融支持企業減碳",
+      "link": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14502",
+      "summary": "",
+      "publishedAt": "2026-11-13T00:00:00.000Z",
+      "timestamp": 1794528000000,
+      "matchedKeywords": [
+        "減碳"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-6",
+      "groupId": "3-6",
+      "code": "3-6",
+      "agencyName": "環境部（本部／氣候變遷署）",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cca.gov.tw/news-and-releases/press-releases/1544.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "環境部攜手國際扶輪社推動國土綠蔭，串聯公益服務與企業力量，共築氣候韌性城市！",
+      "link": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14494",
+      "summary": "",
+      "publishedAt": "2026-11-13T00:00:00.000Z",
+      "timestamp": 1794528000000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-6-2",
+      "groupId": "3-6",
+      "code": "3-6-2",
+      "agencyName": "環境部化學物質管理署",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cha.gov.tw/lp-23-1.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "環境部超前國際公約列管 提前蒐集PFAS運作資訊",
+      "link": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14496",
+      "summary": "針對本部日前所舉辦「全氟及多氟烷基物質(PFAS)管理方式」研商會，環保團體所提相關建議事項，環境部說明，本次草案是超前「斯德哥爾摩公約」(下稱公約)限制清單，將台灣有使用但公約尚未列入之全氟及多氟烷基物質PFAS進行列管，預計公告為所謂「關注化學物質」，其目的藉由廠商申報義務及取得核可文件，蒐集台灣相關廠商運作資訊，了解使用流向，為下一步公告為毒性化學物質做準備，屆時才會加上相關限制、禁止措施。本案於114年先行預告，包含通報WTO，",
+      "publishedAt": "2026-11-12T16:00:00.000Z",
+      "timestamp": 1794499200000,
+      "matchedKeywords": [
+        "全氟",
+        "PFAS",
+        "半導體",
+        "化學"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "新聞稿",
+      "channelUrl": "https://www.ndc.gov.tw/News9.aspx?n=114AAE178CD95D4C&sms=DF717169EA26F1A3",
+      "officialHost": "ndc.gov.tw",
+      "title": "AI走入產業與生活 國發會資訊月展示智慧應用成果",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=114AAE178CD95D4C&s=8250695262A990D9",
+      "summary": "「2026資訊月暨臺灣教育科技展」今（12）日於台北世貿一館盛大開幕，國家發展委員會葉俊顯主任委員出席開幕典禮，國發會亦首度於資訊月設置「AI神隊友 共建智慧好生活」主題館，向大眾展示AI創新技術於產業及民生場域的應用成果。本次主題館以參與「AI+產業智慧共創實證計畫」之台灣固網、明基健康等8家業者為主，展現智慧能源、智慧健康等創新應用，呈現政府攜手產業推動AI落地的具體成果，讓民眾看見AI如何守護安全、促進健康平權及協助產業升級。 葉",
+      "publishedAt": "2026-11-12T09:13:00.000Z",
+      "timestamp": 1794474780000,
+      "matchedKeywords": [
+        "AI",
+        "能源"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "新聞稿",
+      "channelUrl": "https://www.ndc.gov.tw/News9.aspx?n=114AAE178CD95D4C&sms=DF717169EA26F1A3",
+      "officialHost": "ndc.gov.tw",
+      "title": "有關國民黨立法院黨團召開記者會關切 國發基金投資「曠世智能股份有限公司」相關議題之說明",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=114AAE178CD95D4C&s=28282DB19271B25A",
+      "summary": "針對國民黨立法院黨團召開記者會，關切國發基金投資「曠世智能股份有限公司」相關議題，國家發展委員會說明如下： 一、相關投資疑義，國發基金已公開說明 針對外界關切國發基金投資曠世智能公司之相關疑義，國發基金前已於115年5月26日發布新聞稿，詳細說明投資背景、審議程序及投後管理情形，相關資訊均可公開查閱。(參閱國發基金115年5月26日新聞稿「國發基金投資曠世智能股份有限公司說明」） 二、依法提供相關資料，積極配合國會及監督機關查核 有關國",
+      "publishedAt": "2026-11-12T01:10:00.000Z",
+      "timestamp": 1794445800000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-2",
+      "groupId": "3-2",
+      "code": "3-2",
+      "agencyName": "行政院",
+      "channelLabel": "行政院會議／院會決議",
+      "channelUrl": "https://www.ey.gov.tw/Page/AE4885326ADF43DD",
+      "officialHost": "ey.gov.tw",
+      "title": "行政院第4029次院會決議",
+      "link": "https://www.ey.gov.tw/Page/4EC2394BE4EE9DD0/7fd08c6f-8752-47ea-a58f-8c392f043201",
+      "summary": "行政院第4029次會議 民國115年11月12日 報告事項 一、中央選舉委員會、交通部及內政部分別陳報「115年地方公職人員選舉及全國性公民投票」報告，請鑒核案。 決定： （一）准予......",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "timestamp": 1794441600000,
+      "matchedKeywords": [
+        "院會決議",
+        "院會"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-4",
+      "groupId": "3-3",
+      "code": "3-3-4",
+      "agencyName": "經濟部產業發展署",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.ida.gov.tw/ctlr?PRO=news.NewsList",
+      "officialHost": "ida.gov.tw",
+      "title": "電子資訊國際大廠對臺採購首破3,000億美元 AI算力推升外銷強勁動能 經濟部全方位助攻傳產升級",
+      "link": "https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43435",
+      "summary": "到2026經濟部電子資訊國際夥伴績優廠商頒獎典禮（IPO Awards）昨（11）日登場，由經濟部龔明鑫部長親自頒獎表揚ASML、NVIDIA、Apple等22家指標外商。受惠於AI與高效能運算需求，今...",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "timestamp": 1794441600000,
+      "matchedKeywords": [
+        "AI"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-4",
+      "groupId": "3-3",
+      "code": "3-3-4",
+      "agencyName": "經濟部產業發展署",
+      "channelLabel": "產業大小事",
+      "channelUrl": "https://www.ida.gov.tw/ctlr?PRO=news.NewsList&type=Insights",
+      "officialHost": "ida.gov.tw",
+      "title": "▍對臺採購首破 3,000 億美元！臺灣穩居全球 AI 核心",
+      "link": "https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43437&type=Insights",
+      "summary": "到世界越需要 AI，就越需要臺灣！ ​ ​ ​ ​ 「2026 電子資訊國際夥伴績優廠商頒獎典禮（IPO Awards）」昨（11）日盛大登場！美國在台協會谷立言處長、經濟部龔明鑫部長、產發署邱...",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "timestamp": 1794441600000,
+      "matchedKeywords": [
+        "AI"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-4",
+      "groupId": "3-3",
+      "code": "3-3-4",
+      "agencyName": "經濟部產業發展署",
+      "channelLabel": "產業大小事",
+      "channelUrl": "https://www.ida.gov.tw/ctlr?PRO=news.NewsList&type=Insights",
+      "officialHost": "ida.gov.tw",
+      "title": "▍走過80載的經濟奇蹟！感謝工業人一路相伴",
+      "link": "https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43436&type=Insights",
+      "summary": "到臺灣前3季經濟成長率繳出14.22%的佳績，出口與外銷訂單均已分別超越去年全年總額！這些豐碩成果的背後，正是無數長期深耕實業的「工業人」在穩健扎根。 ​ ​ ​ ​ 第 80 屆工業節慶祝大會...",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "timestamp": 1794441600000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "新聞資料",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/9aa56881-8df0-4eb6-a5a7-32a2f72826ff?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "國科會於第38屆世界內科醫學國際研討會(WCIM 2026) 攜15組頂尖團隊秀智慧醫療及晶片驅動產業創新實力",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/edb6270f-2dd9-463f-a8b7-e90c8afb0cc1?l=ch",
+      "summary": "",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "timestamp": 1794441600000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-3",
+      "groupId": "3-4",
+      "code": "3-4-3",
+      "agencyName": "中部科學園區管理局（中科）",
+      "channelLabel": "最新公告",
+      "channelUrl": "https://www.ctsp.gov.tw/chinese/01-News/01-online.aspx?v=1&fr=1000&no=1001",
+      "officialHost": "ctsp.gov.tw",
+      "title": "中部科學園區官網首頁園區內相關連結中e-in中科園區環保資訊整合網終止服務事宜",
+      "link": "https://www.ctsp.gov.tw/chinese/01-News/01-online_view.aspx?v=1&fr=1000&no=1001&sn=16757",
+      "summary": "",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "timestamp": 1794441600000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-6",
+      "groupId": "3-6",
+      "code": "3-6",
+      "agencyName": "環境部（本部／氣候變遷署）",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cca.gov.tw/news-and-releases/press-releases/1544.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "接軌《巴黎協定》，環境部預告訂定「國外減量額度認可準則」草案",
+      "link": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14489",
+      "summary": "",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "timestamp": 1794441600000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-6-2",
+      "groupId": "3-6",
+      "code": "3-6-2",
+      "agencyName": "環境部化學物質管理署",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cha.gov.tw/lp-23-1.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "環境部超前準備強化PFAS資訊蒐集與傳遞",
+      "link": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14487",
+      "summary": "環境部11月10日召開「列管全氟及多氟烷基物質與其運作管理事項」草案第2次研商會議，有231位環保團體、產學界代表以線上及實體方式參與，並蒐集數十則精進意見，針對外界「管制清單從269種減少為169種」等疑慮，化學物質管理署強調本草案曾於 114 年 8 月預告並通報 WTO，經多次研商會及與利害關係人溝通，環境部重新檢視後，基於科學評估與國際管理趨勢進行務實調整。針對原預告之 269 種 PFAS 清單，調整如下：其中 14 種已列入",
+      "publishedAt": "2026-11-11T16:00:00.000Z",
+      "timestamp": 1794412800000,
+      "matchedKeywords": [
+        "全氟",
+        "PFAS",
+        "化學"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "新聞稿",
+      "channelUrl": "https://www.ndc.gov.tw/News9.aspx?n=114AAE178CD95D4C&sms=DF717169EA26F1A3",
+      "officialHost": "ndc.gov.tw",
+      "title": "從一株芽菜到地方創生品牌 國發會育成村陪伴「有夠菜」 將愛化為共好",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=114AAE178CD95D4C&s=B5F445D48ACD4C2D",
+      "summary": "國家發展委員會（以下簡稱國發會）積極推動地方創生政策，透過「中興新村地方創生育成村」提供全方位政策資源、創業輔導及市場通路對接，第5期團隊「YoGo有夠菜芽菜工坊」由創辦人周大經（花生哥）與何子軒（水妹）夫妻攜手創立，從初期在狹小床底與屋頂試驗種植，如今在育成村陪伴下成功轉型為具備市場辨識度與社會影響力的地方創生品牌，團隊不僅建立室內立體栽培技術、開發高營養花生芽加工產品，更積極導入社區中高齡人力參與批量生產，實現兼具產業發展、技能培力",
+      "publishedAt": "2026-11-11T02:13:00.000Z",
+      "timestamp": 1794363180000,
+      "matchedKeywords": [
+        "AI"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "新聞資料",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/9aa56881-8df0-4eb6-a5a7-32a2f72826ff?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "加強國安與產業優勢之營業秘密保護 國家核心關鍵技術清單預告增修為46項",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/19618cc4-0cdc-4573-a776-430ec6ecc399?l=ch",
+      "summary": "",
+      "publishedAt": "2026-11-11T00:00:00.000Z",
+      "timestamp": 1794355200000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "新聞資料",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/9aa56881-8df0-4eb6-a5a7-32a2f72826ff?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "第36次園區審議會核准投資案",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/e0e42e9a-c489-4757-a461-d82be21ff59b?l=ch",
+      "summary": "",
+      "publishedAt": "2026-11-11T00:00:00.000Z",
+      "timestamp": 1794355200000,
+      "matchedKeywords": [
+        "核准投資",
+        "投資案",
+        "園區審議"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": {
+        "type": "park",
+        "label": "園區投資／營運"
+      }
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "新聞資料",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/9aa56881-8df0-4eb6-a5a7-32a2f72826ff?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "Quantum Taiwan 2026登場 全球量子科技交流匯聚臺灣",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/3970d986-e187-4101-9fc7-85c335ac451c?l=ch",
+      "summary": "",
+      "publishedAt": "2026-11-11T00:00:00.000Z",
+      "timestamp": 1794355200000,
+      "matchedKeywords": [
+        "AI"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "新聞資料",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/9aa56881-8df0-4eb6-a5a7-32a2f72826ff?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "國科會副主委陳炳宇率團訪瑞典 深化臺瑞前瞻創新科技及人才合作",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/e9ecd6af-4bdd-4132-b96b-388e046ff124?l=ch",
+      "summary": "",
+      "publishedAt": "2026-11-11T00:00:00.000Z",
+      "timestamp": 1794355200000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-3",
+      "groupId": "3-4",
+      "code": "3-4-3",
+      "agencyName": "中部科學園區管理局（中科）",
+      "channelLabel": "最新公告",
+      "channelUrl": "https://www.ctsp.gov.tw/chinese/01-News/01-online.aspx?v=1&fr=1000&no=1001",
+      "officialHost": "ctsp.gov.tw",
+      "title": "國家科學及技術委員會第36次園區審議會 核准中科投資案",
+      "link": "https://www.ctsp.gov.tw/chinese/01-News/01-online_view.aspx?v=1&fr=1000&no=1001&sn=16756",
+      "summary": "",
+      "publishedAt": "2026-11-11T00:00:00.000Z",
+      "timestamp": 1794355200000,
+      "matchedKeywords": [
+        "投資案"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": {
+        "type": "park",
+        "label": "園區投資／營運"
+      }
+    },
+    {
+      "agencyId": "3-6-2",
+      "groupId": "3-6",
+      "code": "3-6-2",
+      "agencyName": "環境部化學物質管理署",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cha.gov.tw/lp-23-1.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "環境部與新北市共同打造北區化災複合型訓練基地強化跨機關應變量能",
+      "link": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14485",
+      "summary": "為強化國家整體化學防災韌性，環境部與新北市政府合作共同建置「北區複合型災害環境事故應變暨訓練中心」，今（11）日舉行動土典禮，由環境部部長彭啓明、新北市長侯友宜、中央、地方各界貴賓共同見證，象徵中央與地方跨域治理的重大里程碑，不僅填補北部地區救災訓練量能缺口，更具體落實「全社會防衛韌性」之國家戰略目標。本案總經費新臺幣19億9,179萬元，由行政院「建構國家安全化學與韌性永續計畫」挹注預算支持，並由新北市政府於土地、行政與工程規劃上全力",
+      "publishedAt": "2026-11-10T16:00:00.000Z",
+      "timestamp": 1794326400000,
+      "matchedKeywords": [
+        "化學"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "本會動態",
+      "channelUrl": "https://www.ndc.gov.tw/News12_1.aspx?n=3E6699ADB0BE3855&sms=C7BF44606A5BF73F",
+      "officialHost": "ndc.gov.tw",
+      "title": "【政策報乎您知】中興新村創新風貌 中興新村活化與創新聚落再生",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=3E6699ADB0BE3855&s=1876708C3355BEBF",
+      "summary": "🧱中興新村創新風貌🧱中興新村活化與創新聚落再生🌳 🌿為落實活化中興新村，國發會以「空間再生」與「地方創生」雙軸並進，為中興新村注入全新生命力。從歷史性建築的維護修繕到公有資產的活化運用，這座充滿綠意與歷史底蘊的花園城市，正透過青年創意與公私協力的深度結合，蛻變為融合歷史保存、產學研究、地方創生的永續聚落👏 ①成果展現：重塑聚落生機，躍升國際舞台 結合空間活化、設施升級與創生育成，攜手民間展現豐碩成果💪 ⭐進駐花園城市，點亮歷",
+      "publishedAt": "2026-11-10T08:23:00.000Z",
+      "timestamp": 1794298980000,
+      "matchedKeywords": [
+        "商會",
+        "AI"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "一般公告",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/d3c30297-bb63-44c5-ad30-38a65b203288?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "【資訊服務暫停公告】本會115年11月11日及12日網路設備維護通知",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/10feb812-4fef-4db5-b821-db0b098db810?l=ch",
+      "summary": "",
+      "publishedAt": "2026-11-10T00:00:00.000Z",
+      "timestamp": 1794268800000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "一般公告",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/d3c30297-bb63-44c5-ad30-38a65b203288?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "國家科學及技術委員會徵才公告：約聘人員(職務代理人)1名",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/83f784ce-a5dc-4b0a-bdb0-02ec446b85d9?l=ch",
+      "summary": "",
+      "publishedAt": "2026-11-10T00:00:00.000Z",
+      "timestamp": 1794268800000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-3",
+      "groupId": "3-4",
+      "code": "3-4-3",
+      "agencyName": "中部科學園區管理局（中科）",
+      "channelLabel": "最新公告",
+      "channelUrl": "https://www.ctsp.gov.tw/chinese/01-News/01-online.aspx?v=1&fr=1000&no=1001",
+      "officialHost": "ctsp.gov.tw",
+      "title": "公告森勁電力股份有限公司召開「森勁電力於中科管理局台中園區水三用地配水池設置地面型太陽能發電廠」之地方說明會，詳如說明。",
+      "link": "https://www.ctsp.gov.tw/chinese/01-News/01-online_view.aspx?v=1&fr=1000&no=1001&sn=16754",
+      "summary": "",
+      "publishedAt": "2026-11-10T00:00:00.000Z",
+      "timestamp": 1794268800000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "新聞稿",
+      "channelUrl": "https://www.ndc.gov.tw/News9.aspx?n=114AAE178CD95D4C&sms=DF717169EA26F1A3",
+      "officialHost": "ndc.gov.tw",
+      "title": "有關媒體報導中興新村活化未見成效之澄清說明",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=114AAE178CD95D4C&s=0CF2FBAD75EA0994",
+      "summary": "針對媒體報導中興新村投入大量經費，仍有宿舍閒置、人口不足及產業發展未臻成熟等問題，國發會表示，該報導與事實不符，茲說明如下： 本會自107年成立中興新村活化專案辦公室，108年承接原中興新村224.92公頃管理維運，積極推動整體規劃。行政院於111年核定中興新村整體規劃，112-116年推動北、中核心活化建設計畫(經費15.34億元)，另結合中興大學南投分部大學城計畫(經費40.21億元)，透過北核心歷史文化、中核心休閒生活及南核心大學",
+      "publishedAt": "2026-11-09T10:40:00.000Z",
+      "timestamp": 1794220800000,
+      "matchedKeywords": [
+        "商會",
+        "人工智慧",
+        "能源"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": {
+        "type": "clarify",
+        "label": "新聞澄清"
+      }
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "新聞稿",
+      "channelUrl": "https://www.ndc.gov.tw/News9.aspx?n=114AAE178CD95D4C&sms=DF717169EA26F1A3",
+      "officialHost": "ndc.gov.tw",
+      "title": "南方創生診聊室，療出地方生活處方箋 2026南區地方創生成果展暨市集活動臺南熱鬧登場",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=114AAE178CD95D4C&s=2A3A2B24D773B9A0",
+      "summary": "國家發展委員會於今（115）年11月7日至8日在臺南國家美術館戶外廣場舉辦「2026南區地方創生成果展暨市集」，以「南方創生診聊室－療出地方生活處方箋」為主題，匯聚嘉義縣、嘉義市、臺南市、高雄市、屏東縣及澎湖縣六縣市地方創生團隊，並結合臺南中藥藝術生活節等活動，共同打造別具特色的「花藥盛市」，展現南臺灣豐沛的創生能量與地方魅力。 本次成果展巧妙運用傳統中醫「望、聞、問、切」概念，將地方創生比喻為替地方把脈，帶領民眾從認識地方特色、探索發",
+      "publishedAt": "2026-11-09T00:20:00.000Z",
+      "timestamp": 1794183600000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "新聞稿",
+      "channelUrl": "https://www.ndc.gov.tw/News9.aspx?n=114AAE178CD95D4C&sms=DF717169EA26F1A3",
+      "officialHost": "ndc.gov.tw",
+      "title": "國家檔案館開館週年破70萬人次 檔案月力邀全民共度記憶嘉年華",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=114AAE178CD95D4C&s=2742B083D58897A2",
+      "summary": "一年一度「檔案月」登場！國家發展委員會檔案管理局今（7）日於國家檔案館舉辦「2026檔案月啟動儀式暨時光同樂會」，同時歡慶國家檔案館開館一週年參觀突破70萬人次！今年檔案月以「檔案&bull;有憶事」為主軸，自11月1日至30日串聯全國超過50個機關，透過展覽、講座及互動體驗，讓珍貴的歷史記憶更加貼近民眾生活；現場更集結闖關遊戲、市集及手作體驗，邀請全民走進國家檔案館，感受來自檔案的時代故事與共同記憶。 國家檔案館自114年開館以來，憑",
+      "publishedAt": "2026-11-09T00:11:00.000Z",
+      "timestamp": 1794183060000,
+      "matchedKeywords": [
+        "半導體"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-4",
+      "groupId": "3-3",
+      "code": "3-3-4",
+      "agencyName": "經濟部產業發展署",
+      "channelLabel": "產業大小事",
+      "channelUrl": "https://www.ida.gov.tw/ctlr?PRO=news.NewsList&type=Insights",
+      "officialHost": "ida.gov.tw",
+      "title": "▍直擊嘉義現場！2026「總統盃無人機競賽」初賽熱血開飛",
+      "link": "https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43430&type=Insights",
+      "summary": "到搬積木、避障礙還能精準投放，無人機的操作極限在哪裡？ ​ ​ ​ ​ ​ 全臺規模最大的「2026總統盃無人機競賽」初賽今（7）日在嘉義亞洲無人機AI創新應用研發中心盛大展開！這次一共吸引11...",
+      "publishedAt": "2026-11-09T00:00:00.000Z",
+      "timestamp": 1794182400000,
+      "matchedKeywords": [
+        "AI"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "新聞資料",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/9aa56881-8df0-4eb6-a5a7-32a2f72826ff?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "風雨擋不住科普熱情！「2026臺灣科普環島列車」圓滿落幕 臺北車站變身科學遊樂園 續掀科普熱潮",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/4a921621-fc64-43df-8cd7-4d093f01011b?l=ch",
+      "summary": "",
+      "publishedAt": "2026-11-07T00:00:00.000Z",
+      "timestamp": 1794009600000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "本會動態",
+      "channelUrl": "https://www.ndc.gov.tw/News12_1.aspx?n=3E6699ADB0BE3855&sms=C7BF44606A5BF73F",
+      "officialHost": "ndc.gov.tw",
+      "title": "【台灣英雄費仔 Stuart Fairchild 獲頒就業金卡】國發會將持續延攬更多外國專業人才來台",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=3E6699ADB0BE3855&s=F71605C4E5F47D82",
+      "summary": "✨台灣英雄費仔 Stuart Fairchild 獲頒就業金卡🤏💳 ⭐總統今(11/6)接見世界棒球經典賽(WBC2026)表現卓越的台灣英雄「費仔」Stuart Fairchild，將就業金卡頒授予費仔，感謝費仔WBC2026披上台灣隊(Team Taiwan)戰袍，在捷克戰敲出滿壘全壘打，並在南韓關鍵戰役轟出逆轉2分全壘打，帶領台灣隊上演精彩逆轉勝，讓全國民眾振奮不已。期盼費仔將台灣視為第二個家，未來經常與家人回到台灣，享受台灣",
+      "publishedAt": "2026-11-06T09:09:00.000Z",
+      "timestamp": 1793956140000,
+      "matchedKeywords": [
+        "AI"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "新聞稿",
+      "channelUrl": "https://www.ndc.gov.tw/News9.aspx?n=114AAE178CD95D4C&sms=DF717169EA26F1A3",
+      "officialHost": "ndc.gov.tw",
+      "title": "總統頒發世界棒球經典賽(WBC2026)表現卓越的台灣英雄「費仔」Stuart Fairchild就業金卡",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=114AAE178CD95D4C&s=1D9AF6311856EF82",
+      "summary": "賴總統於今(6)日接見世界棒球經典賽(WBC2026)表現卓越的台灣英雄「費仔」Stuart Fairchild，將就業金卡頒授予費仔，感謝費仔WBC2026披上台灣隊（Team Taiwan）戰袍，在捷克戰敲出滿壘全壘打，並在南韓關鍵戰役轟出逆轉2分全壘打，帶領台灣隊上演精彩逆轉勝，讓全國民眾振奮不已。棒球是臺灣的國球，臺灣人民熱愛棒球，也非常喜愛費仔，期盼費仔將臺灣視為第二個家，未來經常與家人回到臺灣，享受臺灣的一切。 本次總統頒發",
+      "publishedAt": "2026-11-06T07:20:00.000Z",
+      "timestamp": 1793949600000,
+      "matchedKeywords": [
+        "半導體",
+        "AI"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-2",
+      "groupId": "3-2",
+      "code": "3-2",
+      "agencyName": "行政院",
+      "channelLabel": "行政院會議／院會決議",
+      "channelUrl": "https://www.ey.gov.tw/Page/AE4885326ADF43DD",
+      "officialHost": "ey.gov.tw",
+      "title": "行政院第4028次院會決議",
+      "link": "https://www.ey.gov.tw/Page/4EC2394BE4EE9DD0/9fbbfd2d-2a52-4583-b9a5-b9711e9a00c7",
+      "summary": "院長提示： 民國115年11月5日第4028次會議 一、再過幾天（11月8日）就是海巡節，海洋是國家永續發展的重要資源及根基，因為台灣四面環海，守護海洋生態及維護生物多樣性，政府及國人都有同樣責任。 ......",
+      "publishedAt": "2026-11-05T00:00:00.000Z",
+      "timestamp": 1793836800000,
+      "matchedKeywords": [
+        "院會決議",
+        "院會"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-4",
+      "groupId": "3-3",
+      "code": "3-3-4",
+      "agencyName": "經濟部產業發展署",
+      "channelLabel": "產業大小事",
+      "channelUrl": "https://www.ida.gov.tw/ctlr?PRO=news.NewsList&type=Insights",
+      "officialHost": "ida.gov.tw",
+      "title": "▍臺荷強強聯手！搶攻次世代矽光子商機",
+      "link": "https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43423&type=Insights",
+      "summary": "到臺灣半導體實力再登國際！面對 AI 與次世代通訊浪潮，經濟部產業發展署陳國軒副署長近日率團赴荷蘭，不僅分享「科技搭橋計畫」促成 4 項研發合作，更見證臺荷三方簽署合作備忘錄（MOU），全力深化半導體與...",
+      "publishedAt": "2026-11-05T00:00:00.000Z",
+      "timestamp": 1793836800000,
+      "matchedKeywords": [
+        "產業",
+        "AI",
+        "半導體"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "一般公告",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/d3c30297-bb63-44c5-ad30-38a65b203288?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "116年度補助延攬研究學者暨執行專題研究計畫受理申請(自即日起至115年12月24日止受理申請)",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/b8f94bde-1903-4785-be3c-deac1d9d8523?l=ch",
+      "summary": "",
+      "publishedAt": "2026-11-05T00:00:00.000Z",
+      "timestamp": 1793836800000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-6-2",
+      "groupId": "3-6",
+      "code": "3-6-2",
+      "agencyName": "環境部化學物質管理署",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cha.gov.tw/lp-23-1.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "偽藥不買、環境用藥安心購！環境部攜手跨部會及電商平臺強化聯防",
+      "link": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14435",
+      "summary": "為防堵未經核准的環境用藥流入市面，環境部今(5)日舉辦「偽藥不買環境用藥安心購」記者會，攜手數位發展部數位產業署，以及蝦皮、酷澎、網家(PChome)等知名電商平台共同宣示合作。本次聚焦「嚴格把關」、「公私協力」、「識偽防騙」及「全民舉報」四大核心重點，藉由源頭管理、網路稽查與消費者教育，結合政府、產業與民眾三方力量，共同守護國人健康與生活環境安全。重點一、嚴格把關:環境部持續深化與海關的合作機制，協助判定輸入產品之屬性。統計自114年",
+      "publishedAt": "2026-11-04T16:00:00.000Z",
+      "timestamp": 1793808000000,
+      "matchedKeywords": [
+        "化學"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "本會動態",
+      "channelUrl": "https://www.ndc.gov.tw/News12_1.aspx?n=3E6699ADB0BE3855&sms=C7BF44606A5BF73F",
+      "officialHost": "ndc.gov.tw",
+      "title": "【政策報乎您知】Talent Taiwan國際人才服務及延攬中心 持續優化國際人才來臺發展環境",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=3E6699ADB0BE3855&s=2386153B959E2B41",
+      "summary": "🌎Talent Taiwan國際人才服務及延攬中心🌎持續優化國際人才來臺發展環境🙌 為打造友善的國際人才服務環境，國發會成立Talent Taiwan 國際人才服務及延攬中心，建構服務團隊，並透過與會計師事務所、律師事務所及僑外生組織合作，提供國際人才來(留)臺諮詢服務，以及企業申辦流程輔導。 Talent Taiwan中心也於2026年9月設置美國矽谷據點，協助企業拓展海外人才鏈結、充實產業人才庫💪 Talent Taiwan",
+      "publishedAt": "2026-11-04T08:27:00.000Z",
+      "timestamp": 1793780820000,
+      "matchedKeywords": [
+        "AI"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-4",
+      "groupId": "3-3",
+      "code": "3-3-4",
+      "agencyName": "經濟部產業發展署",
+      "channelLabel": "產業大小事",
+      "channelUrl": "https://www.ida.gov.tw/ctlr?PRO=news.NewsList&type=Insights",
+      "officialHost": "ida.gov.tw",
+      "title": "▍56家創意生活事業獲證！產發署助花蓮災後重建",
+      "link": "https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43421&type=Insights",
+      "summary": "到一趟結合美學與療癒的森林旅行，能為地方創造多少感動與商機？ ​ ​ ​ ​ ​ ​ ​ 經濟部產業發展署於今（3）日在薰衣草森林南投九九峰園區舉辦「115年創意生活產業授證典禮暨臺日論壇」，...",
+      "publishedAt": "2026-11-04T00:00:00.000Z",
+      "timestamp": 1793750400000,
+      "matchedKeywords": [
+        "產業"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-9",
+      "groupId": "3-3",
+      "code": "3-3-9",
+      "agencyName": "經濟部標準檢驗局",
+      "channelLabel": "本局新聞",
+      "channelUrl": "https://www.bsmi.gov.tw/wSite/lp?ctNode=8321&CtUnit=963&BaseDSD=7",
+      "officialHost": "bsmi.gov.tw",
+      "title": "標準局與消保處共同公布市售「按壓玩具（捏捏樂）」商品檢測結果",
+      "link": "https://www.bsmi.gov.tw/wSite/ct?xItem=130264&ctNode=8321&mp=1",
+      "summary": "",
+      "publishedAt": "2026-11-04T00:00:00.000Z",
+      "timestamp": 1793750400000,
+      "matchedKeywords": [
+        "商品",
+        "標準"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "一般公告",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/d3c30297-bb63-44c5-ad30-38a65b203288?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "國家科學及技術委員會前瞻及應用科技處約用人員甄選公告",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/e0f8dd72-33c8-4f4b-aff7-b4333a894f99?l=ch",
+      "summary": "",
+      "publishedAt": "2026-11-02T00:00:00.000Z",
+      "timestamp": 1793577600000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "新聞稿",
+      "channelUrl": "https://www.ndc.gov.tw/News9.aspx?n=114AAE178CD95D4C&sms=DF717169EA26F1A3",
+      "officialHost": "ndc.gov.tw",
+      "title": "創生之星閃耀登場！ 國發會攜手企業夥伴 力挺地方好人才",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=114AAE178CD95D4C&s=EF40F82F77FA539D",
+      "summary": "國家發展委員會於115年10月31日至11月1日舉辦「獎勵青年投入地方創生行動計畫」成果發表會暨市集，集結全臺65組青年團隊展現年度成果。今日舉行頒獎典禮，除揭曉3組「創生之星金獎」及中華開發資本加碼獎項，更邀集臺灣證券交易所等11家企業夥伴同台響應「公私協力挺創生」，展現政府與民間攜手支持青年扎根地方、實踐永續共好的行動成果。 國發會葉俊顯主任委員表示，國發會近年積極引導企業投入地方創生，去年將地方創生納入ESG評鑑參考範例，在最新公",
+      "publishedAt": "2026-11-01T14:15:00.000Z",
+      "timestamp": 1793542500000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "新聞稿",
+      "channelUrl": "https://www.ndc.gov.tw/News9.aspx?n=114AAE178CD95D4C&sms=DF717169EA26F1A3",
+      "officialHost": "ndc.gov.tw",
+      "title": "開箱地方故事！國發會獎勵金計畫挺青年、照亮地方 邀您來華山逛市集支持地方創生",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=114AAE178CD95D4C&s=39852F5FC0C26824",
+      "summary": "國家發展委員會115年10月31日至11月1日於華山文創園區舉辦「115年獎勵青年投入地方創生行動計畫」成果發表會暨市集活動。以「地方開箱ING」為主題，邀請鴻梅文創志業創辦人陳添順分享深耕新竹的實踐經驗，並由青年團隊交流利他倡議行動成果，展現地方創生從個別經營走向跨域合作、利他共好的發展方向。 國發會彭立沛副主任委員致詞時表示，地方創生要「好玩、有伴、做自己」，除了在地方創造改變，更要找到生活的樂趣與自我價值。他勉勵青年找到志同道合的",
+      "publishedAt": "2026-10-31T06:47:00.000Z",
+      "timestamp": 1793429220000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "新聞稿",
+      "channelUrl": "https://www.ndc.gov.tw/News9.aspx?n=114AAE178CD95D4C&sms=DF717169EA26F1A3",
+      "officialHost": "ndc.gov.tw",
+      "title": "政府協力新創打造新加坡SWITCH科技展最大國家展區 鏈結國際資源開拓東南亞商機",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=114AAE178CD95D4C&s=0FDBBD654EA63557",
+      "summary": "東南亞最具代表性的深科技與新創展會-新加坡科技創新週(Singapore Week of Innovation and Technology, SWITCH)於今(115)年10月27日至10月29日盛大舉行，本次國家發展委員會協同相關部會，帶領歷年最多的33家臺灣深科技新創參展，產業領域包含人工智慧、機器人、半導體、生技醫療與永續能源等，打造最大國家展區-臺灣館，吸引超過3,000人次造訪，並搭配臺星新創論壇、Taiwan Tech ",
+      "publishedAt": "2026-10-30T10:03:00.000Z",
+      "timestamp": 1793354580000,
+      "matchedKeywords": [
+        "科學園區",
+        "半導體",
+        "AI",
+        "人工智慧",
+        "能源"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-4",
+      "groupId": "3-3",
+      "code": "3-3-4",
+      "agencyName": "經濟部產業發展署",
+      "channelLabel": "產業大小事",
+      "channelUrl": "https://www.ida.gov.tw/ctlr?PRO=news.NewsList&type=Insights",
+      "officialHost": "ida.gov.tw",
+      "title": "▍17國72隊頂尖對決，通訊奧斯卡圓滿落幕！",
+      "link": "https://www.ida.gov.tw/ctlr?PRO=news.NewsView&id=43415&type=Insights",
+      "summary": "到不用攝影機就能還原 3D 動作？大型車轉彎時行人號誌燈號能自動變換？被譽為「通訊奧斯卡」的第 25 屆「Mobileheroes 通訊大賽」日前在富邦國際會議中心盛大舉行決賽暨頒獎典禮，吸引來自全球 ...",
+      "publishedAt": "2026-10-30T00:00:00.000Z",
+      "timestamp": 1793318400000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "新聞資料",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/9aa56881-8df0-4eb6-a5a7-32a2f72826ff?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "114年全國科技動態調查結果",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/eccab6a5-72fa-487a-a01a-0d5d31553f18?l=ch",
+      "summary": "",
+      "publishedAt": "2026-10-30T00:00:00.000Z",
+      "timestamp": 1793318400000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "本會動態",
+      "channelUrl": "https://www.ndc.gov.tw/News12_1.aspx?n=3E6699ADB0BE3855&sms=C7BF44606A5BF73F",
+      "officialHost": "ndc.gov.tw",
+      "title": "​【115年9月景氣燈號】續呈紅燈🔴",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=3E6699ADB0BE3855&s=8BA82D2329C6F34A",
+      "summary": "【115年9月景氣燈號】續呈紅燈🔴 💡115年9月景氣對策信號綜合判斷分數為41分，較8月下修值40分增加1分，燈號續呈紅燈；其中，工業及服務業加班工時受惠AI相關產業生產動能維持熱絡，由綠燈轉呈黃紅燈；另領先及同時指標均續呈上升，顯示國內景氣延續成長態勢。 💡展望未來，隨AI應用快速發展，全球雲端業者持續擴增AI基礎建設，推升我國電子及資通產品出貨，加以AI外溢效應逐步擴及傳統產業，可望挹注出口動能；投資方面，國內半導體、記憶體",
+      "publishedAt": "2026-10-29T08:00:00.000Z",
+      "timestamp": 1793260800000,
+      "matchedKeywords": [
+        "半導體",
+        "AI"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-2",
+      "groupId": "3-2",
+      "code": "3-2",
+      "agencyName": "行政院",
+      "channelLabel": "行政院會議／院會決議",
+      "channelUrl": "https://www.ey.gov.tw/Page/AE4885326ADF43DD",
+      "officialHost": "ey.gov.tw",
+      "title": "行政院第4027次院會決議",
+      "link": "https://www.ey.gov.tw/Page/4EC2394BE4EE9DD0/fb88e621-2e3d-4bf9-ad3e-2bfb4e4f51e7",
+      "summary": "院長提示： 民國115年10月29日第4027次會議 對於近來駭客持續惡意攻擊政府部門，企圖危害政務的推動，進而影響社會安全及個資保護，影響國家甚鉅。各部會必須全面檢視內部資安防範是否有不足之處，不論是......",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "timestamp": 1793232000000,
+      "matchedKeywords": [
+        "院會決議",
+        "院會"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-6-2",
+      "groupId": "3-6",
+      "code": "3-6-2",
+      "agencyName": "環境部化學物質管理署",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cha.gov.tw/lp-23-1.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "環境部舉辦「115年度全國環境事故案例研討會」 強化聯防體系與智慧科技防救災量能",
+      "link": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14365",
+      "summary": "環境部今（28）日起一連兩天於財團法人工業技術研究院中興院區舉辦「115年度全國環境事故案例研討會暨聯防組織績優頒獎活動」。本次活動由本部化學物質管理署主辦，特別表揚全國性與地區性績優毒性及關注化學物質聯防組織，並邀請產、官、學、研界逾500位專業人員齊聚一堂，透過事故經驗傳承、專業技術探討及新穎防救災資材展示，共同打造更具韌性的環境安全防護網。環境部謝燕儒政務次長於致詞時，首先向長期默默為國內化學物質安全管理、災害預防及緊急應變堅守崗",
+      "publishedAt": "2026-10-27T16:00:00.000Z",
+      "timestamp": 1793116800000,
+      "matchedKeywords": [
+        "化學"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "本會動態",
+      "channelUrl": "https://www.ndc.gov.tw/News12_1.aspx?n=3E6699ADB0BE3855&sms=C7BF44606A5BF73F",
+      "officialHost": "ndc.gov.tw",
+      "title": "【115年獎勵青年投入地方創生行動計畫年度成果發表】10/31-11/1一起來華山文創園區開箱",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=3E6699ADB0BE3855&s=0524EC82B8F290F1",
+      "summary": "10/31－11/1華山見！國發會與您一起開箱全臺地方創生的精彩行動💪💪 📦這個週末，一起來華山「地方開箱」！ 好吃、好玩、好逛的地方特色，一次滿足✨ 📅10/31（六）－11/1（日） 📍華山文創園區 西一、西二館 「115年獎勵青年投入地方創生行動計畫」迎來年度成果發表！今年以「地方開箱ING－在地新作，共好上映」為主題，集結全臺青年團隊的創意與行動，把各地的特色搬進華山，邀請你一起看看地方有哪些「新作」正在上映💡 🍴",
+      "publishedAt": "2026-10-27T09:02:00.000Z",
+      "timestamp": 1793091720000,
+      "matchedKeywords": [
+        "AI"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "本會動態",
+      "channelUrl": "https://www.ndc.gov.tw/News12_1.aspx?n=3E6699ADB0BE3855&sms=C7BF44606A5BF73F",
+      "officialHost": "ndc.gov.tw",
+      "title": "【115年9月份景氣燈號 順延至10/29發布】",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=3E6699ADB0BE3855&s=6E21404B78CE24B1",
+      "summary": "🟠115年9月份景氣燈號 順延至10/29發布🟠 💡由於10月23日統計機關因颱風因素延後發布統計資料，國發會原訂於10月28日發布之115年9月份景氣概況新聞稿，將順延至10月29日下午4時發布。",
+      "publishedAt": "2026-10-27T04:00:00.000Z",
+      "timestamp": 1793073600000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "新聞資料",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/9aa56881-8df0-4eb6-a5a7-32a2f72826ff?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "災防科技中心與德國氣候服務中心續簽合作備忘錄 推動極端天氣風險研究與調適應用",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/b47e92e5-6554-410f-a607-4d7a00911bc3?l=ch",
+      "summary": "",
+      "publishedAt": "2026-10-27T00:00:00.000Z",
+      "timestamp": 1793059200000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "新聞資料",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/9aa56881-8df0-4eb6-a5a7-32a2f72826ff?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "第10屆臺菲科技會議於菲律賓舉行 持續深化雙邊科研合作與人培鏈結",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/18fd8bda-fe19-423a-8b60-fdb273d06e5c?l=ch",
+      "summary": "",
+      "publishedAt": "2026-10-27T00:00:00.000Z",
+      "timestamp": 1793059200000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "本會動態",
+      "channelUrl": "https://www.ndc.gov.tw/News12_1.aspx?n=3E6699ADB0BE3855&sms=C7BF44606A5BF73F",
+      "officialHost": "ndc.gov.tw",
+      "title": "【政策報乎您知】經商環境改革 近期我國推動經濟自由化的成果",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=3E6699ADB0BE3855&s=796A0A5E031232B6",
+      "summary": "🌎經商環境改革🌎近期我國推動經濟自由化的成果👏 💡臺灣長期推動經濟自由政策，為國內外投資人提供優良經商環境，在《經濟自由度指數》的國際排名，已自2009年的第35名大幅推升至2026年的第5名，表現深受國際肯定✨ 💡為符合國內外產業需求，各機關持續推動法規調適，近期在經商及投資自由方面，完成重要改革成果✍️ ❶強化臺灣布局全球及均衡區域發展 推展「AI新十大建設」，打造臺灣成為具全球競爭力的AI創新基 地；透過「兆元投資國家發",
+      "publishedAt": "2026-10-22T02:00:00.000Z",
+      "timestamp": 1792634400000,
+      "matchedKeywords": [
+        "半導體",
+        "AI"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-2",
+      "groupId": "3-2",
+      "code": "3-2",
+      "agencyName": "行政院",
+      "channelLabel": "行政院會議／院會決議",
+      "channelUrl": "https://www.ey.gov.tw/Page/AE4885326ADF43DD",
+      "officialHost": "ey.gov.tw",
+      "title": "行政院第4026次院會決議",
+      "link": "https://www.ey.gov.tw/Page/4EC2394BE4EE9DD0/62671a0b-80ab-424d-bd47-ff45588fc937",
+      "summary": "院長提示： 民國115年10月22日第4026次會議 一、對於近來發生了數起疑似與跨境鎮壓相關的事件，背後的原因都與支持民主的言論、批評極權獨裁及反制認知作戰等行為有關。為了保障國人個人人身安全，我請檢......",
+      "publishedAt": "2026-10-22T00:00:00.000Z",
+      "timestamp": 1792627200000,
+      "matchedKeywords": [
+        "院會決議",
+        "院會"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "本會動態",
+      "channelUrl": "https://www.ndc.gov.tw/News12_1.aspx?n=3E6699ADB0BE3855&sms=C7BF44606A5BF73F",
+      "officialHost": "ndc.gov.tw",
+      "title": "【政策報乎您知】從人才到產業、從地方到國際 健全地方創生共好圈",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=3E6699ADB0BE3855&s=9EB48ED66F8B6D04",
+      "summary": "🌱從人才到產業、從地方到國際 健全地方創生共好圈🌱 國發會擔任地方創生平台角色，整合各部會資源，協助地方依循自身條件與需求，發展多元產業，讓人才、專業與創新能量持續在地方累積，為地方發展注入新的活力💪 ①持續建構青年返鄉、留鄉及投入地方創生的支持系統 協助青年將創意與專業轉化為實際行動，同時鼓勵地方由下而上凝聚共識、發掘在地需求，提出符合地方特色的創生計畫，從產業、文化、生態、生活等面向回應地方發展課題，讓地方自己找到適合自己的發",
+      "publishedAt": "2026-10-20T02:00:00.000Z",
+      "timestamp": 1792461600000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "新聞資料",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/9aa56881-8df0-4eb6-a5a7-32a2f72826ff?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "《人文沙龍系列》 我們為什麼說「廢話」？一個哲學性的考察",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/551ffcbd-f01c-413d-98c7-5ba4ec7ce462?l=ch",
+      "summary": "",
+      "publishedAt": "2026-10-20T00:00:00.000Z",
+      "timestamp": 1792454400000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "新聞資料",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/9aa56881-8df0-4eb6-a5a7-32a2f72826ff?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "「車門一開，未來展開」 2026臺灣科普環島列車 盛大啟程",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/bf02dadc-00f4-44d0-a6b3-914a203be688?l=ch",
+      "summary": "",
+      "publishedAt": "2026-10-19T00:00:00.000Z",
+      "timestamp": 1792368000000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "本會動態",
+      "channelUrl": "https://www.ndc.gov.tw/News12_1.aspx?n=3E6699ADB0BE3855&sms=C7BF44606A5BF73F",
+      "officialHost": "ndc.gov.tw",
+      "title": "【政策報乎您知】AI新十大建設 打造AI神隊友 公私共建好生活",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=3E6699ADB0BE3855&s=E16A1EB3E0FA4294",
+      "summary": "💡AI新十大建設💡打造AI神隊友 公私共建好生活 國發會偕同各部會推動「AI新十大建設」，以「智慧應用、關鍵技術、數位基磐」三大主軸，結合臺灣既有半導體、ICT及製造優勢，進一步布局主權AI、關鍵技術及多元產業應用，持續強化我國AI發展環境與國際競爭力，讓人工智慧真正走入日常，成為百工百業與你我身邊的「神隊友」💪 透過公私部門攜手合作，114年我國國際AI排名已提升至第16名，較113年進步5名，推動成果如下👏 ❶智慧應用：拓展",
+      "publishedAt": "2026-10-16T02:00:00.000Z",
+      "timestamp": 1792116000000,
+      "matchedKeywords": [
+        "半導體",
+        "AI",
+        "人工智慧"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "一般公告",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/d3c30297-bb63-44c5-ad30-38a65b203288?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "轉知內政部地政司訂定「地名資料標準（第2版）」及「行政區域界線資料標準（第2版）」修正提案計畫書一案，請查照。",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/33244ca1-66eb-41ca-bbaa-8fe9d367d521?l=ch",
+      "summary": "",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "timestamp": 1792108800000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "本會動態",
+      "channelUrl": "https://www.ndc.gov.tw/News12_1.aspx?n=3E6699ADB0BE3855&sms=C7BF44606A5BF73F",
+      "officialHost": "ndc.gov.tw",
+      "title": "【台灣經濟論衡 2026秋季號】陪你一起看看地方的新模樣",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=3E6699ADB0BE3855&s=28E431A7663F3752",
+      "summary": "⭐台灣經濟論衡 2026秋季號⭐陪你一起看看地方的新模樣🌱 有些地方，陪伴我們走過很長一段歲月；中興新村也正一步步努力改變，在熟悉的歷史底蘊裡，長出屬於新時代的樣子。 本期以「中興新村活化與創新聚落再生，打造『均衡臺灣』實踐典範」為政策焦點，看見歷史空間重新活起來，也看見青年、人才、科研與地方創生，為地方帶來新的可能。 🔍【焦點透視】 走進地方創生育成村、松園四館及中興大學南投分部，看老地方如何迎來新生活、新創意與永續能量。 🧠【",
+      "publishedAt": "2026-10-15T03:40:00.000Z",
+      "timestamp": 1792035600000,
+      "matchedKeywords": [
+        "AI"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-2",
+      "groupId": "3-2",
+      "code": "3-2",
+      "agencyName": "行政院",
+      "channelLabel": "行政院會議／院會決議",
+      "channelUrl": "https://www.ey.gov.tw/Page/AE4885326ADF43DD",
+      "officialHost": "ey.gov.tw",
+      "title": "行政院第4025次院會決議",
+      "link": "https://www.ey.gov.tw/Page/4EC2394BE4EE9DD0/9084ccec-0b1c-4cb8-bd94-49aa41b4cb8f",
+      "summary": "院長提示： 民國115年10月15日第4025次會議 台北市蔣市長在今天院會提到的松山機場遷建，包括桃園市張市長、台中市鄭副市長、交通部陳部長、馬永成政委及國防部顧部長陸續都有相關的說明。 事實上......",
+      "publishedAt": "2026-10-15T00:00:00.000Z",
+      "timestamp": 1792022400000,
+      "matchedKeywords": [
+        "院會決議",
+        "院會"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "一般公告",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/d3c30297-bb63-44c5-ad30-38a65b203288?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "國科會工程處 誠徵專任助理1名",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/5bc99c16-52f8-4a27-8c42-b054efac3252?l=ch",
+      "summary": "",
+      "publishedAt": "2026-10-15T00:00:00.000Z",
+      "timestamp": 1792022400000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "新聞資料",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/9aa56881-8df0-4eb6-a5a7-32a2f72826ff?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "臺灣人社科研成果前進歐洲 「人文千言萬里」 國科會串聯英荷法拓展國際閱讀",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/7e4b71cc-ef4c-496c-8bcf-1ccde9668e4d?l=ch",
+      "summary": "",
+      "publishedAt": "2026-10-15T00:00:00.000Z",
+      "timestamp": 1792022400000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "本會動態",
+      "channelUrl": "https://www.ndc.gov.tw/News12_1.aspx?n=3E6699ADB0BE3855&sms=C7BF44606A5BF73F",
+      "officialHost": "ndc.gov.tw",
+      "title": "【​國發會前進矽谷】攜手產學研赴美延攬國際人才",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=3E6699ADB0BE3855&s=A6D2A3C79214F69C",
+      "summary": "🌎國發會前進矽谷🌎攜手產學研赴美延攬國際人才🙌 國發會葉俊顯主委於9月底率數發部、工研院、中研院及多所大學，前進矽谷共同展開海外攬才及人才交流行動。 為了深入海外人才聚落，強化與國際專業人才的連結，國發會「Talent Taiwan矽谷辦公室」正式揭牌啟用。葉主委表示，面對全球人才競爭，首個海外攬才據點落腳全球科技人才重鎮矽谷，希望將人才服務直接帶到人才所在地，推廣臺灣工作及發展機會。 葉主委也頒發就業金卡予Salesforce資",
+      "publishedAt": "2026-10-13T02:12:00.000Z",
+      "timestamp": 1791857520000,
+      "matchedKeywords": [
+        "AI"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-2",
+      "groupId": "3-2",
+      "code": "3-2",
+      "agencyName": "行政院",
+      "channelLabel": "行政院會議／院會決議",
+      "channelUrl": "https://www.ey.gov.tw/Page/AE4885326ADF43DD",
+      "officialHost": "ey.gov.tw",
+      "title": "行政院第4024次院會決議",
+      "link": "https://www.ey.gov.tw/Page/4EC2394BE4EE9DD0/776ce25d-a344-4141-abb0-2fbeed2fbd9f",
+      "summary": "行政院第4024次會議 民國115年10月8日 報告事項 一、財政部陳報「AI紅利全民共享普發現金1萬元規劃」報告，請鑒核案。 決定： （一）准予備查。 （二）我國憑藉AI人工智......",
+      "publishedAt": "2026-10-08T00:00:00.000Z",
+      "timestamp": 1791417600000,
+      "matchedKeywords": [
+        "AI",
+        "院會決議",
+        "院會"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "本會動態",
+      "channelUrl": "https://www.ndc.gov.tw/News12_1.aspx?n=3E6699ADB0BE3855&sms=C7BF44606A5BF73F",
+      "officialHost": "ndc.gov.tw",
+      "title": "【國發會接受日本工商會2026年白皮書】",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=3E6699ADB0BE3855&s=2B3D65A4CDE308C6",
+      "summary": "✨國發會接受日本工商會2026年白皮書✨ ⭐國發會葉俊顯主委今(10/7)代表政府接受台北市日本工商會發表「2026年白皮書」，商會白皮書首次納入會員問卷調查，企業對臺灣的「居住環境與治安」、「商業基礎設施」等整體經商環境給予高度評價。 ⭐葉主委表示，白皮書是政府檢視國內投資環境與跨國企業需求、持續改善投資環境的重要管道。商會關切提升行政程序透明度、法規國際接軌、強化人才延攬及電力供應等結構性建言，也是政府推動產業數位與永續雙軸轉型的重",
+      "publishedAt": "2026-10-07T09:55:00.000Z",
+      "timestamp": 1791366900000,
+      "matchedKeywords": [
+        "商會",
+        "建言",
+        "AI"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "一般公告",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/d3c30297-bb63-44c5-ad30-38a65b203288?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "公告標售本會報廢之財產及物品一批，請踴躍參加投標。",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/1d1741f4-d066-48a1-952b-44ab6fe609e9?l=ch",
+      "summary": "",
+      "publishedAt": "2026-10-05T00:00:00.000Z",
+      "timestamp": 1791158400000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-2",
+      "groupId": "3-2",
+      "code": "3-2",
+      "agencyName": "行政院",
+      "channelLabel": "行政院會議／院會決議",
+      "channelUrl": "https://www.ey.gov.tw/Page/AE4885326ADF43DD",
+      "officialHost": "ey.gov.tw",
+      "title": "行政院第4023次院會決議",
+      "link": "https://www.ey.gov.tw/Page/4EC2394BE4EE9DD0/3723d2ab-446e-444f-88b4-7b4e220d8a0c",
+      "summary": "院長提示： 民國115年10月1日第4023次會議 一、為期4天的中秋及教師節連假，甫於日前結束。之前各部會即以過去的經驗，為期間的各項民生需求做了相當多的準備，但由於國人近年生活型態的轉變，以致我們面......",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "timestamp": 1790812800000,
+      "matchedKeywords": [
+        "院會決議",
+        "院會"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "本會動態",
+      "channelUrl": "https://www.ndc.gov.tw/News12_1.aspx?n=3E6699ADB0BE3855&sms=C7BF44606A5BF73F",
+      "officialHost": "ndc.gov.tw",
+      "title": "【115年8月景氣燈號】續呈紅燈🔴",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=3E6699ADB0BE3855&s=98180CB286D323BA",
+      "summary": "【115年8月景氣燈號】續呈紅燈🔴 💡115年8月景氣對策信號綜合判斷分數為41分，與上月持平，燈號續呈紅燈，9項構成項目燈號均維持不變；另領先及同時指標均續呈上升，顯示國內經濟維持穩健成長。 💡展望未來，隨AI與雲端產業提高資本支出，伺服器新品與自研晶片量產，加上部分傳統產業受惠AI外溢效果並進入出貨旺季，將維繫出口成長動能；投資方面，國內半導體供應鏈持續投資高階製程與先進封裝產能，相關供應鏈亦積極擴廠，以及政府推動AI新十大建",
+      "publishedAt": "2026-09-29T08:03:00.000Z",
+      "timestamp": 1790668980000,
+      "matchedKeywords": [
+        "半導體",
+        "AI"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-5",
+      "groupId": "3-5",
+      "code": "3-5",
+      "agencyName": "國家發展委員會（國發會）",
+      "channelLabel": "本會動態",
+      "channelUrl": "https://www.ndc.gov.tw/News12_1.aspx?n=3E6699ADB0BE3855&sms=C7BF44606A5BF73F",
+      "officialHost": "ndc.gov.tw",
+      "title": "【國發會葉俊顯主委預祝大家中秋佳節 闔家平安】",
+      "link": "https://www.ndc.gov.tw/News_Content.aspx?n=3E6699ADB0BE3855&s=5935914C4A894937",
+      "summary": "",
+      "publishedAt": "2026-09-24T07:37:00.000Z",
+      "timestamp": 1790235420000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-2",
+      "groupId": "3-2",
+      "code": "3-2",
+      "agencyName": "行政院",
+      "channelLabel": "行政院會議／院會決議",
+      "channelUrl": "https://www.ey.gov.tw/Page/AE4885326ADF43DD",
+      "officialHost": "ey.gov.tw",
+      "title": "行政院第4022次院會決議",
+      "link": "https://www.ey.gov.tw/Page/4EC2394BE4EE9DD0/e5c18865-523e-4b0e-972a-19c8df3f2396",
+      "summary": "院長提示： 民國115年9月24日第4022次會議 一、為期4天的中秋及教師節連假即將開始，在這4天當中攸關民眾的道安、治安、食安，包括交通部、內政部、法務部、衛福部及農業部務必要有萬全的準備，妥善因應......",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "timestamp": 1790208000000,
+      "matchedKeywords": [
+        "院會決議",
+        "院會"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-6-2",
+      "groupId": "3-6",
+      "code": "3-6-2",
+      "agencyName": "環境部化學物質管理署",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cha.gov.tw/lp-23-1.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "針對雲科大承攬委辦計畫涉詐領經費案 環境部化學署配 合檢調調查 已更換主持人並啟動查核預防機制",
+      "link": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14154",
+      "summary": "針對檢調機關偵辦國立雲林科技大學洪肇嘉教授承攬環境部化學署委辦計畫，涉嫌夥同助理及團隊成員以人頭掛名及偽造出勤紀錄等方式詐領計畫經費一案，業經檢察官偵結起訴。化學署表示，於偵辦期間均全力配合檢調機關調查。為確保施政不受影 響及防堵類案再生，已採取更換計畫主持人、啟動內部專案查核、研擬修訂合約預防機制及後續追繳究責等具體作為。針對本案已採取下列處置與精進作為：一、全力配合檢調調查自本案調查初期，化學署即主動提供相關經費核銷文件及出勤審查資",
+      "publishedAt": "2026-09-20T16:00:00.000Z",
+      "timestamp": 1789920000000,
+      "matchedKeywords": [
+        "化學"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-2",
+      "groupId": "3-2",
+      "code": "3-2",
+      "agencyName": "行政院",
+      "channelLabel": "行政院會議／院會決議",
+      "channelUrl": "https://www.ey.gov.tw/Page/AE4885326ADF43DD",
+      "officialHost": "ey.gov.tw",
+      "title": "行政院第4021次院會決議",
+      "link": "https://www.ey.gov.tw/Page/4EC2394BE4EE9DD0/cbff29e2-b805-417c-ae0b-4f514c396689",
+      "summary": "院長提示： 民國115年9月17日第4021次會議 一、今天要特別向各位首長介紹新任的運動部楊啓文次長，因為這段期間李部長都會在日本為亞運選手打氣，也歡迎楊次長可以隨時提供第一手的比賽訊息。 二、......",
+      "publishedAt": "2026-09-17T00:00:00.000Z",
+      "timestamp": 1789603200000,
+      "matchedKeywords": [
+        "院會決議",
+        "院會"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-9",
+      "groupId": "3-3",
+      "code": "3-3-9",
+      "agencyName": "經濟部標準檢驗局",
+      "channelLabel": "本局新聞",
+      "channelUrl": "https://www.bsmi.gov.tw/wSite/lp?ctNode=8321&CtUnit=963&BaseDSD=7",
+      "officialHost": "bsmi.gov.tw",
+      "title": "中秋節市場磅秤專案檢查 守護民眾荷包安心購",
+      "link": "https://www.bsmi.gov.tw/wSite/ct?xItem=129474&ctNode=8321&mp=1",
+      "summary": "",
+      "publishedAt": "2026-09-15T00:00:00.000Z",
+      "timestamp": 1789430400000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "一般公告",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/d3c30297-bb63-44c5-ad30-38a65b203288?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "【資訊服務暫停公告】本會115年9月22日網路設備維護通知",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/aa92f088-9b83-4a4b-bf27-f00fee61ac4f?l=ch",
+      "summary": "",
+      "publishedAt": "2026-09-14T00:00:00.000Z",
+      "timestamp": 1789344000000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-2",
+      "groupId": "3-2",
+      "code": "3-2",
+      "agencyName": "行政院",
+      "channelLabel": "行政院會議／院會決議",
+      "channelUrl": "https://www.ey.gov.tw/Page/AE4885326ADF43DD",
+      "officialHost": "ey.gov.tw",
+      "title": "行政院第4020次院會決議",
+      "link": "https://www.ey.gov.tw/Page/4EC2394BE4EE9DD0/0158439d-608f-44ad-bc29-b7e7b07fd638",
+      "summary": "院長提示： 民國115年9月10日第4020次會議 昨天（9月9日）正是運動部成立屆滿一週年，這一年來，運動部為國人帶來許多新氣象及新觀念，但同時也面臨許多的挑戰。 尤其是即將舉行的名古屋亞運，我......",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "timestamp": 1788998400000,
+      "matchedKeywords": [
+        "院會決議",
+        "院會"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-9",
+      "groupId": "3-3",
+      "code": "3-3-9",
+      "agencyName": "經濟部標準檢驗局",
+      "channelLabel": "本局新聞",
+      "channelUrl": "https://www.bsmi.gov.tw/wSite/lp?ctNode=8321&CtUnit=963&BaseDSD=7",
+      "officialHost": "bsmi.gov.tw",
+      "title": "強化充電樁管理制度 打造安全準確充電環境",
+      "link": "https://www.bsmi.gov.tw/wSite/ct?xItem=129302&ctNode=8321&mp=1",
+      "summary": "",
+      "publishedAt": "2026-09-09T00:00:00.000Z",
+      "timestamp": 1788912000000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-6-2",
+      "groupId": "3-6",
+      "code": "3-6-2",
+      "agencyName": "環境部化學物質管理署",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cha.gov.tw/lp-23-1.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "防範貓咪中毒，化學署籲飼主謹慎使用除蟲菊精類環境用藥，並增列安全警語",
+      "link": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14053",
+      "summary": "近日有民眾反映，市售部分含有「天然除蟲菊精」（Pyrethrins，俗稱必列寧）成分之防蚊、殺蟲劑等環境用藥，雖標示「對哺乳動物低毒性」，惟此成分對貓隻具較高毒性，現行標示恐使飼主產生誤解。對此，環境部化學物質管理署（以下簡稱化學署）特別提醒養貓民眾，於室內使用含有除蟲菊精（包含天然與合成）之環境用藥產品時，務必提高警覺，切勿讓貓隻直接或間接接觸藥劑，以確保寵物安全。化學署表示，天然除蟲菊精係萃取自除蟲菊花之天然有效成分，廣泛應用於環境",
+      "publishedAt": "2026-09-06T16:00:00.000Z",
+      "timestamp": 1788710400000,
+      "matchedKeywords": [
+        "化學"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-2",
+      "groupId": "3-2",
+      "code": "3-2",
+      "agencyName": "行政院",
+      "channelLabel": "行政院會議／院會決議",
+      "channelUrl": "https://www.ey.gov.tw/Page/AE4885326ADF43DD",
+      "officialHost": "ey.gov.tw",
+      "title": "行政院第4019次院會決議",
+      "link": "https://www.ey.gov.tw/Page/4EC2394BE4EE9DD0/e228f25d-5a34-4fbd-aa2f-aad79a73b482",
+      "summary": "院長提示： 民國115年9月3日第4019次會議 今天適逢九三軍人節，上週院會即已先行提出今年度整個敬軍活動的規劃報告。今年不僅有更多的企業及門市一同參與，活動時間也從數天延長到一個月，甚至是一年不等，......",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "timestamp": 1788393600000,
+      "matchedKeywords": [
+        "院會決議",
+        "院會"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-6-2",
+      "groupId": "3-6",
+      "code": "3-6-2",
+      "agencyName": "環境部化學物質管理署",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cha.gov.tw/lp-23-1.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "臺灣汞管理十年有成 接軌汞公約管制15類產品",
+      "link": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14033",
+      "summary": "環境部今（1）日邀集經濟部、衛生福利部、農業部、勞動部、海洋委員會、國家科學及技術委員會等部會，舉辦「115年國家化學物質管理政策綱領及行動方案成果記者會暨發表會－臺灣汞管理十年有成」，並邀請專家學者、產業公協會、非政府組織及各級業務單位與會，共同見證臺灣汞管理十年來的重要成果，也為下一階段化學物質管理工作奠定更堅實的合作基礎，環境部謝燕儒次長出席並表示，告別水銀世代、邁向無汞未來是我們給下一代最珍貴的環境禮物。汞因具高毒性且易於環境中",
+      "publishedAt": "2026-08-31T16:00:00.000Z",
+      "timestamp": 1788192000000,
+      "matchedKeywords": [
+        "水質",
+        "飲用水",
+        "化學"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-2",
+      "groupId": "3-2",
+      "code": "3-2",
+      "agencyName": "行政院",
+      "channelLabel": "行政院會議／院會決議",
+      "channelUrl": "https://www.ey.gov.tw/Page/AE4885326ADF43DD",
+      "officialHost": "ey.gov.tw",
+      "title": "行政院第4018次院會決議",
+      "link": "https://www.ey.gov.tw/Page/4EC2394BE4EE9DD0/85254ce6-d384-4b8b-9b3d-01eaeefaf4b4",
+      "summary": "院長提示： 民國115年8月27日第4018次會議 一、今天可能是立法院本會期的最後一天，將會討論很多的法案，包括「國防自主無人載具採購特別條例」草案。這項法案攸關國防自主與國家安全，但如要納入商業發展......",
+      "publishedAt": "2026-08-27T00:00:00.000Z",
+      "timestamp": 1787788800000,
+      "matchedKeywords": [
+        "院會決議",
+        "院會"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-6-2",
+      "groupId": "3-6",
+      "code": "3-6-2",
+      "agencyName": "環境部化學物質管理署",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cha.gov.tw/lp-23-1.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "災害沒有腳本 應變不靠運氣 環境部攜手臺北市以兵棋推演 實兵演練強化複合災害韌性",
+      "link": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/13962",
+      "summary": "環境部與臺北市政府於8月17日、21日辦理115年度毒性及關注化學物質災害防救演習，由行政院季連成政委擔任最高指導官，環境部葉俊宏政務次長以中央災防帶隊官身分視導，臺北市蔣萬安市長親率市府團隊參演；模擬強震引發實驗室三氯甲烷洩漏，衍生毒化災及空氣污染等複合災情，透過兵棋、實兵雙演練檢視中央地方跨機關應變能力。8月17日兵棋推演以「災害沒有腳本」為核心，依臺北市災害演習規劃與評估指引（T-DEEP）採「有想定、無腳本、不壓縮時序」方式，透",
+      "publishedAt": "2026-08-20T16:00:00.000Z",
+      "timestamp": 1787241600000,
+      "matchedKeywords": [
+        "化學"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-2",
+      "groupId": "3-2",
+      "code": "3-2",
+      "agencyName": "行政院",
+      "channelLabel": "行政院會議／院會決議",
+      "channelUrl": "https://www.ey.gov.tw/Page/AE4885326ADF43DD",
+      "officialHost": "ey.gov.tw",
+      "title": "行政院第4017次院會決議",
+      "link": "https://www.ey.gov.tw/Page/4EC2394BE4EE9DD0/cedadfc2-d9bb-4607-a4ea-fde2114adf82",
+      "summary": "院長提示： 民國115年8月20日第4017次會議 今天院會各位首長的桌上，有運動部提供的「前進亞運 一起上場」的卡片，告訴大家即將來臨的名古屋亞運重大國際賽事，在此也感謝運動部國訓中心及所有參與的運動......",
+      "publishedAt": "2026-08-20T00:00:00.000Z",
+      "timestamp": 1787184000000,
+      "matchedKeywords": [
+        "院會決議",
+        "院會"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-3",
+      "groupId": "3-4",
+      "code": "3-4-3",
+      "agencyName": "中部科學園區管理局（中科）",
+      "channelLabel": "即時新聞澄清",
+      "channelUrl": "https://www.ctsp.gov.tw/chinese/01-News/03-custom.aspx?v=1&fr=1000&no=1003",
+      "officialHost": "ctsp.gov.tw",
+      "title": "有關「美光工會醞釀罷工」媒體相關報導回應說明",
+      "link": "https://www.ctsp.gov.tw/chinese/01-News/03-custom_view.aspx?v=1&fr=1000&no=1003&sn=829",
+      "summary": "",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "timestamp": 1787011200000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": {
+        "type": "clarify",
+        "label": "新聞澄清"
+      }
+    },
+    {
+      "agencyId": "3-4-3",
+      "groupId": "3-4",
+      "code": "3-4-3",
+      "agencyName": "中部科學園區管理局（中科）",
+      "channelLabel": "即時新聞澄清",
+      "channelUrl": "https://www.ctsp.gov.tw/chinese/01-News/03-custom.aspx?v=1&fr=1000&no=1003",
+      "officialHost": "ctsp.gov.tw",
+      "title": "有關媒體報導「中科滯洪池變牛奶河」一事，本局回應如說明",
+      "link": "https://www.ctsp.gov.tw/chinese/01-News/03-custom_view.aspx?v=1&fr=1000&no=1003&sn=828",
+      "summary": "",
+      "publishedAt": "2026-08-17T00:00:00.000Z",
+      "timestamp": 1786924800000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": {
+        "type": "clarify",
+        "label": "新聞澄清"
+      }
+    },
+    {
+      "agencyId": "3-2",
+      "groupId": "3-2",
+      "code": "3-2",
+      "agencyName": "行政院",
+      "channelLabel": "行政院會議／院會決議",
+      "channelUrl": "https://www.ey.gov.tw/Page/AE4885326ADF43DD",
+      "officialHost": "ey.gov.tw",
+      "title": "行政院第4016次院會決議",
+      "link": "https://www.ey.gov.tw/Page/4EC2394BE4EE9DD0/7cd83f15-9b08-4ba7-9c95-2ed3145605ff",
+      "summary": "院長提示： 民國115年8月13日第4016次會議 一、立法院這兩週正式展開今年度中央政府總預算案的朝野黨團協商，行政院當然會持續全力爭取各項有利於國家安全、地方建設及人民福祉的預算，不會受到任何的影響......",
+      "publishedAt": "2026-08-13T00:00:00.000Z",
+      "timestamp": 1786579200000,
+      "matchedKeywords": [
+        "院會決議",
+        "院會"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-9",
+      "groupId": "3-3",
+      "code": "3-3-9",
+      "agencyName": "經濟部標準檢驗局",
+      "channelLabel": "本局新聞",
+      "channelUrl": "https://www.bsmi.gov.tw/wSite/lp?ctNode=8321&CtUnit=963&BaseDSD=7",
+      "officialHost": "bsmi.gov.tw",
+      "title": "玩具檢驗總動員 守護兒童安全",
+      "link": "https://www.bsmi.gov.tw/wSite/ct?xItem=128619&ctNode=8321&mp=1",
+      "summary": "",
+      "publishedAt": "2026-08-12T00:00:00.000Z",
+      "timestamp": 1786492800000,
+      "matchedKeywords": [
+        "檢驗"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-9",
+      "groupId": "3-3",
+      "code": "3-3-9",
+      "agencyName": "經濟部標準檢驗局",
+      "channelLabel": "本局新聞",
+      "channelUrl": "https://www.bsmi.gov.tw/wSite/lp?ctNode=8321&CtUnit=963&BaseDSD=7",
+      "officialHost": "bsmi.gov.tw",
+      "title": "經濟部標準局嚴格把關隨身充電式電器商品安全",
+      "link": "https://www.bsmi.gov.tw/wSite/ct?xItem=128571&ctNode=8321&mp=1",
+      "summary": "",
+      "publishedAt": "2026-08-06T00:00:00.000Z",
+      "timestamp": 1785974400000,
+      "matchedKeywords": [
+        "商品",
+        "標準"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-6-2",
+      "groupId": "3-6",
+      "code": "3-6-2",
+      "agencyName": "環境部化學物質管理署",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cha.gov.tw/lp-23-1.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "環境部部長彭啓明視察化學署南區毒化災訓練中心 肯定與高科技產業需求結合及AI智慧應變",
+      "link": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/13820",
+      "summary": "環境部部長彭啓明今(1)日前往化學物質管理署南區毒化災訓練中心（下稱南訓中心）視察，實地了解高科技產業化學災害客製化訓練設施與課程，以及智慧化防救災運用情形，期許化學署持續強化公私協力與科技救災能量。國立高雄科技大學陳政任特聘教授陳政任簡報指出，南訓中心由環境部出資、高科大提供土地與營運，設有六層樓實體演練空間，並連續5年通過美國德州農工大學（TEEX）實地驗證。中心針對高科技產業、實驗室及運輸等三大事故類型，提供化學品洩漏處置、防護裝",
+      "publishedAt": "2026-07-31T16:00:00.000Z",
+      "timestamp": 1785513600000,
+      "matchedKeywords": [
+        "半導體",
+        "化學"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-6-2",
+      "groupId": "3-6",
+      "code": "3-6-2",
+      "agencyName": "環境部化學物質管理署",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cha.gov.tw/lp-23-1.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "強化化學物質風險管理 防範潛在環境及健康危害 環境部預告新增6項關注化學物質",
+      "link": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/13718",
+      "summary": "環境部為強化化學物質管理，今日預告新增列管甲苯胺紅、對位紅、雙酚B、雙酚F、2-甲基-4-（甲硫基）-2-𠰌啉苯丙酮(MMMP)及伽瑪-丁內酯(GBL)為關注化學物質，依物質特性管理製造、輸入、販賣、使用及貯存等五種運作行為，並訂定相關管制措施，以降低不當使用導致人體健康及環境危害風險。甲苯胺紅及對位紅屬歐盟食品及飼料快速預警系統(The Rapid Alert System for Food and Feed, RASFF)通報警訊",
+      "publishedAt": "2026-07-19T16:00:00.000Z",
+      "timestamp": 1784476800000,
+      "matchedKeywords": [
+        "化學"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-3-9",
+      "groupId": "3-3",
+      "code": "3-3-9",
+      "agencyName": "經濟部標準檢驗局",
+      "channelLabel": "本局新聞",
+      "channelUrl": "https://www.bsmi.gov.tw/wSite/lp?ctNode=8321&CtUnit=963&BaseDSD=7",
+      "officialHost": "bsmi.gov.tw",
+      "title": "115年計量技術人員第二梯次考試 自7月13日起開放報名",
+      "link": "https://www.bsmi.gov.tw/wSite/ct?xItem=128207&ctNode=8321&mp=1",
+      "summary": "",
+      "publishedAt": "2026-07-09T00:00:00.000Z",
+      "timestamp": 1783555200000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "agencyName": "地熱發電單一服務窗口",
+      "channelLabel": "新聞推動",
+      "channelUrl": "https://ea01.moeaea.gov.tw/b0403/News/Index/A011",
+      "officialHost": "ea01.moeaea.gov.tw",
+      "title": "原地熱發電單一服務窗口網址(https://www.geothermal-taiwan.org.tw)已停止使用",
+      "link": "https://ea01.moeaea.gov.tw/b0403/News/Show?id=4315",
+      "summary": "",
+      "publishedAt": "2026-07-08T00:00:00.000Z",
+      "timestamp": 1783468800000,
+      "matchedKeywords": [
+        "地熱",
+        "發電"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-9",
+      "groupId": "3-3",
+      "code": "3-3-9",
+      "agencyName": "經濟部標準檢驗局",
+      "channelLabel": "本局新聞",
+      "channelUrl": "https://www.bsmi.gov.tw/wSite/lp?ctNode=8321&CtUnit=963&BaseDSD=7",
+      "officialHost": "bsmi.gov.tw",
+      "title": "標準局加強嬰幼兒商品管理 守護嬰幼兒安全",
+      "link": "https://www.bsmi.gov.tw/wSite/ct?xItem=128118&ctNode=8321&mp=1",
+      "summary": "",
+      "publishedAt": "2026-07-07T00:00:00.000Z",
+      "timestamp": 1783382400000,
+      "matchedKeywords": [
+        "商品",
+        "標準"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-3-9",
+      "groupId": "3-3",
+      "code": "3-3-9",
+      "agencyName": "經濟部標準檢驗局",
+      "channelLabel": "本局新聞",
+      "channelUrl": "https://www.bsmi.gov.tw/wSite/lp?ctNode=8321&CtUnit=963&BaseDSD=7",
+      "officialHost": "bsmi.gov.tw",
+      "title": "115年中小企業平價綠電專案 將於7/7起開放登記",
+      "link": "https://www.bsmi.gov.tw/wSite/ct?xItem=128038&ctNode=8321&mp=1",
+      "summary": "",
+      "publishedAt": "2026-07-06T00:00:00.000Z",
+      "timestamp": 1783296000000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "agencyName": "地熱發電單一服務窗口",
+      "channelLabel": "新聞推動",
+      "channelUrl": "https://ea01.moeaea.gov.tw/b0403/News/Index/A011",
+      "officialHost": "ea01.moeaea.gov.tw",
+      "title": "因應颱風來襲，請地熱開發及發電業者加強案場防颱整備及安全管理",
+      "link": "https://ea01.moeaea.gov.tw/b0403/News/Show?id=4314",
+      "summary": "",
+      "publishedAt": "2026-07-01T00:00:00.000Z",
+      "timestamp": 1782864000000,
+      "matchedKeywords": [
+        "地熱",
+        "發電",
+        "案場"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-9",
+      "groupId": "3-3",
+      "code": "3-3-9",
+      "agencyName": "經濟部標準檢驗局",
+      "channelLabel": "本局新聞",
+      "channelUrl": "https://www.bsmi.gov.tw/wSite/lp?ctNode=8321&CtUnit=963&BaseDSD=7",
+      "officialHost": "bsmi.gov.tw",
+      "title": "標準局與行政院消保處共同公布市售「金、銀紙」及「香品」商品檢測結果",
+      "link": "https://www.bsmi.gov.tw/wSite/ct?xItem=127942&ctNode=8321&mp=1",
+      "summary": "",
+      "publishedAt": "2026-06-26T00:00:00.000Z",
+      "timestamp": 1782432000000,
+      "matchedKeywords": [
+        "商品",
+        "標準"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-3-9",
+      "groupId": "3-3",
+      "code": "3-3-9",
+      "agencyName": "經濟部標準檢驗局",
+      "channelLabel": "本局新聞",
+      "channelUrl": "https://www.bsmi.gov.tw/wSite/lp?ctNode=8321&CtUnit=963&BaseDSD=7",
+      "officialHost": "bsmi.gov.tw",
+      "title": "標準局將自115年7月1日起實施「電動車充電設備」等9項商品檢驗規定 強化商品安全",
+      "link": "https://www.bsmi.gov.tw/wSite/ct?xItem=127889&ctNode=8321&mp=1",
+      "summary": "",
+      "publishedAt": "2026-06-23T00:00:00.000Z",
+      "timestamp": 1782172800000,
+      "matchedKeywords": [
+        "商品",
+        "檢驗",
+        "標準"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-6-2",
+      "groupId": "3-6",
+      "code": "3-6-2",
+      "agencyName": "環境部化學物質管理署",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cha.gov.tw/lp-23-1.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "引領淨零新風潮！第5屆綠色化學應用及創新獎登場",
+      "link": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/13589",
+      "summary": "一場屬於臺灣綠色化學頂尖對決的盛事正式拉開序幕！由環境部主辦之「第5屆綠色化學應用及創新獎」報名活動於今日正式起跑，報名至115年8月31日下午6時止。在全臺全力衝刺淨零轉型的關鍵時刻，綠色化學不只是產業升級的重要引擎，更是優化製程、提升安全、守護環境與國人健康的關鍵利器。環境部此次廣發「英雄帖」，尋找在製程減廢、低毒、無毒、化學物質替代、化學物質管理及災害防救上做出卓越突破的先驅者，誠摯邀請國內企業、學術界及科研團隊挺身而出，共同角逐",
+      "publishedAt": "2026-06-22T16:00:00.000Z",
+      "timestamp": 1782144000000,
+      "matchedKeywords": [
+        "化學"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-6-2",
+      "groupId": "3-6",
+      "code": "3-6-2",
+      "agencyName": "環境部化學物質管理署",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cha.gov.tw/lp-23-1.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "「五」限創意、「綠」動未來！ 「第5屆大專校院綠色化學創意競賽」開跑 歡迎大專學子挑戰自我！",
+      "link": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/13601",
+      "summary": "綠色化學是引領全球永續發展的重要推進力，這股綠色風潮正勢不可當！為持續在校園深耕永續理念，環境部與教育部再度攜手，共同主辦「第5屆大專校院綠色化學創意競賽」。本屆競賽自即日起正式展開報名，報名至115年10月30日（星期五）下午6時止，邀請全國大專校院的年輕學子大展身手，透過腦力激盪與科學創意，探索綠色化學的無限可能，共同為地球的永續與安全「化」出新未來！環境部化學署強調，本競賽自107年推動以來，已成功在各大專校院播下無數綠色化學的種",
+      "publishedAt": "2026-06-16T16:00:00.000Z",
+      "timestamp": 1781625600000,
+      "matchedKeywords": [
+        "化學"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-9",
+      "groupId": "3-3",
+      "code": "3-3-9",
+      "agencyName": "經濟部標準檢驗局",
+      "channelLabel": "本局新聞",
+      "channelUrl": "https://www.bsmi.gov.tw/wSite/lp?ctNode=8321&CtUnit=963&BaseDSD=7",
+      "officialHost": "bsmi.gov.tw",
+      "title": "端午市場磅秤大體檢 守護民眾荷包",
+      "link": "https://www.bsmi.gov.tw/wSite/ct?xItem=127719&ctNode=8321&mp=1",
+      "summary": "",
+      "publishedAt": "2026-06-05T00:00:00.000Z",
+      "timestamp": 1780617600000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "agencyName": "地熱發電單一服務窗口",
+      "channelLabel": "新聞推動",
+      "channelUrl": "https://ea01.moeaea.gov.tw/b0403/News/Index/A011",
+      "officialHost": "ea01.moeaea.gov.tw",
+      "title": "臺東縣卑南鄉及鹿野鄉地熱能招商推動區遴選作業",
+      "link": "https://ea01.moeaea.gov.tw/b0403/News/Show?id=4268",
+      "summary": "",
+      "publishedAt": "2026-06-01T00:00:00.000Z",
+      "timestamp": 1780272000000,
+      "matchedKeywords": [
+        "地熱"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "agencyName": "地熱發電單一服務窗口",
+      "channelLabel": "新聞推動",
+      "channelUrl": "https://ea01.moeaea.gov.tw/b0403/News/Index/A011",
+      "officialHost": "ea01.moeaea.gov.tw",
+      "title": "經濟部能源署辦理「傑出多元綠能獎」徵件公告",
+      "link": "https://ea01.moeaea.gov.tw/b0403/News/Show?id=4267",
+      "summary": "",
+      "publishedAt": "2026-06-01T00:00:00.000Z",
+      "timestamp": 1780272000000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-9",
+      "groupId": "3-3",
+      "code": "3-3-9",
+      "agencyName": "經濟部標準檢驗局",
+      "channelLabel": "本局新聞",
+      "channelUrl": "https://www.bsmi.gov.tw/wSite/lp?ctNode=8321&CtUnit=963&BaseDSD=7",
+      "officialHost": "bsmi.gov.tw",
+      "title": "2026世界計量日研討會：精準計量提升產業競爭力 建構對國家政策制定之信任",
+      "link": "https://www.bsmi.gov.tw/wSite/ct?xItem=127140&ctNode=8321&mp=1",
+      "summary": "",
+      "publishedAt": "2026-05-19T00:00:00.000Z",
+      "timestamp": 1779148800000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-9",
+      "groupId": "3-3",
+      "code": "3-3-9",
+      "agencyName": "經濟部標準檢驗局",
+      "channelLabel": "本局新聞",
+      "channelUrl": "https://www.bsmi.gov.tw/wSite/lp?ctNode=8321&CtUnit=963&BaseDSD=7",
+      "officialHost": "bsmi.gov.tw",
+      "title": "國家儲能系統檢測中心執行大型燃燒試驗 安全無虞",
+      "link": "https://www.bsmi.gov.tw/wSite/ct?xItem=127121&ctNode=8321&mp=1",
+      "summary": "",
+      "publishedAt": "2026-05-14T00:00:00.000Z",
+      "timestamp": 1778716800000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-6-2",
+      "groupId": "3-6",
+      "code": "3-6-2",
+      "agencyName": "環境部化學物質管理署",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cha.gov.tw/lp-23-1.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "環境部與海委會陸海聯手，構築塑膠微粒監測管制防線",
+      "link": "https://enews.moenv.gov.tw/page/3b3c62c78849f32f/662f850b-2ef3-45b7-8e32-d4c4e26dca24",
+      "summary": "面對全球塑膠微粒污染挑戰，環境部彭啓明部長及海洋委員會管碧玲主委今日召開共同記者會表示，透過聯手構築「由陸向海」的監測與管制防線，以生活轉型、科學監測、清理去除等策略，結合民間力量共同減少塑膠微粒。現場並請到許瑞峯副教授、鄭尊仁教授及宜蘭岳明國民中小學黃建榮校長，分享公私協力的豐碩成果，並呼籲全民一起參與減塑及守護海洋行動，協力守護台灣！生活轉型是塑膠微粒治理重點，環境部自106年起即禁止化粧品及個人清潔用品添加塑膠微粒，目前進一步透過",
+      "publishedAt": "2026-05-07T16:00:00.000Z",
+      "timestamp": 1778169600000,
+      "matchedKeywords": [
+        "飲用水"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-6-2",
+      "groupId": "3-6",
+      "code": "3-6-2",
+      "agencyName": "環境部化學物質管理署",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cha.gov.tw/lp-23-1.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "一般環境用老鼠藥與家用殺蟲劑同屬居家防治需求，並無購買限制，關鍵在於民眾應依標示使用",
+      "link": "https://enews.moenv.gov.tw/page/3b3c62c78849f32f/71b9e24e-21f6-4abe-bf3c-9681caac5094",
+      "summary": "針對臺北市政府考會主委殷瑋對一般環境用藥（殺鼠劑）取得門檻之關切，環境部今（8）日表示，現行「環境用藥管理法」之管制目的，係在確保環境用藥安全的前提下，兼顧民眾居家防治有害生物的便利性。一般民眾在市面上隨處可買到的老鼠藥，其管理邏輯與家中常備的殺蟲劑、電蚊香完全一致。環境部說明， 依據「環境用藥管理法」規定，環境用藥經過嚴謹風險評估及科學驗證，執行分級管理，因此分為「一般環境用藥」及「特殊環境用藥」。「一般環境用藥」其成分濃度及使用方式",
+      "publishedAt": "2026-05-07T16:00:00.000Z",
+      "timestamp": 1778169600000,
+      "matchedKeywords": [
+        "殺鼠劑"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-6-2",
+      "groupId": "3-6",
+      "code": "3-6-2",
+      "agencyName": "環境部化學物質管理署",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cha.gov.tw/lp-23-1.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "環境部攜手台北市強化鼠害防治 提出四大精進建議 強調科學防疫、跨局處協作",
+      "link": "https://enews.moenv.gov.tw/page/3b3c62c78849f32f/ec23b577-e78d-43a3-88c6-805256830d82",
+      "summary": "針對近期台北市鼠害問題，臺北市政府環保局局長徐世勳於今（4）日下午率隊拜會環境部，由謝燕儒次長、沈志修次長率化學物質管理署、環境管理署同仁親自接見。會中雙方就目前台北市防治執行方式、投藥點資訊公開及遭遇的問題等進行深入交流。環境部強調，中央將秉持督導與專業諮詢之立場，會與地方政府充分合作，共同維護市民居住環境品質。臺北市政府環保局徐局長會中表示，臺北市政府高度重視鼠患問題，由府層級長官經常召開跨局處會議，分工合作，以環境整理整頓優先，用",
+      "publishedAt": "2026-05-03T16:00:00.000Z",
+      "timestamp": 1777824000000,
+      "matchedKeywords": [
+        "鼠害",
+        "化學"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-6-2",
+      "groupId": "3-6",
+      "code": "3-6-2",
+      "agencyName": "環境部化學物質管理署",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cha.gov.tw/lp-23-1.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "防治鼠害 「藥劑來源合法」是基礎 「投放方式」與「綜合管理」才是安全且有效的關鍵",
+      "link": "https://enews.moenv.gov.tw/page/3b3c62c78849f32f/605fbbb6-b473-4495-b69e-8d260ddbcf2c",
+      "summary": "針對台北市政府在回應民眾質疑投放老鼠藥問題時，強調均「使用中央的核可用藥」。環境部表示，「藥劑來源合法」是基礎，但「投放方式」與「綜合管理」才是安全且有效的關鍵。 環境部說明，防治鼠害使用之環境用藥，依「環境用藥管理法」必須取得環境部許可，但具體施用方式仍建議參考下列原則：1. 投藥僅是輔助，應落實「三不政策」為本，滅鼠不能只靠投藥，必須標、本兼治。如果環境中的食物來源未清除，老鼠對毒餌的興趣會大減，投再多藥也難見效。2. 嚴格執行「定",
+      "publishedAt": "2026-05-02T16:00:00.000Z",
+      "timestamp": 1777737600000,
+      "matchedKeywords": [
+        "鼠害",
+        "滅鼠"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-6-2",
+      "groupId": "3-6",
+      "code": "3-6-2",
+      "agencyName": "環境部化學物質管理署",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cha.gov.tw/lp-23-1.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "公共環境防鼠患，環境部籲謹慎用藥，落實「物理防治為主、化學防治為輔」原則",
+      "link": "https://enews.moenv.gov.tw/page/3b3c62c78849f32f/8c69cd17-282f-48b6-9dcf-5fa95b5ef9c4",
+      "summary": "針對民眾近期發現部分地區有大量投放老鼠藥之情形，環境部今（2）日再度發新聞稿提醒，在執行公共環境鼠患防治時，應採取更為謹慎的策略，優先落實「防鼠三不」原則，將化學防治（殺鼠劑）視為最後手段，以確保環境安全並避免幼童或寵物誤觸受害。 環境部表示，防範鼠患的核心在於源頭管理，應嚴格執行「不讓鼠來、不讓鼠吃、不讓鼠住」。在進行公共區域整備時，應優先針對髒亂點、廚餘置放處及下水道進行澈底清潔與疏濬，斷絕老鼠食物來源。若環境整頓後仍有鼠患，再優先",
+      "publishedAt": "2026-05-01T16:00:00.000Z",
+      "timestamp": 1777651200000,
+      "matchedKeywords": [
+        "滅鼠",
+        "殺鼠劑",
+        "化學"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-6-2",
+      "groupId": "3-6",
+      "code": "3-6-2",
+      "agencyName": "環境部化學物質管理署",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cha.gov.tw/lp-23-1.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "近期各地鼠害頻傳 環境部籲地方落實「防鼠三不」 加強公共環境整頓、清消",
+      "link": "https://enews.moenv.gov.tw/page/3b3c62c78849f32f/739b674a-5368-4d86-a0bf-8d11b207057b",
+      "summary": "近來有民眾反映部分公共區域出現老鼠蹤跡，引發社會對環境衛生與潛在疫病（如漢他病毒）傳染的擔憂與關注。環境部特別提醒各地方政府落實「防鼠三不」的最高指導原則：「不讓鼠來」、「不讓鼠吃」及「不讓鼠住」。若老鼠已經「來」及「住」了，則應即刻針對公共區域老鼠食物來源的髒亂點、廚餘置放點或下水道等，進行澈底的清潔與疏濬，並持續稽查取締，以斷絕食物來源，才能「不讓鼠吃」；再搭配適當的消毒或施藥，從源頭阻斷老鼠孳生。環境部表示，防範鼠患是一場需要全民",
+      "publishedAt": "2026-04-30T16:00:00.000Z",
+      "timestamp": 1777564800000,
+      "matchedKeywords": [
+        "鼠害",
+        "滅鼠"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "agencyName": "地熱發電單一服務窗口",
+      "channelLabel": "近期活動",
+      "channelUrl": "https://ea01.moeaea.gov.tw/b0403/News/Index/A013",
+      "officialHost": "ea01.moeaea.gov.tw",
+      "title": "5月7日 國家公園空間規劃及經營管理交流座談-第一場",
+      "link": "https://ea01.moeaea.gov.tw/b0403/News/Show?id=4192",
+      "summary": "",
+      "publishedAt": "2026-04-27T00:00:00.000Z",
+      "timestamp": 1777248000000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "agencyName": "地熱發電單一服務窗口",
+      "channelLabel": "新聞推動",
+      "channelUrl": "https://ea01.moeaea.gov.tw/b0403/News/Index/A011",
+      "officialHost": "ea01.moeaea.gov.tw",
+      "title": "114年台東霧鹿延平地熱潛能區環社議題檢核作業成果報告",
+      "link": "https://ea01.moeaea.gov.tw/b0403/News/Show?id=4193",
+      "summary": "",
+      "publishedAt": "2026-04-27T00:00:00.000Z",
+      "timestamp": 1777248000000,
+      "matchedKeywords": [
+        "地熱"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-6-2",
+      "groupId": "3-6",
+      "code": "3-6-2",
+      "agencyName": "環境部化學物質管理署",
+      "channelLabel": "新聞發布",
+      "channelUrl": "https://www.cha.gov.tw/lp-23-1.html",
+      "officialHost": "enews.moenv.gov.tw",
+      "title": "強化毒性化學物質風險控管 環境部公告修正「列管毒性化學物質及其運作管理事項」",
+      "link": "https://enews.moenv.gov.tw/page/3b3c62c78849f32f/38477ed1-0298-4652-ae28-c0714ff55609",
+      "summary": "環境部公告修正「列管毒性化學物質及其運作管理事項」，將甲氧滴滴涕、十氯三環十八碳二烯（得克隆）與2-（2H-苯并三唑-2-基）-4,6-二三級戊基苯酚（UV-328）等物質列管為毒性化學物質，並訂定相關管制措施；此外，亦同步修改汞與四氯乙烯之管理規範，接軌國際化學物質管理方向，完善我國毒性化學物質管理。本次修正公告將於115年7月1日生效。環境部指出，甲氧滴滴涕、得克隆與UV-328在環境中不易分解且具有生物濃縮性，可能透過食物鏈影響生",
+      "publishedAt": "2026-04-26T16:00:00.000Z",
+      "timestamp": 1777219200000,
+      "matchedKeywords": [
+        "化學"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "agencyName": "地熱發電單一服務窗口",
+      "channelLabel": "新聞推動",
+      "channelUrl": "https://ea01.moeaea.gov.tw/b0403/News/Index/A011",
+      "officialHost": "ea01.moeaea.gov.tw",
+      "title": "International Geothermal Supplier Information",
+      "link": "https://ea01.moeaea.gov.tw/b0403/News/Show?id=4190",
+      "summary": "",
+      "publishedAt": "2026-04-17T00:00:00.000Z",
+      "timestamp": 1776384000000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "agencyName": "地熱發電單一服務窗口",
+      "channelLabel": "新聞推動",
+      "channelUrl": "https://ea01.moeaea.gov.tw/b0403/News/Index/A011",
+      "officialHost": "ea01.moeaea.gov.tw",
+      "title": "2026臺灣國際地熱論壇 鏈結次世代技術，邁向規模化開發",
+      "link": "https://ea01.moeaea.gov.tw/b0403/News/Show?id=4155",
+      "summary": "",
+      "publishedAt": "2026-03-26T00:00:00.000Z",
+      "timestamp": 1774483200000,
+      "matchedKeywords": [
+        "地熱"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-9",
+      "groupId": "3-3",
+      "code": "3-3-9",
+      "agencyName": "經濟部標準檢驗局",
+      "channelLabel": "本局新聞",
+      "channelUrl": "https://www.bsmi.gov.tw/wSite/lp?ctNode=8321&CtUnit=963&BaseDSD=7",
+      "officialHost": "bsmi.gov.tw",
+      "title": "經濟部推動產業儲能補助 結合驗證機制提升安全品質",
+      "link": "https://www.bsmi.gov.tw/wSite/ct?xItem=126313&ctNode=8321&mp=1",
+      "summary": "",
+      "publishedAt": "2026-03-18T00:00:00.000Z",
+      "timestamp": 1773792000000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "agencyName": "地熱發電單一服務窗口",
+      "channelLabel": "新聞推動",
+      "channelUrl": "https://ea01.moeaea.gov.tw/b0403/News/Index/A011",
+      "officialHost": "ea01.moeaea.gov.tw",
+      "title": "2026 台灣國際淨零永續展&台灣國際智慧能源 早鳥徵展限時優惠中",
+      "link": "https://ea01.moeaea.gov.tw/b0403/News/Show?id=4153",
+      "summary": "",
+      "publishedAt": "2026-03-06T00:00:00.000Z",
+      "timestamp": 1772755200000,
+      "matchedKeywords": [
+        "永續"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "agencyName": "地熱發電單一服務窗口",
+      "channelLabel": "政策法規",
+      "channelUrl": "https://ea01.moeaea.gov.tw/b0403/News/Index/A012",
+      "officialHost": "ea01.moeaea.gov.tw",
+      "title": "地熱能發電示範獎勵辦法修正條文",
+      "link": "https://ea01.moeaea.gov.tw/b0403/News/Show?id=4152",
+      "summary": "",
+      "publishedAt": "2026-02-11T00:00:00.000Z",
+      "timestamp": 1770768000000,
+      "matchedKeywords": [
+        "地熱",
+        "發電"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "agencyName": "地熱發電單一服務窗口",
+      "channelLabel": "近期活動",
+      "channelUrl": "https://ea01.moeaea.gov.tw/b0403/News/Index/A013",
+      "officialHost": "ea01.moeaea.gov.tw",
+      "title": "2026 臺灣國際地熱論壇報名開始( TIGC 2026 )",
+      "link": "https://ea01.moeaea.gov.tw/b0403/News/Show?id=4148",
+      "summary": "",
+      "publishedAt": "2026-01-19T00:00:00.000Z",
+      "timestamp": 1768780800000,
+      "matchedKeywords": [
+        "地熱"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "agencyName": "地熱發電單一服務窗口",
+      "channelLabel": "政策法規",
+      "channelUrl": "https://ea01.moeaea.gov.tw/b0403/News/Index/A012",
+      "officialHost": "ea01.moeaea.gov.tw",
+      "title": "地熱能探勘人或開發人辦理諮商取得原住民族同意參與指引",
+      "link": "https://ea01.moeaea.gov.tw/b0403/News/Show?id=4145",
+      "summary": "",
+      "publishedAt": "2026-01-08T00:00:00.000Z",
+      "timestamp": 1767830400000,
+      "matchedKeywords": [
+        "地熱",
+        "探勘"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "agencyName": "地熱發電單一服務窗口",
+      "channelLabel": "新聞推動",
+      "channelUrl": "https://ea01.moeaea.gov.tw/b0403/News/Index/A011",
+      "officialHost": "ea01.moeaea.gov.tw",
+      "title": "115年能源署資源手冊 歡迎下載！",
+      "link": "https://ea01.moeaea.gov.tw/b0403/News/Show?id=4143",
+      "summary": "",
+      "publishedAt": "2026-01-07T00:00:00.000Z",
+      "timestamp": 1767744000000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "agencyName": "地熱發電單一服務窗口",
+      "channelLabel": "政策法規",
+      "channelUrl": "https://ea01.moeaea.gov.tw/b0403/News/Index/A012",
+      "officialHost": "ea01.moeaea.gov.tw",
+      "title": "115年度再生能源躉購費率公告",
+      "link": "https://ea01.moeaea.gov.tw/b0403/News/Show?id=4147",
+      "summary": "",
+      "publishedAt": "2026-01-02T00:00:00.000Z",
+      "timestamp": 1767312000000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "agencyName": "地熱發電單一服務窗口",
+      "channelLabel": "近期活動",
+      "channelUrl": "https://ea01.moeaea.gov.tw/b0403/News/Index/A013",
+      "officialHost": "ea01.moeaea.gov.tw",
+      "title": "與世界攜手，加速臺灣次世代地熱發展 TIGC 2026 3月26日至27日於臺北登場",
+      "link": "https://ea01.moeaea.gov.tw/b0403/News/Show?id=4103",
+      "summary": "",
+      "publishedAt": "2025-12-24T00:00:00.000Z",
+      "timestamp": 1766534400000,
+      "matchedKeywords": [
+        "地熱"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "agencyName": "地熱發電單一服務窗口",
+      "channelLabel": "政策法規",
+      "channelUrl": "https://ea01.moeaea.gov.tw/b0403/News/Index/A012",
+      "officialHost": "ea01.moeaea.gov.tw",
+      "title": "民國114年9月25日經授能字第11402010690號 預告「地熱能發電示範獎勵辦法」修正草案",
+      "link": "https://ea01.moeaea.gov.tw/b0403/News/Show?id=4089",
+      "summary": "",
+      "publishedAt": "2025-09-25T00:00:00.000Z",
+      "timestamp": 1758758400000,
+      "matchedKeywords": [
+        "地熱",
+        "發電"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "agencyName": "地熱發電單一服務窗口",
+      "channelLabel": "政策法規",
+      "channelUrl": "https://ea01.moeaea.gov.tw/b0403/News/Index/A012",
+      "officialHost": "ea01.moeaea.gov.tw",
+      "title": "民國114年9月24日經能字第11458003660號 修正「電業登記規則」",
+      "link": "https://ea01.moeaea.gov.tw/b0403/News/Show?id=4088",
+      "summary": "",
+      "publishedAt": "2025-09-24T00:00:00.000Z",
+      "timestamp": 1758672000000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "agencyName": "地熱發電單一服務窗口",
+      "channelLabel": "政策法規",
+      "channelUrl": "https://ea01.moeaea.gov.tw/b0403/News/Index/A012",
+      "officialHost": "ea01.moeaea.gov.tw",
+      "title": "再生能源電能躉購費率審定會公告資訊",
+      "link": "https://ea01.moeaea.gov.tw/b0403/News/Show?id=4086",
+      "summary": "",
+      "publishedAt": "2025-09-05T00:00:00.000Z",
+      "timestamp": 1757030400000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "agencyName": "地熱發電單一服務窗口",
+      "channelLabel": "政策法規",
+      "channelUrl": "https://ea01.moeaea.gov.tw/b0403/News/Index/A012",
+      "officialHost": "ea01.moeaea.gov.tw",
+      "title": "宜蘭員山深層地熱鑽井達標 中油預告冬山再鑽一口",
+      "link": "https://ea01.moeaea.gov.tw/b0403/News/Show?id=4172",
+      "summary": "",
+      "publishedAt": "2025-08-27T00:00:00.000Z",
+      "timestamp": 1756252800000,
+      "matchedKeywords": [
+        "地熱"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "agencyName": "地熱發電單一服務窗口",
+      "channelLabel": "政策法規",
+      "channelUrl": "https://ea01.moeaea.gov.tw/b0403/News/Index/A012",
+      "officialHost": "ea01.moeaea.gov.tw",
+      "title": "地熱探勘及開發申請人辦理施工前說明會程序指引",
+      "link": "https://ea01.moeaea.gov.tw/b0403/News/Show?id=4085",
+      "summary": "",
+      "publishedAt": "2025-07-31T00:00:00.000Z",
+      "timestamp": 1753920000000,
+      "matchedKeywords": [
+        "地熱",
+        "探勘"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "agencyName": "地熱發電單一服務窗口",
+      "channelLabel": "近期活動",
+      "channelUrl": "https://ea01.moeaea.gov.tw/b0403/News/Index/A013",
+      "officialHost": "ea01.moeaea.gov.tw",
+      "title": "「114年度邁向零碳未來：原住民族地區的能源發展與機會」說明會",
+      "link": "https://ea01.moeaea.gov.tw/b0403/News/Show?id=4070",
+      "summary": "",
+      "publishedAt": "2025-07-01T00:00:00.000Z",
+      "timestamp": 1751328000000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-3",
+      "groupId": "3-4",
+      "code": "3-4-3",
+      "agencyName": "中部科學園區管理局（中科）",
+      "channelLabel": "即時新聞澄清",
+      "channelUrl": "https://www.ctsp.gov.tw/chinese/01-News/03-custom.aspx?v=1&fr=1000&no=1003",
+      "officialHost": "ctsp.gov.tw",
+      "title": "有關科學園區政策環評議題針對環保團體近日提出中科四期二林園區開發相關報導說明",
+      "link": "https://www.ctsp.gov.tw/chinese/01-News/03-custom_view.aspx?v=1&fr=1000&no=1003&sn=739",
+      "summary": "",
+      "publishedAt": "2025-06-06T00:00:00.000Z",
+      "timestamp": 1749168000000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": {
+        "type": "clarify",
+        "label": "新聞澄清"
+      }
+    },
+    {
+      "agencyId": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "agencyName": "地熱發電單一服務窗口",
+      "channelLabel": "近期活動",
+      "channelUrl": "https://ea01.moeaea.gov.tw/b0403/News/Index/A013",
+      "officialHost": "ea01.moeaea.gov.tw",
+      "title": "2025臺灣國際地熱論壇 2025 Taiwan International Geothermal Conference",
+      "link": "https://ea01.moeaea.gov.tw/b0403/News/Show?id=3979",
+      "summary": "",
+      "publishedAt": "2025-03-24T00:00:00.000Z",
+      "timestamp": 1742774400000,
+      "matchedKeywords": [
+        "地熱"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-3",
+      "groupId": "3-4",
+      "code": "3-4-3",
+      "agencyName": "中部科學園區管理局（中科）",
+      "channelLabel": "即時新聞澄清",
+      "channelUrl": "https://www.ctsp.gov.tw/chinese/01-News/03-custom.aspx?v=1&fr=1000&no=1003",
+      "officialHost": "ctsp.gov.tw",
+      "title": "新聞稿> 中科嚴正聲明：興農球證問題屬私權契約 請興農公司依法負責 切勿推卸責任",
+      "link": "https://www.ctsp.gov.tw/chinese/01-News/03-custom_view.aspx?v=1&fr=1000&no=1003&sn=692",
+      "summary": "",
+      "publishedAt": "2025-03-11T00:00:00.000Z",
+      "timestamp": 1741651200000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": {
+        "type": "clarify",
+        "label": "新聞澄清"
+      }
+    },
+    {
+      "agencyId": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "agencyName": "地熱發電單一服務窗口",
+      "channelLabel": "政策法規",
+      "channelUrl": "https://ea01.moeaea.gov.tw/b0403/News/Index/A012",
+      "officialHost": "ea01.moeaea.gov.tw",
+      "title": "114年度再生能源電能躉購費率正式公告",
+      "link": "https://ea01.moeaea.gov.tw/b0403/News/Show?id=4053",
+      "summary": "",
+      "publishedAt": "2025-01-02T00:00:00.000Z",
+      "timestamp": 1735776000000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-4-3",
+      "groupId": "3-4",
+      "code": "3-4-3",
+      "agencyName": "中部科學園區管理局（中科）",
+      "channelLabel": "即時新聞澄清",
+      "channelUrl": "https://www.ctsp.gov.tw/chinese/01-News/03-custom.aspx?v=1&fr=1000&no=1003",
+      "officialHost": "ctsp.gov.tw",
+      "title": "有關報載「配水池工程工安意外」等相關輿情之回應說明",
+      "link": "https://www.ctsp.gov.tw/chinese/01-News/03-custom_view.aspx?v=1&fr=1000&no=1003&sn=685",
+      "summary": "",
+      "publishedAt": "2024-10-18T00:00:00.000Z",
+      "timestamp": 1729209600000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": {
+        "type": "clarify",
+        "label": "新聞澄清"
+      }
+    },
+    {
+      "agencyId": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "agencyName": "地熱發電單一服務窗口",
+      "channelLabel": "近期活動",
+      "channelUrl": "https://ea01.moeaea.gov.tw/b0403/News/Index/A013",
+      "officialHost": "ea01.moeaea.gov.tw",
+      "title": "歡迎報名！113年度地熱能發電獎勵辦法暨地熱子法說明會(四場次-台東市/新北市/台南市/台中市)",
+      "link": "https://ea01.moeaea.gov.tw/b0403/News/Show?id=3923",
+      "summary": "",
+      "publishedAt": "2024-06-14T00:00:00.000Z",
+      "timestamp": 1718323200000,
+      "matchedKeywords": [
+        "地熱",
+        "發電"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "agencyName": "地熱發電單一服務窗口",
+      "channelLabel": "政策法規",
+      "channelUrl": "https://ea01.moeaea.gov.tw/b0403/News/Index/A012",
+      "officialHost": "ea01.moeaea.gov.tw",
+      "title": "113年5月13日公告及實施「地熱能探勘與開發許可及管理辦法」",
+      "link": "https://ea01.moeaea.gov.tw/b0403/News/Show?id=3919",
+      "summary": "",
+      "publishedAt": "2024-05-13T00:00:00.000Z",
+      "timestamp": 1715558400000,
+      "matchedKeywords": [
+        "地熱",
+        "探勘"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "agencyName": "地熱發電單一服務窗口",
+      "channelLabel": "近期活動",
+      "channelUrl": "https://ea01.moeaea.gov.tw/b0403/News/Index/A013",
+      "officialHost": "ea01.moeaea.gov.tw",
+      "title": "歡迎報名 2024臺灣國際地熱論壇 ！",
+      "link": "https://ea01.moeaea.gov.tw/b0403/News/Show?id=3873",
+      "summary": "",
+      "publishedAt": "2023-12-18T00:00:00.000Z",
+      "timestamp": 1702857600000,
+      "matchedKeywords": [
+        "地熱"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "agencyName": "地熱發電單一服務窗口",
+      "channelLabel": "近期活動",
+      "channelUrl": "https://ea01.moeaea.gov.tw/b0403/News/Index/A013",
+      "officialHost": "ea01.moeaea.gov.tw",
+      "title": "「臺東縣地熱能發電招商獎勵計畫」地熱通識概論系列課程歡迎報名！",
+      "link": "https://ea01.moeaea.gov.tw/b0403/News/Show?id=3870",
+      "summary": "",
+      "publishedAt": "2023-11-17T00:00:00.000Z",
+      "timestamp": 1700179200000,
+      "matchedKeywords": [
+        "地熱",
+        "發電"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "agencyName": "地熱發電單一服務窗口",
+      "channelLabel": "近期活動",
+      "channelUrl": "https://ea01.moeaea.gov.tw/b0403/News/Index/A013",
+      "officialHost": "ea01.moeaea.gov.tw",
+      "title": "地熱能探勘與開發許可及管理辦法(草案)說明會議",
+      "link": "https://ea01.moeaea.gov.tw/b0403/News/Show?id=3869",
+      "summary": "",
+      "publishedAt": "2023-11-16T00:00:00.000Z",
+      "timestamp": 1700092800000,
+      "matchedKeywords": [
+        "地熱",
+        "探勘"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": {
+        "type": "regulation",
+        "label": "法規／公告"
+      }
+    },
+    {
+      "agencyId": "3-3-10",
+      "groupId": "3-3",
+      "code": "3-3-10",
+      "agencyName": "地熱發電單一服務窗口",
+      "channelLabel": "近期活動",
+      "channelUrl": "https://ea01.moeaea.gov.tw/b0403/News/Index/A013",
+      "officialHost": "ea01.moeaea.gov.tw",
+      "title": "2023公民地熱論壇及北部地熱參訪歡迎報名！",
+      "link": "https://ea01.moeaea.gov.tw/b0403/News/Show?id=3866",
+      "summary": "",
+      "publishedAt": "2023-10-13T00:00:00.000Z",
+      "timestamp": 1697155200000,
+      "matchedKeywords": [
+        "地熱"
+      ],
+      "isDefaultMatch": true,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-3",
+      "groupId": "3-4",
+      "code": "3-4-3",
+      "agencyName": "中部科學園區管理局（中科）",
+      "channelLabel": "即時新聞澄清",
+      "channelUrl": "https://www.ctsp.gov.tw/chinese/01-News/03-custom.aspx?v=1&fr=1000&no=1003",
+      "officialHost": "ctsp.gov.tw",
+      "title": "本局對於112年8月16日經濟日報「台積中科2奈米廠 動工等明年 中市府月底都審 今年交地來不及」等相關輿情之回應說明",
+      "link": "https://www.ctsp.gov.tw/chinese/01-News/03-custom_view.aspx?v=1&fr=1000&no=1003&sn=640",
+      "summary": "",
+      "publishedAt": "2023-08-16T00:00:00.000Z",
+      "timestamp": 1692144000000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": {
+        "type": "clarify",
+        "label": "新聞澄清"
+      }
+    },
+    {
+      "agencyId": "3-4-3",
+      "groupId": "3-4",
+      "code": "3-4-3",
+      "agencyName": "中部科學園區管理局（中科）",
+      "channelLabel": "即時新聞澄清",
+      "channelUrl": "https://www.ctsp.gov.tw/chinese/01-News/03-custom.aspx?v=1&fr=1000&no=1003",
+      "officialHost": "ctsp.gov.tw",
+      "title": "有關報載「中科台積電2奈米廠生變？中市府：盼勿排擠民生水電」之釐清說明",
+      "link": "https://www.ctsp.gov.tw/chinese/01-News/03-custom_view.aspx?v=1&fr=1000&no=1003&sn=639",
+      "summary": "",
+      "publishedAt": "2023-08-11T00:00:00.000Z",
+      "timestamp": 1691712000000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": {
+        "type": "clarify",
+        "label": "新聞澄清"
+      }
+    },
+    {
+      "agencyId": "3-4-3",
+      "groupId": "3-4",
+      "code": "3-4-3",
+      "agencyName": "中部科學園區管理局（中科）",
+      "channelLabel": "即時新聞澄清",
+      "channelUrl": "https://www.ctsp.gov.tw/chinese/01-News/03-custom.aspx?v=1&fr=1000&no=1003",
+      "officialHost": "ctsp.gov.tw",
+      "title": "有關111年4月1日網傳「台中高爾夫球場已出售給中科」之訊息，核與事實不符，特澄清說明中科台中園區擴建二期計畫辦理情形。",
+      "link": "https://www.ctsp.gov.tw/chinese/01-News/03-custom_view.aspx?v=1&fr=1000&no=1003&sn=603",
+      "summary": "",
+      "publishedAt": "2022-04-01T00:00:00.000Z",
+      "timestamp": 1648771200000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": {
+        "type": "clarify",
+        "label": "新聞澄清"
+      }
+    },
+    {
+      "agencyId": "3-4-3",
+      "groupId": "3-4",
+      "code": "3-4-3",
+      "agencyName": "中部科學園區管理局（中科）",
+      "channelLabel": "即時新聞澄清",
+      "channelUrl": "https://www.ctsp.gov.tw/chinese/01-News/03-custom.aspx?v=1&fr=1000&no=1003",
+      "officialHost": "ctsp.gov.tw",
+      "title": "有關中科管理局對109年7月15日中央社、中時電子報及自由時報報導「中科三期農民認環評程序瑕疵 北上打行政訴訟」相關回應說明",
+      "link": "https://www.ctsp.gov.tw/chinese/01-News/03-custom_view.aspx?v=1&fr=1000&no=1003&sn=561",
+      "summary": "",
+      "publishedAt": "2020-07-15T00:00:00.000Z",
+      "timestamp": 1594771200000,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": {
+        "type": "clarify",
+        "label": "新聞澄清"
+      }
+    },
+    {
+      "agencyId": "3-3-9",
+      "groupId": "3-3",
+      "code": "3-3-9",
+      "agencyName": "經濟部標準檢驗局",
+      "channelLabel": "本局新聞",
+      "channelUrl": "https://www.bsmi.gov.tw/wSite/lp?ctNode=8321&CtUnit=963&BaseDSD=7",
+      "officialHost": "bsmi.gov.tw",
+      "title": "ODF開放文件說明",
+      "link": "https://www.bsmi.gov.tw/wSite/ct?xItem=77222&ctNode=8482&mp=1",
+      "summary": "",
+      "publishedAt": null,
+      "timestamp": 0,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-9",
+      "groupId": "3-3",
+      "code": "3-3-9",
+      "agencyName": "經濟部標準檢驗局",
+      "channelLabel": "本局新聞",
+      "channelUrl": "https://www.bsmi.gov.tw/wSite/lp?ctNode=8321&CtUnit=963&BaseDSD=7",
+      "officialHost": "bsmi.gov.tw",
+      "title": "連結至資訊安全政策與說明",
+      "link": "https://www.bsmi.gov.tw/wSite/ct?xItem=125889&ctNode=8536&mp=1",
+      "summary": "",
+      "publishedAt": null,
+      "timestamp": 0,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-9",
+      "groupId": "3-3",
+      "code": "3-3-9",
+      "agencyName": "經濟部標準檢驗局",
+      "channelLabel": "本局新聞",
+      "channelUrl": "https://www.bsmi.gov.tw/wSite/lp?ctNode=8321&CtUnit=963&BaseDSD=7",
+      "officialHost": "bsmi.gov.tw",
+      "title": "連結至隱私權政策與說明",
+      "link": "https://www.bsmi.gov.tw/wSite/ct?xItem=76764&ctNode=8536&mp=1",
+      "summary": "",
+      "publishedAt": null,
+      "timestamp": 0,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-3-9",
+      "groupId": "3-3",
+      "code": "3-3-9",
+      "agencyName": "經濟部標準檢驗局",
+      "channelLabel": "本局新聞",
+      "channelUrl": "https://www.bsmi.gov.tw/wSite/lp?ctNode=8321&CtUnit=963&BaseDSD=7",
+      "officialHost": "bsmi.gov.tw",
+      "title": "連結至資料開放宣告",
+      "link": "https://www.bsmi.gov.tw/wSite/ct?xItem=76765&ctNode=8536&mp=1",
+      "summary": "",
+      "publishedAt": null,
+      "timestamp": 0,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "一般公告",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/d3c30297-bb63-44c5-ad30-38a65b203288?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "隱私權保護政策",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/5bb13007-acb8-43e5-bc4c-0c3055df5dd0?l=ch",
+      "summary": "",
+      "publishedAt": null,
+      "timestamp": 0,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    },
+    {
+      "agencyId": "3-4-1",
+      "groupId": "3-4",
+      "code": "3-4-1",
+      "agencyName": "國科會（本部）",
+      "channelLabel": "一般公告",
+      "channelUrl": "https://www.nstc.gov.tw/folksonomy/list/d3c30297-bb63-44c5-ad30-38a65b203288?l=ch",
+      "officialHost": "nstc.gov.tw",
+      "title": "政府網站資料開放宣告",
+      "link": "https://www.nstc.gov.tw/folksonomy/detail/a22a29a9-03d7-4d55-850a-f4f6ca1a04e9?l=ch",
+      "summary": "",
+      "publishedAt": null,
+      "timestamp": 0,
+      "matchedKeywords": [],
+      "isDefaultMatch": false,
+      "specialBadge": null
+    }
+  ]
+}

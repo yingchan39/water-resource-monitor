@@ -1,0 +1,96 @@
+{
+  "generatedAt": "2026-11-28T07:39:49.826Z",
+  "govFile": "./data/gov.json",
+  "presets": {
+    "水資源": {
+      "slug": "default",
+      "mode": "or",
+      "newsFile": "./data/news-default.json",
+      "lyFile": "./data/ly-default.json",
+      "newsCount": 11,
+      "lyCount": 56
+    },
+    "水資源+水庫": {
+      "slug": "reservoir",
+      "mode": "or",
+      "newsFile": "./data/news-reservoir.json",
+      "lyFile": "./data/ly-reservoir.json",
+      "newsCount": 21,
+      "lyCount": 56
+    },
+    "水資源+再生水": {
+      "slug": "recycled",
+      "mode": "or",
+      "newsFile": "./data/news-recycled.json",
+      "lyFile": "./data/ly-recycled.json",
+      "newsCount": 23,
+      "lyCount": 55
+    },
+    "水資源+海水淡化": {
+      "slug": "desalination",
+      "mode": "or",
+      "newsFile": "./data/news-desalination.json",
+      "lyFile": "./data/ly-desalination.json",
+      "newsCount": 22,
+      "lyCount": 56
+    },
+    "水資源+地熱+半導體": {
+      "slug": "conch-combo",
+      "mode": "or",
+      "newsFile": "./data/news-conch-combo.json",
+      "lyFile": "./data/ly-conch-combo.json",
+      "newsCount": 34,
+      "lyCount": 54
+    },
+    "地熱": {
+      "slug": "geothermal-single",
+      "mode": "or",
+      "newsFile": "./data/news-geothermal-single.json",
+      "lyFile": "./data/ly-geothermal-single.json",
+      "newsCount": 11,
+      "lyCount": 45
+    },
+    "核電": {
+      "slug": "nuclear-single",
+      "mode": "or",
+      "newsFile": "./data/news-nuclear-single.json",
+      "lyFile": "./data/ly-nuclear-single.json",
+      "newsCount": 12,
+      "lyCount": 49
+    },
+    "半導體": {
+      "slug": "semi-single",
+      "mode": "or",
+      "newsFile": "./data/news-semi-single.json",
+      "lyFile": "./data/ly-semi-single.json",
+      "newsCount": 12,
+      "lyCount": 45
+    },
+    "AI": {
+      "slug": "ai-single",
+      "mode": "or",
+      "newsFile": "./data/news-ai-single.json",
+      "lyFile": "./data/ly-ai-single.json",
+      "newsCount": 12,
+      "lyCount": 55
+    },
+    "科學園區": {
+      "slug": "park-single",
+      "mode": "or",
+      "newsFile": "./data/news-park-single.json",
+      "lyFile": "./data/ly-park-single.json",
+      "newsCount": 12,
+      "lyCount": 57
+    },
+    "關稅": {
+      "slug": "tariff-single",
+      "mode": "or",
+      "newsFile": "./data/news-tariff-single.json",
+      "lyFile": "./data/ly-tariff-single.json",
+      "newsCount": 12,
+      "lyCount": 54
+    }
+  },
+  "govMatchedCount": 122,
+  "govTotalCount": 240
+}

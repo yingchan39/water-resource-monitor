@@ -1,0 +1,162 @@
+{
+  "keyword": "AI",
+  "keywords": [
+    "AI"
+  ],
+  "mode": "or",
+  "fetchedAt": "2026-11-28T07:41:03.665Z",
+  "total": 12,
+  "sources": [
+    {
+      "name": "Bing 新聞 (台灣)",
+      "count": 12
+    }
+  ],
+  "errors": [],
+  "items": [
+    {
+      "title": "AI泡沫先從債市爆？CoreWeave、甲骨文亮紅燈，資金轉抱非AI公司債",
+      "link": "https://www.businessweekly.com.tw/business/blog/3023666",
+      "source": "商業周刊",
+      "sourceUrl": "",
+      "summary": "先看AI公司債。根據惠譽估計，2026年前10個月，美國非金融投資級公司債發行量達9,400億美元，比去年同期增加33％，主要來自大型雲端業者為AI資本支出大舉發債，科技業占比跟著升高，供給壓力本身就在推升利差。一旦再融資牆壓力浮現、客戶付款延遲或AI需求明顯降溫同時發生，就會演變成系統性風險。",
+      "publishedAt": "2026-11-27T08:58:00.000Z",
+      "timestamp": 1795769880000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "SpaceX百萬顆AI衛星將上太空！天文學界憂了",
+      "link": "https://tw.news.yahoo.com/spacex%E7%99%BE%E8%90%AC%E9%A1%86ai%E8%A1%9B%E6%98%9F%E5%B0%87%E4%B8%8A%E5%A4%AA%E7%A9%BA-%E5%A4%A9%E6%96%87%E5%AD%B8%E7%95%8C%E6%86%82%E4%BA%86-013740813.html",
+      "source": "Yahoo奇摩新聞",
+      "sourceUrl": "",
+      "summary": "除了太空安全，這項計畫也引發天文學界強烈反彈。美國天文學會（AAS）對FCC核准的決定，表達失望與不滿，指出Starmind衛星體積更大、數量更多，可能在夜空中呈現極為明亮的光點，干擾天文觀測，影響科學家及一般民眾觀星。",
+      "publishedAt": "2026-11-27T01:17:00.000Z",
+      "timestamp": 1795742220000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "押注英偉達發展AI，亞洲在黃仁勳復職後前景如何？",
+      "link": "https://tw.news.yahoo.com/%E6%8A%BC%E6%B3%A8%E8%8B%B1%E5%81%89%E9%81%94%E7%99%BC%E5%B1%95ai-%E4%BA%9E%E6%B4%B2%E5%9C%A8%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E8%81%B7%E5%BE%8C%E5%89%8D%E6%99%AF%E5%A6%82%E4%BD%95-074044875.html",
+      "source": "Yahoo奇摩新聞",
+      "sourceUrl": "",
+      "summary": "本週，日本、韓國和台灣以科技股為主的股市指數猶如坐過山車。英偉達市值一度飆升近一萬億美元，帶動這些股市大漲，但隨後，市場對政治和監管審查的憂慮打擊投資者信心，股市應聲下挫。",
+      "publishedAt": "2026-11-26T23:41:00.000Z",
+      "timestamp": 1795736460000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "和泰集團六大品牌首度聯手出題！2026 AI黑客松集結好手、提案創新高",
+      "link": "https://www.bnext.com.tw/article/93235/4xi9xksa",
+      "source": "數位時代",
+      "sourceUrl": "",
+      "summary": "和泰集團今年將AI列為最重要的轉型主軸，並把旗下品牌的營運課題搬上黑客松賽場。「2026和泰AI黑客松」於11月21日在捷運展演廳舉行決賽暨頒獎典禮，本屆首度由集團旗下TOYOTA、LEXUS、HINO、iRent、yoxi、去趣六大品牌共同出題，吸引逾1,300人參與、收到554件提案，創下歷屆新高。",
+      "publishedAt": "2026-11-26T20:24:00.000Z",
+      "timestamp": 1795724640000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "名師操盤》蔡正華：個股先行 AI低軌衛星指標名單一次看",
+      "link": "https://www.chinatimes.com/realtimenews/20261127000022-260410",
+      "source": "中時新聞網",
+      "sourceUrl": "",
+      "summary": "美國公布10月個人消費支出(PCE)物價指數，月增0.3%、年增3.8%，符合預期，而排除食品與能源的核心PCE年增3.3%，略高於預期，顯示通膨未能降溫，今年12月Fed升息的預期提高。此舉對於存在資本支出回收及融資成本疑慮 ...",
+      "publishedAt": "2026-11-26T13:59:00.000Z",
+      "timestamp": 1795701540000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "黃仁勳11天閃辭回任 哪些事回不去了？ 2027迎接AI減速年 專家點出3大隱憂",
+      "link": "https://udn.com/news/story/6839/9900725",
+      "source": "聯合新聞網",
+      "sourceUrl": "",
+      "summary": "輝達執行長黃仁勳因爭議事件一度去職，震撼市場。雖然11天後他重新復職，帶動市場信心回升，但中信投顧總理理陳柏州認為，黃仁勳的回歸，不代表AI成長動能就能滿血復活。",
+      "publishedAt": "2026-11-25T06:59:00.000Z",
+      "timestamp": 1795589940000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "超級AI即將到來！Meta首席AI長汪滔示警：未來一年是關鍵，人類不能把社會交給AI",
+      "link": "https://www.bnext.com.tw/article/93182/meta-alexandr-wang-superintelligence-arriving",
+      "source": "數位時代",
+      "sourceUrl": "",
+      "summary": "Meta首席AI長、Scale AI共同創辦人汪滔（Alexandr Wang）11月23日於社群平台X發表題為 〈Superintelligence is Arriving〉 （超級人工智慧即將到來）文章，預言AI將在幾乎所有領域超越人類最頂尖的專家，甚至能夠全面自動化AI研究、自行改進。",
+      "publishedAt": "2026-11-23T18:19:00.000Z",
+      "timestamp": 1795457940000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Meta AI負責人警告超級智慧即將到來：人類只剩一年重新思考AI未來",
+      "link": "https://www.msn.com/zh-tw/news/other/meta-ai%E8%B2%A0%E8%B2%AC%E4%BA%BA%E8%AD%A6%E5%91%8A%E8%B6%85%E7%B4%9A%E6%99%BA%E6%85%A7%E5%8D%B3%E5%B0%87%E5%88%B0%E4%BE%86-%E4%BA%BA%E9%A1%9E%E5%8F%AA%E5%89%A9%E4%B8%80%E5%B9%B4%E9%87%8D%E6%96%B0%E6%80%9D%E8%80%83ai%E6%9C%AA%E4%BE%86/ar-AA2i16rv",
+      "source": "ETtoday新聞雲 on MSN",
+      "sourceUrl": "",
+      "summary": "▲Meta AI負責人汪滔。（圖／YouTube@TED） 記者吳立言／綜合報導 AI 不只可能取代人類工作，下一步甚至可能超越人類最頂尖的科學家與研究人員。Meta 超級智慧實驗室負責人汪滔（Alexandr Wang）今日發出警告，隨著 AI 開始挑戰人類長年無法解決的數學難題，超級智慧可能比外界預期更快到來。他認為，未來一年人類如何做出選擇，將深刻影響未來社會的樣貌，而 AI 產業現在最需要 ...",
+      "publishedAt": "2026-11-23T05:55:00.000Z",
+      "timestamp": 1795413300000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Windows 電腦也能合體跑 AI！微軟新技術透過 USB4 串聯多台電腦，一起執行大型 AI 模型",
+      "link": "https://www.kocpc.com.tw/archives/704358",
+      "source": "電腦王阿達",
+      "sourceUrl": "",
+      "summary": "很多人都想在本地架設 AI 工作流，只不過對一般 Windows 電腦來說，根本跑不動大型語言模型，如果想要想跑這種等級的模型，就必須砸錢買高階工作站、專業伺服器，未來可能有更好的解決方法了！ 近日微軟宣布一項 RDMA over USB4 技術，讓多台 Windows 電腦只要用 USB4 線互相連接，就能組成小型 AI 運算叢集，而且不需要額外購買專用的 RDMA 網路卡或交換器。意味著以後一 ...",
+      "publishedAt": "2026-11-22T21:23:00.000Z",
+      "timestamp": 1795382580000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI 泡沫一旦破滅 台韓恐受重傷 投銀示警全球20兆美元財富可能蒸發",
+      "link": "https://money.udn.com/money/story/5599/9895257",
+      "source": "經濟日報",
+      "sourceUrl": "",
+      "summary": "TS Lombard全球總體主管柏金斯（Dario Perkins）在最近給客戶的報告中表示，他預期AI泡沫破滅將導致多達20兆美元的財富蒸發，不僅重創美國投資人的股市投資組合，也將對與AI相關的信用市場造成龐大壓力。",
+      "publishedAt": "2026-11-22T18:41:00.000Z",
+      "timestamp": 1795372860000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "台灣AI全球排16，2040年要拚前5！國發會主委葉俊顯：讓百工百業用得起AI",
+      "link": "https://www.cw.com.tw/article/5143813",
+      "source": "天下雜誌",
+      "sourceUrl": "",
+      "summary": "台灣AI硬體領先全球，在英國《觀察家報》發布的全球AI指數，台灣排名也從2024年的第21名，進步到2025年的16名。但政府的目標是2040年擠進全球前五，下一步要拚的，是AI應用。國發會主委葉俊顯認為，關鍵在讓百工百業都用得上AI。政府能怎麼做？以下為專訪摘要： ...",
+      "publishedAt": "2026-11-22T16:00:00.000Z",
+      "timestamp": 1795363200000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google AI 黑五優惠登場！現有訂閱最高可享 50% 折扣，新用戶也預計會推出",
+      "link": "https://www.kocpc.com.tw/archives/704268",
+      "source": "電腦王阿達",
+      "sourceUrl": "",
+      "summary": "最近 Google 動作真的多多，不僅持續推出新模型，隨著一年一度的黑色星期五到來，稍早也推出 Google AI 專屬優惠，率先給目前已訂閱的用戶，Google AI Pro 和 Google AI Plus 最高可享 50% 折扣，還沒訂閱的人也不用不開心，Google 已經預告再過幾天也會推出新用戶優惠。",
+      "publishedAt": "2026-11-21T00:16:00.000Z",
+      "timestamp": 1795220160000,
+      "matchedKeywords": [
+        "AI"
+      ]
+    }
+  ]
+}
